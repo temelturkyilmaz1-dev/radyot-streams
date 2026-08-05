@@ -1,0 +1,1716 @@
+{
+  "schemaVersion": 1,
+  "stations": [
+    {
+      "id": "trt-fm",
+      "name": "TRT FM",
+      "enabled": true,
+      "urls": [
+        "https://radio-trtfm.live.trt.com.tr/master.m3u8",
+        "https://trt.radyotvonline.net/trtfm"
+      ]
+    },
+    {
+      "id": "trt-radyo-1",
+      "name": "TRT Radyo 1",
+      "enabled": true,
+      "urls": [
+        "https://radio-trtradyo1.live.trt.com.tr/master.m3u8",
+        "https://trt.radyotvonline.net/trt1"
+      ]
+    },
+    {
+      "id": "trt-radyo-haber",
+      "name": "TRT Radyo Haber",
+      "enabled": true,
+      "urls": [
+        "https://radio-trtradyohaber.live.trt.com.tr/master.m3u8",
+        "https://trt.radyotvonline.net/trthaber"
+      ]
+    },
+    {
+      "id": "trt-radyo-3",
+      "name": "TRT Radyo 3",
+      "enabled": true,
+      "urls": [
+        "https://rd-trtradyo3.medya.trt.com.tr/master.m3u8"
+      ]
+    },
+    {
+      "id": "trt-nagme",
+      "name": "TRT Nağme",
+      "enabled": true,
+      "urls": [
+        "https://rd-trtnagme.medya.trt.com.tr/master.m3u8"
+      ]
+    },
+    {
+      "id": "trt-turku",
+      "name": "TRT Türkü",
+      "enabled": true,
+      "urls": [
+        "https://rd-trtturku.medya.trt.com.tr/master.m3u8"
+      ]
+    },
+    {
+      "id": "trt-radyo-kurdi",
+      "name": "TRT Radyo Kurdî",
+      "enabled": true,
+      "urls": [
+        "https://radio-trtradyo6.medya.trt.com.tr/master.m3u8"
+      ]
+    },
+    {
+      "id": "powerturk",
+      "name": "PowerTürk",
+      "enabled": true,
+      "urls": [
+        "https://live.powerapp.com.tr/powerturk/abr/powerturk/128/playlist.m3u8"
+      ]
+    },
+    {
+      "id": "power-fm",
+      "name": "Power FM",
+      "enabled": true,
+      "urls": [
+        "https://live.powerapp.com.tr/powerfm/abr/powerfm/128/playlist.m3u8"
+      ]
+    },
+    {
+      "id": "power-love",
+      "name": "Power Love",
+      "enabled": true,
+      "urls": [
+        "https://listen.powerapp.com.tr/powerlove/abr/powerlove/128/playlist.m3u8"
+      ]
+    },
+    {
+      "id": "power-deep",
+      "name": "Power Deep",
+      "enabled": true,
+      "urls": [
+        "https://live.powerapp.com.tr/powerdeep/abr/playlist.m3u8"
+      ]
+    },
+    {
+      "id": "power-xl",
+      "name": "Power XL",
+      "enabled": true,
+      "urls": [
+        "https://listen.powerapp.com.tr/powerextralounge/abr/powerextralounge/96/playlist.m3u8"
+      ]
+    },
+    {
+      "id": "power-pop",
+      "name": "Power Pop",
+      "enabled": true,
+      "urls": [
+        "https://listen.powerapp.com.tr/powerpop/128/chunks.m3u8"
+      ]
+    },
+    {
+      "id": "powerturk-dans",
+      "name": "PowerTürk Dans",
+      "enabled": true,
+      "urls": [
+        "https://listen.powerapp.com.tr/powerturkdans/abr/powerturkdans/128/playlist.m3u8"
+      ]
+    },
+    {
+      "id": "virgin-radio-turkiye",
+      "name": "Virgin Radio Türkiye",
+      "enabled": true,
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/VIRGIN_RADIOAAC_SC"
+      ]
+    },
+    {
+      "id": "metro-fm",
+      "name": "Metro FM",
+      "enabled": true,
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/METRO_FM_SC"
+      ]
+    },
+    {
+      "id": "joyturk",
+      "name": "JoyTürk",
+      "enabled": true,
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_TURK_SC"
+      ]
+    },
+    {
+      "id": "joy-fm",
+      "name": "Joy FM",
+      "enabled": true,
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_FM_SC"
+      ]
+    },
+    {
+      "id": "super-fm",
+      "name": "Süper FM",
+      "enabled": true,
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_FM_SC"
+      ]
+    },
+    {
+      "id": "super-2-fm",
+      "name": "Süper 2 FM",
+      "enabled": true,
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER2_SC.mp3"
+      ]
+    },
+    {
+      "id": "joyturk-rock",
+      "name": "JoyTürk Rock",
+      "enabled": true,
+      "urls": [
+        "http://23613.live.streamtheworld.com/JOYTURK_ROCK128AAC.aac"
+      ]
+    },
+    {
+      "id": "joyturk-akustik",
+      "name": "JoyTürk Akustik",
+      "enabled": true,
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/JOYTURK_AKUSTIK128AAC.aac"
+      ]
+    },
+    {
+      "id": "number1-fm",
+      "name": "Number1 FM",
+      "enabled": true,
+      "urls": [
+        "https://number1.radyotvonline.net/hls/play/number1_fm.m3u8",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/NUMBER1FMAAC.aac"
+      ]
+    },
+    {
+      "id": "number1-turk-fm",
+      "name": "Number1 Türk FM",
+      "enabled": true,
+      "urls": [
+        "https://number1.radyotvonline.net/hls/play/number1_turk_fm.m3u8"
+      ]
+    },
+    {
+      "id": "number1-turk-slow",
+      "name": "Number1 Türk Slow",
+      "enabled": true,
+      "urls": [
+        "https://eustr75.mediatriple.net/Number1Media/03_Number1_Turk_Slow.stream/playlist.m3u8"
+      ]
+    },
+    {
+      "id": "number1-turk-90-lar",
+      "name": "Number1 Türk 90'lar",
+      "enabled": true,
+      "urls": [
+        "https://ssldyg2.radyotvonline.com/live/turkce90lar.stream/playlist.m3u8"
+      ]
+    },
+    {
+      "id": "kral-fm",
+      "name": "Kral FM",
+      "enabled": true,
+      "urls": [
+        "https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8"
+      ]
+    },
+    {
+      "id": "kral-pop",
+      "name": "Kral Pop",
+      "enabled": true,
+      "urls": [
+        "https://dygedge2.radyotvonline.net/kralpop/playlist.m3u8"
+      ]
+    },
+    {
+      "id": "slow-turk",
+      "name": "Slow Türk",
+      "enabled": true,
+      "urls": [
+        "https://radyo.duhnet.tv/ak_dtvh_slowturk"
+      ]
+    },
+    {
+      "id": "best-fm",
+      "name": "Best FM",
+      "enabled": true,
+      "urls": [
+        "https://babaradyo.turkhosted.com/best/bestfm.stream/playlist.m3u8"
+      ]
+    },
+    {
+      "id": "radyo-viva",
+      "name": "Radyo Viva",
+      "enabled": true,
+      "urls": [
+        "https://listen.radyotvonline.net/hls/play/adsonline_radyoviva.m3u8"
+      ]
+    },
+    {
+      "id": "pal-fm",
+      "name": "Pal FM",
+      "enabled": true,
+      "urls": [
+        "https://moondigitaledge.radyotvonline.net/palfm/playlist.m3u8"
+      ]
+    },
+    {
+      "id": "pal-nostalji",
+      "name": "Pal Nostalji",
+      "enabled": true,
+      "urls": [
+        "https://moondigitaledge.radyotvonline.net/palnostalji/playlist.m3u8"
+      ]
+    },
+    {
+      "id": "pal-station",
+      "name": "Pal Station",
+      "enabled": true,
+      "urls": [
+        "http://shoutcast.radyogrup.com:1020/"
+      ]
+    },
+    {
+      "id": "kafa-radyo",
+      "name": "Kafa Radyo",
+      "enabled": true,
+      "urls": [
+        "https://moondigitalmaster.radyotvonline.net/kafaradyo/playlist.m3u8",
+        "https://moondigitaledge.radyotvonline.net/kafaradyo/playlist.m3u8"
+      ]
+    },
+    {
+      "id": "baba-radyo",
+      "name": "Baba Radyo",
+      "enabled": true,
+      "urls": [
+        "https://babaradyo.turkhosted.com/best/babaradyo.stream/playlist.m3u8"
+      ]
+    },
+    {
+      "id": "radyo-spor",
+      "name": "Radyo Spor",
+      "enabled": true,
+      "urls": [
+        "https://ssl4.radyotvonline.com/radyohome/radyosporhome.stream_aac/playlist.m3u8"
+      ]
+    },
+    {
+      "id": "alem-fm",
+      "name": "Alem FM",
+      "enabled": true,
+      "urls": [
+        "https://alemfm.radyotvonline.net/alemfmaac"
+      ]
+    },
+    {
+      "id": "radyo-fenomen",
+      "name": "Radyo Fenomen",
+      "enabled": true,
+      "urls": [
+        "https://live.radyofenomen.com/fenomen/abr/playlist.m3u8"
+      ]
+    },
+    {
+      "id": "fenomen-turk",
+      "name": "Fenomen Türk",
+      "enabled": true,
+      "urls": [
+        "https://live.radyofenomen.com/fenomenturk/256/chunks.m3u8"
+      ]
+    },
+    {
+      "id": "fenomen-clubbin",
+      "name": "Fenomen Clubbin",
+      "enabled": true,
+      "urls": [
+        "https://live.radyofenomen.com/fenomenclubbin/128/icecast.audio"
+      ]
+    },
+    {
+      "id": "fenomen-karisik",
+      "name": "Fenomen Karışık",
+      "enabled": true,
+      "urls": [
+        "https://live.radyofenomen.com/fenomenkarisik/abr/fenomenkarisik/128/chunks.m3u8"
+      ]
+    },
+    {
+      "id": "fenomen-pop",
+      "name": "Fenomen Pop",
+      "enabled": true,
+      "urls": [
+        "https://live.radyofenomen.com/fenomenpop/abr/fenomenpop/128/chunks.m3u8"
+      ]
+    },
+    {
+      "id": "fenomen-dans",
+      "name": "Fenomen Dans",
+      "enabled": true,
+      "urls": [
+        "https://live.radyofenomen.com/fenomendans/abr/fenomendans/128/chunks.m3u8"
+      ]
+    },
+    {
+      "id": "seymen-fm",
+      "name": "Seymen FM",
+      "enabled": true,
+      "urls": [
+        "https://yayin.radyoseymen.com.tr:1070/stream",
+        "https://yayin.radyoseymen.com.tr:1074/stream"
+      ]
+    },
+    {
+      "id": "radyo-avrasya-turk",
+      "name": "Radyo Avrasya Türk",
+      "enabled": true,
+      "urls": [
+        "https://sslyayin.netyayin.net:10909/"
+      ]
+    },
+    {
+      "id": "ozgur-radyo-ankara",
+      "name": "Özgür Radyo Ankara",
+      "enabled": true,
+      "urls": [
+        "https://radyoozgur.kesintisizyayin.com:9898/;*.nsv"
+      ]
+    },
+    {
+      "id": "hatay-akdeniz-radyo",
+      "name": "Hatay Akdeniz Radyo",
+      "enabled": true,
+      "urls": [
+        "http://yayin.netyayin.net:7077/;"
+      ]
+    },
+    {
+      "id": "cri-turk-radyo",
+      "name": "CRI Türk Radyo",
+      "enabled": true,
+      "urls": [
+        "https://criturk.radyotvonline.net/criturk"
+      ]
+    },
+    {
+      "id": "acs-radyo",
+      "name": "AÇS Radyo",
+      "enabled": true,
+      "urls": [
+        "https://ip169.ozelip.com:10838/stream"
+      ]
+    },
+    {
+      "id": "radyo-odtu",
+      "name": "Radyo ODTÜ",
+      "enabled": true,
+      "urls": [
+        "https://stream.radyoodtu.com.tr/canli"
+      ]
+    },
+    {
+      "id": "radyo-odtu-rock",
+      "name": "Radyo ODTÜ Rock",
+      "enabled": true,
+      "urls": [
+        "https://stream.radyoodtu.com.tr/rock"
+      ]
+    },
+    {
+      "id": "radyo-odtu-easy",
+      "name": "Radyo ODTÜ Easy",
+      "enabled": true,
+      "urls": [
+        "https://stream.radyoodtu.com.tr/easy"
+      ]
+    },
+    {
+      "id": "radyo-odtu-karisik-kaset",
+      "name": "Radyo ODTÜ Karışık Kaset",
+      "enabled": true,
+      "urls": [
+        "https://stream.radyoodtu.com.tr/karisikkaset"
+      ]
+    },
+    {
+      "id": "radyo-odtu-hit",
+      "name": "Radyo ODTÜ Hit",
+      "enabled": true,
+      "urls": [
+        "https://stream.radyoodtu.com.tr/hit"
+      ]
+    },
+    {
+      "id": "radyo-odtu-40-haramiler",
+      "name": "Radyo ODTÜ 40 Haramiler",
+      "enabled": true,
+      "urls": [
+        "https://stream.radyoodtu.com.tr/40_haramiler"
+      ]
+    },
+    {
+      "id": "radyo-odtu-hiphop",
+      "name": "Radyo ODTÜ Hiphop",
+      "enabled": true,
+      "urls": [
+        "https://stream.radyoodtu.com.tr/hiphop"
+      ]
+    },
+    {
+      "id": "radyo-odtu-k-pop",
+      "name": "Radyo ODTÜ K-Pop",
+      "enabled": true,
+      "urls": [
+        "https://stream.radyoodtu.com.tr/kpop"
+      ]
+    },
+    {
+      "id": "radyo-odtu-science",
+      "name": "Radyo ODTÜ Science",
+      "enabled": true,
+      "urls": [
+        "https://stream.radyoodtu.com.tr/science"
+      ]
+    },
+    {
+      "id": "yon-radyo",
+      "name": "Yön Radyo",
+      "enabled": true,
+      "urls": [
+        "https://stream.radyolarburada.com:8020/yonradyo",
+        "https://stream.radyolarburada.com:8050/"
+      ]
+    },
+    {
+      "id": "radyo-meyhane",
+      "name": "Radyo Meyhane",
+      "enabled": true,
+      "urls": [
+        "http://n01.radiojar.com:80/14wbvawntg0uv",
+        "http://n05.radiojar.com:80/14wbvawntg0uv"
+      ]
+    },
+    {
+      "id": "radyo-45-lik",
+      "name": "Radyo 45'lik",
+      "enabled": true,
+      "urls": [
+        "https://stream.radyo45lik.com:4545/",
+        "https://moondigitaledge.radyotvonline.net/radyo45lik/playlist.m3u8"
+      ]
+    },
+    {
+      "id": "radyo-ilef",
+      "name": "Radyo İLEF",
+      "enabled": true,
+      "urls": [
+        "http://radyo.cc.ankara.edu.tr:8089/;"
+      ]
+    },
+    {
+      "id": "radyo-slow-time",
+      "name": "Radyo Slow Time",
+      "enabled": true,
+      "urls": [
+        "http://46.20.7.103:8040/;"
+      ]
+    },
+    {
+      "id": "radyo-voyage",
+      "name": "Radyo Voyage",
+      "enabled": true,
+      "urls": [
+        "https://dygedge.radyotvonline.net/radyovoyage/playlist.m3u8",
+        "https://ssldyg.radyotvonline.com/pozitif/smil:voyage.smil/playlist.m3u8",
+        "http://voyagewmp.radyotvonline.com/;"
+      ]
+    },
+    {
+      "id": "pal-doga",
+      "name": "Pal Doğa",
+      "enabled": true,
+      "urls": [
+        "http://shoutcast.radyogrup.com:1040/;*.mp3"
+      ]
+    },
+    {
+      "id": "radyo-d",
+      "name": "Radyo D",
+      "enabled": true,
+      "urls": [
+        "https://moondigitaledge2.radyotvonline.net/radyod/playlist.m3u8"
+      ]
+    },
+    {
+      "id": "kent-fm",
+      "name": "Kent FM",
+      "enabled": true,
+      "urls": [
+        "https://wowza1.radyotvonline.com/unitedmedia/kentfm.stream/playlist.m3u8",
+        "https://wowza1.radyotvonline.com/unitedmedia/kentfm.stream/chunklist.m3u8"
+      ]
+    },
+    {
+      "id": "metropol-fm-45-lik",
+      "name": "Metropol FM 45'lik",
+      "enabled": true,
+      "urls": [
+        "https://stream.metropolfm.de/MFM45lik/mp3-256/TuneIn"
+      ]
+    },
+    {
+      "id": "radyo-evin",
+      "name": "Radyo Evin",
+      "enabled": true,
+      "urls": [
+        "https://yayin.rtmp.org:8752/stream",
+        "http://yayin.rtmp.org:8752/stream"
+      ]
+    },
+    {
+      "id": "radio-drk",
+      "name": "Radio DRK",
+      "enabled": true,
+      "urls": [
+        "https://stream.zeno.fm/czwwh7xfqm0uv"
+      ]
+    },
+    {
+      "id": "radyo-su",
+      "name": "Radyo SU",
+      "enabled": true,
+      "urls": [
+        "https://stream.netradyom.com/listen/radyosu/radio.mp3",
+        "https://stream.netradyom.com/public/radyosu/playlist.m3u"
+      ]
+    },
+    {
+      "id": "tiryaki-fm",
+      "name": "Tiryaki FM",
+      "enabled": true,
+      "urls": [
+        "https://yayin.turkhosted.com:6056/mp3"
+      ]
+    },
+    {
+      "id": "radyo-munzur",
+      "name": "Radyo Munzur",
+      "enabled": true,
+      "urls": [
+        "http://yayin1.yayindakiler.com:3002/;stream.nsv"
+      ]
+    },
+    {
+      "id": "radyo-trafik-istanbul",
+      "name": "Radyo Trafik İstanbul",
+      "enabled": true,
+      "urls": [
+        "https://moondigitaledge.radyotvonline.net/radyotrafik/playlist.m3u8"
+      ]
+    },
+    {
+      "id": "radyo-trafik-ankara",
+      "name": "Radyo Trafik Ankara",
+      "enabled": true,
+      "urls": [
+        "https://wowza1.radyotvonline.com/saran/radyotrafikankara.stream/playlist.m3u8"
+      ]
+    },
+    {
+      "id": "apacik-radyo",
+      "name": "Apaçık Radyo",
+      "enabled": true,
+      "urls": [
+        "https://stream.34bit.net/ar.mp3",
+        "https://stream.34bit.net/ar.aac"
+      ]
+    },
+    {
+      "id": "polis-radyosu",
+      "name": "Polis Radyosu",
+      "enabled": true,
+      "urls": [
+        "https://m.egm.gov.tr:8093//;?type=http&nocache=1"
+      ]
+    },
+    {
+      "id": "radyo-fenerbahce",
+      "name": "Radyo Fenerbahçe",
+      "enabled": true,
+      "urls": [
+        "https://radyofenerbahce.fenerbahce.org/radyofenerbahce/radyofenerbahce.stream_aac/playlist.m3u8"
+      ]
+    },
+    {
+      "id": "show-radyo",
+      "name": "Show Radyo",
+      "enabled": true,
+      "urls": [
+        "http://showradyo.radyotvonline.net/showradyoaac/"
+      ]
+    },
+    {
+      "id": "haberturk-radyo",
+      "name": "Habertürk Radyo",
+      "enabled": true,
+      "urls": [
+        "https://haberturkradyo.radyotvonline.net/haberturkradyo"
+      ]
+    },
+    {
+      "id": "radyo-turkuvaz",
+      "name": "Radyo Turkuvaz",
+      "enabled": true,
+      "urls": [
+        "https://trkvz-radyolar.ercdn.net/radyoturkuvaz/playlist.m3u8"
+      ]
+    },
+    {
+      "id": "kalp-fm",
+      "name": "Kalp FM",
+      "enabled": true,
+      "urls": [
+        "https://yayin.kalpfm.com:8080/"
+      ]
+    },
+    {
+      "id": "radyo-banko",
+      "name": "Radyo Banko",
+      "enabled": true,
+      "urls": [
+        "http://yayin.netradyom.com:9910/RADYOBANKO",
+        "http://yayin.netradyom.com:8050/RADYOBANKO"
+      ]
+    },
+    {
+      "id": "ask-fm",
+      "name": "Aşk FM",
+      "enabled": true,
+      "urls": [
+        "http://yayin.asymedya.com:8020/;",
+        "https://stream.netradyom.com/listen/askfm1/radio.mp3"
+      ]
+    },
+    {
+      "id": "pop-90",
+      "name": "Pop 90",
+      "enabled": true,
+      "urls": [
+        "http://23623.live.streamtheworld.com:3690/POP90AAC_SC"
+      ]
+    },
+    {
+      "id": "turkce-pop-90-lar",
+      "name": "Türkçe Pop 90'lar",
+      "enabled": true,
+      "urls": [
+        "https://moondigitaledge.radyotvonline.net/90lar/playlist.m3u8"
+      ]
+    },
+    {
+      "id": "altin-sarkilar",
+      "name": "Altın Şarkılar",
+      "enabled": true,
+      "urls": [
+        "https://moondigitaledge.radyotvonline.net/altinsarkilar/playlist.m3u8"
+      ]
+    },
+    {
+      "id": "slow-home",
+      "name": "Slow Home",
+      "enabled": true,
+      "urls": [
+        "https://moondigitaledge.radyotvonline.net/slowhome/playlist.m3u8"
+      ]
+    },
+    {
+      "id": "relax-home",
+      "name": "Relax Home",
+      "enabled": true,
+      "urls": [
+        "https://moondigitaledge.radyotvonline.net/relaxhome/playlist.m3u8"
+      ]
+    },
+    {
+      "id": "melankolik-home",
+      "name": "Melankolik Home",
+      "enabled": true,
+      "urls": [
+        "https://moondigitaledge.radyotvonline.net/melankolikhome/playlist.m3u8"
+      ]
+    },
+    {
+      "id": "pop-home",
+      "name": "Pop Home",
+      "enabled": true,
+      "urls": [
+        "https://moondigitaledge.radyotvonline.net/pophome/playlist.m3u8"
+      ]
+    },
+    {
+      "id": "radyo-vokal",
+      "name": "Radyo Vokal",
+      "enabled": true,
+      "urls": [
+        "https://moondigitaledge.radyotvonline.net/radyovokal/playlist.m3u8"
+      ]
+    },
+    {
+      "id": "damarturk-fm",
+      "name": "DamarTürk FM",
+      "enabled": true,
+      "urls": [
+        "https://live.radyositesihazir.com/7000/stream"
+      ]
+    },
+    {
+      "id": "radyo-megasite",
+      "name": "Radyo Megasite",
+      "enabled": true,
+      "urls": [
+        "http://mega.netradyom.com:7900/radio.mp3"
+      ]
+    },
+    {
+      "id": "radyo-alaturka",
+      "name": "Radyo Alaturka",
+      "enabled": true,
+      "urls": [
+        "https://yayin.jumboserver.net:9100/stream"
+      ]
+    },
+    {
+      "id": "dedemin-radyosu",
+      "name": "Dedemin Radyosu",
+      "enabled": true,
+      "urls": [
+        "https://anadolu.liderhost.com.tr/9002/stream"
+      ]
+    },
+    {
+      "id": "hos-mix",
+      "name": "Hoş Mix",
+      "enabled": true,
+      "urls": [
+        "http://178.32.4.127:8046/stream"
+      ]
+    },
+    {
+      "id": "radyo-kilim",
+      "name": "Radyo Kilim",
+      "enabled": true,
+      "urls": [
+        "https://sslyayin.netyayin.net:10946/stream"
+      ]
+    },
+    {
+      "id": "radyo-hayat",
+      "name": "Radyo Hayat",
+      "enabled": true,
+      "urls": [
+        "http://live4.radyotvonline.com:9450/"
+      ]
+    },
+    {
+      "id": "keyf-station",
+      "name": "Keyf Station",
+      "enabled": true,
+      "urls": [
+        "http://yayin.radyomadyo.com:8002/stream"
+      ]
+    },
+    {
+      "id": "number1-turk-rap",
+      "name": "Number1 Türk Rap",
+      "enabled": true,
+      "urls": [
+        "https://dijimedya.radyotvonline.net/turkrap"
+      ]
+    },
+    {
+      "id": "mydonose-turk",
+      "name": "Mydonose Türk",
+      "enabled": true,
+      "urls": [
+        "https://27913.live.streamtheworld.com/MYDONOSE_TURK128AAC.aac"
+      ]
+    },
+    {
+      "id": "dt-nostalji",
+      "name": "DT Nostalji",
+      "enabled": true,
+      "urls": [
+        "https://canli.dtnostalji.com.tr/9999/stream"
+      ]
+    },
+    {
+      "id": "yol-arkadasim",
+      "name": "Yol Arkadaşım",
+      "enabled": true,
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/YOL_ARKADASIM128AAC.aac",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/YOL_ARKADASIM32AAC.aac"
+      ]
+    },
+    {
+      "id": "joy-jazz",
+      "name": "Joy Jazz",
+      "enabled": true,
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_JAZZAAC.aac",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_JAZZ32AAC.aac"
+      ]
+    },
+    {
+      "id": "power-greece",
+      "name": "Power Greece",
+      "enabled": true,
+      "urls": [
+        "https://live.powerapp.com.tr/powergreece/128/playlist.m3u8",
+        "https://live.powerapp.com.tr/powergreece/96/playlist.m3u8",
+        "https://live.powerapp.com.tr/powergreece/256/playlist.m3u8"
+      ]
+    },
+    {
+      "id": "gonul-turkuleri",
+      "name": "Gönül Türküleri",
+      "enabled": true,
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/GONUL_TURKULERI128AAC.aac",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/GONUL_TURKULERI32AAC.aac"
+      ]
+    },
+    {
+      "id": "radyo-90",
+      "name": "Radyo 90",
+      "enabled": true,
+      "urls": [
+        "https://live.radyo.in/9054/stream"
+      ]
+    },
+    {
+      "id": "radyo-baris-103-0",
+      "name": "Radyo Barış 103.0",
+      "enabled": true,
+      "urls": [
+        "https://sslyayin.netyayin.net/8510/stream/;"
+      ]
+    },
+    {
+      "id": "radyo-yol",
+      "name": "Radyo Yol",
+      "enabled": true,
+      "urls": [
+        "https://r1.comcities.com/proxy/radyoyol/stream"
+      ]
+    },
+    {
+      "id": "harman-radyo",
+      "name": "Harman Radyo",
+      "enabled": true,
+      "urls": [
+        "https://free.rcast.net/200259?/;"
+      ]
+    },
+    {
+      "id": "bati-radyo",
+      "name": "Batı Radyo",
+      "enabled": true,
+      "urls": [
+        "https://sslyayin.netyayin.net:10902/;*.mp3"
+      ]
+    },
+    {
+      "id": "ostim-radyo",
+      "name": "Ostim Radyo",
+      "enabled": true,
+      "urls": [
+        "https://stream.netradyom.com/radio/8010/radio.mp3"
+      ]
+    },
+    {
+      "id": "dost-radyo-erzincan",
+      "name": "Dost Radyo Erzincan",
+      "enabled": true,
+      "urls": [
+        "https://radyo.yayindakiler.com:3156/stream"
+      ]
+    },
+    {
+      "id": "radyo-tezene",
+      "name": "Radyo Tezene",
+      "enabled": true,
+      "urls": [
+        "https://radio.ithouse24.de/listen/radyo-tezene/radio.mp3"
+      ]
+    },
+    {
+      "id": "ezgi-radyo",
+      "name": "Ezgi Radyo",
+      "enabled": true,
+      "urls": [
+        "https://sslyayin.netyayin.net/elazigezgiradyo/stream"
+      ]
+    },
+    {
+      "id": "radyo-cagdas-89-5",
+      "name": "Radyo Çağdaş 89.5",
+      "enabled": true,
+      "urls": [
+        "https://icecast.netmedya.net/radyocagdas"
+      ]
+    },
+    {
+      "id": "radyo-boombox",
+      "name": "Radyo Boombox",
+      "enabled": true,
+      "urls": [
+        "https://live.radyofenomen.com/radyoboombox/mpeg/playlist.m3u8"
+      ]
+    },
+    {
+      "id": "radyo-ege",
+      "name": "Radyo EGE",
+      "enabled": true,
+      "urls": [
+        "https://istek.ozelip.com/radyoege"
+      ]
+    },
+    {
+      "id": "radyo-kordelya-88-5",
+      "name": "Radyo Kordelya 88.5",
+      "enabled": true,
+      "urls": [
+        "https://radyo.medyahost.com.tr/8048/stream"
+      ]
+    },
+    {
+      "id": "kiss-fm",
+      "name": "Kiss FM",
+      "enabled": true,
+      "urls": [
+        "https://kiss.radyotvonline.net/kissfm"
+      ]
+    },
+    {
+      "id": "kiss-turk",
+      "name": "Kiss Türk",
+      "enabled": true,
+      "urls": [
+        "https://kiss.radyotvonline.net/kissturk"
+      ]
+    },
+    {
+      "id": "kiss-dance",
+      "name": "Kiss Dance",
+      "enabled": true,
+      "urls": [
+        "https://dijimedya.radyotvonline.net/kissdance"
+      ]
+    },
+    {
+      "id": "kiss-genc",
+      "name": "Kiss Genç",
+      "enabled": true,
+      "urls": [
+        "https://dijimedya.radyotvonline.net/gncradyo"
+      ]
+    },
+    {
+      "id": "kiss-gold",
+      "name": "Kiss Gold",
+      "enabled": true,
+      "urls": [
+        "https://dijimedya.radyotvonline.net/goldfm"
+      ]
+    },
+    {
+      "id": "kiss-gold-turk",
+      "name": "Kiss Gold Türk",
+      "enabled": true,
+      "urls": [
+        "https://dijimedya.radyotvonline.net/goldturk"
+      ]
+    },
+    {
+      "id": "kiss-egenin-sesi",
+      "name": "Kiss Egenin Sesi",
+      "enabled": true,
+      "urls": [
+        "https://dijimedya.radyotvonline.net/radyoegeninsesi"
+      ]
+    },
+    {
+      "id": "kiss-beatbox",
+      "name": "Kiss Beatbox",
+      "enabled": true,
+      "urls": [
+        "https://dijimedya.radyotvonline.net/radiobeatbox"
+      ]
+    },
+    {
+      "id": "kiss-musiki",
+      "name": "Kiss Musiki",
+      "enabled": true,
+      "urls": [
+        "https://dijimedya.radyotvonline.net/radyomusiki"
+      ]
+    },
+    {
+      "id": "kiss-fk",
+      "name": "Kiss FK",
+      "enabled": true,
+      "urls": [
+        "https://dijimedya.radyotvonline.net/radiofk"
+      ]
+    },
+    {
+      "id": "kiss-greatest-hits",
+      "name": "Kiss Greatest Hits",
+      "enabled": true,
+      "urls": [
+        "https://dijimedya.radyotvonline.net/greatesthits"
+      ]
+    },
+    {
+      "id": "kiss-turk-45-lik",
+      "name": "Kiss Türk 45'lik",
+      "enabled": true,
+      "urls": [
+        "https://dijimedya.radyotvonline.net/45lik"
+      ]
+    },
+    {
+      "id": "kiss-rock",
+      "name": "Kiss Rock",
+      "enabled": true,
+      "urls": [
+        "https://dijimedya.radyotvonline.net/analog"
+      ]
+    },
+    {
+      "id": "kiss-classical",
+      "name": "Kiss Classical",
+      "enabled": true,
+      "urls": [
+        "https://dijimedya.radyotvonline.net/classical"
+      ]
+    },
+    {
+      "id": "kiss-club",
+      "name": "Kiss Club",
+      "enabled": true,
+      "urls": [
+        "https://dijimedya.radyotvonline.net/club"
+      ]
+    },
+    {
+      "id": "kiss-jazz",
+      "name": "Kiss Jazz",
+      "enabled": true,
+      "urls": [
+        "https://dijimedya.radyotvonline.net/jazz"
+      ]
+    },
+    {
+      "id": "kisstory",
+      "name": "Kisstory",
+      "enabled": true,
+      "urls": [
+        "https://dijimedya.radyotvonline.net/kisstory"
+      ]
+    },
+    {
+      "id": "kiss-k-pop",
+      "name": "Kiss K-Pop",
+      "enabled": true,
+      "urls": [
+        "https://dijimedya.radyotvonline.net/kpop"
+      ]
+    },
+    {
+      "id": "kiss-turk-rap",
+      "name": "Kiss Türk Rap",
+      "enabled": true,
+      "urls": [
+        "https://dijimedya.radyotvonline.net/turkrap"
+      ]
+    },
+    {
+      "id": "kiss-turk-slow",
+      "name": "Kiss Türk Slow",
+      "enabled": true,
+      "urls": [
+        "https://dijimedya.radyotvonline.net/turkslow"
+      ]
+    },
+    {
+      "id": "kiss-slow",
+      "name": "Kiss Slow",
+      "enabled": true,
+      "urls": [
+        "https://dijimedya.radyotvonline.net/slow"
+      ]
+    },
+    {
+      "id": "kiss-speedup",
+      "name": "Kiss SpeedUp",
+      "enabled": true,
+      "urls": [
+        "https://dijimedya.radyotvonline.net/speedup"
+      ]
+    },
+    {
+      "id": "max-fm",
+      "name": "Max FM",
+      "enabled": true,
+      "urls": [
+        "http://live2.radyotvonline.com:8025/"
+      ]
+    },
+    {
+      "id": "nostaljinin-sesi",
+      "name": "Nostaljinin Sesi",
+      "enabled": true,
+      "urls": [
+        "http://eu8.fastcast4u.com/proxy/eskininadami/stream"
+      ]
+    },
+    {
+      "id": "x-radio",
+      "name": "X Radio",
+      "enabled": true,
+      "urls": [
+        "https://stream.xradio.com.tr:8770/stream"
+      ]
+    },
+    {
+      "id": "radyo-eksen",
+      "name": "Radyo Eksen",
+      "enabled": true,
+      "urls": [
+        "http://eksenwmp.radyotvonline.com/;stream.mp3"
+      ]
+    },
+    {
+      "id": "classicland",
+      "name": "Classicland",
+      "enabled": true,
+      "urls": [
+        "https://moondigitaledge.radyotvonline.net/classicland/playlist.m3u8"
+      ]
+    },
+    {
+      "id": "houseland",
+      "name": "Houseland",
+      "enabled": true,
+      "urls": [
+        "https://moondigitaledge.radyotvonline.net/houseland/playlist.m3u8"
+      ]
+    },
+    {
+      "id": "radyo-renk-antakya",
+      "name": "Radyo Renk Antakya",
+      "enabled": true,
+      "urls": [
+        "https://radyo.yayindakiler.com:3016/renk"
+      ]
+    },
+    {
+      "id": "efsane-4-lu",
+      "name": "Efsane 4'lü",
+      "enabled": true,
+      "urls": [
+        "https://moondigitalmaster.radyotvonline.net/efsane4lu/playlist.m3u8"
+      ]
+    },
+    {
+      "id": "halk-radyo",
+      "name": "Halk Radyo",
+      "enabled": true,
+      "urls": [
+        "https://anadolu.liderhost.com.tr:10876/;"
+      ]
+    },
+    {
+      "id": "radyo-ekin",
+      "name": "Radyo Ekin",
+      "enabled": true,
+      "urls": [
+        "http://yayin.turkhosted.com:6006/"
+      ]
+    },
+    {
+      "id": "turku-radyo",
+      "name": "Türkü Radyo",
+      "enabled": true,
+      "urls": [
+        "https://yayin.turkhosted.com:4591/turkuradyo",
+        "http://yayin.turkhosted.com:4591/turkuradyo"
+      ]
+    },
+    {
+      "id": "radyo-dem",
+      "name": "Radyo Dem",
+      "enabled": true,
+      "urls": [
+        "https://yayin.radyodem.com:8000/stream"
+      ]
+    },
+    {
+      "id": "arabesk-fm",
+      "name": "Arabesk FM",
+      "enabled": true,
+      "urls": [
+        "http://yayin.arabeskfm.biz:8042/"
+      ]
+    },
+    {
+      "id": "arabeskland",
+      "name": "Arabeskland",
+      "enabled": true,
+      "urls": [
+        "https://moondigitaledge.radyotvonline.net/arabeskland/playlist.m3u8"
+      ]
+    },
+    {
+      "id": "park-fm",
+      "name": "Park FM",
+      "enabled": true,
+      "urls": [
+        "https://stream.netradyom.com/listen/parkfm/radio.mp3"
+      ]
+    },
+    {
+      "id": "efkar-fm",
+      "name": "Efkar FM",
+      "enabled": true,
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/EFKAR.mp3"
+      ]
+    },
+    {
+      "id": "radyo-a-anadolu-universitesi",
+      "name": "Radyo A Anadolu Üniversitesi",
+      "enabled": true,
+      "urls": [
+        "http://canli.radyoa.anadolu.edu.tr:44445/Radyo_A_MP3"
+      ]
+    },
+    {
+      "id": "play-fm",
+      "name": "Play FM",
+      "enabled": true,
+      "urls": [
+        "https://radyo.playfm.com.tr/listen/playfm/playfm.mp3"
+      ]
+    },
+    {
+      "id": "play-fm-akustik",
+      "name": "Play FM Akustik",
+      "enabled": true,
+      "urls": [
+        "https://radyo.playfm.com.tr/listen/akustik/playfm-akustik.mp3"
+      ]
+    },
+    {
+      "id": "kralturk",
+      "name": "KralTürk",
+      "enabled": true,
+      "urls": [
+        "https://live.radyositesihazir.com/8032/stream",
+        "http://yayin.radyokralturk.com:8032/stream.mp3"
+      ]
+    },
+    {
+      "id": "arabesk-vadisi",
+      "name": "Arabesk Vadisi",
+      "enabled": true,
+      "urls": [
+        "https://arabeskv.80.yayin.com.tr/stream"
+      ]
+    },
+    {
+      "id": "top-90-s",
+      "name": "Top 90's",
+      "enabled": true,
+      "urls": [
+        "https://90.streeemer.com/listen/90s/radio.mp3",
+        "https://90.streeemer.com/listen/90s/radio.aac"
+      ]
+    },
+    {
+      "id": "chillout-vibes",
+      "name": "Chillout Vibes",
+      "enabled": true,
+      "urls": [
+        "https://chillout.streeemer.com/listen/chillout/radio.mp3"
+      ]
+    },
+    {
+      "id": "retro-turk",
+      "name": "Retro Türk",
+      "enabled": true,
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/RETROTURK_SC",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/RETROTURKAAC_SC"
+      ]
+    },
+    {
+      "id": "the-penthouse",
+      "name": "The Penthouse",
+      "enabled": true,
+      "urls": [
+        "https://ssl.nexuscast.com:9046/;",
+        "http://s2.nexuscast.com:8052/;"
+      ]
+    },
+    {
+      "id": "beam-fm",
+      "name": "Beam FM",
+      "enabled": true,
+      "urls": [
+        "https://beamfm.streeemer.com/listen/beam_fm/radio.mp3",
+        "https://beamfm.streeemer.com/listen/beam_fm/radio.aac"
+      ]
+    },
+    {
+      "id": "country-vibes",
+      "name": "Country Vibes",
+      "enabled": true,
+      "urls": [
+        "https://country.streeemer.com/listen/country/radio.mp3",
+        "https://country.streeemer.com/listen/country/radio.aac"
+      ]
+    },
+    {
+      "id": "smooth-jazz-groov",
+      "name": "Smooth Jazz - Groov",
+      "enabled": true,
+      "urls": [
+        "https://jazz.streeemer.com/listen/jazz/radio.mp3",
+        "https://jazz.streeemer.com/listen/jazz/radio.aac"
+      ]
+    },
+    {
+      "id": "latina-bandida",
+      "name": "Latina Bandida!",
+      "enabled": true,
+      "urls": [
+        "https://latina.streeemer.com/listen/latina/radio.mp3",
+        "https://latina.streeemer.com/listen/latina/radio.aac"
+      ]
+    },
+    {
+      "id": "radyo-karacadag-fm",
+      "name": "Radyo Karacadağ FM",
+      "enabled": true,
+      "urls": [
+        "https://yayin.firatfm.com:3065/stream.mp3"
+      ]
+    },
+    {
+      "id": "muzik-habercisi",
+      "name": "Müzik Habercisi",
+      "enabled": true,
+      "urls": [
+        "http://trstream.msccdn.com:80/stream/240/;stream.mp3"
+      ]
+    },
+    {
+      "id": "akdeniz-turku-fm",
+      "name": "Akdeniz Türkü FM",
+      "enabled": true,
+      "urls": [
+        "http://akdeniz.radyomhd.com:9786/;"
+      ]
+    },
+    {
+      "id": "classic-rock-station",
+      "name": "Classic Rock Station",
+      "enabled": true,
+      "urls": [
+        "https://classicrock.streeemer.com/listen/classic_rock/radio.mp3",
+        "https://classicrock.streeemer.com/listen/classic_rock/radio.aac"
+      ]
+    },
+    {
+      "id": "classic-fm",
+      "name": "Classic FM",
+      "enabled": true,
+      "urls": [
+        "https://media-ssl.musicradio.com/ClassicFMMP3",
+        "https://media-ssl.musicradio.com/ClassicFM"
+      ]
+    },
+    {
+      "id": "80s-alive",
+      "name": "80s ALIVE",
+      "enabled": true,
+      "urls": [
+        "https://stream.80sa.live/80s-alive.mp3",
+        "https://stream.80sa.live/80s-alive.aac"
+      ]
+    },
+    {
+      "id": "gelisim-radyo",
+      "name": "Gelişim Radyo",
+      "enabled": true,
+      "urls": [
+        "http://yayin2.yayindakiler.com:4008/;"
+      ]
+    },
+    {
+      "id": "blues-radio",
+      "name": "Blues Radio",
+      "enabled": true,
+      "urls": [
+        "https://i4.streams.ovh/sc/bluesrad/stream",
+        "http://live.bluesradio.gr:8352/stream"
+      ]
+    },
+    {
+      "id": "radyo-piryolu",
+      "name": "Radyo Piryolu",
+      "enabled": true,
+      "urls": [
+        "http://radyopiryolu.canliyayinda.com:8165/;stream/1"
+      ]
+    },
+    {
+      "id": "heart-uk",
+      "name": "Heart UK",
+      "enabled": true,
+      "urls": [
+        "https://media-ssl.musicradio.com/HeartUKMP3",
+        "https://media-ssl.musicradio.com/HeartUK"
+      ]
+    },
+    {
+      "id": "america-s-country",
+      "name": "America's Country",
+      "enabled": true,
+      "urls": [
+        "https://ais-sa2.cdnstream1.com/1976_128.mp3",
+        "https://ais-sa2.cdnstream1.com/1976_64.aac"
+      ]
+    },
+    {
+      "id": "radyo-yakamoz",
+      "name": "Radyo Yakamoz",
+      "enabled": true,
+      "urls": [
+        "http://live4.radyotvonline.com:6570/;"
+      ]
+    },
+    {
+      "id": "itu-radyosu-klasik",
+      "name": "İTÜ Radyosu Klasik",
+      "enabled": true,
+      "urls": [
+        "http://160.75.86.29:8088/ituklasikmp3"
+      ]
+    },
+    {
+      "id": "itu-radyosu-rock",
+      "name": "İTÜ Radyosu Rock",
+      "enabled": true,
+      "urls": [
+        "http://160.75.86.29:8088/iturockmp3"
+      ]
+    },
+    {
+      "id": "itu-radyosu-jazz-blues",
+      "name": "İTÜ Radyosu Jazz / Blues",
+      "enabled": true,
+      "urls": [
+        "http://160.75.86.29:8088/itucazmp3"
+      ]
+    },
+    {
+      "id": "lounge-fm",
+      "name": "Lounge FM",
+      "enabled": true,
+      "urls": [
+        "https://edge1.radyotvonline.net/shoutcast/play/fg"
+      ]
+    },
+    {
+      "id": "radyo-tek-97-0",
+      "name": "Radyo Tek 97.0",
+      "enabled": true,
+      "urls": [
+        "https://radyo.yayindakiler.com/4202/stream"
+      ]
+    },
+    {
+      "id": "rock-klassiker",
+      "name": "Rock Klassiker",
+      "enabled": true,
+      "urls": [
+        "https://live-bauerse-fm.sharp-stream.com/rockklassiker_instream_se_aacp"
+      ]
+    },
+    {
+      "id": "rock-fm-94-5",
+      "name": "Rock FM 94.5",
+      "enabled": true,
+      "urls": [
+        "https://rockfm.rockfm.com.tr:9450/stream"
+      ]
+    },
+    {
+      "id": "radyo-assos",
+      "name": "Radyo Assos",
+      "enabled": true,
+      "urls": [
+        "https://stream.radio.co/sb2e24edf5/listen"
+      ]
+    },
+    {
+      "id": "metal-underground",
+      "name": "Metal Underground",
+      "enabled": true,
+      "urls": [
+        "https://das-edge12-live365-dal02.cdnstream.com/a93362"
+      ]
+    },
+    {
+      "id": "bloodstream-radio",
+      "name": "BloodStream Radio",
+      "enabled": true,
+      "urls": [
+        "https://uk1.internet-radio.com/proxy/bloodstream?mp=/autodj"
+      ]
+    },
+    {
+      "id": "radio-metal",
+      "name": "Radio Metal",
+      "enabled": true,
+      "urls": [
+        "https://radio3.pro-fhi.net/live/Radio%20Metal"
+      ]
+    },
+    {
+      "id": "metal-radio",
+      "name": "Metal Radio",
+      "enabled": true,
+      "urls": [
+        "http://curiosity.shoutca.st:9073/stream"
+      ]
+    },
+    {
+      "id": "rock-fm-metal",
+      "name": "ROCK FM METAL",
+      "enabled": true,
+      "urls": [
+        "https://stream.regenbogen2.de/metal/mp3-128/mytuner",
+        "https://stream.regenbogen2.de/metal/aac-128/mytuner"
+      ]
+    },
+    {
+      "id": "metal-rock-radio",
+      "name": "Metal Rock Radio",
+      "enabled": true,
+      "urls": [
+        "https://kathy.torontocast.com:2800/;"
+      ]
+    },
+    {
+      "id": "metal-devastation-radio",
+      "name": "Metal Devastation Radio",
+      "enabled": true,
+      "urls": [
+        "https://c13.radioboss.fm:18099/stream"
+      ]
+    },
+    {
+      "id": "radyo-vizyon",
+      "name": "Radyo Vizyon",
+      "enabled": true,
+      "urls": [
+        "https://stream.netradyom.com/radio/9300/radio.mp3"
+      ]
+    },
+    {
+      "id": "vizyon-pulse",
+      "name": "Vizyon Pulse",
+      "enabled": true,
+      "urls": [
+        "https://stream.netradyom.com/radio/7050/radio.mp3"
+      ]
+    },
+    {
+      "id": "vizyon-lounge",
+      "name": "Vizyon Lounge",
+      "enabled": true,
+      "urls": [
+        "https://stream.netradyom.com/radio/7160/radio.mp3"
+      ]
+    },
+    {
+      "id": "vizyon-dance",
+      "name": "Vizyon Dance",
+      "enabled": true,
+      "urls": [
+        "https://stream.netradyom.com/radio/7020/radio.mp3"
+      ]
+    },
+    {
+      "id": "vizyon-rock",
+      "name": "Vizyon Rock",
+      "enabled": true,
+      "urls": [
+        "https://stream.netradyom.com/radio/7040/radio.mp3"
+      ]
+    },
+    {
+      "id": "vizyon-klasik",
+      "name": "Vizyon Klasik",
+      "enabled": true,
+      "urls": [
+        "https://stream.netradyom.com/radio/7100/radio.mp3"
+      ]
+    },
+    {
+      "id": "vizyon-ankara",
+      "name": "Vizyon Ankara",
+      "enabled": true,
+      "urls": [
+        "https://stream.netradyom.com/radio/7030/radio.mp3"
+      ]
+    },
+    {
+      "id": "vizyon-nostalji",
+      "name": "Vizyon Nostalji",
+      "enabled": true,
+      "urls": [
+        "https://stream.netradyom.com/radio/7090/radio.mp3"
+      ]
+    },
+    {
+      "id": "vizyon-halk",
+      "name": "Vizyon Halk",
+      "enabled": true,
+      "urls": [
+        "https://stream.netradyom.com/radio/7070/radio.mp3"
+      ]
+    },
+    {
+      "id": "vizyon-sek",
+      "name": "Vizyon Sek",
+      "enabled": true,
+      "urls": [
+        "https://stream.netradyom.com/radio/7060/radio.mp3"
+      ]
+    }
+  ]
+}
+
