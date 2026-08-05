@@ -566,14 +566,6 @@
       ]
     },
     {
-      "id": "radyo-hevi",
-      "name": "Radyo Hêvî",
-      "enabled": true,
-      "urls": [
-        "http://yayin.rtmp.org:8756/;"
-      ]
-    },
-    {
       "id": "radyo-evin",
       "name": "Radyo Evin",
       "enabled": true,
@@ -976,14 +968,6 @@
       ]
     },
     {
-      "id": "demokrat-fm-92-4",
-      "name": "Demokrat FM 92.4",
-      "enabled": true,
-      "urls": [
-        "https://sonic.dcnet.com.tr/8078/stream"
-      ]
-    },
-    {
       "id": "radyo-boombox",
       "name": "Radyo Boombox",
       "enabled": true,
@@ -1200,14 +1184,6 @@
       ]
     },
     {
-      "id": "radyo-mydonose",
-      "name": "Radyo Mydonose",
-      "enabled": true,
-      "urls": [
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_MYDONOSE128AAC.aac"
-      ]
-    },
-    {
       "id": "x-radio",
       "name": "X Radio",
       "enabled": true,
@@ -1345,6 +1321,317 @@
       ]
     },
     {
+      "id": "kralturk",
+      "name": "KralTürk",
+      "enabled": true,
+      "urls": [
+        "https://live.radyositesihazir.com/8032/stream",
+        "http://yayin.radyokralturk.com:8032/stream.mp3"
+      ]
+    },
+    {
+      "id": "arabesk-vadisi",
+      "name": "Arabesk Vadisi",
+      "enabled": true,
+      "urls": [
+        "https://arabeskv.80.yayin.com.tr/stream"
+      ]
+    },
+    {
+      "id": "top-90-s",
+      "name": "Top 90's",
+      "enabled": true,
+      "urls": [
+        "https://90.streeemer.com/listen/90s/radio.mp3",
+        "https://90.streeemer.com/listen/90s/radio.aac"
+      ]
+    },
+    {
+      "id": "chillout-vibes",
+      "name": "Chillout Vibes",
+      "enabled": true,
+      "urls": [
+        "https://chillout.streeemer.com/listen/chillout/radio.mp3"
+      ]
+    },
+    {
+      "id": "retro-turk",
+      "name": "Retro Türk",
+      "enabled": true,
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/RETROTURK_SC",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/RETROTURKAAC_SC"
+      ]
+    },
+    {
+      "id": "the-penthouse",
+      "name": "The Penthouse",
+      "enabled": true,
+      "urls": [
+        "https://ssl.nexuscast.com:9046/;",
+        "http://s2.nexuscast.com:8052/;"
+      ]
+    },
+    {
+      "id": "beam-fm",
+      "name": "Beam FM",
+      "enabled": true,
+      "urls": [
+        "https://beamfm.streeemer.com/listen/beam_fm/radio.mp3",
+        "https://beamfm.streeemer.com/listen/beam_fm/radio.aac"
+      ]
+    },
+    {
+      "id": "country-vibes",
+      "name": "Country Vibes",
+      "enabled": true,
+      "urls": [
+        "https://country.streeemer.com/listen/country/radio.mp3",
+        "https://country.streeemer.com/listen/country/radio.aac"
+      ]
+    },
+    {
+      "id": "smooth-jazz-groov",
+      "name": "Smooth Jazz - Groov",
+      "enabled": true,
+      "urls": [
+        "https://jazz.streeemer.com/listen/jazz/radio.mp3",
+        "https://jazz.streeemer.com/listen/jazz/radio.aac"
+      ]
+    },
+    {
+      "id": "latina-bandida",
+      "name": "Latina Bandida!",
+      "enabled": true,
+      "urls": [
+        "https://latina.streeemer.com/listen/latina/radio.mp3",
+        "https://latina.streeemer.com/listen/latina/radio.aac"
+      ]
+    },
+    {
+      "id": "radyo-karacadag-fm",
+      "name": "Radyo Karacadağ FM",
+      "enabled": true,
+      "urls": [
+        "https://yayin.firatfm.com:3065/stream.mp3"
+      ]
+    },
+    {
+      "id": "muzik-habercisi",
+      "name": "Müzik Habercisi",
+      "enabled": true,
+      "urls": [
+        "http://trstream.msccdn.com:80/stream/240/;stream.mp3"
+      ]
+    },
+    {
+      "id": "akdeniz-turku-fm",
+      "name": "Akdeniz Türkü FM",
+      "enabled": true,
+      "urls": [
+        "http://akdeniz.radyomhd.com:9786/;"
+      ]
+    },
+    {
+      "id": "classic-rock-station",
+      "name": "Classic Rock Station",
+      "enabled": true,
+      "urls": [
+        "https://classicrock.streeemer.com/listen/classic_rock/radio.mp3",
+        "https://classicrock.streeemer.com/listen/classic_rock/radio.aac"
+      ]
+    },
+    {
+      "id": "classic-fm",
+      "name": "Classic FM",
+      "enabled": true,
+      "urls": [
+        "https://media-ssl.musicradio.com/ClassicFMMP3",
+        "https://media-ssl.musicradio.com/ClassicFM"
+      ]
+    },
+    {
+      "id": "80s-alive",
+      "name": "80s ALIVE",
+      "enabled": true,
+      "urls": [
+        "https://stream.80sa.live/80s-alive.mp3",
+        "https://stream.80sa.live/80s-alive.aac"
+      ]
+    },
+    {
+      "id": "gelisim-radyo",
+      "name": "Gelişim Radyo",
+      "enabled": true,
+      "urls": [
+        "http://yayin2.yayindakiler.com:4008/;"
+      ]
+    },
+    {
+      "id": "blues-radio",
+      "name": "Blues Radio",
+      "enabled": true,
+      "urls": [
+        "https://i4.streams.ovh/sc/bluesrad/stream",
+        "http://live.bluesradio.gr:8352/stream"
+      ]
+    },
+    {
+      "id": "radyo-piryolu",
+      "name": "Radyo Piryolu",
+      "enabled": true,
+      "urls": [
+        "http://radyopiryolu.canliyayinda.com:8165/;stream/1"
+      ]
+    },
+    {
+      "id": "heart-uk",
+      "name": "Heart UK",
+      "enabled": true,
+      "urls": [
+        "https://media-ssl.musicradio.com/HeartUKMP3",
+        "https://media-ssl.musicradio.com/HeartUK"
+      ]
+    },
+    {
+      "id": "america-s-country",
+      "name": "America's Country",
+      "enabled": true,
+      "urls": [
+        "https://ais-sa2.cdnstream1.com/1976_128.mp3",
+        "https://ais-sa2.cdnstream1.com/1976_64.aac"
+      ]
+    },
+    {
+      "id": "radyo-yakamoz",
+      "name": "Radyo Yakamoz",
+      "enabled": true,
+      "urls": [
+        "http://live4.radyotvonline.com:6570/;"
+      ]
+    },
+    {
+      "id": "itu-radyosu-klasik",
+      "name": "İTÜ Radyosu Klasik",
+      "enabled": true,
+      "urls": [
+        "http://160.75.86.29:8088/ituklasikmp3"
+      ]
+    },
+    {
+      "id": "itu-radyosu-rock",
+      "name": "İTÜ Radyosu Rock",
+      "enabled": true,
+      "urls": [
+        "http://160.75.86.29:8088/iturockmp3"
+      ]
+    },
+    {
+      "id": "itu-radyosu-jazz-blues",
+      "name": "İTÜ Radyosu Jazz / Blues",
+      "enabled": true,
+      "urls": [
+        "http://160.75.86.29:8088/itucazmp3"
+      ]
+    },
+    {
+      "id": "lounge-fm",
+      "name": "Lounge FM",
+      "enabled": true,
+      "urls": [
+        "https://edge1.radyotvonline.net/shoutcast/play/fg"
+      ]
+    },
+    {
+      "id": "radyo-tek-97-0",
+      "name": "Radyo Tek 97.0",
+      "enabled": true,
+      "urls": [
+        "https://radyo.yayindakiler.com/4202/stream"
+      ]
+    },
+    {
+      "id": "rock-klassiker",
+      "name": "Rock Klassiker",
+      "enabled": true,
+      "urls": [
+        "https://live-bauerse-fm.sharp-stream.com/rockklassiker_instream_se_aacp"
+      ]
+    },
+    {
+      "id": "rock-fm-94-5",
+      "name": "Rock FM 94.5",
+      "enabled": true,
+      "urls": [
+        "https://rockfm.rockfm.com.tr:9450/stream"
+      ]
+    },
+    {
+      "id": "radyo-assos",
+      "name": "Radyo Assos",
+      "enabled": true,
+      "urls": [
+        "https://stream.radio.co/sb2e24edf5/listen"
+      ]
+    },
+    {
+      "id": "metal-underground",
+      "name": "Metal Underground",
+      "enabled": true,
+      "urls": [
+        "https://das-edge12-live365-dal02.cdnstream.com/a93362"
+      ]
+    },
+    {
+      "id": "bloodstream-radio",
+      "name": "BloodStream Radio",
+      "enabled": true,
+      "urls": [
+        "https://uk1.internet-radio.com/proxy/bloodstream?mp=/autodj"
+      ]
+    },
+    {
+      "id": "radio-metal",
+      "name": "Radio Metal",
+      "enabled": true,
+      "urls": [
+        "https://radio3.pro-fhi.net/live/Radio%20Metal"
+      ]
+    },
+    {
+      "id": "metal-radio",
+      "name": "Metal Radio",
+      "enabled": true,
+      "urls": [
+        "http://curiosity.shoutca.st:9073/stream"
+      ]
+    },
+    {
+      "id": "rock-fm-metal",
+      "name": "ROCK FM METAL",
+      "enabled": true,
+      "urls": [
+        "https://stream.regenbogen2.de/metal/mp3-128/mytuner",
+        "https://stream.regenbogen2.de/metal/aac-128/mytuner"
+      ]
+    },
+    {
+      "id": "metal-rock-radio",
+      "name": "Metal Rock Radio",
+      "enabled": true,
+      "urls": [
+        "https://kathy.torontocast.com:2800/;"
+      ]
+    },
+    {
+      "id": "metal-devastation-radio",
+      "name": "Metal Devastation Radio",
+      "enabled": true,
+      "urls": [
+        "https://c13.radioboss.fm:18099/stream"
+      ]
+    },
+    {
       "id": "radyo-vizyon",
       "name": "Radyo Vizyon",
       "enabled": true,
@@ -1426,3 +1713,4 @@
     }
   ]
 }
+
