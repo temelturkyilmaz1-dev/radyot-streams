@@ -165,6 +165,14 @@
       ]
     },
     {
+      "id": "super-yeni",
+      "name": "Süper Yeni",
+      "enabled": true,
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_YENI_SC"
+      ]
+    },
+    {
       "id": "joyturk-rock",
       "name": "JoyTürk Rock",
       "enabled": true,
@@ -1712,46 +1720,12 @@
       ]
     },
     {
-      "id": "worldwide-fm",
-      "name": "Worldwide FM",
-      "enabled": true,
-      "urls": [
-        "https://worldwide-fm.radiocult.fm/stream"
-      ]
-    },
-    {
-      "id": "soho-radio",
-      "name": "Soho Radio",
-      "enabled": true,
-      "urls": [
-        "https://sohoradiomusic.doughunt.co.uk:8010/320mp3"
-      ]
-    },
-    {
-      "id": "nts-1",
-      "name": "NTS 1",
-      "enabled": true,
-      "urls": [
-        "https://stream-relay-geo.ntslive.net/stream?client=direct",
-        "http://stream-relay-geo.ntslive.net/stream"
-      ]
-    },
-    {
       "id": "radio-paradise",
       "name": "Radio Paradise",
       "enabled": true,
       "urls": [
         "https://stream.radioparadise.com/aac-320",
         "https://stream.radioparadise.com/mp3-320"
-      ]
-    },
-    {
-      "id": "rinse-fm",
-      "name": "Rinse FM",
-      "enabled": true,
-      "urls": [
-        "https://admin.stream.rinse.fm/proxy/rinse_uk/stream",
-        "https://streamer-uk.rinse.fm:8443/stream"
       ]
     },
     {
