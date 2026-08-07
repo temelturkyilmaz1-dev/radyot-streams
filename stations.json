@@ -165,14 +165,6 @@
       ]
     },
     {
-      "id": "super-yeni",
-      "name": "Süper Yeni",
-      "enabled": true,
-      "urls": [
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_YENI_SC"
-      ]
-    },
-    {
       "id": "joyturk-rock",
       "name": "JoyTürk Rock",
       "enabled": true,
@@ -400,8 +392,8 @@
       ]
     },
     {
-      "id": "cri-turk-radyo",
-      "name": "CRI Türk Radyo",
+      "id": "cgtn-turk-radyo",
+      "name": "CGTN Türk Radyo",
       "enabled": true,
       "urls": [
         "https://criturk.radyotvonline.net/criturk"
@@ -1640,6 +1632,66 @@
       ]
     },
     {
+      "id": "rebel-radio-chicago",
+      "name": "Rebel Radio Chicago",
+      "enabled": true,
+      "urls": [
+        "https://s1.reliastream.com/proxy/rebelrad/stream"
+      ]
+    },
+    {
+      "id": "maximus-rock-fm",
+      "name": "MaximusRockFM",
+      "enabled": true,
+      "urls": [
+        "https://stream.laut.fm/maximusrockfm"
+      ]
+    },
+    {
+      "id": "metal-radio-austria",
+      "name": "METAL Radio Austria",
+      "enabled": true,
+      "urls": [
+        "https://stream.radiotechnikum.at/METALRadio"
+      ]
+    },
+    {
+      "id": "radyo-trio",
+      "name": "Radyo Trio",
+      "enabled": true,
+      "urls": [
+        "https://radyotrio.radyotvonline.net/radyotrio"
+      ]
+    },
+    {
+      "id": "star-arti-fm",
+      "name": "Star Artı FM 98.8",
+      "enabled": true,
+      "urls": [
+        "https://ritim.80.yayin.com.tr/;stream.mp3"
+      ]
+    },
+    {
+      "id": "antalya-olay-fm",
+      "name": "Antalya Olay FM 93.5",
+      "enabled": true,
+      "urls": [
+        "https://netyayin.jsproduksiyon.com:9010/olayfm"
+      ]
+    },
+    {
+      "id": "radyo-akdeniz-95-0",
+      "name": "Radyo Akdeniz 95.0",
+      "enabled": true,
+      "website": "https://www.radyoakdeniz.com/",
+      "content": "Türk Halk Müziği ve özgün müzik",
+      "location": "Antalya",
+      "frequency": "95.0 FM",
+      "urls": [
+        "https://yayin.radyoakdeniz.com:9470/stream"
+      ]
+    },
+    {
       "id": "radyo-vizyon",
       "name": "Radyo Vizyon",
       "enabled": true,
@@ -1720,12 +1772,46 @@
       ]
     },
     {
+      "id": "worldwide-fm",
+      "name": "Worldwide FM",
+      "enabled": true,
+      "urls": [
+        "https://worldwide-fm.radiocult.fm/stream"
+      ]
+    },
+    {
+      "id": "soho-radio",
+      "name": "Soho Radio",
+      "enabled": true,
+      "urls": [
+        "https://sohoradiomusic.doughunt.co.uk:8010/320mp3"
+      ]
+    },
+    {
+      "id": "nts-1",
+      "name": "NTS 1",
+      "enabled": true,
+      "urls": [
+        "https://stream-relay-geo.ntslive.net/stream?client=direct",
+        "http://stream-relay-geo.ntslive.net/stream"
+      ]
+    },
+    {
       "id": "radio-paradise",
       "name": "Radio Paradise",
       "enabled": true,
       "urls": [
         "https://stream.radioparadise.com/aac-320",
         "https://stream.radioparadise.com/mp3-320"
+      ]
+    },
+    {
+      "id": "rinse-fm",
+      "name": "Rinse FM",
+      "enabled": true,
+      "urls": [
+        "https://admin.stream.rinse.fm/proxy/rinse_uk/stream",
+        "https://streamer-uk.rinse.fm:8443/stream"
       ]
     },
     {
