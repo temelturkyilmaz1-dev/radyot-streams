@@ -6,7 +6,7 @@
       "name": "TRT FM",
       "enabled": true,
       "urls": [
-        "https://radio-trtfm.live.trt.com.tr/master.m3u8",
+        "https://rd-trtfm.medya.trt.com.tr/master.m3u8",
         "https://trt.radyotvonline.net/trtfm"
       ]
     },
@@ -24,7 +24,7 @@
       "name": "TRT Radyo Haber",
       "enabled": true,
       "urls": [
-        "https://radio-trtradyohaber.live.trt.com.tr/master.m3u8",
+        "https://rd-trtradyohaber.medya.trt.com.tr/master.m3u8",
         "https://trt.radyotvonline.net/trthaber"
       ]
     },
