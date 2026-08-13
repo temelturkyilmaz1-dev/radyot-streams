@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-13T05:52:42Z",
+  "generatedAt": "2026-08-13T09:50:18Z",
   "summary": {
     "total": 280,
-    "online": 270,
-    "unavailable": 10
+    "online": 273,
+    "unavailable": 7
   },
   "stations": {
     "trt-fm": {
@@ -16,20 +16,20 @@
         {
           "url": "https://rd-trtfm.medya.trt.com.tr/master.m3u8",
           "ok": true,
-          "checkedAt": "2026-08-13T05:51:56Z",
+          "checkedAt": "2026-08-13T09:49:29Z",
           "httpStatus": 200,
           "finalUrl": "https://rd-trtfm.medya.trt.com.tr/master.m3u8",
-          "responseMs": 756,
+          "responseMs": 581,
           "contentType": "application/x-mpegurl",
           "validation": "playlist-and-media"
         },
         {
           "url": "https://trt.radyotvonline.net/trtfm",
           "ok": true,
-          "checkedAt": "2026-08-13T05:51:56Z",
+          "checkedAt": "2026-08-13T09:49:29Z",
           "httpStatus": 200,
           "finalUrl": "https://trt.radyotvonline.net/trtfm",
-          "responseMs": 1222,
+          "responseMs": 1912,
           "contentType": "audio/aacp",
           "validation": "stream-bytes"
         }
@@ -44,17 +44,17 @@
         {
           "url": "https://radio-trtradyo1.live.trt.com.tr/master.m3u8",
           "ok": false,
-          "checkedAt": "2026-08-13T05:51:56Z",
+          "checkedAt": "2026-08-13T09:49:29Z",
           "httpStatus": 404,
           "error": "HTTP 404"
         },
         {
           "url": "https://trt.radyotvonline.net/trt1",
           "ok": true,
-          "checkedAt": "2026-08-13T05:51:56Z",
+          "checkedAt": "2026-08-13T09:49:29Z",
           "httpStatus": 200,
           "finalUrl": "https://trt.radyotvonline.net/trt1",
-          "responseMs": 1183,
+          "responseMs": 2022,
           "contentType": "audio/aacp",
           "validation": "stream-bytes"
         }
@@ -69,20 +69,20 @@
         {
           "url": "https://rd-trtradyohaber.medya.trt.com.tr/master.m3u8",
           "ok": true,
-          "checkedAt": "2026-08-13T05:51:56Z",
+          "checkedAt": "2026-08-13T09:49:29Z",
           "httpStatus": 200,
           "finalUrl": "https://rd-trtradyohaber.medya.trt.com.tr/master.m3u8",
-          "responseMs": 724,
+          "responseMs": 748,
           "contentType": "application/x-mpegurl",
           "validation": "playlist-and-media"
         },
         {
           "url": "https://trt.radyotvonline.net/trthaber",
           "ok": true,
-          "checkedAt": "2026-08-13T05:51:56Z",
+          "checkedAt": "2026-08-13T09:49:29Z",
           "httpStatus": 200,
           "finalUrl": "https://trt.radyotvonline.net/trthaber",
-          "responseMs": 1397,
+          "responseMs": 1895,
           "contentType": "audio/aacp",
           "validation": "stream-bytes"
         }
@@ -97,10 +97,10 @@
         {
           "url": "https://rd-trtradyo3.medya.trt.com.tr/master.m3u8",
           "ok": true,
-          "checkedAt": "2026-08-13T05:51:56Z",
+          "checkedAt": "2026-08-13T09:49:29Z",
           "httpStatus": 200,
           "finalUrl": "https://rd-trtradyo3.medya.trt.com.tr/master.m3u8",
-          "responseMs": 547,
+          "responseMs": 1131,
           "contentType": "application/x-mpegurl",
           "validation": "playlist-and-media"
         }
@@ -115,10 +115,10 @@
         {
           "url": "https://rd-trtnagme.medya.trt.com.tr/master.m3u8",
           "ok": true,
-          "checkedAt": "2026-08-13T05:51:56Z",
+          "checkedAt": "2026-08-13T09:49:29Z",
           "httpStatus": 200,
           "finalUrl": "https://rd-trtnagme.medya.trt.com.tr/master.m3u8",
-          "responseMs": 674,
+          "responseMs": 840,
           "contentType": "application/x-mpegurl",
           "validation": "playlist-and-media"
         }
@@ -133,10 +133,10 @@
         {
           "url": "https://rd-trtturku.medya.trt.com.tr/master.m3u8",
           "ok": true,
-          "checkedAt": "2026-08-13T05:51:56Z",
+          "checkedAt": "2026-08-13T09:49:29Z",
           "httpStatus": 200,
           "finalUrl": "https://rd-trtturku.medya.trt.com.tr/master.m3u8",
-          "responseMs": 1073,
+          "responseMs": 960,
           "contentType": "application/x-mpegurl",
           "validation": "playlist-and-media"
         }
@@ -151,10 +151,10 @@
         {
           "url": "https://radio-trtradyo6.medya.trt.com.tr/master.m3u8",
           "ok": true,
-          "checkedAt": "2026-08-13T05:51:56Z",
+          "checkedAt": "2026-08-13T09:49:29Z",
           "httpStatus": 200,
           "finalUrl": "https://radio-trtradyo6.medya.trt.com.tr/master.m3u8",
-          "responseMs": 669,
+          "responseMs": 977,
           "contentType": "application/x-mpegurl",
           "validation": "playlist-and-media"
         }
@@ -169,10 +169,10 @@
         {
           "url": "https://live.powerapp.com.tr/powerturk/abr/powerturk/128/playlist.m3u8",
           "ok": true,
-          "checkedAt": "2026-08-13T05:51:56Z",
+          "checkedAt": "2026-08-13T09:49:29Z",
           "httpStatus": 200,
           "finalUrl": "https://live.powerapp.com.tr/powerturk/abr/powerturk/128/playlist.m3u8",
-          "responseMs": 1576,
+          "responseMs": 1294,
           "contentType": "application/vnd.apple.mpegurl",
           "validation": "playlist-and-media"
         }
@@ -187,10 +187,10 @@
         {
           "url": "https://live.powerapp.com.tr/powerfm/abr/powerfm/128/playlist.m3u8",
           "ok": true,
-          "checkedAt": "2026-08-13T05:51:56Z",
+          "checkedAt": "2026-08-13T09:49:29Z",
           "httpStatus": 200,
           "finalUrl": "https://live.powerapp.com.tr/powerfm/abr/powerfm/128/playlist.m3u8",
-          "responseMs": 1619,
+          "responseMs": 2341,
           "contentType": "application/vnd.apple.mpegurl",
           "validation": "playlist-and-media"
         }
@@ -205,10 +205,10 @@
         {
           "url": "https://listen.powerapp.com.tr/powerlove/abr/powerlove/128/playlist.m3u8",
           "ok": true,
-          "checkedAt": "2026-08-13T05:51:57Z",
+          "checkedAt": "2026-08-13T09:49:30Z",
           "httpStatus": 200,
           "finalUrl": "https://listen.powerapp.com.tr/powerlove/abr/powerlove/128/playlist.m3u8",
-          "responseMs": 1176,
+          "responseMs": 1343,
           "contentType": "application/vnd.apple.mpegurl",
           "validation": "playlist-and-media"
         }
@@ -223,10 +223,10 @@
         {
           "url": "https://live.powerapp.com.tr/powerdeep/abr/playlist.m3u8",
           "ok": true,
-          "checkedAt": "2026-08-13T05:51:57Z",
+          "checkedAt": "2026-08-13T09:49:30Z",
           "httpStatus": 200,
           "finalUrl": "https://live.powerapp.com.tr/powerdeep/abr/playlist.m3u8",
-          "responseMs": 909,
+          "responseMs": 2038,
           "contentType": "application/vnd.apple.mpegurl",
           "validation": "playlist-and-media"
         }
@@ -241,10 +241,10 @@
         {
           "url": "https://listen.powerapp.com.tr/powerextralounge/abr/powerextralounge/96/playlist.m3u8",
           "ok": true,
-          "checkedAt": "2026-08-13T05:51:57Z",
+          "checkedAt": "2026-08-13T09:49:31Z",
           "httpStatus": 200,
           "finalUrl": "https://listen.powerapp.com.tr/powerextralounge/abr/powerextralounge/96/playlist.m3u8",
-          "responseMs": 813,
+          "responseMs": 1017,
           "contentType": "application/vnd.apple.mpegurl",
           "validation": "playlist-and-media"
         }
@@ -259,10 +259,10 @@
         {
           "url": "https://listen.powerapp.com.tr/powerpop/128/chunks.m3u8",
           "ok": true,
-          "checkedAt": "2026-08-13T05:51:57Z",
+          "checkedAt": "2026-08-13T09:49:31Z",
           "httpStatus": 200,
           "finalUrl": "https://listen.powerapp.com.tr/powerpop/128/chunks.m3u8",
-          "responseMs": 790,
+          "responseMs": 847,
           "contentType": "application/vnd.apple.mpegurl",
           "validation": "playlist-and-media"
         }
@@ -277,10 +277,10 @@
         {
           "url": "https://listen.powerapp.com.tr/powerturkdans/abr/powerturkdans/128/playlist.m3u8",
           "ok": true,
-          "checkedAt": "2026-08-13T05:51:57Z",
+          "checkedAt": "2026-08-13T09:49:31Z",
           "httpStatus": 200,
           "finalUrl": "https://listen.powerapp.com.tr/powerturkdans/abr/powerturkdans/128/playlist.m3u8",
-          "responseMs": 763,
+          "responseMs": 1274,
           "contentType": "application/vnd.apple.mpegurl",
           "validation": "playlist-and-media"
         }
@@ -295,10 +295,10 @@
         {
           "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/VIRGIN_RADIOAAC_SC",
           "ok": true,
-          "checkedAt": "2026-08-13T05:51:57Z",
+          "checkedAt": "2026-08-13T09:49:31Z",
           "httpStatus": 200,
           "finalUrl": "https://21633.live.streamtheworld.com:443/VIRGIN_RADIOAAC_SC",
-          "responseMs": 1315,
+          "responseMs": 1920,
           "contentType": "",
           "validation": "stream-bytes"
         }
@@ -313,10 +313,10 @@
         {
           "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/METRO_FM_SC",
           "ok": true,
-          "checkedAt": "2026-08-13T05:51:57Z",
+          "checkedAt": "2026-08-13T09:49:31Z",
           "httpStatus": 200,
-          "finalUrl": "https://22653.live.streamtheworld.com:443/METRO_FM_SC",
-          "responseMs": 1630,
+          "finalUrl": "https://27783.live.streamtheworld.com:443/METRO_FM_SC",
+          "responseMs": 1388,
           "contentType": "",
           "validation": "stream-bytes"
         }
@@ -331,10 +331,10 @@
         {
           "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_TURK_SC",
           "ok": true,
-          "checkedAt": "2026-08-13T05:51:57Z",
+          "checkedAt": "2026-08-13T09:49:31Z",
           "httpStatus": 200,
-          "finalUrl": "https://29103.live.streamtheworld.com:443/JOY_TURK_SC",
-          "responseMs": 1135,
+          "finalUrl": "https://25453.live.streamtheworld.com:443/JOY_TURK_SC",
+          "responseMs": 1712,
           "contentType": "",
           "validation": "stream-bytes"
         }
@@ -349,10 +349,10 @@
         {
           "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_FM_SC",
           "ok": true,
-          "checkedAt": "2026-08-13T05:51:58Z",
+          "checkedAt": "2026-08-13T09:49:31Z",
           "httpStatus": 200,
-          "finalUrl": "https://25683.live.streamtheworld.com:443/JOY_FM_SC",
-          "responseMs": 1420,
+          "finalUrl": "https://27823.live.streamtheworld.com:443/JOY_FM_SC",
+          "responseMs": 1362,
           "contentType": "",
           "validation": "stream-bytes"
         }
@@ -367,10 +367,10 @@
         {
           "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_FM_SC",
           "ok": true,
-          "checkedAt": "2026-08-13T05:51:58Z",
+          "checkedAt": "2026-08-13T09:49:32Z",
           "httpStatus": 200,
-          "finalUrl": "https://28033.live.streamtheworld.com:443/SUPER_FM_SC",
-          "responseMs": 1475,
+          "finalUrl": "https://25643.live.streamtheworld.com:443/SUPER_FM_SC",
+          "responseMs": 1464,
           "contentType": "",
           "validation": "stream-bytes"
         }
@@ -385,10 +385,10 @@
         {
           "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER2_SC.mp3",
           "ok": true,
-          "checkedAt": "2026-08-13T05:51:59Z",
+          "checkedAt": "2026-08-13T09:49:32Z",
           "httpStatus": 200,
-          "finalUrl": "https://25583.live.streamtheworld.com:443/SUPER2_SC",
-          "responseMs": 1230,
+          "finalUrl": "https://25553.live.streamtheworld.com:443/SUPER2_SC",
+          "responseMs": 1606,
           "contentType": "",
           "validation": "stream-bytes"
         }
@@ -403,10 +403,10 @@
         {
           "url": "http://23613.live.streamtheworld.com/JOYTURK_ROCK128AAC.aac",
           "ok": true,
-          "checkedAt": "2026-08-13T05:51:59Z",
+          "checkedAt": "2026-08-13T09:49:33Z",
           "httpStatus": 200,
           "finalUrl": "http://23613.live.streamtheworld.com/JOYTURK_ROCK128AAC.aac",
-          "responseMs": 1088,
+          "responseMs": 1047,
           "contentType": "audio/aacp",
           "validation": "stream-bytes"
         }
@@ -421,10 +421,10 @@
         {
           "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOYTURK_AKUSTIK128AAC.aac",
           "ok": true,
-          "checkedAt": "2026-08-13T05:51:59Z",
+          "checkedAt": "2026-08-13T09:49:33Z",
           "httpStatus": 200,
-          "finalUrl": "https://27793.live.streamtheworld.com:443/JOYTURK_AKUSTIK128AAC.aac",
-          "responseMs": 1413,
+          "finalUrl": "https://25583.live.streamtheworld.com:443/JOYTURK_AKUSTIK128AAC.aac",
+          "responseMs": 1545,
           "contentType": "",
           "validation": "stream-bytes"
         }
@@ -439,17 +439,17 @@
         {
           "url": "https://number1.radyotvonline.net/hls/play/number1_fm.m3u8",
           "ok": true,
-          "checkedAt": "2026-08-13T05:51:59Z",
+          "checkedAt": "2026-08-13T09:49:33Z",
           "httpStatus": 200,
           "finalUrl": "https://number1.radyotvonline.net/hls/play/number1_fm.m3u8",
-          "responseMs": 433,
+          "responseMs": 551,
           "contentType": "application/vnd.apple.mpegurl",
           "validation": "playlist-and-media"
         },
         {
           "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NUMBER1FMAAC.aac",
           "ok": false,
-          "checkedAt": "2026-08-13T05:51:59Z",
+          "checkedAt": "2026-08-13T09:49:33Z",
           "httpStatus": 404,
           "error": "HTTP 404"
         }
@@ -464,10 +464,10 @@
         {
           "url": "https://number1.radyotvonline.net/hls/play/number1_turk_fm.m3u8",
           "ok": true,
-          "checkedAt": "2026-08-13T05:51:59Z",
+          "checkedAt": "2026-08-13T09:49:33Z",
           "httpStatus": 200,
           "finalUrl": "https://number1.radyotvonline.net/hls/play/number1_turk_fm.m3u8",
-          "responseMs": 393,
+          "responseMs": 521,
           "contentType": "application/vnd.apple.mpegurl",
           "validation": "playlist-and-media"
         }
@@ -482,10 +482,10 @@
         {
           "url": "https://eustr75.mediatriple.net/Number1Media/03_Number1_Turk_Slow.stream/playlist.m3u8",
           "ok": true,
-          "checkedAt": "2026-08-13T05:51:59Z",
+          "checkedAt": "2026-08-13T09:49:33Z",
           "httpStatus": 200,
           "finalUrl": "https://eustr75.mediatriple.net/Number1Media/03_Number1_Turk_Slow.stream/playlist.m3u8",
-          "responseMs": 732,
+          "responseMs": 882,
           "contentType": "application/vnd.apple.mpegurl",
           "validation": "playlist-and-media"
         }
@@ -500,10 +500,10 @@
         {
           "url": "https://ssldyg2.radyotvonline.com/live/turkce90lar.stream/playlist.m3u8",
           "ok": true,
-          "checkedAt": "2026-08-13T05:51:59Z",
+          "checkedAt": "2026-08-13T09:49:33Z",
           "httpStatus": 200,
           "finalUrl": "https://ssldyg2.radyotvonline.com/live/turkce90lar.stream/playlist.m3u8",
-          "responseMs": 746,
+          "responseMs": 942,
           "contentType": "application/vnd.apple.mpegurl",
           "validation": "playlist-and-media"
         }
@@ -518,10 +518,10 @@
         {
           "url": "https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8",
           "ok": true,
-          "checkedAt": "2026-08-13T05:51:59Z",
+          "checkedAt": "2026-08-13T09:49:33Z",
           "httpStatus": 200,
           "finalUrl": "https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8",
-          "responseMs": 1507,
+          "responseMs": 1607,
           "contentType": "application/vnd.apple.mpegurl",
           "validation": "playlist-and-media"
         }
@@ -531,12 +531,12 @@
       "name": "Kral Pop",
       "status": "offline",
       "activeUrlIndex": null,
-      "consecutiveFailures": 56,
+      "consecutiveFailures": 57,
       "urls": [
         {
           "url": "https://dygedge2.radyotvonline.net/kralpop/playlist.m3u8",
           "ok": false,
-          "checkedAt": "2026-08-13T05:51:59Z",
+          "checkedAt": "2026-08-13T09:49:33Z",
           "httpStatus": 404,
           "error": "HTTP 404"
         }
@@ -551,10 +551,10 @@
         {
           "url": "https://radyo.duhnet.tv/ak_dtvh_slowturk",
           "ok": true,
-          "checkedAt": "2026-08-13T05:51:59Z",
+          "checkedAt": "2026-08-13T09:49:33Z",
           "httpStatus": 200,
           "finalUrl": "https://radyo.duhnet.tv/ak_dtvh_slowturk",
-          "responseMs": 1582,
+          "responseMs": 2587,
           "contentType": "audio/aac",
           "validation": "stream-bytes"
         }
@@ -569,10 +569,10 @@
         {
           "url": "https://babaradyo.turkhosted.com/best/bestfm.stream/playlist.m3u8",
           "ok": true,
-          "checkedAt": "2026-08-13T05:51:59Z",
+          "checkedAt": "2026-08-13T09:49:33Z",
           "httpStatus": 200,
           "finalUrl": "https://babaradyo.turkhosted.com/best/bestfm.stream/playlist.m3u8",
-          "responseMs": 498,
+          "responseMs": 636,
           "contentType": "application/vnd.apple.mpegurl",
           "validation": "playlist-and-media"
         }
@@ -587,10 +587,10 @@
         {
           "url": "https://listen.radyotvonline.net/hls/play/adsonline_radyoviva.m3u8",
           "ok": true,
-          "checkedAt": "2026-08-13T05:51:59Z",
+          "checkedAt": "2026-08-13T09:49:33Z",
           "httpStatus": 200,
           "finalUrl": "https://listen.radyotvonline.net/hls/play/adsonline_radyoviva.m3u8",
-          "responseMs": 433,
+          "responseMs": 627,
           "contentType": "application/vnd.apple.mpegurl",
           "validation": "playlist-and-media"
         }
@@ -605,10 +605,10 @@
         {
           "url": "https://moondigitaledge.radyotvonline.net/palfm/playlist.m3u8",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:00Z",
+          "checkedAt": "2026-08-13T09:49:33Z",
           "httpStatus": 200,
           "finalUrl": "https://moondigitaledge.radyotvonline.net/palfm/playlist.m3u8",
-          "responseMs": 738,
+          "responseMs": 871,
           "contentType": "application/vnd.apple.mpegurl",
           "validation": "playlist-and-media"
         }
@@ -623,10 +623,10 @@
         {
           "url": "https://moondigitaledge.radyotvonline.net/palnostalji/playlist.m3u8",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:00Z",
+          "checkedAt": "2026-08-13T09:49:34Z",
           "httpStatus": 200,
           "finalUrl": "https://moondigitaledge.radyotvonline.net/palnostalji/playlist.m3u8",
-          "responseMs": 710,
+          "responseMs": 873,
           "contentType": "application/vnd.apple.mpegurl",
           "validation": "playlist-and-media"
         }
@@ -641,10 +641,10 @@
         {
           "url": "http://shoutcast.radyogrup.com:1020/",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:00Z",
+          "checkedAt": "2026-08-13T09:49:34Z",
           "httpStatus": 200,
           "finalUrl": "http://shoutcast.radyogrup.com:1020/",
-          "responseMs": 751,
+          "responseMs": 839,
           "contentType": "",
           "validation": "stream-bytes"
         }
@@ -659,20 +659,20 @@
         {
           "url": "https://moondigitalmaster.radyotvonline.net/kafaradyo/playlist.m3u8",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:00Z",
+          "checkedAt": "2026-08-13T09:49:34Z",
           "httpStatus": 200,
           "finalUrl": "https://moondigitalmaster.radyotvonline.net/kafaradyo/playlist.m3u8",
-          "responseMs": 674,
+          "responseMs": 785,
           "contentType": "application/vnd.apple.mpegurl",
           "validation": "playlist-and-media"
         },
         {
           "url": "https://moondigitaledge.radyotvonline.net/kafaradyo/playlist.m3u8",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:00Z",
+          "checkedAt": "2026-08-13T09:49:34Z",
           "httpStatus": 200,
           "finalUrl": "https://moondigitaledge.radyotvonline.net/kafaradyo/playlist.m3u8",
-          "responseMs": 684,
+          "responseMs": 952,
           "contentType": "application/vnd.apple.mpegurl",
           "validation": "playlist-and-media"
         }
@@ -687,10 +687,10 @@
         {
           "url": "https://babaradyo.turkhosted.com/best/babaradyo.stream/playlist.m3u8",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:00Z",
+          "checkedAt": "2026-08-13T09:49:34Z",
           "httpStatus": 200,
           "finalUrl": "https://babaradyo.turkhosted.com/best/babaradyo.stream/playlist.m3u8",
-          "responseMs": 425,
+          "responseMs": 339,
           "contentType": "application/vnd.apple.mpegurl",
           "validation": "playlist-and-media"
         }
@@ -705,10 +705,10 @@
         {
           "url": "https://ssl4.radyotvonline.com/radyohome/radyosporhome.stream_aac/playlist.m3u8",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:00Z",
+          "checkedAt": "2026-08-13T09:49:34Z",
           "httpStatus": 200,
           "finalUrl": "https://ssl4.radyotvonline.com/radyohome/radyosporhome.stream_aac/playlist.m3u8",
-          "responseMs": 777,
+          "responseMs": 977,
           "contentType": "application/vnd.apple.mpegurl",
           "validation": "playlist-and-media"
         }
@@ -723,10 +723,10 @@
         {
           "url": "https://alemfm.radyotvonline.net/alemfmaac",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:00Z",
+          "checkedAt": "2026-08-13T09:49:35Z",
           "httpStatus": 200,
           "finalUrl": "https://alemfm.radyotvonline.net/alemfmaac",
-          "responseMs": 486,
+          "responseMs": 651,
           "contentType": "audio/aac",
           "validation": "stream-bytes"
         }
@@ -741,10 +741,10 @@
         {
           "url": "https://live.radyofenomen.com/fenomen/abr/playlist.m3u8",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:01Z",
+          "checkedAt": "2026-08-13T09:49:35Z",
           "httpStatus": 200,
           "finalUrl": "https://live.radyofenomen.com/fenomen/abr/playlist.m3u8",
-          "responseMs": 957,
+          "responseMs": 1086,
           "contentType": "application/vnd.apple.mpegurl",
           "validation": "playlist-and-media"
         }
@@ -759,10 +759,10 @@
         {
           "url": "https://live.radyofenomen.com/fenomenturk/256/chunks.m3u8",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:01Z",
+          "checkedAt": "2026-08-13T09:49:35Z",
           "httpStatus": 200,
           "finalUrl": "https://live.radyofenomen.com/fenomenturk/256/chunks.m3u8",
-          "responseMs": 860,
+          "responseMs": 1068,
           "contentType": "application/vnd.apple.mpegurl",
           "validation": "playlist-and-media"
         }
@@ -777,10 +777,10 @@
         {
           "url": "https://live.radyofenomen.com/fenomenclubbin/128/icecast.audio",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:01Z",
+          "checkedAt": "2026-08-13T09:49:35Z",
           "httpStatus": 200,
           "finalUrl": "https://live.radyofenomen.com/fenomenclubbin/128/icecast.audio",
-          "responseMs": 942,
+          "responseMs": 1009,
           "contentType": "audio/aacp",
           "validation": "stream-bytes"
         }
@@ -795,10 +795,10 @@
         {
           "url": "https://live.radyofenomen.com/fenomenkarisik/abr/fenomenkarisik/128/chunks.m3u8",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:01Z",
+          "checkedAt": "2026-08-13T09:49:35Z",
           "httpStatus": 200,
           "finalUrl": "https://live.radyofenomen.com/fenomenkarisik/abr/fenomenkarisik/128/chunks.m3u8",
-          "responseMs": 654,
+          "responseMs": 889,
           "contentType": "application/vnd.apple.mpegurl",
           "validation": "playlist-and-media"
         }
@@ -813,10 +813,10 @@
         {
           "url": "https://live.radyofenomen.com/fenomenpop/abr/fenomenpop/128/chunks.m3u8",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:01Z",
+          "checkedAt": "2026-08-13T09:49:35Z",
           "httpStatus": 200,
           "finalUrl": "https://live.radyofenomen.com/fenomenpop/abr/fenomenpop/128/chunks.m3u8",
-          "responseMs": 1374,
+          "responseMs": 1045,
           "contentType": "application/vnd.apple.mpegurl",
           "validation": "playlist-and-media"
         }
@@ -831,10 +831,10 @@
         {
           "url": "https://live.radyofenomen.com/fenomendans/abr/fenomendans/128/chunks.m3u8",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:01Z",
+          "checkedAt": "2026-08-13T09:49:35Z",
           "httpStatus": 200,
           "finalUrl": "https://live.radyofenomen.com/fenomendans/abr/fenomendans/128/chunks.m3u8",
-          "responseMs": 817,
+          "responseMs": 1017,
           "contentType": "application/vnd.apple.mpegurl",
           "validation": "playlist-and-media"
         }
@@ -849,20 +849,20 @@
         {
           "url": "https://yayin.radyoseymen.com.tr:1070/stream",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:01Z",
+          "checkedAt": "2026-08-13T09:49:36Z",
           "httpStatus": 200,
           "finalUrl": "https://yayin.radyoseymen.com.tr:1070/stream",
-          "responseMs": 2119,
+          "responseMs": 2847,
           "contentType": "audio/aacp",
           "validation": "stream-bytes"
         },
         {
           "url": "https://yayin.radyoseymen.com.tr:1074/stream",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:01Z",
+          "checkedAt": "2026-08-13T09:49:36Z",
           "httpStatus": 200,
           "finalUrl": "https://yayin.radyoseymen.com.tr:1074/stream",
-          "responseMs": 2160,
+          "responseMs": 1777,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         }
@@ -877,10 +877,10 @@
         {
           "url": "https://sslyayin.netyayin.net:10909/",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:02Z",
+          "checkedAt": "2026-08-13T09:49:36Z",
           "httpStatus": 200,
           "finalUrl": "https://sslyayin.netyayin.net:10909/",
-          "responseMs": 545,
+          "responseMs": 673,
           "contentType": "audio/aacp",
           "validation": "stream-bytes"
         }
@@ -895,10 +895,10 @@
         {
           "url": "https://radyoozgur.kesintisizyayin.com:9898/;*.nsv",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:02Z",
+          "checkedAt": "2026-08-13T09:49:36Z",
           "httpStatus": 200,
           "finalUrl": "https://radyoozgur.kesintisizyayin.com:9898/;*.nsv",
-          "responseMs": 574,
+          "responseMs": 768,
           "contentType": "",
           "validation": "stream-bytes"
         }
@@ -913,10 +913,10 @@
         {
           "url": "http://yayin.netyayin.net:7077/;",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:02Z",
+          "checkedAt": "2026-08-13T09:49:36Z",
           "httpStatus": 200,
           "finalUrl": "http://yayin.netyayin.net:7077/;",
-          "responseMs": 435,
+          "responseMs": 563,
           "contentType": "",
           "validation": "stream-bytes"
         }
@@ -931,10 +931,10 @@
         {
           "url": "https://criturk.radyotvonline.net/criturk",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:02Z",
+          "checkedAt": "2026-08-13T09:49:36Z",
           "httpStatus": 200,
           "finalUrl": "https://criturk.radyotvonline.net/criturk",
-          "responseMs": 480,
+          "responseMs": 619,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         }
@@ -949,10 +949,10 @@
         {
           "url": "https://ip169.ozelip.com:10838/stream",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:02Z",
+          "checkedAt": "2026-08-13T09:49:36Z",
           "httpStatus": 200,
           "finalUrl": "https://ip169.ozelip.com:10838/stream",
-          "responseMs": 746,
+          "responseMs": 885,
           "contentType": "audio/aacp",
           "validation": "stream-bytes"
         }
@@ -967,10 +967,10 @@
         {
           "url": "https://stream.radyoodtu.com.tr/canli",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:02Z",
+          "checkedAt": "2026-08-13T09:49:37Z",
           "httpStatus": 200,
           "finalUrl": "https://stream3.radyoodtu.com.tr/canli",
-          "responseMs": 841,
+          "responseMs": 1074,
           "contentType": "audio/aacp",
           "validation": "stream-bytes"
         }
@@ -985,10 +985,10 @@
         {
           "url": "https://stream.radyoodtu.com.tr/rock",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:02Z",
+          "checkedAt": "2026-08-13T09:49:37Z",
           "httpStatus": 200,
           "finalUrl": "https://stream3.radyoodtu.com.tr/rock",
-          "responseMs": 800,
+          "responseMs": 974,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         }
@@ -1003,10 +1003,10 @@
         {
           "url": "https://stream.radyoodtu.com.tr/easy",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:02Z",
+          "checkedAt": "2026-08-13T09:49:37Z",
           "httpStatus": 200,
           "finalUrl": "https://stream3.radyoodtu.com.tr/easy",
-          "responseMs": 771,
+          "responseMs": 880,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         }
@@ -1021,10 +1021,10 @@
         {
           "url": "https://stream.radyoodtu.com.tr/karisikkaset",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:02Z",
+          "checkedAt": "2026-08-13T09:49:37Z",
           "httpStatus": 200,
           "finalUrl": "https://stream3.radyoodtu.com.tr/karisikkaset",
-          "responseMs": 656,
+          "responseMs": 869,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         }
@@ -1039,10 +1039,10 @@
         {
           "url": "https://stream.radyoodtu.com.tr/hit",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:03Z",
+          "checkedAt": "2026-08-13T09:49:37Z",
           "httpStatus": 200,
           "finalUrl": "https://stream3.radyoodtu.com.tr/hit",
-          "responseMs": 817,
+          "responseMs": 898,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         }
@@ -1057,10 +1057,10 @@
         {
           "url": "https://stream.radyoodtu.com.tr/40_haramiler",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:03Z",
+          "checkedAt": "2026-08-13T09:49:37Z",
           "httpStatus": 200,
           "finalUrl": "https://stream3.radyoodtu.com.tr/40_haramiler",
-          "responseMs": 744,
+          "responseMs": 821,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         }
@@ -1075,10 +1075,10 @@
         {
           "url": "https://stream.radyoodtu.com.tr/hiphop",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:03Z",
+          "checkedAt": "2026-08-13T09:49:37Z",
           "httpStatus": 200,
           "finalUrl": "https://stream3.radyoodtu.com.tr/hiphop",
-          "responseMs": 759,
+          "responseMs": 765,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         }
@@ -1086,19 +1086,16 @@
     },
     "radyo-odtu-k-pop": {
       "name": "Radyo ODTÜ K-Pop",
-      "status": "online",
-      "activeUrlIndex": 0,
-      "consecutiveFailures": 0,
+      "status": "warning",
+      "activeUrlIndex": null,
+      "consecutiveFailures": 1,
       "urls": [
         {
           "url": "https://stream.radyoodtu.com.tr/kpop",
-          "ok": true,
-          "checkedAt": "2026-08-13T05:52:03Z",
-          "httpStatus": 200,
-          "finalUrl": "https://stream3.radyoodtu.com.tr/kpop",
-          "responseMs": 695,
-          "contentType": "audio/mpeg",
-          "validation": "stream-bytes"
+          "ok": false,
+          "checkedAt": "2026-08-13T09:49:37Z",
+          "httpStatus": 401,
+          "error": "HTTP 401"
         }
       ]
     },
@@ -1111,10 +1108,10 @@
         {
           "url": "https://stream.radyoodtu.com.tr/science",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:03Z",
+          "checkedAt": "2026-08-13T09:49:37Z",
           "httpStatus": 200,
           "finalUrl": "https://stream3.radyoodtu.com.tr/science",
-          "responseMs": 872,
+          "responseMs": 1029,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         }
@@ -1129,17 +1126,17 @@
         {
           "url": "https://stream.radyolarburada.com:8020/yonradyo",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:03Z",
+          "checkedAt": "2026-08-13T09:49:37Z",
           "httpStatus": 200,
           "finalUrl": "https://stream.radyolarburada.com:8020/yonradyo",
-          "responseMs": 849,
+          "responseMs": 1101,
           "contentType": "",
           "validation": "stream-bytes"
         },
         {
           "url": "https://stream.radyolarburada.com:8050/",
           "ok": false,
-          "checkedAt": "2026-08-13T05:52:03Z",
+          "checkedAt": "2026-08-13T09:49:37Z",
           "httpStatus": 401,
           "error": "HTTP 401"
         }
@@ -1154,20 +1151,20 @@
         {
           "url": "http://n01.radiojar.com:80/14wbvawntg0uv",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:03Z",
+          "checkedAt": "2026-08-13T09:49:38Z",
           "httpStatus": 200,
-          "finalUrl": "http://n05.radiojar.com/14wbvawntg0uv?rj-ttl=5&rj-tok=AAABn_m2onYAZzg6GO42lmppWQ",
-          "responseMs": 459,
+          "finalUrl": "http://n11.radiojar.com/14wbvawntg0uv?rj-ttl=5&rj-tok=AAABn_qQJLsAVqWRn_McNIkkSA",
+          "responseMs": 826,
           "contentType": "",
           "validation": "stream-bytes"
         },
         {
           "url": "http://n05.radiojar.com:80/14wbvawntg0uv",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:03Z",
+          "checkedAt": "2026-08-13T09:49:38Z",
           "httpStatus": 200,
-          "finalUrl": "http://n0c.radiojar.com/14wbvawntg0uv?rj-ttl=5&rj-tok=AAABn_m2oxwABmZTEGG0Frs7HQ",
-          "responseMs": 708,
+          "finalUrl": "http://n04.radiojar.com/14wbvawntg0uv?rj-ttl=5&rj-tok=AAABn_qQJJ8A8HYE1hoYan_bjA",
+          "responseMs": 798,
           "contentType": "",
           "validation": "stream-bytes"
         }
@@ -1182,17 +1179,17 @@
         {
           "url": "https://stream.radyo45lik.com:4545/",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:03Z",
+          "checkedAt": "2026-08-13T09:49:38Z",
           "httpStatus": 200,
           "finalUrl": "https://stream.radyo45lik.com:4545/",
-          "responseMs": 1978,
+          "responseMs": 3041,
           "contentType": "audio/aac",
           "validation": "stream-bytes"
         },
         {
           "url": "https://moondigitaledge.radyotvonline.net/radyo45lik/playlist.m3u8",
           "ok": false,
-          "checkedAt": "2026-08-13T05:52:03Z",
+          "checkedAt": "2026-08-13T09:49:38Z",
           "httpStatus": 501,
           "error": "HTTP 501"
         }
@@ -1202,12 +1199,12 @@
       "name": "Radyo İLEF",
       "status": "offline",
       "activeUrlIndex": null,
-      "consecutiveFailures": 19,
+      "consecutiveFailures": 20,
       "urls": [
         {
           "url": "http://radyo.cc.ankara.edu.tr:8089/;",
           "ok": false,
-          "checkedAt": "2026-08-13T05:52:03Z",
+          "checkedAt": "2026-08-13T09:49:38Z",
           "error": "URLError: <urlopen error timed out>"
         }
       ]
@@ -1216,12 +1213,12 @@
       "name": "Radyo Slow Time",
       "status": "offline",
       "activeUrlIndex": null,
-      "consecutiveFailures": 56,
+      "consecutiveFailures": 57,
       "urls": [
         {
           "url": "http://46.20.7.103:8040/;",
           "ok": false,
-          "checkedAt": "2026-08-13T05:52:03Z",
+          "checkedAt": "2026-08-13T09:49:38Z",
           "error": "BadStatusLine: ICY 200 OK\r\n"
         }
       ]
@@ -1235,30 +1232,30 @@
         {
           "url": "https://dygedge.radyotvonline.net/radyovoyage/playlist.m3u8",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:04Z",
+          "checkedAt": "2026-08-13T09:49:38Z",
           "httpStatus": 200,
           "finalUrl": "https://dygedge.radyotvonline.net/radyovoyage/playlist.m3u8",
-          "responseMs": 1059,
+          "responseMs": 1086,
           "contentType": "application/vnd.apple.mpegurl",
           "validation": "playlist-and-media"
         },
         {
           "url": "https://ssldyg.radyotvonline.com/pozitif/smil:voyage.smil/playlist.m3u8",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:04Z",
+          "checkedAt": "2026-08-13T09:49:38Z",
           "httpStatus": 200,
           "finalUrl": "https://ssldyg.radyotvonline.com/pozitif/smil:voyage.smil/playlist.m3u8",
-          "responseMs": 836,
+          "responseMs": 1087,
           "contentType": "application/vnd.apple.mpegurl",
           "validation": "playlist-and-media"
         },
         {
           "url": "http://voyagewmp.radyotvonline.com/;",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:04Z",
+          "checkedAt": "2026-08-13T09:49:38Z",
           "httpStatus": 200,
           "finalUrl": "http://voyagewmp.radyotvonline.com/;",
-          "responseMs": 919,
+          "responseMs": 947,
           "contentType": "audio/aacp",
           "validation": "stream-bytes"
         }
@@ -1273,10 +1270,10 @@
         {
           "url": "http://shoutcast.radyogrup.com:1040/;*.mp3",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:04Z",
+          "checkedAt": "2026-08-13T09:49:38Z",
           "httpStatus": 200,
           "finalUrl": "http://shoutcast.radyogrup.com:1040/;*.mp3",
-          "responseMs": 646,
+          "responseMs": 692,
           "contentType": "",
           "validation": "stream-bytes"
         }
@@ -1291,10 +1288,10 @@
         {
           "url": "https://moondigitaledge2.radyotvonline.net/radyod/playlist.m3u8",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:04Z",
+          "checkedAt": "2026-08-13T09:49:38Z",
           "httpStatus": 200,
           "finalUrl": "https://moondigitaledge2.radyotvonline.net/radyod/playlist.m3u8",
-          "responseMs": 1544,
+          "responseMs": 1435,
           "contentType": "application/vnd.apple.mpegurl",
           "validation": "playlist-and-media"
         }
@@ -1309,20 +1306,20 @@
         {
           "url": "https://wowza1.radyotvonline.com/unitedmedia/kentfm.stream/playlist.m3u8",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:04Z",
+          "checkedAt": "2026-08-13T09:49:38Z",
           "httpStatus": 200,
           "finalUrl": "https://wowza1.radyotvonline.com/unitedmedia/kentfm.stream/playlist.m3u8",
-          "responseMs": 455,
+          "responseMs": 519,
           "contentType": "application/vnd.apple.mpegurl",
           "validation": "playlist-and-media"
         },
         {
           "url": "https://wowza1.radyotvonline.com/unitedmedia/kentfm.stream/chunklist.m3u8",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:04Z",
+          "checkedAt": "2026-08-13T09:49:38Z",
           "httpStatus": 200,
           "finalUrl": "https://wowza1.radyotvonline.com/unitedmedia/kentfm.stream/chunklist.m3u8",
-          "responseMs": 443,
+          "responseMs": 477,
           "contentType": "application/vnd.apple.mpegurl",
           "validation": "playlist-and-media"
         }
@@ -1337,10 +1334,10 @@
         {
           "url": "https://stream.metropolfm.de/MFM45lik/mp3-256/TuneIn",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:04Z",
+          "checkedAt": "2026-08-13T09:49:38Z",
           "httpStatus": 200,
-          "finalUrl": "https://metropolfm.streamabc.net/77-mfm45lik-mp3-256-8705643?sABC=6n7q5o84%230%2312468r99pqns4p0n1qq29s8o21257o1r%23GharVa&aw_0_1st.playerid=TuneIn&amsparams=playerid:TuneIn;skey:1786600324",
-          "responseMs": 1207,
+          "finalUrl": "https://metropolfm.streamabc.net/77-mfm45lik-mp3-256-8705643?sABC=6n7q9333%230%232407p776786n823r584r48os3srr6r12%23GharVa&aw_0_1st.playerid=TuneIn&amsparams=playerid:TuneIn;skey:1786614579",
+          "responseMs": 1342,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         }
@@ -1355,20 +1352,20 @@
         {
           "url": "https://yayin.rtmp.org:8752/stream",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:04Z",
+          "checkedAt": "2026-08-13T09:49:38Z",
           "httpStatus": 200,
           "finalUrl": "https://yayin.rtmp.org:8752/stream",
-          "responseMs": 618,
+          "responseMs": 824,
           "contentType": "",
           "validation": "stream-bytes"
         },
         {
           "url": "http://yayin.rtmp.org:8752/stream",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:04Z",
+          "checkedAt": "2026-08-13T09:49:39Z",
           "httpStatus": 200,
           "finalUrl": "http://yayin.rtmp.org:8752/stream",
-          "responseMs": 426,
+          "responseMs": 405,
           "contentType": "",
           "validation": "stream-bytes"
         }
@@ -1383,10 +1380,10 @@
         {
           "url": "https://stream.zeno.fm/czwwh7xfqm0uv",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:05Z",
+          "checkedAt": "2026-08-13T09:49:39Z",
           "httpStatus": 200,
-          "finalUrl": "https://stream-178.surfernetwork.com/czwwh7xfqm0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjend3aDd4ZnFtMHV2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjlSU0NxMndmUjRla1VxSkU2SThwb3ciLCJpYXQiOjE3ODY2MDAzMjUsImV4cCI6MTc4NjYwMDM4NX0.jro6TuTtDMHb00Z8808Nm8QUHMpgZqj8G4VGaAeJLaM",
-          "responseMs": 316,
+          "finalUrl": "https://stream-175.surfernetwork.com/czwwh7xfqm0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjend3aDd4ZnFtMHV2IiwiaG9zdCI6InN0cmVhbS0xNzUuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Im96aUt5WlJtUzNpYjE5c1lrU2FHRmciLCJpYXQiOjE3ODY2MTQ1NzksImV4cCI6MTc4NjYxNDYzOX0.0u2hYuAvdT0EhaoTBMrOYumbXK39mMio4-dn27k5qoU",
+          "responseMs": 377,
           "contentType": "",
           "validation": "stream-bytes"
         }
@@ -1401,17 +1398,17 @@
         {
           "url": "https://stream.netradyom.com/listen/radyosu/radio.mp3",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:05Z",
+          "checkedAt": "2026-08-13T09:49:39Z",
           "httpStatus": 200,
           "finalUrl": "https://stream.netradyom.com/listen/radyosu/radio.mp3",
-          "responseMs": 1178,
+          "responseMs": 1400,
           "contentType": "audio/aacp",
           "validation": "stream-bytes"
         },
         {
           "url": "https://stream.netradyom.com/public/radyosu/playlist.m3u",
           "ok": false,
-          "checkedAt": "2026-08-13T05:52:05Z",
+          "checkedAt": "2026-08-13T09:49:39Z",
           "error": "ValueError: Geçerli playlist başlığı bulunamadı"
         }
       ]
@@ -1425,10 +1422,10 @@
         {
           "url": "https://yayin.turkhosted.com:6056/mp3",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:05Z",
+          "checkedAt": "2026-08-13T09:49:39Z",
           "httpStatus": 200,
           "finalUrl": "https://yayin.turkhosted.com:6056/mp3",
-          "responseMs": 625,
+          "responseMs": 826,
           "contentType": "",
           "validation": "stream-bytes"
         }
@@ -1443,10 +1440,10 @@
         {
           "url": "http://yayin1.yayindakiler.com:3002/;stream.nsv",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:05Z",
+          "checkedAt": "2026-08-13T09:49:39Z",
           "httpStatus": 200,
           "finalUrl": "http://yayin1.yayindakiler.com:3002/;stream.nsv",
-          "responseMs": 456,
+          "responseMs": 600,
           "contentType": "",
           "validation": "stream-bytes"
         }
@@ -1461,10 +1458,10 @@
         {
           "url": "https://moondigitaledge.radyotvonline.net/radyotrafik/playlist.m3u8",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:05Z",
+          "checkedAt": "2026-08-13T09:49:39Z",
           "httpStatus": 200,
           "finalUrl": "https://moondigitaledge.radyotvonline.net/radyotrafik/playlist.m3u8",
-          "responseMs": 807,
+          "responseMs": 830,
           "contentType": "application/vnd.apple.mpegurl",
           "validation": "playlist-and-media"
         }
@@ -1479,10 +1476,10 @@
         {
           "url": "https://wowza1.radyotvonline.com/saran/radyotrafikankara.stream/playlist.m3u8",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:05Z",
+          "checkedAt": "2026-08-13T09:49:39Z",
           "httpStatus": 200,
           "finalUrl": "https://wowza1.radyotvonline.com/saran/radyotrafikankara.stream/playlist.m3u8",
-          "responseMs": 249,
+          "responseMs": 335,
           "contentType": "application/vnd.apple.mpegurl",
           "validation": "playlist-and-media"
         }
@@ -1497,20 +1494,20 @@
         {
           "url": "https://stream.34bit.net/ar.mp3",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:05Z",
+          "checkedAt": "2026-08-13T09:49:40Z",
           "httpStatus": 200,
           "finalUrl": "https://stream.34bit.net/ar.mp3",
-          "responseMs": 692,
+          "responseMs": 740,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         },
         {
           "url": "https://stream.34bit.net/ar.aac",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:05Z",
+          "checkedAt": "2026-08-13T09:49:40Z",
           "httpStatus": 200,
           "finalUrl": "https://stream.34bit.net/ar.aac",
-          "responseMs": 569,
+          "responseMs": 849,
           "contentType": "audio/aac",
           "validation": "stream-bytes"
         }
@@ -1520,28 +1517,31 @@
       "name": "Polis Radyosu",
       "status": "offline",
       "activeUrlIndex": null,
-      "consecutiveFailures": 56,
+      "consecutiveFailures": 57,
       "urls": [
         {
           "url": "https://m.egm.gov.tr:8093//;?type=http&nocache=1",
           "ok": false,
-          "checkedAt": "2026-08-13T05:52:05Z",
+          "checkedAt": "2026-08-13T09:49:40Z",
           "error": "URLError: <urlopen error timed out>"
         }
       ]
     },
     "radyo-fenerbahce": {
       "name": "Radyo Fenerbahçe",
-      "status": "warning",
-      "activeUrlIndex": null,
-      "consecutiveFailures": 1,
+      "status": "online",
+      "activeUrlIndex": 0,
+      "consecutiveFailures": 0,
       "urls": [
         {
           "url": "https://radyofenerbahce.fenerbahce.org/radyofenerbahce/radyofenerbahce.stream_aac/playlist.m3u8",
-          "ok": false,
-          "checkedAt": "2026-08-13T05:52:05Z",
-          "httpStatus": 404,
-          "error": "HTTP 404"
+          "ok": true,
+          "checkedAt": "2026-08-13T09:49:40Z",
+          "httpStatus": 200,
+          "finalUrl": "https://radyofenerbahce.fenerbahce.org/radyofenerbahce/radyofenerbahce.stream_aac/playlist.m3u8",
+          "responseMs": 662,
+          "contentType": "application/vnd.apple.mpegurl",
+          "validation": "playlist-and-media"
         }
       ]
     },
@@ -1554,10 +1554,10 @@
         {
           "url": "http://showradyo.radyotvonline.net/showradyoaac/",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:05Z",
+          "checkedAt": "2026-08-13T09:49:40Z",
           "httpStatus": 200,
           "finalUrl": "http://showradyo.radyotvonline.net/showradyoaac/",
-          "responseMs": 837,
+          "responseMs": 531,
           "contentType": "audio/aac",
           "validation": "stream-bytes"
         }
@@ -1572,10 +1572,10 @@
         {
           "url": "https://haberturkradyo.radyotvonline.net/haberturkradyo",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:05Z",
+          "checkedAt": "2026-08-13T09:49:40Z",
           "httpStatus": 200,
           "finalUrl": "https://haberturkradyo.radyotvonline.net/haberturkradyo",
-          "responseMs": 948,
+          "responseMs": 676,
           "contentType": "audio/aac",
           "validation": "stream-bytes"
         }
@@ -1590,10 +1590,10 @@
         {
           "url": "https://trkvz-radyolar.ercdn.net/radyoturkuvaz/playlist.m3u8",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:06Z",
+          "checkedAt": "2026-08-13T09:49:41Z",
           "httpStatus": 200,
           "finalUrl": "https://trkvz-radyolar.ercdn.net/radyoturkuvaz/playlist.m3u8",
-          "responseMs": 475,
+          "responseMs": 807,
           "contentType": "application/vnd.apple.mpegurl",
           "validation": "playlist-and-media"
         }
@@ -1608,10 +1608,10 @@
         {
           "url": "https://yayin.kalpfm.com:8080/",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:06Z",
+          "checkedAt": "2026-08-13T09:49:41Z",
           "httpStatus": 200,
           "finalUrl": "https://yayin.kalpfm.com:8080/",
-          "responseMs": 1788,
+          "responseMs": 2748,
           "contentType": "audio/aacp",
           "validation": "stream-bytes"
         }
@@ -1626,20 +1626,20 @@
         {
           "url": "http://yayin.netradyom.com:9910/RADYOBANKO",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:06Z",
+          "checkedAt": "2026-08-13T09:49:41Z",
           "httpStatus": 200,
           "finalUrl": "http://yayin.netradyom.com:9910/RADYOBANKO",
-          "responseMs": 829,
+          "responseMs": 1058,
           "contentType": "",
           "validation": "stream-bytes"
         },
         {
           "url": "http://yayin.netradyom.com:8050/RADYOBANKO",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:06Z",
+          "checkedAt": "2026-08-13T09:49:41Z",
           "httpStatus": 200,
           "finalUrl": "http://yayin.netradyom.com:8050/RADYOBANKO",
-          "responseMs": 826,
+          "responseMs": 955,
           "contentType": "",
           "validation": "stream-bytes"
         }
@@ -1654,20 +1654,20 @@
         {
           "url": "http://yayin.asymedya.com:8020/;",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:06Z",
+          "checkedAt": "2026-08-13T09:49:41Z",
           "httpStatus": 200,
           "finalUrl": "http://yayin.asymedya.com:8020/;",
-          "responseMs": 617,
+          "responseMs": 737,
           "contentType": "",
           "validation": "stream-bytes"
         },
         {
           "url": "https://stream.netradyom.com/listen/askfm1/radio.mp3",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:06Z",
+          "checkedAt": "2026-08-13T09:49:41Z",
           "httpStatus": 200,
           "finalUrl": "https://stream.netradyom.com/listen/askfm1/radio.mp3",
-          "responseMs": 981,
+          "responseMs": 1203,
           "contentType": "audio/aacp",
           "validation": "stream-bytes"
         }
@@ -1682,10 +1682,10 @@
         {
           "url": "http://23623.live.streamtheworld.com:3690/POP90AAC_SC",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:06Z",
+          "checkedAt": "2026-08-13T09:49:41Z",
           "httpStatus": 200,
           "finalUrl": "http://23623.live.streamtheworld.com:3690/POP90AAC_SC",
-          "responseMs": 999,
+          "responseMs": 1005,
           "contentType": "audio/aacp",
           "validation": "stream-bytes"
         }
@@ -1700,10 +1700,10 @@
         {
           "url": "https://moondigitaledge.radyotvonline.net/90lar/playlist.m3u8",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:06Z",
+          "checkedAt": "2026-08-13T09:49:41Z",
           "httpStatus": 200,
           "finalUrl": "https://moondigitaledge.radyotvonline.net/90lar/playlist.m3u8",
-          "responseMs": 689,
+          "responseMs": 892,
           "contentType": "application/vnd.apple.mpegurl",
           "validation": "playlist-and-media"
         }
@@ -1718,10 +1718,10 @@
         {
           "url": "https://moondigitaledge.radyotvonline.net/altinsarkilar/playlist.m3u8",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:06Z",
+          "checkedAt": "2026-08-13T09:49:41Z",
           "httpStatus": 200,
           "finalUrl": "https://moondigitaledge.radyotvonline.net/altinsarkilar/playlist.m3u8",
-          "responseMs": 762,
+          "responseMs": 872,
           "contentType": "application/vnd.apple.mpegurl",
           "validation": "playlist-and-media"
         }
@@ -1736,10 +1736,10 @@
         {
           "url": "https://moondigitaledge.radyotvonline.net/slowhome/playlist.m3u8",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:06Z",
+          "checkedAt": "2026-08-13T09:49:42Z",
           "httpStatus": 200,
           "finalUrl": "https://moondigitaledge.radyotvonline.net/slowhome/playlist.m3u8",
-          "responseMs": 732,
+          "responseMs": 917,
           "contentType": "application/vnd.apple.mpegurl",
           "validation": "playlist-and-media"
         }
@@ -1754,10 +1754,10 @@
         {
           "url": "https://moondigitaledge.radyotvonline.net/relaxhome/playlist.m3u8",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:07Z",
+          "checkedAt": "2026-08-13T09:49:42Z",
           "httpStatus": 200,
           "finalUrl": "https://moondigitaledge.radyotvonline.net/relaxhome/playlist.m3u8",
-          "responseMs": 675,
+          "responseMs": 925,
           "contentType": "application/vnd.apple.mpegurl",
           "validation": "playlist-and-media"
         }
@@ -1772,10 +1772,10 @@
         {
           "url": "https://moondigitaledge.radyotvonline.net/melankolikhome/playlist.m3u8",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:07Z",
+          "checkedAt": "2026-08-13T09:49:42Z",
           "httpStatus": 200,
           "finalUrl": "https://moondigitaledge.radyotvonline.net/melankolikhome/playlist.m3u8",
-          "responseMs": 711,
+          "responseMs": 959,
           "contentType": "application/vnd.apple.mpegurl",
           "validation": "playlist-and-media"
         }
@@ -1790,10 +1790,10 @@
         {
           "url": "https://moondigitaledge.radyotvonline.net/pophome/playlist.m3u8",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:07Z",
+          "checkedAt": "2026-08-13T09:49:42Z",
           "httpStatus": 200,
           "finalUrl": "https://moondigitaledge.radyotvonline.net/pophome/playlist.m3u8",
-          "responseMs": 701,
+          "responseMs": 941,
           "contentType": "application/vnd.apple.mpegurl",
           "validation": "playlist-and-media"
         }
@@ -1808,10 +1808,10 @@
         {
           "url": "https://moondigitaledge.radyotvonline.net/radyovokal/playlist.m3u8",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:07Z",
+          "checkedAt": "2026-08-13T09:49:42Z",
           "httpStatus": 200,
           "finalUrl": "https://moondigitaledge.radyotvonline.net/radyovokal/playlist.m3u8",
-          "responseMs": 675,
+          "responseMs": 822,
           "contentType": "application/vnd.apple.mpegurl",
           "validation": "playlist-and-media"
         }
@@ -1826,10 +1826,10 @@
         {
           "url": "https://live.radyositesihazir.com/7000/stream",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:07Z",
+          "checkedAt": "2026-08-13T09:49:42Z",
           "httpStatus": 200,
           "finalUrl": "https://live.radyositesihazir.com/7000/stream",
-          "responseMs": 615,
+          "responseMs": 717,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         }
@@ -1844,10 +1844,10 @@
         {
           "url": "http://mega.netradyom.com:7900/radio.mp3",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:07Z",
+          "checkedAt": "2026-08-13T09:49:42Z",
           "httpStatus": 200,
           "finalUrl": "http://mega.netradyom.com:7900/radio.mp3",
-          "responseMs": 723,
+          "responseMs": 831,
           "contentType": "",
           "validation": "stream-bytes"
         }
@@ -1862,10 +1862,10 @@
         {
           "url": "https://yayin.jumboserver.net:9100/stream",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:07Z",
+          "checkedAt": "2026-08-13T09:49:43Z",
           "httpStatus": 200,
           "finalUrl": "https://yayin.jumboserver.net:9100/stream",
-          "responseMs": 1695,
+          "responseMs": 2958,
           "contentType": "audio/aac",
           "validation": "stream-bytes"
         }
@@ -1880,10 +1880,10 @@
         {
           "url": "https://anadolu.liderhost.com.tr/9002/stream",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:08Z",
+          "checkedAt": "2026-08-13T09:49:43Z",
           "httpStatus": 200,
           "finalUrl": "https://anadolu.liderhost.com.tr/9002/stream",
-          "responseMs": 1109,
+          "responseMs": 1122,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         }
@@ -1898,10 +1898,10 @@
         {
           "url": "http://178.32.4.127:8046/stream",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:08Z",
+          "checkedAt": "2026-08-13T09:49:43Z",
           "httpStatus": 200,
           "finalUrl": "http://178.32.4.127:8046/stream",
-          "responseMs": 328,
+          "responseMs": 402,
           "contentType": "",
           "validation": "stream-bytes"
         }
@@ -1916,10 +1916,10 @@
         {
           "url": "https://sslyayin.netyayin.net:10946/stream",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:08Z",
+          "checkedAt": "2026-08-13T09:49:43Z",
           "httpStatus": 200,
           "finalUrl": "https://sslyayin.netyayin.net:10946/stream",
-          "responseMs": 542,
+          "responseMs": 674,
           "contentType": "audio/aacp",
           "validation": "stream-bytes"
         }
@@ -1934,10 +1934,10 @@
         {
           "url": "http://live4.radyotvonline.com:9450/",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:08Z",
+          "checkedAt": "2026-08-13T09:49:43Z",
           "httpStatus": 200,
           "finalUrl": "http://live4.radyotvonline.com:9450/",
-          "responseMs": 755,
+          "responseMs": 1066,
           "contentType": "audio/aacp",
           "validation": "stream-bytes"
         }
@@ -1952,10 +1952,10 @@
         {
           "url": "http://yayin.radyomadyo.com:8002/stream",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:08Z",
+          "checkedAt": "2026-08-13T09:49:43Z",
           "httpStatus": 200,
           "finalUrl": "http://yayin.radyomadyo.com:8002/stream",
-          "responseMs": 878,
+          "responseMs": 1303,
           "contentType": "audio/aacp",
           "validation": "stream-bytes"
         }
@@ -1970,10 +1970,10 @@
         {
           "url": "https://eustr75.mediatriple.net/Number1Media/30_Number1_Turk_Rap.stream/playlist.m3u8",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:08Z",
+          "checkedAt": "2026-08-13T09:49:44Z",
           "httpStatus": 200,
           "finalUrl": "https://eustr75.mediatriple.net/Number1Media/30_Number1_Turk_Rap.stream/playlist.m3u8",
-          "responseMs": 623,
+          "responseMs": 922,
           "contentType": "application/vnd.apple.mpegurl",
           "validation": "playlist-and-media"
         }
@@ -1988,10 +1988,10 @@
         {
           "url": "https://27913.live.streamtheworld.com/MYDONOSE_TURK128AAC.aac",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:08Z",
+          "checkedAt": "2026-08-13T09:49:44Z",
           "httpStatus": 200,
           "finalUrl": "https://27913.live.streamtheworld.com/MYDONOSE_TURK128AAC.aac",
-          "responseMs": 1029,
+          "responseMs": 1165,
           "contentType": "",
           "validation": "stream-bytes"
         }
@@ -2006,10 +2006,10 @@
         {
           "url": "https://canli.dtnostalji.com.tr/9999/stream",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:08Z",
+          "checkedAt": "2026-08-13T09:49:44Z",
           "httpStatus": 200,
           "finalUrl": "https://canli.dtnostalji.com.tr/9999/stream",
-          "responseMs": 760,
+          "responseMs": 888,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         }
@@ -2024,20 +2024,20 @@
         {
           "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/YOL_ARKADASIM128AAC.aac",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:08Z",
+          "checkedAt": "2026-08-13T09:49:44Z",
           "httpStatus": 200,
-          "finalUrl": "https://25553.live.streamtheworld.com:443/YOL_ARKADASIM128AAC.aac",
-          "responseMs": 1646,
+          "finalUrl": "https://22183.live.streamtheworld.com:443/YOL_ARKADASIM128AAC.aac",
+          "responseMs": 1538,
           "contentType": "",
           "validation": "stream-bytes"
         },
         {
           "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/YOL_ARKADASIM32AAC.aac",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:09Z",
+          "checkedAt": "2026-08-13T09:49:44Z",
           "httpStatus": 200,
-          "finalUrl": "https://27913.live.streamtheworld.com:443/YOL_ARKADASIM32AAC.aac",
-          "responseMs": 1229,
+          "finalUrl": "https://25553.live.streamtheworld.com:443/YOL_ARKADASIM32AAC.aac",
+          "responseMs": 1791,
           "contentType": "",
           "validation": "stream-bytes"
         }
@@ -2052,20 +2052,20 @@
         {
           "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_JAZZAAC.aac",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:09Z",
+          "checkedAt": "2026-08-13T09:49:44Z",
           "httpStatus": 200,
-          "finalUrl": "https://27783.live.streamtheworld.com:443/JOY_JAZZAAC.aac",
-          "responseMs": 1383,
+          "finalUrl": "https://29053.live.streamtheworld.com:443/JOY_JAZZAAC.aac",
+          "responseMs": 1636,
           "contentType": "",
           "validation": "stream-bytes"
         },
         {
           "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_JAZZ32AAC.aac",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:09Z",
+          "checkedAt": "2026-08-13T09:49:44Z",
           "httpStatus": 200,
-          "finalUrl": "https://27953.live.streamtheworld.com:443/JOY_JAZZ32AAC.aac",
-          "responseMs": 1207,
+          "finalUrl": "https://25653.live.streamtheworld.com:443/JOY_JAZZ32AAC.aac",
+          "responseMs": 1185,
           "contentType": "",
           "validation": "stream-bytes"
         }
@@ -2080,30 +2080,30 @@
         {
           "url": "https://live.powerapp.com.tr/powergreece/128/playlist.m3u8",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:09Z",
+          "checkedAt": "2026-08-13T09:49:44Z",
           "httpStatus": 200,
           "finalUrl": "https://live.powerapp.com.tr/powergreece/128/playlist.m3u8",
-          "responseMs": 1585,
+          "responseMs": 923,
           "contentType": "application/vnd.apple.mpegurl",
           "validation": "playlist-and-media"
         },
         {
           "url": "https://live.powerapp.com.tr/powergreece/96/playlist.m3u8",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:09Z",
+          "checkedAt": "2026-08-13T09:49:45Z",
           "httpStatus": 200,
           "finalUrl": "https://live.powerapp.com.tr/powergreece/96/playlist.m3u8",
-          "responseMs": 1499,
+          "responseMs": 794,
           "contentType": "application/vnd.apple.mpegurl",
           "validation": "playlist-and-media"
         },
         {
           "url": "https://live.powerapp.com.tr/powergreece/256/playlist.m3u8",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:09Z",
+          "checkedAt": "2026-08-13T09:49:45Z",
           "httpStatus": 200,
           "finalUrl": "https://live.powerapp.com.tr/powergreece/256/playlist.m3u8",
-          "responseMs": 1444,
+          "responseMs": 1441,
           "contentType": "application/vnd.apple.mpegurl",
           "validation": "playlist-and-media"
         }
@@ -2118,20 +2118,20 @@
         {
           "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/GONUL_TURKULERI128AAC.aac",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:09Z",
+          "checkedAt": "2026-08-13T09:49:45Z",
           "httpStatus": 200,
-          "finalUrl": "https://25553.live.streamtheworld.com:443/GONUL_TURKULERI128AAC.aac",
-          "responseMs": 1354,
+          "finalUrl": "https://25453.live.streamtheworld.com:443/GONUL_TURKULERI128AAC.aac",
+          "responseMs": 1610,
           "contentType": "",
           "validation": "stream-bytes"
         },
         {
           "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/GONUL_TURKULERI32AAC.aac",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:09Z",
+          "checkedAt": "2026-08-13T09:49:45Z",
           "httpStatus": 200,
-          "finalUrl": "https://25503.live.streamtheworld.com:443/GONUL_TURKULERI32AAC.aac",
-          "responseMs": 1449,
+          "finalUrl": "https://25703.live.streamtheworld.com:443/GONUL_TURKULERI32AAC.aac",
+          "responseMs": 1392,
           "contentType": "",
           "validation": "stream-bytes"
         }
@@ -2146,10 +2146,10 @@
         {
           "url": "https://sslyayin.netyayin.net/8510/stream/;",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:09Z",
+          "checkedAt": "2026-08-13T09:49:45Z",
           "httpStatus": 200,
           "finalUrl": "https://sslyayin.netyayin.net/8510/stream/;",
-          "responseMs": 516,
+          "responseMs": 673,
           "contentType": "audio/aacp",
           "validation": "stream-bytes"
         }
@@ -2164,10 +2164,10 @@
         {
           "url": "https://r1.comcities.com/proxy/radyoyol/stream",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:10Z",
+          "checkedAt": "2026-08-13T09:49:45Z",
           "httpStatus": 200,
           "finalUrl": "https://r1.comcities.com/proxy/radyoyol/stream",
-          "responseMs": 658,
+          "responseMs": 828,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         }
@@ -2182,10 +2182,10 @@
         {
           "url": "https://free.rcast.net/200259?/;",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:10Z",
+          "checkedAt": "2026-08-13T09:49:45Z",
           "httpStatus": 200,
           "finalUrl": "https://free.rcast.net/200259?/;",
-          "responseMs": 859,
+          "responseMs": 1075,
           "contentType": "audio/aacp",
           "validation": "stream-bytes"
         }
@@ -2200,10 +2200,10 @@
         {
           "url": "https://sslyayin.netyayin.net:10902/;*.mp3",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:10Z",
+          "checkedAt": "2026-08-13T09:49:45Z",
           "httpStatus": 200,
           "finalUrl": "https://sslyayin.netyayin.net:10902/;*.mp3",
-          "responseMs": 589,
+          "responseMs": 620,
           "contentType": "audio/aacp",
           "validation": "stream-bytes"
         }
@@ -2218,10 +2218,10 @@
         {
           "url": "https://stream.netradyom.com/radio/8010/radio.mp3",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:10Z",
+          "checkedAt": "2026-08-13T09:49:46Z",
           "httpStatus": 200,
           "finalUrl": "https://stream.netradyom.com/radio/8010/radio.mp3",
-          "responseMs": 1078,
+          "responseMs": 1296,
           "contentType": "audio/aacp",
           "validation": "stream-bytes"
         }
@@ -2236,10 +2236,10 @@
         {
           "url": "https://radyo.yayindakiler.com:3156/stream",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:10Z",
+          "checkedAt": "2026-08-13T09:49:46Z",
           "httpStatus": 200,
           "finalUrl": "https://radyo.yayindakiler.com:3156/stream",
-          "responseMs": 850,
+          "responseMs": 960,
           "contentType": "",
           "validation": "stream-bytes"
         }
@@ -2254,10 +2254,10 @@
         {
           "url": "https://radio.ithouse24.de/listen/radyo-tezene/radio.mp3",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:10Z",
+          "checkedAt": "2026-08-13T09:49:46Z",
           "httpStatus": 200,
           "finalUrl": "https://radio.ithouse24.de/listen/radyo-tezene/radio.mp3",
-          "responseMs": 445,
+          "responseMs": 505,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         }
@@ -2272,10 +2272,10 @@
         {
           "url": "https://sslyayin.netyayin.net/elazigezgiradyo/stream",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:11Z",
+          "checkedAt": "2026-08-13T09:49:46Z",
           "httpStatus": 200,
           "finalUrl": "https://sslyayin.netyayin.net/elazigezgiradyo/stream",
-          "responseMs": 563,
+          "responseMs": 658,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         }
@@ -2290,10 +2290,10 @@
         {
           "url": "https://icecast.netmedya.net/radyocagdas",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:11Z",
+          "checkedAt": "2026-08-13T09:49:46Z",
           "httpStatus": 200,
           "finalUrl": "https://icecast.netmedya.net/radyocagdas",
-          "responseMs": 744,
+          "responseMs": 849,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         }
@@ -2308,10 +2308,10 @@
         {
           "url": "https://live.radyofenomen.com/radyoboombox/mpeg/playlist.m3u8",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:11Z",
+          "checkedAt": "2026-08-13T09:49:46Z",
           "httpStatus": 200,
           "finalUrl": "https://live.radyofenomen.com/radyoboombox/mpeg/playlist.m3u8",
-          "responseMs": 880,
+          "responseMs": 1105,
           "contentType": "application/vnd.apple.mpegurl",
           "validation": "playlist-and-media"
         }
@@ -2326,10 +2326,10 @@
         {
           "url": "https://istek.ozelip.com/radyoege",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:11Z",
+          "checkedAt": "2026-08-13T09:49:46Z",
           "httpStatus": 200,
           "finalUrl": "https://istek.ozelip.com/radyoege",
-          "responseMs": 464,
+          "responseMs": 720,
           "contentType": "",
           "validation": "stream-bytes"
         }
@@ -2344,10 +2344,10 @@
         {
           "url": "https://radyo.medyahost.com.tr/8048/stream",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:11Z",
+          "checkedAt": "2026-08-13T09:49:47Z",
           "httpStatus": 200,
           "finalUrl": "https://radyo.medyahost.com.tr/8048/stream",
-          "responseMs": 1147,
+          "responseMs": 1224,
           "contentType": "audio/aacp",
           "validation": "stream-bytes"
         }
@@ -2362,10 +2362,10 @@
         {
           "url": "https://kiss.radyotvonline.net/kissfm",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:11Z",
+          "checkedAt": "2026-08-13T09:49:47Z",
           "httpStatus": 200,
           "finalUrl": "https://kiss.radyotvonline.net/kissfm",
-          "responseMs": 1851,
+          "responseMs": 3137,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         }
@@ -2380,10 +2380,10 @@
         {
           "url": "https://kiss.radyotvonline.net/kissturk",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:11Z",
+          "checkedAt": "2026-08-13T09:49:47Z",
           "httpStatus": 200,
           "finalUrl": "https://kiss.radyotvonline.net/kissturk",
-          "responseMs": 1793,
+          "responseMs": 2596,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         }
@@ -2398,10 +2398,10 @@
         {
           "url": "https://dijimedya.radyotvonline.net/kissdance",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:11Z",
+          "checkedAt": "2026-08-13T09:49:47Z",
           "httpStatus": 200,
           "finalUrl": "https://dijimedya.radyotvonline.net/kissdance",
-          "responseMs": 1457,
+          "responseMs": 1473,
           "contentType": "audio/aacp",
           "validation": "stream-bytes"
         }
@@ -2416,10 +2416,10 @@
         {
           "url": "https://dijimedya.radyotvonline.net/gncradyo",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:11Z",
+          "checkedAt": "2026-08-13T09:49:47Z",
           "httpStatus": 200,
           "finalUrl": "https://dijimedya.radyotvonline.net/gncradyo",
-          "responseMs": 1421,
+          "responseMs": 1481,
           "contentType": "audio/aacp",
           "validation": "stream-bytes"
         }
@@ -2434,10 +2434,10 @@
         {
           "url": "https://dijimedya.radyotvonline.net/goldfm",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:11Z",
+          "checkedAt": "2026-08-13T09:49:47Z",
           "httpStatus": 200,
           "finalUrl": "https://dijimedya.radyotvonline.net/goldfm",
-          "responseMs": 1437,
+          "responseMs": 1508,
           "contentType": "audio/aacp",
           "validation": "stream-bytes"
         }
@@ -2452,10 +2452,10 @@
         {
           "url": "https://dijimedya.radyotvonline.net/goldturk",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:12Z",
+          "checkedAt": "2026-08-13T09:49:47Z",
           "httpStatus": 200,
           "finalUrl": "https://dijimedya.radyotvonline.net/goldturk",
-          "responseMs": 1351,
+          "responseMs": 1486,
           "contentType": "audio/aacp",
           "validation": "stream-bytes"
         }
@@ -2470,10 +2470,10 @@
         {
           "url": "https://dijimedya.radyotvonline.net/radyoegeninsesi",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:12Z",
+          "checkedAt": "2026-08-13T09:49:47Z",
           "httpStatus": 200,
           "finalUrl": "https://dijimedya.radyotvonline.net/radyoegeninsesi",
-          "responseMs": 1321,
+          "responseMs": 1444,
           "contentType": "audio/aacp",
           "validation": "stream-bytes"
         }
@@ -2488,10 +2488,10 @@
         {
           "url": "https://dijimedya.radyotvonline.net/radiobeatbox",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:12Z",
+          "checkedAt": "2026-08-13T09:49:48Z",
           "httpStatus": 200,
           "finalUrl": "https://dijimedya.radyotvonline.net/radiobeatbox",
-          "responseMs": 1342,
+          "responseMs": 1531,
           "contentType": "audio/aacp",
           "validation": "stream-bytes"
         }
@@ -2506,10 +2506,10 @@
         {
           "url": "https://dijimedya.radyotvonline.net/radyomusiki",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:12Z",
+          "checkedAt": "2026-08-13T09:49:48Z",
           "httpStatus": 200,
           "finalUrl": "https://dijimedya.radyotvonline.net/radyomusiki",
-          "responseMs": 1298,
+          "responseMs": 1497,
           "contentType": "audio/aacp",
           "validation": "stream-bytes"
         }
@@ -2524,10 +2524,10 @@
         {
           "url": "https://dijimedya.radyotvonline.net/radiofk",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:12Z",
+          "checkedAt": "2026-08-13T09:49:48Z",
           "httpStatus": 200,
           "finalUrl": "https://dijimedya.radyotvonline.net/radiofk",
-          "responseMs": 1436,
+          "responseMs": 1375,
           "contentType": "audio/aacp",
           "validation": "stream-bytes"
         }
@@ -2542,10 +2542,10 @@
         {
           "url": "https://dijimedya.radyotvonline.net/greatesthits",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:13Z",
+          "checkedAt": "2026-08-13T09:49:48Z",
           "httpStatus": 200,
           "finalUrl": "https://dijimedya.radyotvonline.net/greatesthits",
-          "responseMs": 1585,
+          "responseMs": 1696,
           "contentType": "audio/aacp",
           "validation": "stream-bytes"
         }
@@ -2560,10 +2560,10 @@
         {
           "url": "https://dijimedya.radyotvonline.net/45lik",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:13Z",
+          "checkedAt": "2026-08-13T09:49:48Z",
           "httpStatus": 200,
           "finalUrl": "https://dijimedya.radyotvonline.net/45lik",
-          "responseMs": 1375,
+          "responseMs": 1473,
           "contentType": "audio/aacp",
           "validation": "stream-bytes"
         }
@@ -2578,10 +2578,10 @@
         {
           "url": "https://dijimedya.radyotvonline.net/analog",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:13Z",
+          "checkedAt": "2026-08-13T09:49:49Z",
           "httpStatus": 200,
           "finalUrl": "https://dijimedya.radyotvonline.net/analog",
-          "responseMs": 1252,
+          "responseMs": 1502,
           "contentType": "audio/aacp",
           "validation": "stream-bytes"
         }
@@ -2596,10 +2596,10 @@
         {
           "url": "https://dijimedya.radyotvonline.net/classical",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:13Z",
+          "checkedAt": "2026-08-13T09:49:49Z",
           "httpStatus": 200,
           "finalUrl": "https://dijimedya.radyotvonline.net/classical",
-          "responseMs": 1436,
+          "responseMs": 1479,
           "contentType": "audio/aacp",
           "validation": "stream-bytes"
         }
@@ -2614,10 +2614,10 @@
         {
           "url": "https://dijimedya.radyotvonline.net/club",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:13Z",
+          "checkedAt": "2026-08-13T09:49:49Z",
           "httpStatus": 200,
           "finalUrl": "https://dijimedya.radyotvonline.net/club",
-          "responseMs": 1451,
+          "responseMs": 1426,
           "contentType": "audio/aacp",
           "validation": "stream-bytes"
         }
@@ -2632,10 +2632,10 @@
         {
           "url": "https://dijimedya.radyotvonline.net/jazz",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:13Z",
+          "checkedAt": "2026-08-13T09:49:49Z",
           "httpStatus": 200,
           "finalUrl": "https://dijimedya.radyotvonline.net/jazz",
-          "responseMs": 1422,
+          "responseMs": 1486,
           "contentType": "audio/aacp",
           "validation": "stream-bytes"
         }
@@ -2650,10 +2650,10 @@
         {
           "url": "https://dijimedya.radyotvonline.net/kisstory",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:13Z",
+          "checkedAt": "2026-08-13T09:49:49Z",
           "httpStatus": 200,
           "finalUrl": "https://dijimedya.radyotvonline.net/kisstory",
-          "responseMs": 1264,
+          "responseMs": 1477,
           "contentType": "audio/aacp",
           "validation": "stream-bytes"
         }
@@ -2668,10 +2668,10 @@
         {
           "url": "https://dijimedya.radyotvonline.net/kpop",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:13Z",
+          "checkedAt": "2026-08-13T09:49:49Z",
           "httpStatus": 200,
           "finalUrl": "https://dijimedya.radyotvonline.net/kpop",
-          "responseMs": 1253,
+          "responseMs": 1421,
           "contentType": "audio/aacp",
           "validation": "stream-bytes"
         }
@@ -2686,10 +2686,10 @@
         {
           "url": "https://dijimedya.radyotvonline.net/turkrap",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:13Z",
+          "checkedAt": "2026-08-13T09:49:49Z",
           "httpStatus": 200,
           "finalUrl": "https://dijimedya.radyotvonline.net/turkrap",
-          "responseMs": 1253,
+          "responseMs": 1551,
           "contentType": "audio/aacp",
           "validation": "stream-bytes"
         }
@@ -2704,10 +2704,10 @@
         {
           "url": "https://dijimedya.radyotvonline.net/turkslow",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:14Z",
+          "checkedAt": "2026-08-13T09:49:50Z",
           "httpStatus": 200,
           "finalUrl": "https://dijimedya.radyotvonline.net/turkslow",
-          "responseMs": 1418,
+          "responseMs": 1436,
           "contentType": "audio/aacp",
           "validation": "stream-bytes"
         }
@@ -2722,10 +2722,10 @@
         {
           "url": "https://dijimedya.radyotvonline.net/slow",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:14Z",
+          "checkedAt": "2026-08-13T09:49:50Z",
           "httpStatus": 200,
           "finalUrl": "https://dijimedya.radyotvonline.net/slow",
-          "responseMs": 1437,
+          "responseMs": 1566,
           "contentType": "audio/aacp",
           "validation": "stream-bytes"
         }
@@ -2740,10 +2740,10 @@
         {
           "url": "https://dijimedya.radyotvonline.net/speedup",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:14Z",
+          "checkedAt": "2026-08-13T09:49:50Z",
           "httpStatus": 200,
           "finalUrl": "https://dijimedya.radyotvonline.net/speedup",
-          "responseMs": 1338,
+          "responseMs": 1511,
           "contentType": "audio/aacp",
           "validation": "stream-bytes"
         }
@@ -2758,10 +2758,10 @@
         {
           "url": "http://live2.radyotvonline.com:8025/",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:14Z",
+          "checkedAt": "2026-08-13T09:49:50Z",
           "httpStatus": 200,
           "finalUrl": "http://live2.radyotvonline.com:8025/",
-          "responseMs": 767,
+          "responseMs": 961,
           "contentType": "",
           "validation": "stream-bytes"
         }
@@ -2776,10 +2776,10 @@
         {
           "url": "http://eu8.fastcast4u.com/proxy/eskininadami/stream",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:14Z",
+          "checkedAt": "2026-08-13T09:49:50Z",
           "httpStatus": 200,
           "finalUrl": "http://eu8.fastcast4u.com/proxy/eskininadami/stream",
-          "responseMs": 354,
+          "responseMs": 540,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         }
@@ -2794,10 +2794,10 @@
         {
           "url": "https://stream.xradio.com.tr:8770/stream",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:14Z",
+          "checkedAt": "2026-08-13T09:49:50Z",
           "httpStatus": 200,
           "finalUrl": "https://stream.xradio.com.tr:8770/stream",
-          "responseMs": 1763,
+          "responseMs": 2824,
           "contentType": "audio/aacp",
           "validation": "stream-bytes"
         }
@@ -2812,10 +2812,10 @@
         {
           "url": "http://eksenwmp.radyotvonline.com/;stream.mp3",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:15Z",
+          "checkedAt": "2026-08-13T09:49:50Z",
           "httpStatus": 200,
           "finalUrl": "http://eksenwmp.radyotvonline.com/;stream.mp3",
-          "responseMs": 765,
+          "responseMs": 1542,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         }
@@ -2830,10 +2830,10 @@
         {
           "url": "https://moondigitaledge.radyotvonline.net/classicland/playlist.m3u8",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:15Z",
+          "checkedAt": "2026-08-13T09:49:51Z",
           "httpStatus": 200,
           "finalUrl": "https://moondigitaledge.radyotvonline.net/classicland/playlist.m3u8",
-          "responseMs": 679,
+          "responseMs": 839,
           "contentType": "application/vnd.apple.mpegurl",
           "validation": "playlist-and-media"
         }
@@ -2848,10 +2848,10 @@
         {
           "url": "https://moondigitaledge.radyotvonline.net/houseland/playlist.m3u8",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:15Z",
+          "checkedAt": "2026-08-13T09:49:51Z",
           "httpStatus": 200,
           "finalUrl": "https://moondigitaledge.radyotvonline.net/houseland/playlist.m3u8",
-          "responseMs": 676,
+          "responseMs": 875,
           "contentType": "application/vnd.apple.mpegurl",
           "validation": "playlist-and-media"
         }
@@ -2866,10 +2866,10 @@
         {
           "url": "https://radyo.yayindakiler.com:3016/renk",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:15Z",
+          "checkedAt": "2026-08-13T09:49:51Z",
           "httpStatus": 200,
           "finalUrl": "https://radyo.yayindakiler.com:3016/renk",
-          "responseMs": 770,
+          "responseMs": 974,
           "contentType": "",
           "validation": "stream-bytes"
         }
@@ -2884,10 +2884,10 @@
         {
           "url": "https://moondigitalmaster.radyotvonline.net/efsane4lu/playlist.m3u8",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:15Z",
+          "checkedAt": "2026-08-13T09:49:51Z",
           "httpStatus": 200,
           "finalUrl": "https://moondigitalmaster.radyotvonline.net/efsane4lu/playlist.m3u8",
-          "responseMs": 637,
+          "responseMs": 782,
           "contentType": "application/vnd.apple.mpegurl",
           "validation": "playlist-and-media"
         }
@@ -2902,10 +2902,10 @@
         {
           "url": "https://anadolu.liderhost.com.tr:10876/;",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:15Z",
+          "checkedAt": "2026-08-13T09:49:51Z",
           "httpStatus": 200,
           "finalUrl": "https://anadolu.liderhost.com.tr:10876/;",
-          "responseMs": 838,
+          "responseMs": 951,
           "contentType": "audio/aacp",
           "validation": "stream-bytes"
         }
@@ -2920,10 +2920,10 @@
         {
           "url": "http://yayin.turkhosted.com:6006/",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:15Z",
+          "checkedAt": "2026-08-13T09:49:51Z",
           "httpStatus": 200,
           "finalUrl": "http://yayin.turkhosted.com:6006/",
-          "responseMs": 317,
+          "responseMs": 508,
           "contentType": "",
           "validation": "stream-bytes"
         }
@@ -2938,20 +2938,20 @@
         {
           "url": "https://yayin.turkhosted.com:4591/turkuradyo",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:15Z",
+          "checkedAt": "2026-08-13T09:49:51Z",
           "httpStatus": 200,
           "finalUrl": "https://yayin.turkhosted.com:4591/turkuradyo",
-          "responseMs": 702,
+          "responseMs": 865,
           "contentType": "",
           "validation": "stream-bytes"
         },
         {
           "url": "http://yayin.turkhosted.com:4591/turkuradyo",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:15Z",
+          "checkedAt": "2026-08-13T09:49:51Z",
           "httpStatus": 200,
           "finalUrl": "http://yayin.turkhosted.com:4591/turkuradyo",
-          "responseMs": 454,
+          "responseMs": 464,
           "contentType": "",
           "validation": "stream-bytes"
         }
@@ -2966,10 +2966,10 @@
         {
           "url": "https://yayin.radyodem.com:8000/stream",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:15Z",
+          "checkedAt": "2026-08-13T09:49:51Z",
           "httpStatus": 200,
           "finalUrl": "https://yayin.radyodem.com:8000/stream",
-          "responseMs": 667,
+          "responseMs": 829,
           "contentType": "",
           "validation": "stream-bytes"
         }
@@ -2984,10 +2984,10 @@
         {
           "url": "http://yayin.arabeskfm.biz:8042/",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:15Z",
+          "checkedAt": "2026-08-13T09:49:51Z",
           "httpStatus": 200,
           "finalUrl": "http://yayin.arabeskfm.biz:8042/",
-          "responseMs": 370,
+          "responseMs": 490,
           "contentType": "",
           "validation": "stream-bytes"
         }
@@ -3002,10 +3002,10 @@
         {
           "url": "https://moondigitaledge.radyotvonline.net/arabeskland/playlist.m3u8",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:16Z",
+          "checkedAt": "2026-08-13T09:49:52Z",
           "httpStatus": 200,
           "finalUrl": "https://moondigitaledge.radyotvonline.net/arabeskland/playlist.m3u8",
-          "responseMs": 695,
+          "responseMs": 883,
           "contentType": "application/vnd.apple.mpegurl",
           "validation": "playlist-and-media"
         }
@@ -3020,10 +3020,10 @@
         {
           "url": "https://stream.netradyom.com/listen/parkfm/radio.mp3",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:16Z",
+          "checkedAt": "2026-08-13T09:49:52Z",
           "httpStatus": 200,
           "finalUrl": "https://stream.netradyom.com/listen/parkfm/radio.mp3",
-          "responseMs": 959,
+          "responseMs": 1195,
           "contentType": "audio/aacp",
           "validation": "stream-bytes"
         }
@@ -3038,10 +3038,10 @@
         {
           "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/EFKAR.mp3",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:16Z",
+          "checkedAt": "2026-08-13T09:49:52Z",
           "httpStatus": 200,
-          "finalUrl": "https://27783.live.streamtheworld.com:443/EFKAR.mp3",
-          "responseMs": 1247,
+          "finalUrl": "https://29053.live.streamtheworld.com:443/EFKAR.mp3",
+          "responseMs": 1425,
           "contentType": "",
           "validation": "stream-bytes"
         }
@@ -3056,10 +3056,10 @@
         {
           "url": "http://canli.radyoa.anadolu.edu.tr:44445/Radyo_A_MP3",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:16Z",
+          "checkedAt": "2026-08-13T09:49:52Z",
           "httpStatus": 200,
           "finalUrl": "http://canli.radyoa.anadolu.edu.tr:44445/Radyo_A_MP3",
-          "responseMs": 1177,
+          "responseMs": 1274,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         }
@@ -3074,10 +3074,10 @@
         {
           "url": "https://radyo.playfm.com.tr/listen/playfm/playfm.mp3",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:16Z",
+          "checkedAt": "2026-08-13T09:49:52Z",
           "httpStatus": 200,
           "finalUrl": "https://radyo.playfm.com.tr/listen/playfm/playfm.mp3",
-          "responseMs": 1122,
+          "responseMs": 1141,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         }
@@ -3092,10 +3092,10 @@
         {
           "url": "https://radyo.playfm.com.tr/listen/akustik/playfm-akustik.mp3",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:16Z",
+          "checkedAt": "2026-08-13T09:49:52Z",
           "httpStatus": 200,
           "finalUrl": "https://radyo.playfm.com.tr/listen/akustik/playfm-akustik.mp3",
-          "responseMs": 768,
+          "responseMs": 925,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         }
@@ -3110,20 +3110,20 @@
         {
           "url": "https://live.radyositesihazir.com/8032/stream",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:16Z",
+          "checkedAt": "2026-08-13T09:49:52Z",
           "httpStatus": 200,
           "finalUrl": "https://live.radyositesihazir.com/8032/stream",
-          "responseMs": 777,
+          "responseMs": 745,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         },
         {
           "url": "http://yayin.radyokralturk.com:8032/stream.mp3",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:16Z",
+          "checkedAt": "2026-08-13T09:49:52Z",
           "httpStatus": 200,
           "finalUrl": "http://yayin.radyokralturk.com:8032/stream.mp3",
-          "responseMs": 680,
+          "responseMs": 847,
           "contentType": "",
           "validation": "stream-bytes"
         }
@@ -3138,10 +3138,10 @@
         {
           "url": "https://arabeskv.80.yayin.com.tr/stream",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:16Z",
+          "checkedAt": "2026-08-13T09:49:52Z",
           "httpStatus": 200,
           "finalUrl": "https://arabeskv.80.yayin.com.tr/stream",
-          "responseMs": 719,
+          "responseMs": 849,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         }
@@ -3156,20 +3156,20 @@
         {
           "url": "https://90.streeemer.com/listen/90s/radio.mp3",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:16Z",
+          "checkedAt": "2026-08-13T09:49:52Z",
           "httpStatus": 200,
           "finalUrl": "https://90.streeemer.com/listen/90s/radio.mp3",
-          "responseMs": 569,
+          "responseMs": 698,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         },
         {
           "url": "https://90.streeemer.com/listen/90s/radio.aac",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:16Z",
+          "checkedAt": "2026-08-13T09:49:53Z",
           "httpStatus": 200,
-          "finalUrl": "https://stream-291.surfernetwork.com/uierv6xfiqfuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1aWVydjZ4ZmlxZnV2IiwiaG9zdCI6InN0cmVhbS0yOTEuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IlRaVGdSVDZWUWIteHRVeWFNWlI5Z3ciLCJpYXQiOjE3ODY2MDAzMzcsImV4cCI6MTc4NjYwMDM5N30.TIHflHFvR2fPf9ISyrgKyh_bPm9w9psjS1R2piOKYJQ",
-          "responseMs": 759,
+          "finalUrl": "https://stream-282.surfernetwork.com/uierv6xfiqfuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1aWVydjZ4ZmlxZnV2IiwiaG9zdCI6InN0cmVhbS0yODIuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImlxemdmcXh6UnR1aEd4X1A1VWRyU1EiLCJpYXQiOjE3ODY2MTQ1OTMsImV4cCI6MTc4NjYxNDY1M30.ld_laVWiQpSItVmu_XY2Sz7nEDQ5kUWLl_2tfrwcIZw",
+          "responseMs": 957,
           "contentType": "",
           "validation": "stream-bytes"
         }
@@ -3184,10 +3184,10 @@
         {
           "url": "https://chillout.streeemer.com/listen/chillout/radio.mp3",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:17Z",
+          "checkedAt": "2026-08-13T09:49:53Z",
           "httpStatus": 200,
           "finalUrl": "https://chillout.streeemer.com/listen/chillout/radio.mp3",
-          "responseMs": 586,
+          "responseMs": 701,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         }
@@ -3202,20 +3202,20 @@
         {
           "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RETROTURK_SC",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:17Z",
+          "checkedAt": "2026-08-13T09:49:53Z",
           "httpStatus": 200,
           "finalUrl": "https://23623.live.streamtheworld.com:443/RETROTURK_SC",
-          "responseMs": 1260,
+          "responseMs": 1417,
           "contentType": "",
           "validation": "stream-bytes"
         },
         {
           "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RETROTURKAAC_SC",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:17Z",
+          "checkedAt": "2026-08-13T09:49:53Z",
           "httpStatus": 200,
-          "finalUrl": "https://27783.live.streamtheworld.com:443/RETROTURKAAC_SC",
-          "responseMs": 1267,
+          "finalUrl": "https://23543.live.streamtheworld.com:443/RETROTURKAAC_SC",
+          "responseMs": 1411,
           "contentType": "",
           "validation": "stream-bytes"
         }
@@ -3230,20 +3230,20 @@
         {
           "url": "https://ssl.nexuscast.com:9046/;",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:17Z",
+          "checkedAt": "2026-08-13T09:49:53Z",
           "httpStatus": 200,
           "finalUrl": "https://ssl.nexuscast.com:9046/;",
-          "responseMs": 295,
+          "responseMs": 438,
           "contentType": "",
           "validation": "stream-bytes"
         },
         {
           "url": "http://s2.nexuscast.com:8052/;",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:17Z",
+          "checkedAt": "2026-08-13T09:49:53Z",
           "httpStatus": 200,
           "finalUrl": "http://s2.nexuscast.com:8052/;",
-          "responseMs": 276,
+          "responseMs": 351,
           "contentType": "",
           "validation": "stream-bytes"
         }
@@ -3258,20 +3258,20 @@
         {
           "url": "https://beamfm.streeemer.com/listen/beam_fm/radio.mp3",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:17Z",
+          "checkedAt": "2026-08-13T09:49:53Z",
           "httpStatus": 200,
           "finalUrl": "https://beamfm.streeemer.com/listen/beam_fm/radio.mp3",
-          "responseMs": 535,
+          "responseMs": 740,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         },
         {
           "url": "https://beamfm.streeemer.com/listen/beam_fm/radio.aac",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:17Z",
+          "checkedAt": "2026-08-13T09:49:53Z",
           "httpStatus": 200,
           "finalUrl": "https://beamfm.streeemer.com/listen/beam_fm/radio.aac",
-          "responseMs": 502,
+          "responseMs": 656,
           "contentType": "audio/aac",
           "validation": "stream-bytes"
         }
@@ -3286,20 +3286,20 @@
         {
           "url": "https://country.streeemer.com/listen/country/radio.mp3",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:17Z",
+          "checkedAt": "2026-08-13T09:49:53Z",
           "httpStatus": 200,
           "finalUrl": "https://country.streeemer.com/listen/country/radio.mp3",
-          "responseMs": 554,
+          "responseMs": 696,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         },
         {
           "url": "https://country.streeemer.com/listen/country/radio.aac",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:17Z",
+          "checkedAt": "2026-08-13T09:49:53Z",
           "httpStatus": 200,
           "finalUrl": "https://country.streeemer.com/listen/country/radio.aac",
-          "responseMs": 550,
+          "responseMs": 669,
           "contentType": "audio/aac",
           "validation": "stream-bytes"
         }
@@ -3314,20 +3314,20 @@
         {
           "url": "https://jazz.streeemer.com/listen/jazz/radio.mp3",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:17Z",
+          "checkedAt": "2026-08-13T09:49:53Z",
           "httpStatus": 200,
           "finalUrl": "https://jazz.streeemer.com/listen/jazz/radio.mp3",
-          "responseMs": 516,
+          "responseMs": 715,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         },
         {
           "url": "https://jazz.streeemer.com/listen/jazz/radio.aac",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:17Z",
+          "checkedAt": "2026-08-13T09:49:53Z",
           "httpStatus": 200,
           "finalUrl": "https://jazz.streeemer.com/listen/jazz/radio.aac",
-          "responseMs": 490,
+          "responseMs": 664,
           "contentType": "audio/aac",
           "validation": "stream-bytes"
         }
@@ -3342,20 +3342,20 @@
         {
           "url": "https://latina.streeemer.com/listen/latina/radio.mp3",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:17Z",
+          "checkedAt": "2026-08-13T09:49:53Z",
           "httpStatus": 200,
           "finalUrl": "https://latina.streeemer.com/listen/latina/radio.mp3",
-          "responseMs": 582,
+          "responseMs": 776,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         },
         {
           "url": "https://latina.streeemer.com/listen/latina/radio.aac",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:17Z",
+          "checkedAt": "2026-08-13T09:49:53Z",
           "httpStatus": 200,
           "finalUrl": "https://latina.streeemer.com/listen/latina/radio.aac",
-          "responseMs": 570,
+          "responseMs": 724,
           "contentType": "audio/aac",
           "validation": "stream-bytes"
         }
@@ -3370,10 +3370,10 @@
         {
           "url": "https://yayin.firatfm.com:3065/stream.mp3",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:17Z",
+          "checkedAt": "2026-08-13T09:49:54Z",
           "httpStatus": 200,
           "finalUrl": "https://yayin.firatfm.com:3065/stream.mp3",
-          "responseMs": 635,
+          "responseMs": 800,
           "contentType": "",
           "validation": "stream-bytes"
         }
@@ -3388,10 +3388,10 @@
         {
           "url": "http://trstream.msccdn.com:80/stream/240/;stream.mp3",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:17Z",
+          "checkedAt": "2026-08-13T09:49:54Z",
           "httpStatus": 200,
           "finalUrl": "http://trstream.msccdn.com:80/stream/240/;stream.mp3",
-          "responseMs": 501,
+          "responseMs": 626,
           "contentType": "",
           "validation": "stream-bytes"
         }
@@ -3406,10 +3406,10 @@
         {
           "url": "http://akdeniz.radyomhd.com:9786/;",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:17Z",
+          "checkedAt": "2026-08-13T09:49:54Z",
           "httpStatus": 200,
           "finalUrl": "http://akdeniz.radyomhd.com:9786/;",
-          "responseMs": 447,
+          "responseMs": 470,
           "contentType": "",
           "validation": "stream-bytes"
         }
@@ -3424,20 +3424,20 @@
         {
           "url": "https://classicrock.streeemer.com/listen/classic_rock/radio.mp3",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:18Z",
+          "checkedAt": "2026-08-13T09:49:54Z",
           "httpStatus": 200,
           "finalUrl": "https://classicrock.streeemer.com/listen/classic_rock/radio.mp3",
-          "responseMs": 521,
+          "responseMs": 607,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         },
         {
           "url": "https://classicrock.streeemer.com/listen/classic_rock/radio.aac",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:18Z",
+          "checkedAt": "2026-08-13T09:49:54Z",
           "httpStatus": 200,
-          "finalUrl": "https://stream-291.surfernetwork.com/mxr8ltjsf3vuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJteHI4bHRqc2YzdnV2IiwiaG9zdCI6InN0cmVhbS0yOTEuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImpHaS11R3RkUnlhSjh0OHA4T2VQSFEiLCJpYXQiOjE3ODY2MDAzMzgsImV4cCI6MTc4NjYwMDM5OH0.s6Gj7R3EQLdNEpbMFpdeMB4Cr5cApSv-oPEvh8orXr8",
-          "responseMs": 498,
+          "finalUrl": "https://stream-290.surfernetwork.com/mxr8ltjsf3vuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJteHI4bHRqc2YzdnV2IiwiaG9zdCI6InN0cmVhbS0yOTAuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Inl2R1dHZkREU3BTNEFwMmUwMzFuTmciLCJpYXQiOjE3ODY2MTQ1OTQsImV4cCI6MTc4NjYxNDY1NH0.VYZHdxdOQ1OorQJgmPAWC6GoFErGY2TL8pd9y5WpGYc",
+          "responseMs": 848,
           "contentType": "",
           "validation": "stream-bytes"
         }
@@ -3452,20 +3452,20 @@
         {
           "url": "https://media-ssl.musicradio.com/ClassicFMMP3",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:18Z",
+          "checkedAt": "2026-08-13T09:49:54Z",
           "httpStatus": 200,
           "finalUrl": "https://media-ssl.musicradio.com/ClassicFMMP3",
-          "responseMs": 577,
+          "responseMs": 812,
           "contentType": "",
           "validation": "stream-bytes"
         },
         {
           "url": "https://media-ssl.musicradio.com/ClassicFM",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:18Z",
+          "checkedAt": "2026-08-13T09:49:54Z",
           "httpStatus": 200,
           "finalUrl": "https://media-ssl.musicradio.com/ClassicFM",
-          "responseMs": 573,
+          "responseMs": 729,
           "contentType": "",
           "validation": "stream-bytes"
         }
@@ -3480,20 +3480,20 @@
         {
           "url": "https://stream.80sa.live/80s-alive.mp3",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:18Z",
+          "checkedAt": "2026-08-13T09:49:54Z",
           "httpStatus": 200,
           "finalUrl": "https://stream.80sa.live/80s-alive.mp3",
-          "responseMs": 1768,
+          "responseMs": 1915,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         },
         {
           "url": "https://stream.80sa.live/80s-alive.aac",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:18Z",
+          "checkedAt": "2026-08-13T09:49:54Z",
           "httpStatus": 200,
           "finalUrl": "https://stream.80sa.live/80s-alive.aac",
-          "responseMs": 1641,
+          "responseMs": 1874,
           "contentType": "audio/aacp",
           "validation": "stream-bytes"
         }
@@ -3501,16 +3501,19 @@
     },
     "gelisim-radyo": {
       "name": "Gelişim Radyo",
-      "status": "warning",
-      "activeUrlIndex": null,
-      "consecutiveFailures": 2,
+      "status": "online",
+      "activeUrlIndex": 0,
+      "consecutiveFailures": 0,
       "urls": [
         {
           "url": "http://yayin2.yayindakiler.com:4008/;",
-          "ok": false,
-          "checkedAt": "2026-08-13T05:52:18Z",
-          "httpStatus": 401,
-          "error": "HTTP 401"
+          "ok": true,
+          "checkedAt": "2026-08-13T09:49:54Z",
+          "httpStatus": 200,
+          "finalUrl": "http://yayin2.yayindakiler.com:4008/;",
+          "responseMs": 601,
+          "contentType": "",
+          "validation": "stream-bytes"
         }
       ]
     },
@@ -3523,17 +3526,17 @@
         {
           "url": "https://i4.streams.ovh/sc/bluesrad/stream",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:18Z",
+          "checkedAt": "2026-08-13T09:49:54Z",
           "httpStatus": 200,
           "finalUrl": "https://i4.streams.ovh/sc/bluesrad/stream",
-          "responseMs": 742,
+          "responseMs": 2036,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         },
         {
           "url": "http://live.bluesradio.gr:8352/stream",
           "ok": false,
-          "checkedAt": "2026-08-13T05:52:18Z",
+          "checkedAt": "2026-08-13T09:49:54Z",
           "error": "URLError: <urlopen error [Errno 101] Network is unreachable>"
         }
       ]
@@ -3547,10 +3550,10 @@
         {
           "url": "http://radyopiryolu.canliyayinda.com:8165/;stream/1",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:18Z",
+          "checkedAt": "2026-08-13T09:49:54Z",
           "httpStatus": 200,
           "finalUrl": "http://radyopiryolu.canliyayinda.com:8165/;stream/1",
-          "responseMs": 527,
+          "responseMs": 483,
           "contentType": "",
           "validation": "stream-bytes"
         }
@@ -3565,20 +3568,20 @@
         {
           "url": "https://media-ssl.musicradio.com/HeartUKMP3",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:18Z",
+          "checkedAt": "2026-08-13T09:49:54Z",
           "httpStatus": 200,
           "finalUrl": "https://media-ssl.musicradio.com/HeartUKMP3",
-          "responseMs": 497,
+          "responseMs": 442,
           "contentType": "",
           "validation": "stream-bytes"
         },
         {
           "url": "https://media-ssl.musicradio.com/HeartUK",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:18Z",
+          "checkedAt": "2026-08-13T09:49:54Z",
           "httpStatus": 200,
           "finalUrl": "https://media-ssl.musicradio.com/HeartUK",
-          "responseMs": 475,
+          "responseMs": 807,
           "contentType": "",
           "validation": "stream-bytes"
         }
@@ -3593,20 +3596,20 @@
         {
           "url": "https://ais-sa2.cdnstream1.com/1976_128.mp3",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:18Z",
+          "checkedAt": "2026-08-13T09:49:54Z",
           "httpStatus": 200,
           "finalUrl": "https://ais-sa2.cdnstream1.com/1976_128.mp3",
-          "responseMs": 251,
+          "responseMs": 180,
           "contentType": "audio/aac",
           "validation": "stream-bytes"
         },
         {
           "url": "https://ais-sa2.cdnstream1.com/1976_64.aac",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:18Z",
+          "checkedAt": "2026-08-13T09:49:55Z",
           "httpStatus": 200,
           "finalUrl": "https://ais-sa2.cdnstream1.com/1976_64.aac",
-          "responseMs": 231,
+          "responseMs": 167,
           "contentType": "audio/aacp",
           "validation": "stream-bytes"
         }
@@ -3621,10 +3624,10 @@
         {
           "url": "http://live4.radyotvonline.com:6570/;",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:18Z",
+          "checkedAt": "2026-08-13T09:49:55Z",
           "httpStatus": 200,
           "finalUrl": "http://live4.radyotvonline.com:6570/;",
-          "responseMs": 709,
+          "responseMs": 857,
           "contentType": "",
           "validation": "stream-bytes"
         }
@@ -3639,10 +3642,10 @@
         {
           "url": "http://160.75.86.29:8088/ituklasikmp3",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:18Z",
+          "checkedAt": "2026-08-13T09:49:55Z",
           "httpStatus": 200,
           "finalUrl": "http://160.75.86.29:8088/ituklasikmp3",
-          "responseMs": 1793,
+          "responseMs": 1849,
           "contentType": "",
           "validation": "stream-bytes"
         }
@@ -3657,10 +3660,10 @@
         {
           "url": "http://160.75.86.29:8088/iturockmp3",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:18Z",
+          "checkedAt": "2026-08-13T09:49:55Z",
           "httpStatus": 200,
           "finalUrl": "http://160.75.86.29:8088/iturockmp3",
-          "responseMs": 2666,
+          "responseMs": 1834,
           "contentType": "",
           "validation": "stream-bytes"
         }
@@ -3675,10 +3678,10 @@
         {
           "url": "http://160.75.86.29:8088/itucazmp3",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:18Z",
+          "checkedAt": "2026-08-13T09:49:55Z",
           "httpStatus": 200,
           "finalUrl": "http://160.75.86.29:8088/itucazmp3",
-          "responseMs": 7467,
+          "responseMs": 864,
           "contentType": "",
           "validation": "stream-bytes"
         }
@@ -3693,10 +3696,10 @@
         {
           "url": "https://edge1.radyotvonline.net/shoutcast/play/fg",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:18Z",
+          "checkedAt": "2026-08-13T09:49:55Z",
           "httpStatus": 200,
           "finalUrl": "https://edge1.radyotvonline.net/shoutcast/play/fg",
-          "responseMs": 582,
+          "responseMs": 772,
           "contentType": "audio/aac",
           "validation": "stream-bytes"
         }
@@ -3711,10 +3714,10 @@
         {
           "url": "https://radyo.yayindakiler.com/4202/stream",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:18Z",
+          "checkedAt": "2026-08-13T09:49:55Z",
           "httpStatus": 200,
           "finalUrl": "https://radyo.yayindakiler.com/4202/stream",
-          "responseMs": 606,
+          "responseMs": 858,
           "contentType": "audio/aacp",
           "validation": "stream-bytes"
         }
@@ -3729,10 +3732,10 @@
         {
           "url": "https://live-bauerse-fm.sharp-stream.com/rockklassiker_instream_se_aacp",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:18Z",
+          "checkedAt": "2026-08-13T09:49:55Z",
           "httpStatus": 200,
           "finalUrl": "https://live-bauerse-fm.sharp-stream.com/rockklassiker_instream_se_aacp",
-          "responseMs": 1738,
+          "responseMs": 2387,
           "contentType": "audio/aacp",
           "validation": "stream-bytes"
         }
@@ -3747,10 +3750,10 @@
         {
           "url": "https://rockfm.rockfm.com.tr:9450/stream",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:18Z",
+          "checkedAt": "2026-08-13T09:49:55Z",
           "httpStatus": 200,
           "finalUrl": "https://rockfm.rockfm.com.tr:9450/stream",
-          "responseMs": 1820,
+          "responseMs": 2802,
           "contentType": "audio/aacp",
           "validation": "stream-bytes"
         }
@@ -3765,10 +3768,10 @@
         {
           "url": "https://stream.radio.co/sb2e24edf5/listen",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:19Z",
+          "checkedAt": "2026-08-13T09:49:56Z",
           "httpStatus": 200,
           "finalUrl": "https://stream.radio.co/sb2e24edf5/listen",
-          "responseMs": 1762,
+          "responseMs": 2076,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         }
@@ -3783,10 +3786,10 @@
         {
           "url": "https://das-edge12-live365-dal02.cdnstream.com/a93362",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:19Z",
+          "checkedAt": "2026-08-13T09:49:56Z",
           "httpStatus": 200,
           "finalUrl": "https://das-edge12-live365-dal02.cdnstream.com/a93362",
-          "responseMs": 207,
+          "responseMs": 129,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         }
@@ -3801,10 +3804,10 @@
         {
           "url": "https://uk1.internet-radio.com/proxy/bloodstream?mp=/autodj",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:19Z",
+          "checkedAt": "2026-08-13T09:49:56Z",
           "httpStatus": 200,
           "finalUrl": "https://uk1.internet-radio.com/proxy/bloodstream?mp=/autodj",
-          "responseMs": 829,
+          "responseMs": 932,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         }
@@ -3819,10 +3822,10 @@
         {
           "url": "https://radio3.pro-fhi.net/live/Radio%20Metal",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:19Z",
+          "checkedAt": "2026-08-13T09:49:56Z",
           "httpStatus": 200,
           "finalUrl": "https://radio3.pro-fhi.net/live/Radio%20Metal",
-          "responseMs": 968,
+          "responseMs": 946,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         }
@@ -3837,10 +3840,10 @@
         {
           "url": "http://curiosity.shoutca.st:9073/stream",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:19Z",
+          "checkedAt": "2026-08-13T09:49:56Z",
           "httpStatus": 200,
           "finalUrl": "http://curiosity.shoutca.st:9073/stream",
-          "responseMs": 458,
+          "responseMs": 978,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         }
@@ -3855,21 +3858,21 @@
         {
           "url": "https://stream.regenbogen2.de/metal/mp3-128/mytuner",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:19Z",
+          "checkedAt": "2026-08-13T09:49:56Z",
           "httpStatus": 200,
-          "finalUrl": "https://audiotainment-sw.streamabc.net/atsw-metal-mp3-128-9461233?sABC=6n7q5o94%230%2312468r99pqns4p0n1qq29s8o21257o1r%23zlghare&aw_0_1st.playerid=mytuner&amsparams=playerid:mytuner;skey:1786600340",
-          "responseMs": 935,
+          "finalUrl": "https://audiotainment-sw.streamabc.net/atsw-metal-mp3-128-9461233?sABC=6n7q9345%230%232407p776786n823r584r48os3srr6r12%23zlghare&aw_0_1st.playerid=mytuner&amsparams=playerid:mytuner;skey:1786614597",
+          "responseMs": 1505,
           "contentType": "audio/aac",
           "validation": "stream-bytes"
         },
         {
           "url": "https://stream.regenbogen2.de/metal/aac-128/mytuner",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:19Z",
+          "checkedAt": "2026-08-13T09:49:56Z",
           "httpStatus": 200,
-          "finalUrl": "https://audiotainment-sw.streamabc.net/atsw-metal-aac-128-5734859?sABC=6n7q5o94%230%2312468r99pqns4p0n1qq29s8o21257o1r%23zlghare&aw_0_1st.playerid=mytuner&amsparams=playerid:mytuner;skey:1786600340",
-          "responseMs": 826,
-          "contentType": "audio/aac",
+          "finalUrl": "https://audiotainment-sw.streamabc.net/atsw-metal-aac-128-5734859?sABC=6n7q9345%230%232407p776786n823r584r48os3srr6r12%23zlghare&aw_0_1st.playerid=mytuner&amsparams=playerid:mytuner;skey:1786614597",
+          "responseMs": 1071,
+          "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         }
       ]
@@ -3883,10 +3886,10 @@
         {
           "url": "https://kathy.torontocast.com:2800/;",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:20Z",
+          "checkedAt": "2026-08-13T09:49:56Z",
           "httpStatus": 200,
           "finalUrl": "https://kathy.torontocast.com:2800/;",
-          "responseMs": 557,
+          "responseMs": 776,
           "contentType": "",
           "validation": "stream-bytes"
         }
@@ -3901,10 +3904,10 @@
         {
           "url": "https://c13.radioboss.fm:18099/stream",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:20Z",
+          "checkedAt": "2026-08-13T09:49:57Z",
           "httpStatus": 200,
           "finalUrl": "https://c13.radioboss.fm:18099/stream",
-          "responseMs": 177,
+          "responseMs": 515,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         }
@@ -3919,7 +3922,7 @@
         {
           "url": "https://s1.reliastream.com/proxy/rebelrad/stream",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:20Z",
+          "checkedAt": "2026-08-13T09:49:57Z",
           "httpStatus": 200,
           "finalUrl": "https://s1.reliastream.com/proxy/rebelrad/stream",
           "responseMs": 425,
@@ -3937,10 +3940,10 @@
         {
           "url": "https://stream.laut.fm/maximusrockfm",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:20Z",
+          "checkedAt": "2026-08-13T09:49:57Z",
           "httpStatus": 200,
-          "finalUrl": "https://maximusrockfm.stream.laut.fm/maximusrockfm?t302=2026-08-13_05-52-20&uuid=7de5b3cd-9847-43bd-bb1a-344d434f710f",
-          "responseMs": 1750,
+          "finalUrl": "https://maximusrockfm.stream.laut.fm/maximusrockfm?t302=2026-08-13_09-49-57&uuid=4eb16cab-22f8-468b-8d19-9c29c088a3f7",
+          "responseMs": 2006,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         }
@@ -3955,10 +3958,10 @@
         {
           "url": "https://stream.radiotechnikum.at/METALRadio",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:20Z",
+          "checkedAt": "2026-08-13T09:49:57Z",
           "httpStatus": 200,
           "finalUrl": "https://stream.radiotechnikum.at/METALRadio",
-          "responseMs": 847,
+          "responseMs": 1072,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         }
@@ -3973,10 +3976,10 @@
         {
           "url": "https://radyotrio.radyotvonline.net/radyotrio",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:20Z",
+          "checkedAt": "2026-08-13T09:49:57Z",
           "httpStatus": 200,
           "finalUrl": "https://radyotrio.radyotvonline.net/radyotrio",
-          "responseMs": 1352,
+          "responseMs": 1519,
           "contentType": "audio/aacp",
           "validation": "stream-bytes"
         }
@@ -3991,10 +3994,10 @@
         {
           "url": "https://ritim.80.yayin.com.tr/;stream.mp3",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:20Z",
+          "checkedAt": "2026-08-13T09:49:57Z",
           "httpStatus": 200,
           "finalUrl": "https://ritim.80.yayin.com.tr/;stream.mp3",
-          "responseMs": 661,
+          "responseMs": 860,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         }
@@ -4009,10 +4012,10 @@
         {
           "url": "https://netyayin.jsproduksiyon.com:9010/olayfm",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:20Z",
+          "checkedAt": "2026-08-13T09:49:57Z",
           "httpStatus": 200,
           "finalUrl": "https://netyayin.jsproduksiyon.com:9010/olayfm",
-          "responseMs": 732,
+          "responseMs": 869,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         }
@@ -4027,10 +4030,10 @@
         {
           "url": "https://yayin.radyoakdeniz.com:9470/stream",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:20Z",
+          "checkedAt": "2026-08-13T09:49:57Z",
           "httpStatus": 200,
           "finalUrl": "https://yayin.radyoakdeniz.com:9470/stream",
-          "responseMs": 597,
+          "responseMs": 717,
           "contentType": "",
           "validation": "stream-bytes"
         }
@@ -4045,10 +4048,10 @@
         {
           "url": "https://stream.netradyom.com/radio/9300/radio.mp3",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:20Z",
+          "checkedAt": "2026-08-13T09:49:57Z",
           "httpStatus": 200,
           "finalUrl": "https://stream.netradyom.com/radio/9300/radio.mp3",
-          "responseMs": 621,
+          "responseMs": 894,
           "contentType": "audio/aacp",
           "validation": "stream-bytes"
         }
@@ -4063,10 +4066,10 @@
         {
           "url": "https://stream.netradyom.com/radio/7050/radio.mp3",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:20Z",
+          "checkedAt": "2026-08-13T09:49:57Z",
           "httpStatus": 200,
           "finalUrl": "https://stream.netradyom.com/radio/7050/radio.mp3",
-          "responseMs": 891,
+          "responseMs": 832,
           "contentType": "audio/aacp",
           "validation": "stream-bytes"
         }
@@ -4081,10 +4084,10 @@
         {
           "url": "https://stream.netradyom.com/radio/7160/radio.mp3",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:20Z",
+          "checkedAt": "2026-08-13T09:49:58Z",
           "httpStatus": 200,
           "finalUrl": "https://stream.netradyom.com/radio/7160/radio.mp3",
-          "responseMs": 708,
+          "responseMs": 1250,
           "contentType": "audio/aacp",
           "validation": "stream-bytes"
         }
@@ -4099,10 +4102,10 @@
         {
           "url": "https://stream.netradyom.com/radio/7020/radio.mp3",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:21Z",
+          "checkedAt": "2026-08-13T09:49:58Z",
           "httpStatus": 200,
           "finalUrl": "https://stream.netradyom.com/radio/7020/radio.mp3",
-          "responseMs": 1192,
+          "responseMs": 1185,
           "contentType": "audio/aacp",
           "validation": "stream-bytes"
         }
@@ -4117,10 +4120,10 @@
         {
           "url": "https://stream.netradyom.com/radio/7040/radio.mp3",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:21Z",
+          "checkedAt": "2026-08-13T09:49:58Z",
           "httpStatus": 200,
           "finalUrl": "https://stream.netradyom.com/radio/7040/radio.mp3",
-          "responseMs": 1170,
+          "responseMs": 1124,
           "contentType": "audio/aacp",
           "validation": "stream-bytes"
         }
@@ -4135,10 +4138,10 @@
         {
           "url": "https://stream.netradyom.com/radio/7100/radio.mp3",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:21Z",
+          "checkedAt": "2026-08-13T09:49:58Z",
           "httpStatus": 200,
           "finalUrl": "https://stream.netradyom.com/radio/7100/radio.mp3",
-          "responseMs": 1160,
+          "responseMs": 1033,
           "contentType": "audio/aacp",
           "validation": "stream-bytes"
         }
@@ -4153,10 +4156,10 @@
         {
           "url": "https://stream.netradyom.com/radio/7030/radio.mp3",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:21Z",
+          "checkedAt": "2026-08-13T09:49:58Z",
           "httpStatus": 200,
           "finalUrl": "https://stream.netradyom.com/radio/7030/radio.mp3",
-          "responseMs": 1139,
+          "responseMs": 969,
           "contentType": "audio/aacp",
           "validation": "stream-bytes"
         }
@@ -4171,10 +4174,10 @@
         {
           "url": "https://stream.netradyom.com/radio/7090/radio.mp3",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:21Z",
+          "checkedAt": "2026-08-13T09:49:58Z",
           "httpStatus": 200,
           "finalUrl": "https://stream.netradyom.com/radio/7090/radio.mp3",
-          "responseMs": 1081,
+          "responseMs": 906,
           "contentType": "audio/aacp",
           "validation": "stream-bytes"
         }
@@ -4189,10 +4192,10 @@
         {
           "url": "https://stream.netradyom.com/radio/7070/radio.mp3",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:21Z",
+          "checkedAt": "2026-08-13T09:49:58Z",
           "httpStatus": 200,
           "finalUrl": "https://stream.netradyom.com/radio/7070/radio.mp3",
-          "responseMs": 1032,
+          "responseMs": 883,
           "contentType": "audio/aacp",
           "validation": "stream-bytes"
         }
@@ -4207,10 +4210,10 @@
         {
           "url": "https://stream.netradyom.com/radio/7060/radio.mp3",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:21Z",
+          "checkedAt": "2026-08-13T09:49:58Z",
           "httpStatus": 200,
           "finalUrl": "https://stream.netradyom.com/radio/7060/radio.mp3",
-          "responseMs": 908,
+          "responseMs": 809,
           "contentType": "audio/aacp",
           "validation": "stream-bytes"
         }
@@ -4225,10 +4228,10 @@
         {
           "url": "https://worldwide-fm.radiocult.fm/stream",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:21Z",
+          "checkedAt": "2026-08-13T09:49:58Z",
           "httpStatus": 200,
           "finalUrl": "https://worldwide-fm.radiocult.fm/stream",
-          "responseMs": 423,
+          "responseMs": 593,
           "contentType": "",
           "validation": "stream-bytes"
         }
@@ -4243,10 +4246,10 @@
         {
           "url": "https://sohoradiomusic.doughunt.co.uk:8010/320mp3",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:21Z",
+          "checkedAt": "2026-08-13T09:49:58Z",
           "httpStatus": 200,
           "finalUrl": "https://sohoradiomusic.doughunt.co.uk:8010/320mp3",
-          "responseMs": 743,
+          "responseMs": 866,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         }
@@ -4261,20 +4264,20 @@
         {
           "url": "https://stream-relay-geo.ntslive.net/stream?client=direct",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:22Z",
+          "checkedAt": "2026-08-13T09:49:59Z",
           "httpStatus": 200,
           "finalUrl": "https://audio-edge-5r6yd.cdg.o.radiomast.io/nts1",
-          "responseMs": 1026,
+          "responseMs": 1134,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         },
         {
           "url": "http://stream-relay-geo.ntslive.net/stream",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:22Z",
+          "checkedAt": "2026-08-13T09:49:59Z",
           "httpStatus": 200,
           "finalUrl": "https://audio-edge-5r6yd.cdg.o.radiomast.io/nts1",
-          "responseMs": 888,
+          "responseMs": 830,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         }
@@ -4289,20 +4292,20 @@
         {
           "url": "https://stream.radioparadise.com/aac-320",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:22Z",
+          "checkedAt": "2026-08-13T09:49:59Z",
           "httpStatus": 200,
           "finalUrl": "https://stream.radioparadise.com/aac-320",
-          "responseMs": 289,
+          "responseMs": 285,
           "contentType": "audio/aac",
           "validation": "stream-bytes"
         },
         {
           "url": "https://stream.radioparadise.com/mp3-320",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:22Z",
+          "checkedAt": "2026-08-13T09:49:59Z",
           "httpStatus": 200,
           "finalUrl": "https://stream.radioparadise.com/mp3-320",
-          "responseMs": 277,
+          "responseMs": 265,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         }
@@ -4317,17 +4320,17 @@
         {
           "url": "https://admin.stream.rinse.fm/proxy/rinse_uk/stream",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:22Z",
+          "checkedAt": "2026-08-13T09:49:59Z",
           "httpStatus": 200,
           "finalUrl": "https://admin.stream.rinse.fm/proxy/rinse_uk/stream",
-          "responseMs": 424,
+          "responseMs": 986,
           "contentType": "audio/aacp",
           "validation": "stream-bytes"
         },
         {
           "url": "https://streamer-uk.rinse.fm:8443/stream",
           "ok": false,
-          "checkedAt": "2026-08-13T05:52:22Z",
+          "checkedAt": "2026-08-13T09:49:59Z",
           "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)>"
         }
       ]
@@ -4341,10 +4344,10 @@
         {
           "url": "https://streams.radio.co/se1a320b47/listen",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:22Z",
+          "checkedAt": "2026-08-13T09:49:59Z",
           "httpStatus": 200,
           "finalUrl": "https://streams.radio.co/se1a320b47/listen",
-          "responseMs": 920,
+          "responseMs": 1071,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         }
@@ -4359,10 +4362,10 @@
         {
           "url": "https://radio.hku.edu.tr:8000/radio.mp3",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:22Z",
+          "checkedAt": "2026-08-13T09:49:59Z",
           "httpStatus": 200,
           "finalUrl": "https://radio.hku.edu.tr:8000/radio.mp3",
-          "responseMs": 560,
+          "responseMs": 667,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         }
@@ -4377,10 +4380,10 @@
         {
           "url": "https://radioarkista.radioca.st/;stream.mp3",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:22Z",
+          "checkedAt": "2026-08-13T09:49:59Z",
           "httpStatus": 200,
           "finalUrl": "https://radioarkista.radioca.st/;stream.mp3",
-          "responseMs": 732,
+          "responseMs": 1016,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         }
@@ -4395,10 +4398,10 @@
         {
           "url": "https://sslyayin.netyayin.net/erzurumritm",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:22Z",
+          "checkedAt": "2026-08-13T09:49:59Z",
           "httpStatus": 200,
           "finalUrl": "https://sslyayin.netyayin.net/erzurumritm",
-          "responseMs": 538,
+          "responseMs": 640,
           "contentType": "audio/aacp",
           "validation": "stream-bytes"
         }
@@ -4413,10 +4416,10 @@
         {
           "url": "https://channels.dinamo.fm:443/legacy-mp3",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:22Z",
+          "checkedAt": "2026-08-13T09:49:59Z",
           "httpStatus": 200,
           "finalUrl": "https://channels.dinamo.fm:443/legacy-mp3",
-          "responseMs": 520,
+          "responseMs": 795,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         }
@@ -4431,10 +4434,10 @@
         {
           "url": "https://dinle.cesmevikingradyo.com/8432/stream",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:22Z",
+          "checkedAt": "2026-08-13T09:49:59Z",
           "httpStatus": 200,
           "finalUrl": "https://dinle.cesmevikingradyo.com/8432/stream",
-          "responseMs": 529,
+          "responseMs": 725,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         }
@@ -4449,10 +4452,10 @@
         {
           "url": "https://radyo.yayin.com.tr:5862/;",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:22Z",
+          "checkedAt": "2026-08-13T09:49:59Z",
           "httpStatus": 200,
           "finalUrl": "https://radyo.yayin.com.tr:5862/;",
-          "responseMs": 722,
+          "responseMs": 834,
           "contentType": "",
           "validation": "stream-bytes"
         }
@@ -4467,10 +4470,10 @@
         {
           "url": "https://radyo.yayin.com.tr:4120/stream",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:22Z",
+          "checkedAt": "2026-08-13T09:49:59Z",
           "httpStatus": 200,
           "finalUrl": "https://radyo.yayin.com.tr:4120/stream",
-          "responseMs": 586,
+          "responseMs": 833,
           "contentType": "",
           "validation": "stream-bytes"
         }
@@ -4485,10 +4488,10 @@
         {
           "url": "https://radyo.yayindakiler.com:4028/;",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:23Z",
+          "checkedAt": "2026-08-13T09:49:59Z",
           "httpStatus": 200,
           "finalUrl": "https://radyo.yayindakiler.com:4028/;",
-          "responseMs": 602,
+          "responseMs": 898,
           "contentType": "",
           "validation": "stream-bytes"
         }
@@ -4503,10 +4506,10 @@
         {
           "url": "https://radyo.yayin.com.tr:5898/stream",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:23Z",
+          "checkedAt": "2026-08-13T09:49:59Z",
           "httpStatus": 200,
           "finalUrl": "https://radyo.yayin.com.tr:5898/stream",
-          "responseMs": 710,
+          "responseMs": 884,
           "contentType": "",
           "validation": "stream-bytes"
         }
@@ -4521,10 +4524,10 @@
         {
           "url": "https://anadolu.liderhost.com.tr:6010/;",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:23Z",
+          "checkedAt": "2026-08-13T09:49:59Z",
           "httpStatus": 200,
           "finalUrl": "https://anadolu.liderhost.com.tr:6010/;",
-          "responseMs": 508,
+          "responseMs": 1143,
           "contentType": "",
           "validation": "stream-bytes"
         }
@@ -4539,10 +4542,10 @@
         {
           "url": "https://panel.retrolandigital.com/listen/cumbias_inmortales_radio/listen",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:23Z",
+          "checkedAt": "2026-08-13T09:50:00Z",
           "httpStatus": 200,
           "finalUrl": "https://panel.retrolandigital.com/listen/cumbias_inmortales_radio/listen",
-          "responseMs": 184,
+          "responseMs": 311,
           "contentType": "audio/aac",
           "validation": "stream-bytes"
         }
@@ -4557,10 +4560,10 @@
         {
           "url": "https://stream2.soundflux.eu:8440/stream",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:23Z",
+          "checkedAt": "2026-08-13T09:50:00Z",
           "httpStatus": 200,
           "finalUrl": "https://stream2.soundflux.eu:8440/stream",
-          "responseMs": 864,
+          "responseMs": 807,
           "contentType": "",
           "validation": "stream-bytes"
         }
@@ -4575,10 +4578,10 @@
         {
           "url": "https://radyo.yayindakiler.com:8018/;",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:23Z",
+          "checkedAt": "2026-08-13T09:50:00Z",
           "httpStatus": 200,
           "finalUrl": "https://radyo.yayindakiler.com:8018/;",
-          "responseMs": 690,
+          "responseMs": 1019,
           "contentType": "",
           "validation": "stream-bytes"
         }
@@ -4593,10 +4596,10 @@
         {
           "url": "https://securestream.cuelightsmedia.com.au/listen/80s/low.aac",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:23Z",
+          "checkedAt": "2026-08-13T09:50:00Z",
           "httpStatus": 200,
           "finalUrl": "https://securestream.cuelightsmedia.com.au/listen/80s/low.aac",
-          "responseMs": 459,
+          "responseMs": 589,
           "contentType": "audio/aac",
           "validation": "stream-bytes"
         }
@@ -4611,10 +4614,10 @@
         {
           "url": "http://jking.cdnstream1.com/b22139_128mp3",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:23Z",
+          "checkedAt": "2026-08-13T09:50:00Z",
           "httpStatus": 200,
           "finalUrl": "http://jking.cdnstream1.com/b22139_128mp3",
-          "responseMs": 356,
+          "responseMs": 233,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         }
@@ -4629,10 +4632,10 @@
         {
           "url": "https://azh.webradiomanager.fr/listen/hot_21_radio/radio.mp3",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:23Z",
+          "checkedAt": "2026-08-13T09:50:00Z",
           "httpStatus": 200,
           "finalUrl": "https://azh.webradiomanager.fr/listen/hot_21_radio/radio.mp3",
-          "responseMs": 676,
+          "responseMs": 803,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         }
@@ -4647,20 +4650,20 @@
         {
           "url": "https://usa4.fastcast4u.com/proxy/radyoizmirfm/mp3stream256",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:23Z",
+          "checkedAt": "2026-08-13T09:50:00Z",
           "httpStatus": 200,
           "finalUrl": "https://usa4.fastcast4u.com/proxy/radyoizmirfm/mp3stream256",
-          "responseMs": 163,
+          "responseMs": 381,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         },
         {
           "url": "https://usa4.fastcast4u.com/proxy/radyoizmirfm/aacstream64",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:23Z",
+          "checkedAt": "2026-08-13T09:50:00Z",
           "httpStatus": 200,
           "finalUrl": "https://usa4.fastcast4u.com/proxy/radyoizmirfm/aacstream64",
-          "responseMs": 159,
+          "responseMs": 397,
           "contentType": "audio/aacp",
           "validation": "stream-bytes"
         }
@@ -4675,10 +4678,10 @@
         {
           "url": "https://radyo.yayindakiler.com:3164/stream?/;stream.mp3",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:23Z",
+          "checkedAt": "2026-08-13T09:50:00Z",
           "httpStatus": 200,
           "finalUrl": "https://radyo.yayindakiler.com:3164/stream?/;stream.mp3",
-          "responseMs": 840,
+          "responseMs": 833,
           "contentType": "",
           "validation": "stream-bytes"
         }
@@ -4693,10 +4696,10 @@
         {
           "url": "https://securenetg.com/listen/station_877/radio.aac",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:23Z",
+          "checkedAt": "2026-08-13T09:50:00Z",
           "httpStatus": 200,
           "finalUrl": "https://securenetg.com/listen/station_877/radio.aac",
-          "responseMs": 160,
+          "responseMs": 388,
           "contentType": "audio/aac",
           "validation": "stream-bytes"
         }
@@ -4711,23 +4714,23 @@
         {
           "url": "https://stream.slowlyradio.com/",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:23Z",
+          "checkedAt": "2026-08-13T09:50:00Z",
           "httpStatus": 200,
           "finalUrl": "https://listen.radioking.com/radio/421816/stream/476452",
-          "responseMs": 964,
+          "responseMs": 1221,
           "contentType": "",
           "validation": "stream-bytes"
         },
         {
           "url": "https://sd-stream.slowlyradio.com/",
           "ok": false,
-          "checkedAt": "2026-08-13T05:52:23Z",
+          "checkedAt": "2026-08-13T09:50:00Z",
           "error": "URLError: <urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1010)>"
         },
         {
           "url": "https://aac-mobile-stream.slowlyradio.com/",
           "ok": false,
-          "checkedAt": "2026-08-13T05:52:23Z",
+          "checkedAt": "2026-08-13T09:50:00Z",
           "error": "URLError: <urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1010)>"
         }
       ]
@@ -4741,10 +4744,10 @@
         {
           "url": "https://ais-sa2.cdnstream1.com/2210_128.mp3",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:23Z",
+          "checkedAt": "2026-08-13T09:50:00Z",
           "httpStatus": 200,
           "finalUrl": "https://ais-sa2.cdnstream1.com/2210_128.mp3",
-          "responseMs": 224,
+          "responseMs": 193,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         }
@@ -4759,19 +4762,22 @@
         {
           "url": "https://ice64.securenetsystems.net/LFTM",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:23Z",
+          "checkedAt": "2026-08-13T09:50:00Z",
           "httpStatus": 200,
           "finalUrl": "https://ice64.securenetsystems.net/LFTM",
-          "responseMs": 940,
+          "responseMs": 1094,
           "contentType": "audio/aacp",
           "validation": "stream-bytes"
         },
         {
           "url": "https://streaming.shoutcast.com/100-hip-hop-and-rnb-fm",
-          "ok": false,
-          "checkedAt": "2026-08-13T05:52:23Z",
-          "httpStatus": 404,
-          "error": "HTTP 404"
+          "ok": true,
+          "checkedAt": "2026-08-13T09:50:00Z",
+          "httpStatus": 200,
+          "finalUrl": "https://streaming.shoutcast.com/100-hip-hop-and-rnb-fm",
+          "responseMs": 671,
+          "contentType": "",
+          "validation": "stream-bytes"
         }
       ]
     },
@@ -4784,10 +4790,10 @@
         {
           "url": "https://sslyayin.radyoyayini.com:7103/stream",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:23Z",
+          "checkedAt": "2026-08-13T09:50:01Z",
           "httpStatus": 200,
           "finalUrl": "https://sslyayin.radyoyayini.com:7103/stream",
-          "responseMs": 680,
+          "responseMs": 854,
           "contentType": "audio/aacp",
           "validation": "stream-bytes"
         }
@@ -4802,10 +4808,10 @@
         {
           "url": "https://edge.taksimbilisim.com/radyo2000/bant1/icecast.audio",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:23Z",
+          "checkedAt": "2026-08-13T09:50:01Z",
           "httpStatus": 200,
           "finalUrl": "https://edge.taksimbilisim.com/radyo2000/bant1/icecast.audio",
-          "responseMs": 430,
+          "responseMs": 692,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         }
@@ -4820,10 +4826,10 @@
         {
           "url": "https://canli.radyobir.com.tr:7002/;stream/1",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:23Z",
+          "checkedAt": "2026-08-13T09:50:01Z",
           "httpStatus": 200,
           "finalUrl": "https://canli.radyobir.com.tr:7002/;stream/1",
-          "responseMs": 894,
+          "responseMs": 1177,
           "contentType": "audio/aacp",
           "validation": "stream-bytes"
         }
@@ -4838,20 +4844,20 @@
         {
           "url": "https://icecast-rian.cdnvideo.ru/voicestm",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:23Z",
+          "checkedAt": "2026-08-13T09:50:01Z",
           "httpStatus": 200,
           "finalUrl": "https://icecast-rian.cdnvideo.ru/voicestm",
-          "responseMs": 196,
+          "responseMs": 339,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         },
         {
           "url": "https://nfw.ria.ru/flv/audio.aspx?ID=98318704&type=mp3",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:24Z",
+          "checkedAt": "2026-08-13T09:50:01Z",
           "httpStatus": 200,
           "finalUrl": "https://icecast-rian.cdnvideo.ru/voicestm",
-          "responseMs": 750,
+          "responseMs": 947,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         }
@@ -4866,20 +4872,20 @@
         {
           "url": "https://world.lunafm.net/listen/lunaworld/radio.mp3",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:24Z",
+          "checkedAt": "2026-08-13T09:50:01Z",
           "httpStatus": 200,
           "finalUrl": "https://world.lunafm.net/listen/lunaworld/radio.mp3",
-          "responseMs": 577,
+          "responseMs": 717,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         },
         {
           "url": "https://world.lunafm.net/listen/lunaworld/radio.aac",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:24Z",
+          "checkedAt": "2026-08-13T09:50:01Z",
           "httpStatus": 200,
           "finalUrl": "https://world.lunafm.net/listen/lunaworld/radio.aac",
-          "responseMs": 594,
+          "responseMs": 645,
           "contentType": "audio/aac",
           "validation": "stream-bytes"
         }
@@ -4894,20 +4900,20 @@
         {
           "url": "https://portugal.lunafm.net/listen/lunaportugal/radio.mp3",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:24Z",
+          "checkedAt": "2026-08-13T09:50:01Z",
           "httpStatus": 200,
           "finalUrl": "https://portugal.lunafm.net/listen/lunaportugal/radio.mp3",
-          "responseMs": 559,
+          "responseMs": 775,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         },
         {
           "url": "https://portugal.lunafm.net/listen/lunaportugal/mytuner-radio.aac",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:24Z",
+          "checkedAt": "2026-08-13T09:50:01Z",
           "httpStatus": 200,
           "finalUrl": "https://portugal.lunafm.net/listen/lunaportugal/mytuner-radio.aac",
-          "responseMs": 469,
+          "responseMs": 642,
           "contentType": "audio/aac",
           "validation": "stream-bytes"
         }
@@ -4922,20 +4928,20 @@
         {
           "url": "https://brasil.lunafm.net/listen/lunabrasil/radio.mp3",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:24Z",
+          "checkedAt": "2026-08-13T09:50:01Z",
           "httpStatus": 200,
           "finalUrl": "https://brasil.lunafm.net/listen/lunabrasil/radio.mp3",
-          "responseMs": 634,
+          "responseMs": 728,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         },
         {
           "url": "https://brasil.lunafm.net/listen/lunabrasil/radio.aac",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:24Z",
+          "checkedAt": "2026-08-13T09:50:01Z",
           "httpStatus": 200,
           "finalUrl": "https://brasil.lunafm.net/listen/lunabrasil/radio.aac",
-          "responseMs": 529,
+          "responseMs": 594,
           "contentType": "audio/aac",
           "validation": "stream-bytes"
         }
@@ -4950,20 +4956,20 @@
         {
           "url": "https://latino.lunafm.net/listen/lunalatina/radio.mp3",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:24Z",
+          "checkedAt": "2026-08-13T09:50:01Z",
           "httpStatus": 200,
           "finalUrl": "https://latino.lunafm.net/listen/lunalatina/radio.mp3",
-          "responseMs": 553,
+          "responseMs": 790,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         },
         {
           "url": "https://latino.lunafm.net/listen/lunalatina/radio.aac",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:24Z",
+          "checkedAt": "2026-08-13T09:50:01Z",
           "httpStatus": 200,
           "finalUrl": "https://latino.lunafm.net/listen/lunalatina/radio.aac",
-          "responseMs": 534,
+          "responseMs": 705,
           "contentType": "audio/aac",
           "validation": "stream-bytes"
         }
@@ -4978,20 +4984,20 @@
         {
           "url": "https://mscp3.live-streams.nl:8212/radio",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:24Z",
+          "checkedAt": "2026-08-13T09:50:01Z",
           "httpStatus": 200,
           "finalUrl": "https://mscp3.live-streams.nl:8212/radio",
-          "responseMs": 630,
+          "responseMs": 752,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         },
         {
           "url": "https://mscp3.live-streams.nl:8212/live",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:24Z",
+          "checkedAt": "2026-08-13T09:50:01Z",
           "httpStatus": 200,
           "finalUrl": "https://mscp3.live-streams.nl:8212/live",
-          "responseMs": 608,
+          "responseMs": 715,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         }
@@ -5006,10 +5012,10 @@
         {
           "url": "https://mscp2.live-streams.nl:8182/radio",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:24Z",
+          "checkedAt": "2026-08-13T09:50:02Z",
           "httpStatus": 200,
           "finalUrl": "https://mscp2.live-streams.nl:8182/radio",
-          "responseMs": 792,
+          "responseMs": 688,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         }
@@ -5024,10 +5030,10 @@
         {
           "url": "https://mscp4.live-streams.nl:8212/radio",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:24Z",
+          "checkedAt": "2026-08-13T09:50:02Z",
           "httpStatus": 200,
           "finalUrl": "https://mscp4.live-streams.nl:8212/radio",
-          "responseMs": 734,
+          "responseMs": 873,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         }
@@ -5042,10 +5048,10 @@
         {
           "url": "https://mscp4.live-streams.nl:8112/radio.mp3",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:24Z",
+          "checkedAt": "2026-08-13T09:50:02Z",
           "httpStatus": 200,
           "finalUrl": "https://mscp4.live-streams.nl:8112/radio.mp3",
-          "responseMs": 640,
+          "responseMs": 811,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         }
@@ -5060,10 +5066,10 @@
         {
           "url": "https://2000.streeemer.com/listen/2000s/radio.mp3",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:24Z",
+          "checkedAt": "2026-08-13T09:50:02Z",
           "httpStatus": 200,
           "finalUrl": "https://2000.streeemer.com/listen/2000s/radio.mp3",
-          "responseMs": 508,
+          "responseMs": 824,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         }
@@ -5078,10 +5084,10 @@
         {
           "url": "https://c38.radioboss.fm:8188/stream",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:25Z",
+          "checkedAt": "2026-08-13T09:50:02Z",
           "httpStatus": 200,
           "finalUrl": "https://c38.radioboss.fm:8188/stream",
-          "responseMs": 407,
+          "responseMs": 556,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         }
@@ -5096,10 +5102,10 @@
         {
           "url": "https://stream.epic-piano.com/chillout-piano",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:25Z",
+          "checkedAt": "2026-08-13T09:50:02Z",
           "httpStatus": 200,
-          "finalUrl": "https://0nlineradio.stream13.radiohost.de/piano-chillout-piano?upd-meta=1&upd-scheme=https&_art=dD0xNzg2NjAwNjQ1JmQ9ZWE3NTM2OTM3Mzk1ZDBjYjZiYmI",
-          "responseMs": 1715,
+          "finalUrl": "https://0nlineradio.stream42.radiohost.de/piano-chillout-piano?upd-meta=1&upd-scheme=https&_art=dD0xNzg2NjE0OTAzJmQ9ZDNlYjAyMjNjYzcxNjlhYzViNTc",
+          "responseMs": 2535,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         }
@@ -5114,10 +5120,10 @@
         {
           "url": "https://stream.epic-piano.com/romantic-piano",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:25Z",
+          "checkedAt": "2026-08-13T09:50:02Z",
           "httpStatus": 200,
-          "finalUrl": "https://0nlineradio.stream13.radiohost.de/piano-romantic-piano?upd-meta=1&upd-scheme=https&_art=dD0xNzg2NjAwNjQ1JmQ9YjFkNGM0ODZkNWZmMzVjNzAxZTQ",
-          "responseMs": 2064,
+          "finalUrl": "https://0nlineradio.stream42.radiohost.de/piano-romantic-piano?upd-meta=1&upd-scheme=https&_art=dD0xNzg2NjE0OTAzJmQ9YWRmZmYzYTA1NmFhMzBjZjZkNDc",
+          "responseMs": 2774,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         }
@@ -5132,10 +5138,10 @@
         {
           "url": "https://stream.epic-piano.com/solo-piano",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:25Z",
+          "checkedAt": "2026-08-13T09:50:02Z",
           "httpStatus": 200,
-          "finalUrl": "https://0nlineradio.stream13.radiohost.de/piano-solo-piano?upd-meta=1&upd-scheme=https&_art=dD0xNzg2NjAwNjQ1JmQ9Mjg4ZTRlNmRhOWRmOTY3Yzk1ZTU",
-          "responseMs": 1652,
+          "finalUrl": "https://0nlineradio.stream42.radiohost.de/piano-solo-piano?upd-meta=1&upd-scheme=https&_art=dD0xNzg2NjE0OTAzJmQ9ZmU5ZDUxZGUwNWNlYTFlOWU4ZTk",
+          "responseMs": 2494,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         }
@@ -5145,12 +5151,12 @@
       "name": "Epic Piano - Great Concerts",
       "status": "offline",
       "activeUrlIndex": null,
-      "consecutiveFailures": 5,
+      "consecutiveFailures": 6,
       "urls": [
         {
           "url": "https://stream.epic-piano.com/great-concerts",
           "ok": false,
-          "checkedAt": "2026-08-13T05:52:25Z",
+          "checkedAt": "2026-08-13T09:50:02Z",
           "httpStatus": 404,
           "error": "HTTP 404"
         }
@@ -5165,10 +5171,10 @@
         {
           "url": "https://stream.epic-piano.com/modern-piano",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:25Z",
+          "checkedAt": "2026-08-13T09:50:02Z",
           "httpStatus": 200,
-          "finalUrl": "https://0nlineradio.stream13.radiohost.de/piano-modern-piano?upd-meta=1&upd-scheme=https&_art=dD0xNzg2NjAwNjQ1JmQ9Zjc5ZTEyOWVkNDQ4N2IzMTQwNzk",
-          "responseMs": 1530,
+          "finalUrl": "https://0nlineradio.stream42.radiohost.de/piano-modern-piano?upd-meta=1&upd-scheme=https&_art=dD0xNzg2NjE0OTAzJmQ9MWViODllZWI3ZDM4MDIyMjc5MzA",
+          "responseMs": 2593,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         }
@@ -5183,10 +5189,10 @@
         {
           "url": "https://stream.epic-piano.com/piano-coverhits",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:25Z",
+          "checkedAt": "2026-08-13T09:50:02Z",
           "httpStatus": 200,
-          "finalUrl": "https://0nlineradio.stream13.radiohost.de/piano-piano-coverhits?upd-meta=1&upd-scheme=https&_art=dD0xNzg2NjAwNjQ1JmQ9ZjBiNDMyYjZlMDA5ZmEzOGU0Nzg",
-          "responseMs": 1505,
+          "finalUrl": "https://0nlineradio.stream42.radiohost.de/piano-piano-coverhits?upd-meta=1&upd-scheme=https&_art=dD0xNzg2NjE0OTAzJmQ9ZjQxYThhMzIxM2VmMzUyZDI5OTk",
+          "responseMs": 1800,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         }
@@ -5196,12 +5202,12 @@
       "name": "Epic Piano - Christmas Piano",
       "status": "offline",
       "activeUrlIndex": null,
-      "consecutiveFailures": 5,
+      "consecutiveFailures": 6,
       "urls": [
         {
           "url": "https://stream.epic-piano.com/piano-christmas",
           "ok": false,
-          "checkedAt": "2026-08-13T05:52:25Z",
+          "checkedAt": "2026-08-13T09:50:02Z",
           "httpStatus": 404,
           "error": "HTTP 404"
         }
@@ -5216,10 +5222,10 @@
         {
           "url": "https://stream.epic-piano.com/chopin",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:25Z",
+          "checkedAt": "2026-08-13T09:50:02Z",
           "httpStatus": 200,
-          "finalUrl": "https://0nlineradio.stream13.radiohost.de/piano-chopin?upd-meta=1&upd-scheme=https&_art=dD0xNzg2NjAwNjQ1JmQ9NzFmZDE2MGY5OTZhYjM3YzcwMzU",
-          "responseMs": 1757,
+          "finalUrl": "https://0nlineradio.stream42.radiohost.de/piano-chopin?upd-meta=1&upd-scheme=https&_art=dD0xNzg2NjE0OTAzJmQ9M2M1MTM1ZmUxNWVjOTNmYTVlOWQ",
+          "responseMs": 2724,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         }
@@ -5234,10 +5240,10 @@
         {
           "url": "https://stream.epic-piano.com/tschaikowski",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:25Z",
+          "checkedAt": "2026-08-13T09:50:02Z",
           "httpStatus": 200,
-          "finalUrl": "https://0nlineradio.stream13.radiohost.de/piano-tschaikowski?upd-meta=1&upd-scheme=https&_art=dD0xNzg2NjAwNjQ1JmQ9YjhmOGYyNzliOWI2ZDE3MGFiNzc",
-          "responseMs": 1694,
+          "finalUrl": "https://0nlineradio.stream42.radiohost.de/piano-tschaikowski?upd-meta=1&upd-scheme=https&_art=dD0xNzg2NjE0OTAzJmQ9YmJjNzUzYWEzNTIwZGFiMjdmNTE",
+          "responseMs": 2091,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         }
@@ -5252,10 +5258,10 @@
         {
           "url": "https://stream.epic-piano.com/grieg",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:25Z",
+          "checkedAt": "2026-08-13T09:50:02Z",
           "httpStatus": 200,
-          "finalUrl": "https://0nlineradio.stream13.radiohost.de/piano-grieg?upd-meta=1&upd-scheme=https&_art=dD0xNzg2NjAwNjQ1JmQ9ZTE5M2JjN2FjNGNmMWExZGZlN2M",
-          "responseMs": 1681,
+          "finalUrl": "https://0nlineradio.stream42.radiohost.de/piano-grieg?upd-meta=1&upd-scheme=https&_art=dD0xNzg2NjE0OTAzJmQ9ZTY3ZmMxYzY0NTRiM2U3ODdmZWY",
+          "responseMs": 2326,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         }
@@ -5270,10 +5276,10 @@
         {
           "url": "https://stream.epic-piano.com/liszt",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:25Z",
+          "checkedAt": "2026-08-13T09:50:02Z",
           "httpStatus": 200,
-          "finalUrl": "https://0nlineradio.stream13.radiohost.de/piano-liszt?upd-meta=1&upd-scheme=https&_art=dD0xNzg2NjAwNjQ2JmQ9YTNhNjhkNmFmOWNhNzFiN2JjZDM",
-          "responseMs": 1571,
+          "finalUrl": "https://0nlineradio.stream42.radiohost.de/piano-liszt?upd-meta=1&upd-scheme=https&_art=dD0xNzg2NjE0OTAzJmQ9NzY4MmNhNmFlNjIyYWQyN2E5ODM",
+          "responseMs": 1915,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         }
@@ -5288,10 +5294,10 @@
         {
           "url": "https://stream2.rtvtakip.com:7005/;stream.mp3",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:25Z",
+          "checkedAt": "2026-08-13T09:50:03Z",
           "httpStatus": 200,
           "finalUrl": "https://stream2.rtvtakip.com:7005/;stream.mp3",
-          "responseMs": 732,
+          "responseMs": 874,
           "contentType": "audio/aacp",
           "validation": "stream-bytes"
         }
@@ -5306,10 +5312,10 @@
         {
           "url": "https://dinle.korfezfm.com/9954/stream",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:26Z",
+          "checkedAt": "2026-08-13T09:50:03Z",
           "httpStatus": 200,
           "finalUrl": "https://dinle.korfezfm.com/9954/stream",
-          "responseMs": 566,
+          "responseMs": 838,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         }
@@ -5324,10 +5330,10 @@
         {
           "url": "https://sslyayin.radyoyayini.com:7069/stream",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:26Z",
+          "checkedAt": "2026-08-13T09:50:04Z",
           "httpStatus": 200,
           "finalUrl": "https://sslyayin.radyoyayini.com:7069/stream",
-          "responseMs": 714,
+          "responseMs": 860,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         }
@@ -5342,10 +5348,10 @@
         {
           "url": "https://www.radyoplay.net/proxy.php",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:26Z",
+          "checkedAt": "2026-08-13T09:50:04Z",
           "httpStatus": 200,
           "finalUrl": "https://www.radyoplay.net/proxy.php",
-          "responseMs": 817,
+          "responseMs": 1002,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         }
@@ -5353,15 +5359,19 @@
     },
     "radyo-desibel-940": {
       "name": "Radyo Desibel 94.0",
-      "status": "warning",
-      "activeUrlIndex": null,
-      "consecutiveFailures": 1,
+      "status": "online",
+      "activeUrlIndex": 0,
+      "consecutiveFailures": 0,
       "urls": [
         {
           "url": "https://www.radyodesibel.com/stream.php",
-          "ok": false,
-          "checkedAt": "2026-08-13T05:52:26Z",
-          "error": "URLError: <urlopen error timed out>"
+          "ok": true,
+          "checkedAt": "2026-08-13T09:50:04Z",
+          "httpStatus": 200,
+          "finalUrl": "https://www.radyodesibel.com/stream.php",
+          "responseMs": 2070,
+          "contentType": "audio/mpeg",
+          "validation": "stream-bytes"
         }
       ]
     },
@@ -5374,10 +5384,10 @@
         {
           "url": "https://radyoses.radyotvonline.net:8096//stream",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:26Z",
+          "checkedAt": "2026-08-13T09:50:04Z",
           "httpStatus": 200,
           "finalUrl": "https://radyoses.radyotvonline.net:8096//stream",
-          "responseMs": 1407,
+          "responseMs": 1696,
           "contentType": "audio/aacp",
           "validation": "stream-bytes"
         }
@@ -5392,10 +5402,10 @@
         {
           "url": "https://live.radyo.in/9054/stream",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:26Z",
+          "checkedAt": "2026-08-13T09:50:04Z",
           "httpStatus": 200,
           "finalUrl": "https://live.radyo.in/9054/stream",
-          "responseMs": 660,
+          "responseMs": 767,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         }
@@ -5410,10 +5420,10 @@
         {
           "url": "https://stream.radioava.fm/stream",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:26Z",
+          "checkedAt": "2026-08-13T09:50:04Z",
           "httpStatus": 200,
           "finalUrl": "https://stream.radioava.fm/stream",
-          "responseMs": 623,
+          "responseMs": 758,
           "contentType": "audio/aacp",
           "validation": "stream-bytes"
         }
@@ -5421,16 +5431,19 @@
     },
     "efsane-radyo-962": {
       "name": "Efsane Radyo 96.2",
-      "status": "offline",
-      "activeUrlIndex": null,
-      "consecutiveFailures": 4,
+      "status": "online",
+      "activeUrlIndex": 0,
+      "consecutiveFailures": 0,
       "urls": [
         {
           "url": "https://host10.onlineradyotv.net:7007/stream",
-          "ok": false,
-          "checkedAt": "2026-08-13T05:52:27Z",
-          "httpStatus": 401,
-          "error": "HTTP 401"
+          "ok": true,
+          "checkedAt": "2026-08-13T09:50:05Z",
+          "httpStatus": 200,
+          "finalUrl": "https://host10.onlineradyotv.net:7007/stream",
+          "responseMs": 786,
+          "contentType": "audio/aacp",
+          "validation": "stream-bytes"
         }
       ]
     },
@@ -5443,10 +5456,10 @@
         {
           "url": "https://mercanfm.ozelip.com.tr:10975/;stream.nsv&type=mp3",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:27Z",
+          "checkedAt": "2026-08-13T09:50:05Z",
           "httpStatus": 200,
           "finalUrl": "https://mercanfm.ozelip.com.tr:10975/;stream.nsv&type=mp3",
-          "responseMs": 795,
+          "responseMs": 961,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         }
@@ -5461,10 +5474,10 @@
         {
           "url": "https://radyo.yayin.com.tr:6227/stream",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:27Z",
+          "checkedAt": "2026-08-13T09:50:05Z",
           "httpStatus": 200,
           "finalUrl": "https://radyo.yayin.com.tr:6227/stream",
-          "responseMs": 686,
+          "responseMs": 848,
           "contentType": "",
           "validation": "stream-bytes"
         }
@@ -5479,20 +5492,20 @@
         {
           "url": "https://a8.asurahosting.com:8270/radio.mp3",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:27Z",
+          "checkedAt": "2026-08-13T09:50:05Z",
           "httpStatus": 200,
           "finalUrl": "https://a8.asurahosting.com:8270/radio.mp3",
-          "responseMs": 532,
+          "responseMs": 582,
           "contentType": "audio/mpeg",
           "validation": "stream-bytes"
         },
         {
           "url": "https://a8.asurahosting.com/hls/radyo_42_fm_medya_konya_pr_music/live.m3u8",
           "ok": true,
-          "checkedAt": "2026-08-13T05:52:27Z",
+          "checkedAt": "2026-08-13T09:50:05Z",
           "httpStatus": 200,
           "finalUrl": "https://a8.asurahosting.com/hls/radyo_42_fm_medya_konya_pr_music/live.m3u8",
-          "responseMs": 489,
+          "responseMs": 674,
           "contentType": "application/x-mpegurl",
           "validation": "playlist-and-media"
         }
