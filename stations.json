@@ -2278,6 +2278,451 @@
       "id": "radyo-42-medya-konya", "name": "Radyo 42 FM Medya Konya", "enabled": true,
       "urls": ["https://a8.asurahosting.com:8270/radio.mp3", "https://a8.asurahosting.com/hls/radyo_42_fm_medya_konya_pr_music/live.m3u8"],
       "website": "https://medyakonya.com/", "content": "Türkçe, Latin, İspanyol, Arap müziği ve karma dünya müzikleri", "location": "Konya"
+    },
+    {
+      "id": "kexp-903", "name": "KEXP 90.3 FM", "enabled": true,
+      "urls": ["https://kexp.streamguys1.com/kexp160.aac", "https://kexp.streamguys1.com/kexp64.aac"],
+      "website": "https://www.kexp.org/", "content": "Bağımsız ve alternatif müzik, canlı performanslar ve DJ programları", "location": "Seattle, Washington, ABD", "frequency": "90.3 FM"
+    },
+    {
+      "id": "dublab", "name": "dublab", "enabled": true,
+      "urls": ["https://dublab.out.airtime.pro/dublab_a"],
+      "website": "https://www.dublab.com/", "content": "Serbest format; elektronik, deneysel, ambient, caz, soul ve dünya müzikleri", "location": "Los Angeles, California, ABD"
+    },
+    {
+      "id": "wwoz-907", "name": "WWOZ 90.7 FM", "enabled": true,
+      "urls": ["https://wwoz-sc.streamguys1.com/wwoz-hi.mp3", "https://wwoz-sc.streamguys1.com/wwozhd2-hi"],
+      "website": "https://www.wwoz.org/", "content": "New Orleans cazı, blues, funk, soul, Latin, Cajun ve zydeco", "location": "New Orleans, Louisiana, ABD", "frequency": "90.7 FM"
+    },
+    {
+      "id": "dublin-digital-radio", "name": "Dublin Digital Radio", "enabled": true,
+      "urls": ["https://dublin-digital-radio.radiocult.fm/stream", "https://dublindigitalradio.out.airtime.pro/dublindigitalradio_a"],
+      "website": "https://listen.dublindigitalradio.com/home", "content": "Bağımsız müzik, sanat, kültür ve topluluk programları", "location": "Dublin, İrlanda"
+    },
+    {
+      "id": "refuge-worldwide", "name": "Refuge Worldwide", "enabled": true,
+      "urls": ["https://streaming.radio.co/s3699c5e49/listen"],
+      "website": "https://refugeworldwide.com/radio", "content": "Elektronik, deneysel, ambient, caz, dünya müzikleri ve topluluk programları", "location": "Berlin, Almanya"
+    },
+    {
+      "id": "hanoi-community-radio", "name": "Hanoi Community Radio", "enabled": true,
+      "urls": ["https://ha-noi-community-radio.radiocult.fm/stream"],
+      "website": "https://www.hanoicommunityradio.com/", "content": "Vietnam bağımsız müzik sahnesi, DJ setleri ve kültür programları", "location": "Hanoi, Vietnam"
+    },
+    {
+      "id": "radio-alhara", "name": "Radio Alhara", "enabled": true,
+      "urls": ["https://stream.radioalhara.net/ra"],
+      "website": "https://radioalhara.net/", "content": "Bağımsız müzik, ses sanatı, konuşma ve dayanışma yayınları", "location": "Beytüllahim, Filistin"
+    },
+    {
+      "id": "radio-alhara-channel-2", "name": "Radio Alhara Channel 2", "enabled": true,
+      "urls": ["https://stream.radioalhara.net/ra2"],
+      "website": "https://radioalhara.net/", "content": "Radio Alhara'nın ikinci bağımsız müzik ve özel yayın kanalı", "location": "Filistin"
+    },
+    {
+      "id": "kiosk-radio", "name": "Kiosk Radio", "enabled": true,
+      "urls": ["https://kioskradiobxl.out.airtime.pro/kioskradiobxl_b"],
+      "website": "https://www.kioskradio.com/", "content": "Elektronik, house, techno, ambient, hip hop ve deneysel DJ programları", "location": "Brüksel, Belçika"
+    },
+    {
+      "id": "boogaloo-radio", "name": "Boogaloo Radio", "enabled": true,
+      "urls": ["https://streams.radio.co/sb88c742f0/listen"],
+      "website": "https://boogalooradio.com/", "content": "Serbest format; rock, alternatif, soul, punk ve konuşma programları", "location": "Londra, Birleşik Krallık"
+    },
+    {
+      "id": "radiorakel-993", "name": "radiOrakel 99.3 FM", "enabled": true,
+      "urls": ["https://stream.radiorakel.no/fm993.mp3"],
+      "website": "https://radiorakel.no/", "content": "Feminist topluluk radyosu; müzik, kültür, haber ve tartışma programları", "location": "Oslo, Norveç", "frequency": "99.3 FM"
+    },
+    {
+      "id": "radio-buena-vida", "name": "Radio Buena Vida", "enabled": true,
+      "urls": ["https://s4.radio.co/s69b281ac0/listen"],
+      "website": "https://buenavida.co.uk/", "content": "Bağımsız ve topluluk odaklı; elektronik, caz, soul, dub, punk ve hip hop", "location": "Glasgow, İskoçya"
+    },
+    {
+      "id": "radio-is-a-foreign-country", "name": "Radio Is a Foreign Country", "enabled": true,
+      "urls": ["https://s5.radio.co/s20251311a/listen"],
+      "website": "https://www.radioisaforeigncountry.org/", "content": "Küresel halk müzikleri, saha kayıtları, radyo kolajları ve arşiv sesleri", "location": "Çevrimiçi"
+    },
+    {
+      "id": "crb-classical-995", "name": "CRB Classical 99.5", "enabled": true,
+      "urls": ["https://wgbh-live.streamguys1.com/classical-hi/?dist=crb_dotorg_persistentplayer"],
+      "website": "https://www.classicalwcrb.org/", "content": "Klasik müzik, Boston Symphony Orchestra konserleri ve özel programlar", "location": "Boston, Massachusetts, ABD", "frequency": "99.5 FM"
+    },
+    {
+      "id": "kosi-1011", "name": "KOSI 101.1", "enabled": true,
+      "urls": ["https://bonneville.cdnstream1.com/2709_48.aac"],
+      "website": "https://kosi101.com/", "content": "1980'ler, 1990'lar, 2000'ler ve güncel yetişkin pop müziği", "location": "Denver, Colorado, ABD", "frequency": "101.1 FM"
+    },
+    {
+      "id": "q107-toronto", "name": "Q107 Toronto", "enabled": true,
+      "urls": ["https://live.leanstream.co/CILQFM-MP3"],
+      "website": "https://q107.com/", "content": "Klasik rock, rock müzik ve yerel programlar", "location": "Toronto, Ontario, Kanada", "frequency": "107.1 FM"
+    },
+    {
+      "id": "bison-1660", "name": "Bison 1660", "enabled": true,
+      "urls": ["https://ice64.securenetsystems.net/KQWBAM"],
+      "website": "https://www.bison1660.com/", "content": "North Dakota State Bison sporları, canlı karşılaşmalar ve spor programları", "location": "Fargo, Kuzey Dakota, ABD", "frequency": "1660 AM"
+    },
+    {
+      "id": "super-latina-901", "name": "Super Latina 90.1 FM", "enabled": true,
+      "urls": ["https://securestream.radioshd.info:7037/;"],
+      "website": "https://superlatina.es/", "content": "Salsa, merengue, cumbia, bachata, reggaeton ve Latin pop", "location": "Madrid, İspanya", "frequency": "90.1 FM"
+    },
+    {
+      "id": "mix-malaysia", "name": "MIX Malaysia", "enabled": true,
+      "urls": ["https://stream.rcs.revma.com/488kt4sbv4uvv/hls.m3u8", "https://stream.rcs.revma.com/g3sa85sbv4uvv"],
+      "website": "https://mix.syok.my/", "content": "Güncel uluslararası pop, hit müzik ve İngilizce eğlence programları", "location": "Kuala Lumpur, Malezya"
+    },
+    {
+      "id": "chfi-981", "name": "98.1 CHFI", "enabled": true,
+      "urls": ["https://rogers-hls.leanstream.co/rogers/tor981.stream/playlist.m3u8"],
+      "website": "https://www.seekyoursounds.com/radio/981chfi/", "content": "Yetişkin pop, 1980'ler ve 1990'lar ile güncel hit müzik", "location": "Toronto, Ontario, Kanada", "frequency": "98.1 FM"
+    },
+    {
+      "id": "red-fm-toronto-889", "name": "RED FM Toronto 88.9", "enabled": true,
+      "urls": ["https://ice9.securenetsystems.net/CIRVFM"],
+      "website": "https://redfm.ca/en-ca/toronto", "content": "Pencapça ve Hintçe müzik, haber, kültür ve Güney Asya toplum programları", "location": "Toronto, Ontario, Kanada", "frequency": "88.9 FM"
+    },
+    {
+      "id": "radio-worm", "name": "Radio WORM", "enabled": true,
+      "urls": ["https://play.streamnerd.nl/worm/worm/icecast.audio"],
+      "website": "https://radio.worm.org/", "content": "Deneysel müzik, ses sanatı, canlı performanslar ve bağımsız programlar", "location": "Rotterdam, Hollanda"
+    },
+    {
+      "id": "istanbul-fm-886", "name": "İstanbul FM", "enabled": true,
+      "urls": ["https://yayin.istanbulfm.com.tr/istanbulfm/playlist.m3u8", "https://live.radyofenomen.com/istanbulfm/128/playlist.m3u8"],
+      "website": "https://www.istanbulfm.com.tr/", "content": "Türkçe pop, güncel hitler ve radyo programları", "location": "İstanbul", "frequency": "88.6 FM"
+    },
+    {
+      "id": "radio-romania-antena-satelor", "name": "Radio România Antena Satelor", "enabled": true,
+      "urls": ["https://stream4.srr.ro:8443/antena-satelor"],
+      "website": "https://www.antenasatelor.ro/", "content": "Rumen halk müziği, kırsal yaşam, kültür, haber ve bilgilendirme programları", "location": "Bükreş, Romanya"
+    },
+    {
+      "id": "radyo-35", "name": "Radyo 35", "enabled": true,
+      "urls": ["https://yayin.turkhosted.com/6012/stream"],
+      "website": "https://www.radyo35.com/", "content": "Türkçe pop, güncel müzik ve yerel programlar", "location": "İzmir"
+    },
+    {
+      "id": "select-radio-uk", "name": "Select Radio", "enabled": true,
+      "urls": ["https://streaming05.liveboxstream.uk/proxy/selectr1/stream"],
+      "website": "https://selectradioapp.com/", "content": "House, elektronik dans müziği, DJ setleri ve kulüp kültürü", "location": "Londra, Birleşik Krallık"
+    },
+    {
+      "id": "london-music-radio", "name": "London Music Radio", "enabled": true,
+      "urls": ["https://radiobossrelay.radioca.st/stream", "https://stream.londonmusicradio.com:8005/128k"],
+      "website": "https://londonmusicradio.com/", "content": "Bağımsız elektronik müzik, house, techno ve DJ programları", "location": "Londra, Birleşik Krallık"
+    },
+    {
+      "id": "greekbeat-radio", "name": "GreekBeat Radio", "enabled": true,
+      "urls": ["http://s2.voscast.com:9576/1/stream"],
+      "website": "https://greekbeatradio.com/", "content": "Yunan popu, dans müziği ve çağdaş Yunan hitleri", "location": "Hertfordshire, Birleşik Krallık"
+    },
+    {
+      "id": "fresh-soundz-radio", "name": "Fresh Soundz Radio", "enabled": true,
+      "urls": ["https://solid48.streamupsolutions.com/proxy/neivwtxt/stream"],
+      "website": "https://www.freshsoundzradio.com/", "content": "House, deep house, tech house, old-school rave ve DJ programları", "location": "Birleşik Krallık"
+    },
+    {
+      "id": "hits-radio-london", "name": "Hits Radio London", "enabled": true,
+      "urls": ["https://stream-mz.hellorayo.co.uk/net1london.aac?aw_0_1st.skey=1602676850&direct=true&rp_source=1"],
+      "website": "https://www.hellorayo.co.uk/hits-radio/london/", "content": "Güncel pop, dans ve hit müzik", "location": "Londra, Birleşik Krallık"
+    },
+    {
+      "id": "smooth-radio-london-1022", "name": "Smooth Radio London 102.2", "enabled": true,
+      "urls": ["http://media-the.musicradio.com/SmoothLondonMP3"],
+      "website": "https://www.smoothradio.com/london/", "content": "Soft pop, soul, romantik şarkılar ve easy listening", "location": "Londra, Birleşik Krallık", "frequency": "102.2 FM"
+    },
+    {
+      "id": "radio-105-italy", "name": "Radio 105", "enabled": true,
+      "urls": ["https://icecast.unitedradio.it/Radio105.mp3"],
+      "website": "https://www.105.net/", "content": "İtalyan ve uluslararası pop, dans müziği, eğlence ve konuşma programları", "location": "Milano, İtalya"
+    },
+    {
+      "id": "berliner-rundfunk-914", "name": "Berliner Rundfunk 91.4", "enabled": true,
+      "urls": ["https://stream.berliner-rundfunk.de/brf/mp3-128/"],
+      "website": "https://www.berliner-rundfunk.de/", "content": "1970'ler, 1980'ler, oldies, pop ve Berlin yerel programları", "location": "Berlin, Almanya", "frequency": "91.4 FM"
+    },
+    {
+      "id": "fritz", "name": "Fritz", "enabled": true,
+      "urls": ["https://dispatcher.rndfnk.com/rbb/fritz/live/mp3/mid"],
+      "website": "https://www.fritz.de/", "content": "Alternatif, indie, elektronik, hip hop, güncel müzik ve gençlik programları", "location": "Berlin-Brandenburg, Almanya"
+    },
+    {
+      "id": "eska-rock", "name": "ESKA ROCK", "enabled": true,
+      "urls": ["https://radio.stream.smcdn.pl/icradio-p/5380-1.aac/playlist.m3u8", "https://ic2.smcdn.pl/5380-1.mp3"],
+      "website": "https://www.eskarock.pl/", "content": "Alternatif rock, klasik rock, modern rock ve müzik programları", "location": "Varşova, Polonya", "frequency": "93.3 FM"
+    },
+    {
+      "id": "m2o-italy", "name": "m2o", "enabled": true,
+      "urls": ["https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/master_ma.m3u8"],
+      "website": "https://www.m2o.it/", "content": "Dans, elektronik müzik, house, EDM ve DJ programları", "location": "İtalya"
+    },
+    {
+      "id": "red-963-greece", "name": "RED 96.3", "enabled": true,
+      "urls": ["https://netradio.live24.gr/red9630"],
+      "website": "https://www.redfm.gr/", "content": "Rock klasikleri, alternatif rock ve güncel rock müzik", "location": "Atina, Yunanistan", "frequency": "96.3 FM"
+    },
+    {
+      "id": "omroep-brabant", "name": "Omroep Brabant", "enabled": true,
+      "urls": ["https://av.omroepbrabant.nl/icecast/omroepbrabant/mp3hq"],
+      "website": "https://www.omroepbrabant.nl/", "content": "Bölgesel haber, spor, kültür ve pop müzik programları", "location": "Kuzey Brabant, Hollanda"
+    },
+    {
+      "id": "radionl", "name": "RADIONL", "enabled": true,
+      "urls": ["https://stream.radionl.fm/radionl"],
+      "website": "https://www.radionl.fm/", "content": "Hollandaca pop, yerel hitler ve eğlence programları", "location": "Hollanda"
+    },
+    {
+      "id": "radio-538", "name": "Radio 538", "enabled": true,
+      "urls": ["https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO538.mp3"],
+      "website": "https://www.538.nl/", "content": "Güncel pop, dans, hit müzik ve eğlence programları", "location": "Hilversum, Hollanda"
+    },
+    {
+      "id": "4ever49-radio", "name": "4EVER49 Radio", "enabled": true,
+      "urls": ["https://playerservices.streamtheworld.com/api/livestream-redirect/4EVER49.mp3"],
+      "website": "https://4ever49radio.nl/", "content": "1970'ler, 1980'ler, 1990'lar ve yetişkin pop müziği", "location": "Hollanda"
+    },
+    {
+      "id": "nostalgie-vlaanderen", "name": "Nostalgie Vlaanderen", "enabled": true,
+      "urls": ["https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWHATAFEELING.mp3"],
+      "website": "https://nl.nostalgie.be/", "content": "1970'ler, 1980'ler, 1990'lar ve nostaljik pop hitleri", "location": "Flaman Bölgesi, Belçika"
+    },
+    {
+      "id": "joe-belgium", "name": "JOE Belgium", "enabled": true,
+      "urls": ["https://icecast-qmusicbe-cdp.triple-it.nl/joe.mp3"],
+      "website": "https://joe.be/", "content": "1980'ler, 1990'lar, 2000'ler ve pop klasikleri", "location": "Belçika"
+    },
+    {
+      "id": "mnm-belgium", "name": "MNM", "enabled": true,
+      "urls": ["https://icecast.vrtcdn.be/mnm-high.mp3"],
+      "website": "https://www.mnm.be/", "content": "Güncel pop, dans, hip hop, hit müzik ve gençlik programları", "location": "Flaman Bölgesi, Belçika"
+    },
+    {
+      "id": "tipik-belgium", "name": "Tipik", "enabled": true,
+      "urls": ["https://radios.rtbf.be/pure-128.mp3"],
+      "website": "https://www.rtbf.be/tipik", "content": "Fransızca pop, güncel hitler, kültür ve eğlence programları", "location": "Brüksel, Belçika"
+    },
+    {
+      "id": "skyrock-france", "name": "Skyrock", "enabled": true,
+      "urls": ["https://icecast.skyrock.net/s/natio_mp3_128k"],
+      "website": "https://skyrock.fm/", "content": "Fransızca rap, hip hop, R&B ve şehir müziği", "location": "Paris, Fransa"
+    },
+    {
+      "id": "europe-2-france", "name": "Europe 2", "enabled": true,
+      "urls": ["https://europe2.lmn.fm/europe2.mp3"],
+      "website": "https://www.europe2.fr/", "content": "Pop rock, alternatif rock ve güncel hit müzik", "location": "Fransa"
+    },
+    {
+      "id": "radio-orient-france", "name": "Radio Orient France", "enabled": true,
+      "urls": ["https://stream.rcs.revma.com/7hnrkawf4p8uv.mp3"],
+      "website": "https://www.radioorient.com/", "content": "Arapça ve Fransızca müzik, haber, kültür ve toplum programları", "location": "Paris, Fransa"
+    },
+    {
+      "id": "greatest-hits-radio-london", "name": "Greatest Hits Radio London", "enabled": true,
+      "urls": ["https://stream-mz.hellorayo.co.uk/net2london.aac?aw_0_1st.skey=1602676850&direct=true&rp_source=1"],
+      "website": "https://www.hellorayo.co.uk/greatest-hits/london", "content": "1970'ler, 1980'ler ve 1990'lardan klasik hitler", "location": "Londra, Birleşik Krallık"
+    },
+    {
+      "id": "radio-onda-rossa", "name": "Radio Onda Rossa", "enabled": true,
+      "urls": ["https://s.streampunk.cc/ondarossa.ogg", "http://stream.auto.ondarossa.net/ondarossa.mp3"],
+      "website": "https://www.ondarossa.info/", "content": "Bağımsız haber, siyaset, kültür, toplumsal hareketler ve alternatif müzik", "location": "Roma, İtalya", "frequency": "87.9 FM"
+    },
+    {
+      "id": "tele-radio-stereo", "name": "Tele Radio Stereo", "enabled": true,
+      "urls": ["http://trsw.inmystream.info:8068/;stream.mp3"],
+      "website": "http://www.teleradiostereo.it/", "content": "Roma futbolu, spor haberleri, konuşma ve yerel programlar", "location": "Roma, İtalya", "frequency": "92.7 FM"
+    },
+    {
+      "id": "radio-kiss-kiss", "name": "Radio Kiss Kiss", "enabled": true,
+      "urls": ["http://wma08.fluidstream.net:4610/"],
+      "website": "https://kisskiss.it/", "content": "İtalyan ve uluslararası pop, güncel hitler ve eğlence programları", "location": "Napoli, İtalya"
+    },
+    {
+      "id": "hit-889-greece", "name": "HiT 88.9", "enabled": true,
+      "urls": ["https://stream.rcs.revma.com/e4661aft4c3vv"],
+      "website": "https://www.hit889.gr/", "content": "Yunan ve uluslararası pop, güncel hit müzik", "location": "Atina, Yunanistan", "frequency": "88.9 FM"
+    },
+    {
+      "id": "galaxy-92-greece", "name": "Galaxy 92", "enabled": true,
+      "urls": ["https://galaxy.live24.gr/galaxy9292"],
+      "website": "https://www.galaxy92.gr/", "content": "Easy listening, pop, soft rock ve yetişkin müziği", "location": "Atina, Yunanistan", "frequency": "92.0 FM"
+    },
+    {
+      "id": "ert-kosmos", "name": "ERT Kosmos", "enabled": true,
+      "urls": ["https://radiostreaming.ert.gr/ert-kosmos"],
+      "website": "https://www.ertecho.gr/radio/kosmos/program/", "content": "Dünya müzikleri, caz, reggae, Latin, soul ve özel programlar", "location": "Atina, Yunanistan", "frequency": "93.6 FM"
+    },
+    {
+      "id": "real-fm-978", "name": "Real FM 97.8", "enabled": true,
+      "urls": ["https://realfm.live24.gr/realfm"],
+      "website": "https://www.realfm.gr/", "content": "Yunanca haber, siyaset, spor ve konuşma programları", "location": "Atina, Yunanistan", "frequency": "97.8 FM"
+    },
+    {
+      "id": "energy-berlin-1034", "name": "ENERGY Berlin", "enabled": true,
+      "urls": ["http://nrj.de/berlin"],
+      "website": "https://www.energy.de/berlin", "content": "Güncel pop, dans ve uluslararası hit müzik", "location": "Berlin, Almanya", "frequency": "103.4 FM"
+    },
+    {
+      "id": "kiss-fm-berlin-988", "name": "98.8 KISS FM Berlin", "enabled": true,
+      "urls": ["http://stream.kissfm.de/kissfm/mp3-128/internetradio/"],
+      "website": "https://www.kissfm.de/", "content": "Hip hop, R&B, pop, dans ve şehir müziği", "location": "Berlin, Almanya", "frequency": "98.8 FM"
+    },
+    {
+      "id": "schlager-radio-germany", "name": "Schlager Radio", "enabled": true,
+      "urls": ["https://radiob2-national.cast.addradio.de/radiob2/national/mp3/high/stream.mp3?ar-distributor=ffa0"],
+      "website": "https://www.schlagerradio.de/", "content": "Alman schlager müziği, popüler klasikler ve eğlence programları", "location": "Almanya"
+    },
+    {
+      "id": "studio040", "name": "Studio040", "enabled": true,
+      "urls": ["https://stream.studio040.nl/studio040.mp3"],
+      "website": "https://studio040.nl/", "content": "Yerel haber, spor, kültür ve pop müzik", "location": "Eindhoven, Hollanda"
+    },
+    {
+      "id": "jest-fm-1060", "name": "Jest FM 106.0", "enabled": true,
+      "urls": ["http://stream.turkiyeradyolari.com:8098/;"],
+      "website": "https://jestfm.com.tr/anasayfa.php", "content": "Türkçe pop, arabesk, istek ve yerel programlar", "location": "Türkiye", "frequency": "106.0 FM"
+    },
+    {
+      "id": "side-fm", "name": "Side FM", "enabled": true,
+      "urls": ["http://yayin.netyayin.net:8155/;"],
+      "website": "https://sidefm.com/anasayfa.php", "content": "Türkçe pop, güncel hitler, istek ve yerel programlar", "location": "Manavgat, Antalya"
+    },
+    {
+      "id": "radyo-efebey", "name": "Radyo EfeBey", "enabled": true,
+      "urls": ["https://radyo.radyoimza.com/8016/stream"],
+      "website": "https://radyoefebey.com/", "content": "Türk halk müziği, marşlar, özgün müzik ve kültür programları", "location": "Türkiye"
+    },
+    {
+      "id": "radio-orient-berlin", "name": "Radio Orient Berlin", "enabled": true,
+      "urls": ["https://arabica.streamabc.net/76-radioorient-mp3-256-1050481"],
+      "website": "https://radioorient.de/", "content": "Arapça müzik, kültür, haber ve toplum programları", "location": "Berlin, Almanya"
+    },
+    {
+      "id": "radyo-clas", "name": "Radyo Clas", "enabled": true,
+      "urls": ["https://radyo.yayin.com.tr:5568/stream.mp3"],
+      "website": "https://radyoclas.com.tr/", "content": "Türkçe pop, slow ve güncel hit müzik", "location": "Türkiye"
+    },
+    {
+      "id": "radyo-mars", "name": "Radyo Mars", "enabled": true,
+      "urls": ["https://yayin.radyomadyo.com:9400/stream"],
+      "website": "https://radyomars.com.tr/", "content": "Türkçe pop, güncel hitler ve eğlence programları", "location": "İstanbul"
+    },
+    {
+      "id": "capital-xtra", "name": "Capital XTRA", "enabled": true,
+      "urls": ["http://media-the.musicradio.com/CapitalXTRALondonMP3"],
+      "website": "https://www.capitalxtra.com/", "content": "Hip hop, R&B, rap, grime ve şehir müziği", "location": "Londra, Birleşik Krallık"
+    },
+    {
+      "id": "adana-fm-953", "name": "Adana FM 95.3", "enabled": true,
+      "urls": ["https://host.onlineradyotv.net:2020/stream/adanafm"],
+      "website": "https://www.adanafm.com.tr/", "content": "Arabesk, fantezi, Türkçe müzik ve yerel programlar", "location": "Adana", "frequency": "95.3 FM"
+    },
+    {
+      "id": "radyo-universite-cukurova", "name": "Radyo Üniversite Çukurova", "enabled": true,
+      "urls": ["http://radyo.cu.edu.tr/Stream1?type=http"],
+      "website": "https://radyouniversite.cu.edu.tr/", "content": "Üniversite haberleri, kültür, eğitim, gençlik ve karma müzik", "location": "Adana"
+    },
+    {
+      "id": "radio-neo-france", "name": "Radio NEO", "enabled": true,
+      "urls": ["https://ice.creacast.com/radio-neo-paris"],
+      "website": "https://www.radioneo.fr/", "content": "Fransızca şarkılar, alternatif pop, rock ve elektronik müzik", "location": "Paris, Fransa"
+    },
+    {
+      "id": "spreeradio-1055", "name": "105'5 Spreeradio", "enabled": true,
+      "urls": ["https://stream.spreeradio.de/spree-live/mp3-128/surfmusikDE/"],
+      "website": "https://www.spreeradio.de/", "content": "1980'ler, 1990'lar, pop klasikleri ve Berlin yerel programları", "location": "Berlin, Almanya", "frequency": "105.5 FM"
+    },
+    {
+      "id": "rtl-1046-berlin", "name": "104.6 RTL Berlin", "enabled": true,
+      "urls": ["http://stream.104.6rtl.com/rtl-live/mp3-192/radio-browser.info/"],
+      "website": "https://www.104.6rtl.com/", "content": "Güncel pop, hit müzik, eğlence ve Berlin yerel programları", "location": "Berlin, Almanya", "frequency": "104.6 FM"
+    },
+    {
+      "id": "mix-fm-mersin", "name": "Mix FM Mersin", "enabled": true,
+      "urls": ["https://dinle.mixfm.com.tr/9598/stream"],
+      "website": "https://mixfm.com.tr/", "content": "Yabancı pop, dans müziği, kesintisiz müzik ve haber bültenleri", "location": "Mersin"
+    },
+    {
+      "id": "star-fm-berlin", "name": "STAR FM Berlin", "enabled": true,
+      "urls": ["https://stream.starfm.de/berlin/mp3-192/iradio"],
+      "website": "https://www.starfm.de/", "content": "Klasik rock, hard rock, alternatif rock ve güncel rock", "location": "Berlin, Almanya", "frequency": "87.9 FM"
+    },
+    {
+      "id": "jam-fm-berlin", "name": "JAM FM Berlin", "enabled": true,
+      "urls": ["https://stream.jam.fm/jamfm-live/mp3-128"],
+      "website": "https://www.jam.fm/", "content": "Hip hop, R&B, pop, dans ve şehir müziği", "location": "Berlin, Almanya", "frequency": "93.6 FM"
+    },
+    {
+      "id": "eska-2-poland", "name": "ESKA 2", "enabled": true,
+      "urls": ["https://radio.stream.smcdn.pl/icradio-p/6230-1.aac/playlist.m3u8"],
+      "website": "https://dwa.eska.pl/", "content": "Lehçe pop, güncel Polonya müziği ve eğlence programları", "location": "Polonya"
+    },
+    {
+      "id": "meloradio-poland", "name": "Meloradio", "enabled": true,
+      "urls": ["https://r.dcs.redcdn.pl/sc/o2/Eurozet/live/meloradio.livx?audio=5"],
+      "website": "https://www.meloradio.pl/", "content": "Pop, pop-dans, güncel hitler ve rahat müzik", "location": "Polonya"
+    },
+    {
+      "id": "radio-roma-sound", "name": "Radio Roma Sound", "enabled": true,
+      "urls": ["https://bay1.streamfm.it:8070/aacp"],
+      "website": "https://www.radioromasound.it/", "content": "Roma yerel haberleri, spor, kültür ve konuşma programları", "location": "Roma, İtalya"
+    },
+    {
+      "id": "rik-radio-1", "name": "RIK Radio 1", "enabled": true,
+      "urls": ["https://r1.cloudskep.com/cybcr/cybc1/playlist.m3u8"],
+      "website": "https://radio.rik.cy/live-radio/rik-1/", "content": "Kıbrıs haberleri, kültür, toplum, konuşma ve genel yayın", "location": "Lefkoşa, Kıbrıs"
+    },
+    {
+      "id": "rik-radio-2", "name": "RIK Radio 2", "enabled": true,
+      "urls": ["https://r1.cloudskep.com/cybcr/cybc2/playlist.m3u8"],
+      "website": "https://radio.rik.cy/live-radio/rik-2/", "content": "Türkçe, İngilizce ve Ermenice haber, kültür ve toplum programları", "location": "Lefkoşa, Kıbrıs"
+    },
+    {
+      "id": "rik-radio-3", "name": "RIK Radio 3", "enabled": true,
+      "urls": ["https://r1.cloudskep.com/cybcr/cybc3/playlist.m3u8"],
+      "website": "https://radio.rik.cy/live-radio/rik-3/", "content": "Kıbrıs ve Yunan müziği, kültür ve eğlence programları", "location": "Lefkoşa, Kıbrıs"
+    },
+    {
+      "id": "rik-radio-4", "name": "RIK Radio 4", "enabled": true,
+      "urls": ["https://r1.cloudskep.com/cybcr/cybc4/playlist.m3u8"],
+      "website": "https://radio.rik.cy/live-radio/rik-4/", "content": "Müzik, kültür ve özel radyo programları", "location": "Lefkoşa, Kıbrıs"
+    },
+    {
+      "id": "gimsa-radyo", "name": "GİMSA Radyo", "enabled": true,
+      "urls": ["http://yayin1.canliyayin.org:9482/stream"],
+      "website": "https://www.gimsa.com.tr/radyo1.php", "content": "Türkçe müzik, market duyuruları ve bilgilendirme yayınları", "location": "Ankara"
+    },
+    {
+      "id": "lider-fm-875", "name": "Lider FM 87.5", "enabled": true,
+      "urls": ["https://wowza1.radyotvonline.com/shoutcast/liderfm.stream/playlist.m3u8"],
+      "website": "https://www.liderfm.net/", "content": "Arabesk, fantezi, Türkçe müzik ve yerel programlar", "location": "Türkiye", "frequency": "87.5 FM"
+    },
+    {
+      "id": "dada-radyo", "name": "Dada Radyo", "enabled": true,
+      "urls": ["http://stream.laut.fm/dadaradio"],
+      "website": "https://www.dadaradyo.com/", "content": "Alternatif müzik, bağımsız yapımlar ve kültür programları", "location": "Türkiye"
+    },
+    {
+      "id": "radyo-pause", "name": "Radyo Pause", "enabled": true,
+      "urls": ["https://radyopause.ozelip.com.tr:8040/"],
+      "website": "https://radyopause.com.tr/", "content": "Türkçe ve yabancı pop, slow müzik ve özel programlar", "location": "Türkiye"
+    },
+    {
+      "id": "radio-fury-fusion", "name": "Radio Fury Fusion", "enabled": true,
+      "urls": ["https://radyo.turcloud.com.tr/listen/radio_fury_fusion/radio.mp3"],
+      "website": "https://furyfusion.net/", "content": "Rock, metal, alternatif metal ve güncel sert müzik", "location": "Türkiye"
+    },
+    {
+      "id": "radio-soleil-france", "name": "Radio Soleil France", "enabled": true,
+      "urls": ["https://radiosoleil.ice.infomaniak.ch/radiosoleil-128.mp3"],
+      "website": "https://www.radio-soleil.com/", "content": "Kuzey Afrika ve Arap müziği, toplum, kültür ve haber programları", "location": "Paris, Fransa"
+    },
+    {
+      "id": "radio-8fm-netherlands", "name": "Radio 8FM", "enabled": true,
+      "urls": ["https://playerservices.streamtheworld.com/api/livestream-redirect/8FM.mp3"],
+      "website": "https://www.radio8fm.nl/", "content": "Pop klasikleri, güncel hitler ve Brabant bölgesel programları", "location": "Kuzey Brabant, Hollanda"
     }
   ]
 }
