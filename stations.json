@@ -2701,8 +2701,8 @@
     },
     {
       "id": "dada-radyo", "name": "Dada Radyo", "enabled": true,
-      "urls": ["http://stream.laut.fm/dadaradio"],
-      "website": "https://www.dadaradyo.com/", "content": "Alternatif müzik, bağımsız yapımlar ve kültür programları", "location": "Türkiye"
+      "urls": ["http://stream.laut.fm/dadaradio", "http://dadaradio.stream.laut.fm/dadaradio"],
+      "website": "https://www.dadaradyo.com/", "content": "Güncel Türkçe pop, 1990'lar ve 2000'ler, R&B ve eğlence programları", "location": "İzmir, Türkiye"
     },
     {
       "id": "radyo-pause", "name": "Radyo Pause", "enabled": true,
@@ -2723,6 +2723,211 @@
       "id": "radio-8fm-netherlands", "name": "Radio 8FM", "enabled": true,
       "urls": ["https://playerservices.streamtheworld.com/api/livestream-redirect/8FM.mp3"],
       "website": "https://www.radio8fm.nl/", "content": "Pop klasikleri, güncel hitler ve Brabant bölgesel programları", "location": "Kuzey Brabant, Hollanda"
+    },
+    {
+      "id": "radio-swiss-pop", "name": "Radio Swiss Pop", "enabled": true,
+      "urls": ["https://stream.srg-ssr.ch/srgssr/rsp/mp3/128", "http://stream.srg-ssr.ch/srgssr/rsp/aac/192"],
+      "website": "https://www.radioswisspop.ch/", "content": "Reklamsız ve sunucusuz 24 saat pop ve rock müzik", "location": "İsviçre"
+    },
+    {
+      "id": "radio-swiss-jazz", "name": "Radio Swiss Jazz", "enabled": true,
+      "urls": ["https://stream.srg-ssr.ch/srgssr/rsj/mp3/128", "http://stream.srg-ssr.ch/srgssr/rsj/aac/192"],
+      "website": "https://www.radioswissjazz.ch/", "content": "Reklamsız ve sunucusuz jazz, swing, bebop, soul ve blues", "location": "İsviçre"
+    },
+    {
+      "id": "somafm-groove-salad", "name": "SomaFM Groove Salad", "enabled": true,
+      "urls": ["https://ice5.somafm.com/groovesalad-128-mp3", "https://ice6.somafm.com/groovesalad-128-mp3"],
+      "website": "https://somafm.com/groovesalad/", "content": "Reklamsız downtempo, chillout, ambient ve elektronik müzik", "location": "San Francisco, ABD"
+    },
+    {
+      "id": "somafm-drone-zone", "name": "SomaFM Drone Zone", "enabled": true,
+      "urls": ["https://ice5.somafm.com/dronezone-128-mp3", "https://ice6.somafm.com/dronezone-128-mp3"],
+      "website": "https://somafm.com/dronezone/", "content": "Reklamsız atmosferik ambient, drone ve minimal ritimler", "location": "San Francisco, ABD"
+    },
+    {
+      "id": "somafm-indie-pop-rocks", "name": "SomaFM Indie Pop Rocks!", "enabled": true,
+      "urls": ["https://ice5.somafm.com/indiepop-128-mp3", "https://ice6.somafm.com/indiepop-128-mp3"],
+      "website": "https://somafm.com/indiepop/", "content": "Reklamsız yeni ve klasik bağımsız pop ve indie rock", "location": "San Francisco, ABD"
+    },
+    {
+      "id": "somafm-space-station-soma", "name": "SomaFM Space Station Soma", "enabled": true,
+      "urls": ["https://ice5.somafm.com/spacestation-128-mp3", "https://ice6.somafm.com/spacestation-128-mp3"],
+      "website": "https://somafm.com/spacestation/", "content": "Reklamsız uzay ambient, downtempo ve elektronik müzik", "location": "San Francisco, ABD"
+    },
+    {
+      "id": "fip-rock", "name": "FIP Rock", "enabled": true,
+      "urls": ["https://icecast.radiofrance.fr/fiprock-midfi.mp3?id=radiofrance", "https://stream.radiofrance.fr/fiprock/fiprock.m3u8?id=radiofrance"],
+      "website": "https://www.radiofrance.fr/fip/radio-rock", "content": "Kesintisiz klasik, alternatif ve bağımsız rock seçkisi", "location": "Paris, Fransa"
+    },
+    {
+      "id": "fip-jazz", "name": "FIP Jazz", "enabled": true,
+      "urls": ["https://icecast.radiofrance.fr/fipjazz-midfi.mp3?id=radiofrance", "https://stream.radiofrance.fr/fipjazz/fipjazz.m3u8?id=radiofrance"],
+      "website": "https://www.radiofrance.fr/fip/radio-jazz", "content": "Kesintisiz klasik ve çağdaş jazz seçkisi", "location": "Paris, Fransa"
+    },
+    {
+      "id": "fip-groove", "name": "FIP Groove", "enabled": true,
+      "urls": ["https://icecast.radiofrance.fr/fipgroove-midfi.mp3?id=radiofrance", "https://stream.radiofrance.fr/fipgroove/fipgroove.m3u8?id=radiofrance"],
+      "website": "https://www.radiofrance.fr/fip/radio-groove", "content": "Kesintisiz funk, soul, disco, R&B ve groove", "location": "Paris, Fransa"
+    },
+    {
+      "id": "kcrw-eclectic24", "name": "KCRW Eclectic24", "enabled": true,
+      "urls": ["https://kcrw.streamguys1.com/kcrw_192k_mp3_e24"],
+      "website": "https://www.kcrw.com/shows/eclectic24/about", "content": "24 saat kesintisiz bağımsız, alternatif, soul, jazz ve dünya müziği", "location": "Los Angeles, ABD"
+    },
+    {
+      "id": "radio-paradise-mellow-mix", "name": "Radio Paradise Mellow Mix", "enabled": true,
+      "urls": ["https://stream.radioparadise.com/mellow-192"],
+      "website": "https://radioparadise.com/", "content": "Reklamsız ve insan kürasyonlu sakin rock, folk, soul ve elektronik müzik", "location": "Eureka, Kaliforniya, ABD"
+    },
+    {
+      "id": "radio-paradise-rock-mix", "name": "Radio Paradise Rock Mix", "enabled": true,
+      "urls": ["https://stream.radioparadise.com/rock-192"],
+      "website": "https://radioparadise.com/", "content": "Reklamsız ve insan kürasyonlu klasik, alternatif ve modern rock", "location": "Eureka, Kaliforniya, ABD"
+    },
+    {
+      "id": "radio-paradise-global-mix", "name": "Radio Paradise Global Mix", "enabled": true,
+      "urls": ["https://stream.radioparadise.com/world-etc-192"],
+      "website": "https://radioparadise.com/", "content": "Reklamsız ve insan kürasyonlu dünya müziği, elektronik ve eklektik seçki", "location": "Eureka, Kaliforniya, ABD"
+    },
+    {
+      "id": "somafm-deep-space-one", "name": "SomaFM Deep Space One", "enabled": true,
+      "urls": ["https://ice5.somafm.com/deepspaceone-128-mp3", "https://ice6.somafm.com/deepspaceone-128-mp3"],
+      "website": "https://somafm.com/deepspaceone/", "content": "Reklamsız derin ambient, deneysel elektronik ve uzay müziği", "location": "San Francisco, ABD"
+    },
+    {
+      "id": "somafm-groove-salad-classic", "name": "SomaFM Groove Salad Classic", "enabled": true,
+      "urls": ["https://ice5.somafm.com/gsclassic-128-mp3", "https://ice6.somafm.com/gsclassic-128-mp3"],
+      "website": "https://somafm.com/gsclassic/", "content": "Reklamsız klasik ambient, downtempo ritimler ve chillout", "location": "San Francisco, ABD"
+    },
+    {
+      "id": "somafm-secret-agent", "name": "SomaFM Secret Agent", "enabled": true,
+      "urls": ["https://ice5.somafm.com/secretagent-128-mp3", "https://ice6.somafm.com/secretagent-128-mp3"],
+      "website": "https://somafm.com/secretagent/", "content": "Reklamsız casus filmi atmosferi, lounge, exotica ve caz", "location": "San Francisco, ABD"
+    },
+    {
+      "id": "somafm-lush", "name": "SomaFM Lush", "enabled": true,
+      "urls": ["https://ice5.somafm.com/lush-128-mp3", "https://ice6.somafm.com/lush-128-mp3"],
+      "website": "https://somafm.com/lush/", "content": "Reklamsız sakin kadın vokalleri ve elektronik etkili müzik", "location": "San Francisco, ABD"
+    },
+    {
+      "id": "somafm-underground-80s", "name": "SomaFM Underground 80s", "enabled": true,
+      "urls": ["https://ice5.somafm.com/u80s-128-mp3", "https://ice6.somafm.com/u80s-128-mp3"],
+      "website": "https://somafm.com/u80s/", "content": "Reklamsız 1980'ler synthpop, new wave ve alternatif pop", "location": "San Francisco, ABD"
+    },
+    {
+      "id": "somafm-left-coast-70s", "name": "SomaFM Left Coast 70s", "enabled": true,
+      "urls": ["https://ice5.somafm.com/seventies-128-mp3", "https://ice6.somafm.com/seventies-128-mp3"],
+      "website": "https://somafm.com/seventies/", "content": "Reklamsız 1970'ler soft rock, folk rock ve yacht rock", "location": "San Francisco, ABD"
+    },
+    {
+      "id": "somafm-folk-forward", "name": "SomaFM Folk Forward", "enabled": true,
+      "urls": ["https://ice5.somafm.com/folkfwd-128-mp3", "https://ice6.somafm.com/folkfwd-128-mp3"],
+      "website": "https://somafm.com/folkfwd/", "content": "Reklamsız indie folk, alternatif folk ve folk klasikleri", "location": "San Francisco, ABD"
+    },
+    {
+      "id": "somafm-beat-blender", "name": "SomaFM Beat Blender", "enabled": true,
+      "urls": ["https://ice5.somafm.com/beatblender-128-mp3", "https://ice6.somafm.com/beatblender-128-mp3"],
+      "website": "https://somafm.com/beatblender/", "content": "Reklamsız deep house, downtempo ve gece ritimleri", "location": "San Francisco, ABD"
+    },
+    {
+      "id": "somafm-the-trip", "name": "SomaFM The Trip", "enabled": true,
+      "urls": ["https://ice5.somafm.com/thetrip-128-mp3", "https://ice6.somafm.com/thetrip-128-mp3"],
+      "website": "https://somafm.com/thetrip/", "content": "Reklamsız progressive house, trance ve elektronik dans müziği", "location": "San Francisco, ABD"
+    },
+    {
+      "id": "somafm-poptron", "name": "SomaFM PopTron", "enabled": true,
+      "urls": ["https://ice5.somafm.com/poptron-128-mp3", "https://ice6.somafm.com/poptron-128-mp3"],
+      "website": "https://somafm.com/poptron/", "content": "Reklamsız electropop, indie dance ve elektronik rock", "location": "San Francisco, ABD"
+    },
+    {
+      "id": "somafm-sonic-universe", "name": "SomaFM Sonic Universe", "enabled": true,
+      "urls": ["https://ice5.somafm.com/sonicuniverse-128-mp3", "https://ice6.somafm.com/sonicuniverse-128-mp3"],
+      "website": "https://somafm.com/sonicuniverse/", "content": "Reklamsız çağdaş, avangart ve eklektik caz", "location": "San Francisco, ABD"
+    },
+    {
+      "id": "somafm-suburbs-of-goa", "name": "SomaFM Suburbs of Goa", "enabled": true,
+      "urls": ["https://ice5.somafm.com/suburbsofgoa-128-mp3", "https://ice6.somafm.com/suburbsofgoa-128-mp3"],
+      "website": "https://somafm.com/suburbsofgoa/", "content": "Reklamsız Güney Asya etkili dünya ritimleri ve elektronik müzik", "location": "San Francisco, ABD"
+    },
+    {
+      "id": "somafm-illinois-street-lounge", "name": "SomaFM Illinois Street Lounge", "enabled": true,
+      "urls": ["https://ice5.somafm.com/illstreet-128-mp3", "https://ice6.somafm.com/illstreet-128-mp3"],
+      "website": "https://somafm.com/illstreet/", "content": "Reklamsız vintage lounge, exotica ve bachelor pad müziği", "location": "San Francisco, ABD"
+    },
+    {
+      "id": "somafm-dub-step-beyond", "name": "SomaFM Dub Step Beyond", "enabled": true,
+      "urls": ["https://ice5.somafm.com/dubstep-128-mp3", "https://ice6.somafm.com/dubstep-128-mp3"],
+      "website": "https://somafm.com/dubstep/", "content": "Reklamsız dubstep, dub ve derin bas müziği", "location": "San Francisco, ABD"
+    },
+    {
+      "id": "somafm-seven-inch-soul", "name": "SomaFM Seven Inch Soul", "enabled": true,
+      "urls": ["https://ice5.somafm.com/7soul-128-mp3", "https://ice6.somafm.com/7soul-128-mp3"],
+      "website": "https://somafm.com/7soul/", "content": "Reklamsız orijinal 45'liklerden vintage soul ve funk", "location": "San Francisco, ABD"
+    },
+    {
+      "id": "somafm-heavyweight-reggae", "name": "SomaFM Heavyweight Reggae", "enabled": true,
+      "urls": ["https://ice5.somafm.com/reggae-128-mp3", "https://ice6.somafm.com/reggae-128-mp3"],
+      "website": "https://somafm.com/reggae/", "content": "Reklamsız reggae, ska, rocksteady ve dub klasikleri", "location": "San Francisco, ABD"
+    },
+    {
+      "id": "somafm-fluid", "name": "SomaFM Fluid", "enabled": true,
+      "urls": ["https://ice5.somafm.com/fluid-128-mp3", "https://ice6.somafm.com/fluid-128-mp3"],
+      "website": "https://somafm.com/fluid/", "content": "Reklamsız enstrümantal hip-hop, future soul ve liquid trap", "location": "San Francisco, ABD"
+    },
+    {
+      "id": "somafm-vaporwaves", "name": "SomaFM Vaporwaves", "enabled": true,
+      "urls": ["https://ice5.somafm.com/vaporwaves-128-mp3", "https://ice6.somafm.com/vaporwaves-128-mp3"],
+      "website": "https://somafm.com/vaporwaves/", "content": "Reklamsız vaporwave, chillwave ve retro elektronik müzik", "location": "San Francisco, ABD"
+    },
+    {
+      "id": "somafm-metal-detector", "name": "SomaFM Metal Detector", "enabled": true,
+      "urls": ["https://ice5.somafm.com/metal-128-mp3", "https://ice6.somafm.com/metal-128-mp3"],
+      "website": "https://somafm.com/metal/", "content": "Reklamsız black, doom, prog, sludge, thrash ve modern metal", "location": "San Francisco, ABD"
+    },
+    {
+      "id": "somafm-covers", "name": "SomaFM Covers", "enabled": true,
+      "urls": ["https://ice5.somafm.com/covers-128-mp3", "https://ice6.somafm.com/covers-128-mp3"],
+      "website": "https://somafm.com/covers/", "content": "Reklamsız farklı sanatçılardan cover ve yeniden yorumlar", "location": "San Francisco, ABD"
+    },
+    {
+      "id": "somafm-synphaera-radio", "name": "SomaFM Synphaera Radio", "enabled": true,
+      "urls": ["https://ice5.somafm.com/synphaera-128-mp3", "https://ice6.somafm.com/synphaera-128-mp3"],
+      "website": "https://somafm.com/synphaera/", "content": "Reklamsız modern elektronik ambient ve uzay müziği", "location": "San Francisco, ABD"
+    },
+    {
+      "id": "fip-world", "name": "FIP Monde", "enabled": true,
+      "urls": ["https://icecast.radiofrance.fr/fipworld-midfi.mp3?id=radiofrance", "https://stream.radiofrance.fr/fipworld/fipworld.m3u8?id=radiofrance"],
+      "website": "https://www.radiofrance.fr/fip/radio-monde", "content": "Kesintisiz Afrika, Latin, Akdeniz ve çağdaş dünya müziği", "location": "Paris, Fransa"
+    },
+    {
+      "id": "fip-nouveautes", "name": "FIP Nouveautés", "enabled": true,
+      "urls": ["https://icecast.radiofrance.fr/fipnouveautes-midfi.mp3?id=radiofrance", "https://stream.radiofrance.fr/fipnouveautes/fipnouveautes.m3u8?id=radiofrance"],
+      "website": "https://www.radiofrance.fr/fip/radio-nouveautes", "content": "Kesintisiz yeni çıkan albümler ve güncel müzik keşifleri", "location": "Paris, Fransa"
+    },
+    {
+      "id": "fip-reggae", "name": "FIP Reggae", "enabled": true,
+      "urls": ["https://icecast.radiofrance.fr/fipreggae-midfi.mp3?id=radiofrance", "https://stream.radiofrance.fr/fipreggae/fipreggae.m3u8?id=radiofrance"],
+      "website": "https://www.radiofrance.fr/fip/radio-reggae", "content": "Kesintisiz reggae, dub, ska ve rocksteady seçkisi", "location": "Paris, Fransa"
+    },
+    {
+      "id": "fip-electro", "name": "FIP Electro", "enabled": true,
+      "urls": ["https://icecast.radiofrance.fr/fipelectro-midfi.mp3?id=radiofrance", "https://stream.radiofrance.fr/fipelectro/fipelectro.m3u8?id=radiofrance"],
+      "website": "https://www.radiofrance.fr/fip/radio-electro", "content": "Kesintisiz elektronik, house, downtempo ve deneysel seçki", "location": "Paris, Fransa"
+    },
+    {
+      "id": "fip-metal", "name": "FIP Metal", "enabled": true,
+      "urls": ["https://icecast.radiofrance.fr/fipmetal-midfi.mp3?id=radiofrance", "https://stream.radiofrance.fr/fipmetal/fipmetal.m3u8?id=radiofrance"],
+      "website": "https://www.radiofrance.fr/fip/radio-metal", "content": "Kesintisiz klasik, alternatif, progresif ve modern metal", "location": "Paris, Fransa"
+    },
+    {
+      "id": "fip-pop", "name": "FIP Pop", "enabled": true,
+      "urls": ["https://icecast.radiofrance.fr/fippop-midfi.mp3?id=radiofrance", "https://stream.radiofrance.fr/fippop/fippop.m3u8?id=radiofrance"],
+      "website": "https://www.radiofrance.fr/fip/radio-pop", "content": "Kesintisiz indie pop, synth-pop, britpop ve Fransız popu", "location": "Paris, Fransa"
+    },
+    {
+      "id": "fip-hip-hop", "name": "FIP Hip-Hop", "enabled": true,
+      "urls": ["https://icecast.radiofrance.fr/fiphiphop-midfi.mp3?id=radiofrance", "https://stream.radiofrance.fr/fiphiphop/fiphiphop.m3u8?id=radiofrance"],
+      "website": "https://www.radiofrance.fr/fip/radio-hip-hop", "content": "Kesintisiz klasik ve çağdaş küresel hip-hop seçkisi", "location": "Paris, Fransa"
     }
   ]
 }
