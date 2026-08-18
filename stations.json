@@ -2701,7 +2701,7 @@
     },
     {
       "id": "dada-radyo", "name": "Dada Radyo", "enabled": true,
-      "urls": ["http://stream.laut.fm/dadaradio", "http://dadaradio.stream.laut.fm/dadaradio"],
+      "urls": ["https://radyo.yayin.com.tr:5088/stream", "http://radyo.yayin.com.tr:5088/stream"],
       "website": "https://www.dadaradyo.com/", "content": "Güncel Türkçe pop, 1990'lar ve 2000'ler, R&B ve eğlence programları", "location": "İzmir, Türkiye"
     },
     {
