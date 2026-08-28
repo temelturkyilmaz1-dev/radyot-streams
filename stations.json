@@ -3345,6 +3345,41 @@
       "id": "solfej-fm", "name": "Solfej FM", "enabled": true,
       "urls": ["https://radyoyek.80.yayin.com.tr/;"],
       "website": "https://solfej-medya.wixstudio.com/solfejfm", "content": "Türkçe pop, nostalji, rock, türküler ve sanat müziği", "location": "Seferihisar, İzmir"
+    },
+    {
+      "id": "simulator-radio", "name": "Simulator Radio", "enabled": true,
+      "urls": ["https://simulatorradio.stream/320", "https://simulatorradio.stream/stream.mp3"],
+      "website": "https://simulatorradio.com/", "content": "Pop, rock, dans ve simülasyon oyunları topluluk programları", "location": "Birleşik Krallık"
+    },
+    {
+      "id": "truckersfm", "name": "TruckersFM", "enabled": true,
+      "urls": ["http://radio.truckers.fm/"],
+      "website": "https://truckers.fm/", "content": "Güncel pop, rock, EDM ve simülasyon topluluğu programları", "location": "Londra, Birleşik Krallık"
+    },
+    {
+      "id": "simliveradio", "name": "SimLiveRadio", "enabled": true,
+      "urls": ["https://simliveradio.stream.laut.fm/simliveradio", "https://stream.laut.fm/simliveradio"],
+      "website": "https://simliveradio.net/", "content": "Pop, rock, dans, country ve simülasyon oyunları haberleri", "location": "Almanya"
+    },
+    {
+      "id": "ffh-rock", "name": "FFH Rock", "enabled": true,
+      "urls": ["https://mp3.ffh.de/ffhchannels/hqrock.aac", "https://mp3.ffh.de/ffhplus/rock.aac"],
+      "website": "https://www.ffh.de/musik/webradio/18-rock-radio-und-radiosender-online-hoeren.html", "content": "Klasik ve güncel rock hitleri", "location": "Hessen, Almanya"
+    },
+    {
+      "id": "chillizet-ladies", "name": "Chillizet Ladies", "enabled": true,
+      "urls": ["https://ch01.cdn.eurozet.pl/CHILAD.mp3"],
+      "website": "https://player.chillizet.pl/Kanaly-muzyczne/Chillizet-Ladies", "content": "Kadın vokallerden chillout, soul, caz ve pop seçkisi", "location": "Varşova, Polonya"
+    },
+    {
+      "id": "top-is-club", "name": "Top.IS.Club", "enabled": true,
+      "urls": ["https://admin.topisclub.com.br/listen/top.is.club/live"],
+      "website": "https://topisclub.com.br/", "content": "Uluslararası hitler, klasikler, pop ve 80'ler", "location": "Rio de Janeiro, Brezilya"
+    },
+    {
+      "id": "radio-web-sucesso", "name": "Radio Web Sucesso", "enabled": true,
+      "urls": ["https://stream.zeno.fm/9bb7gwq4038uv"],
+      "website": "https://zeno.fm/radio/radio-web-sucessou3v7gwq4038uv/", "content": "Brezilya popu, sertanejo ve güncel hitler", "location": "Brezilya"
     }
   ]
 }
