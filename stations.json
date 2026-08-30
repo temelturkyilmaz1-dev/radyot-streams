@@ -6252,6 +6252,120 @@
       "website": "https://www.radyomavidenizim.com/",
       "content": "Türk halk müziği, özgün müzik ve karma Türkçe müzik",
       "location": "Türkiye"
+    },
+    {
+      "id": "nostalgie-cinema",
+      "name": "Nostalgie Cinema",
+      "enabled": true,
+      "urls": ["https://stream.rcs.revma.com/urds0v43ehuvv"],
+      "website": "https://www.nostalgie.be/radioplayer/cinema",
+      "content": "Sinema müzikleri, film müzikleri ve klasik eserler",
+      "location": "Brüksel, Belçika"
+    },
+    {
+      "id": "radyo-c",
+      "name": "Radyo C",
+      "enabled": true,
+      "urls": ["https://yayin.radyoc.com:8090/;stream.mp3"],
+      "website": "https://www.radyoc.com.tr/",
+      "content": "80'lerden günümüze yabancı pop ve hit müzik",
+      "location": "Ankara, Türkiye"
+    },
+    {
+      "id": "dunyadan-sesler-radio",
+      "name": "Dünyadan Sesler Radio",
+      "enabled": true,
+      "urls": ["https://stream.dodo.radio/dunyadansesler", "https://stream.radiojar.com/cg24hdbwa0hvv"],
+      "website": "https://www.dunyadansesler.com/radio",
+      "content": "Alternatif, indie, world, funk ve keşif müzikleri",
+      "location": "İstanbul, Türkiye"
+    },
+    {
+      "id": "radio-monte-carlo",
+      "name": "Radio Monte Carlo",
+      "enabled": true,
+      "urls": ["https://icy.unitedradio.it/RMC.mp3", "http://edge.radiomontecarlo.net/RMC.mp3"],
+      "website": "https://www.radiomontecarlo.net/",
+      "content": "Pop, soul, lounge, caz ve klasik hitler",
+      "location": "Milano, İtalya"
+    },
+    {
+      "id": "ibiza-x-radio",
+      "name": "Ibiza X Radio",
+      "enabled": true,
+      "urls": ["https://stream.radiojar.com/p1f2vpv37reuv"],
+      "website": "https://www.ibizaxradio.com/",
+      "content": "House, deep house, melodic techno ve elektronik müzik",
+      "location": "İbiza, İspanya"
+    },
+    {
+      "id": "americas-greatest-70s-hits",
+      "name": "America's Greatest 70s Hits",
+      "enabled": true,
+      "urls": ["http://hydra.cdnstream.com/1823_128"],
+      "website": "https://www.americasgreatest70s.com/",
+      "content": "1970'ler pop, rock, disco, soul ve country hitleri",
+      "location": "Londra, Birleşik Krallık"
+    },
+    {
+      "id": "kcea-89-1-fm",
+      "name": "KCEA 89.1 FM",
+      "enabled": true,
+      "urls": ["https://cloudstream.rubinbroadcasting.com/kcea", "http://streaming.rubinbroadcasting.com/kcea"],
+      "website": "https://kcea.org/",
+      "content": "Big band, swing ve Amerikan standartları",
+      "location": "Atherton, California, ABD",
+      "frequency": "89.1 FM"
+    },
+    {
+      "id": "kcme-88-7-fm",
+      "name": "KCME 88.7 FM",
+      "enabled": true,
+      "urls": ["https://ice9.securenetsystems.net/KCME", "http://ice9.securenetsystems.net/KCME"],
+      "website": "https://www.kcme.org/",
+      "content": "Klasik müzik ve kültür-sanat programları",
+      "location": "Colorado Springs, Colorado, ABD",
+      "frequency": "88.7 FM"
+    },
+    {
+      "id": "great-american-songbook",
+      "name": "The Great American Songbook",
+      "enabled": true,
+      "urls": ["https://remote.selfip.net:8030/1", "https://remote.selfip.net:8020/1"],
+      "website": "https://greatamericansongbook.info/",
+      "content": "Vokal caz, easy listening ve Amerikan standartları",
+      "location": "İnternet Radyosu"
+    },
+    {
+      "id": "siyah-fm",
+      "name": "Siyah FM",
+      "enabled": true,
+      "urls": ["https://radyo3.okeylisans.com/siyahfm/stream"],
+      "website": "https://siyahfmbiz.tr.gg/",
+      "content": "Türkçe pop, arabesk ve güncel hitler",
+      "location": "Türkiye"
+    },
+    {
+      "id": "radio-atilim",
+      "name": "Radio Atılım",
+      "enabled": true,
+      "urls": ["https://radyoatilim.yayin.com.tr/stream", "https://radyoatilim.yayin.com.tr/"],
+      "website": "https://www.radioatilim.com/",
+      "content": "Yabancı pop, alternatif müzik ve üniversite programları",
+      "location": "Ankara, Türkiye"
+    },
+    {
+      "id": "nova-96-9-sydney",
+      "name": "Nova 96.9 Sydney",
+      "enabled": true,
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_969_AAC128.aac",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_969.mp3"
+      ],
+      "website": "https://novafm.com.au/station/nova969",
+      "content": "Güncel pop, Top 40, hitler ve eğlence programları",
+      "location": "Sydney, Avustralya",
+      "frequency": "96.9 FM"
     }
   ]
 }
