@@ -254,6 +254,46 @@
       ]
     },
     {
+      "id": "viva-efkar",
+      "name": "Viva Efkar",
+      "enabled": true,
+      "urls": [
+        "https://listen.radyotvonline.net/hls/play/viva_efkar.m3u8"
+      ]
+    },
+    {
+      "id": "viva-pop",
+      "name": "Viva Pop",
+      "enabled": true,
+      "urls": [
+        "https://listen.radyotvonline.net/hls/play/viva_pop.m3u8"
+      ]
+    },
+    {
+      "id": "viva-turka",
+      "name": "Viva Turka",
+      "enabled": true,
+      "urls": [
+        "https://listen.radyotvonline.net/hls/play/viva_turca.m3u8"
+      ]
+    },
+    {
+      "id": "viva-club",
+      "name": "Viva Club",
+      "enabled": true,
+      "urls": [
+        "https://listen.radyotvonline.net/hls/play/viva_club.m3u8"
+      ]
+    },
+    {
+      "id": "viva-turku",
+      "name": "Viva Türkü",
+      "enabled": true,
+      "urls": [
+        "https://listen.radyotvonline.net/hls/play/viva_turku.m3u8"
+      ]
+    },
+    {
       "id": "pal-fm",
       "name": "Pal FM",
       "enabled": true,
@@ -514,7 +554,7 @@
       "name": "Radyo İLEF",
       "enabled": true,
       "urls": [
-        "http://radyo.cc.ankara.edu.tr:8089/;"
+        "https://radyo.ilef.net/stream"
       ]
     },
     {
@@ -657,6 +697,46 @@
       "enabled": true,
       "urls": [
         "http://showradyo.radyotvonline.net/showradyoaac/"
+      ]
+    },
+    {
+      "id": "show-slow",
+      "name": "Show Slow",
+      "enabled": true,
+      "urls": [
+        "https://listen.radyotvonline.net/hls/play/show_slow.m3u8"
+      ]
+    },
+    {
+      "id": "show-90lar",
+      "name": "Show 90'lar",
+      "enabled": true,
+      "urls": [
+        "https://listen.radyotvonline.net/hls/play/show_90lar.m3u8"
+      ]
+    },
+    {
+      "id": "show-trend",
+      "name": "Show Trend",
+      "enabled": true,
+      "urls": [
+        "https://listen.radyotvonline.net/hls/play/show_trend.m3u8"
+      ]
+    },
+    {
+      "id": "show-akustik",
+      "name": "Show Akustik",
+      "enabled": true,
+      "urls": [
+        "https://listen.radyotvonline.net/hls/play/show_akustik.m3u8"
+      ]
+    },
+    {
+      "id": "show-eller-havaya",
+      "name": "Show Eller Havaya",
+      "enabled": true,
+      "urls": [
+        "https://listen.radyotvonline.net/hls/play/show_ellerhavaya.m3u8"
       ]
     },
     {
@@ -6366,6 +6446,193 @@
       "content": "Güncel pop, Top 40, hitler ve eğlence programları",
       "location": "Sydney, Avustralya",
       "frequency": "96.9 FM"
+    },
+    {
+      "id": "rex-rock-radio",
+      "name": "REX Rock Radio",
+      "enabled": true,
+      "urls": ["https://stream.laut.fm/rex-rock-radio"],
+      "website": "https://laut.fm/rex-rock-radio",
+      "content": "Rock, hard rock, punk rock ve heavy metal",
+      "location": "Villingen-Schwenningen, Almanya"
+    },
+    {
+      "id": "mix-rock-metal-radio",
+      "name": "Mix Rock Metal Radio",
+      "enabled": true,
+      "urls": ["https://s3.myradiostream.com:4202/listen.mp3"],
+      "website": "https://www.mixrockmetal.net/",
+      "content": "Hard rock, heavy metal, alternatif, progresif ve thrash metal",
+      "location": "Ontario, Kanada"
+    },
+    {
+      "id": "4fun-rock",
+      "name": "4FUN Rock",
+      "enabled": true,
+      "urls": ["https://sonic-us.arkeo.cl/8358/stream"],
+      "website": "https://zeno.fm/radio/4fun-rock/",
+      "content": "Klasik rock, alternatif rock, hard rock ve metal",
+      "location": "Şili"
+    },
+    {
+      "id": "the-gallery",
+      "name": "The Gallery",
+      "enabled": true,
+      "urls": [
+        "https://radio.streamings.gr/proxy/thegallery?mp=/stream",
+        "http://radio.streamings.gr:8056/stream"
+      ],
+      "website": "https://thegallery.gr/gr/radio/",
+      "content": "Heavy metal, power metal, progresif metal ve ekstrem metal",
+      "location": "Yunanistan"
+    },
+    {
+      "id": "80s80s-digital",
+      "name": "80s80s Digital",
+      "enabled": true,
+      "urls": ["https://streams.80s80s.de/web/mp3-192/streams.80s80s.de/"],
+      "website": "https://www.80s80s.de/streams/80s80s",
+      "content": "1980'ler pop, new wave, synth-pop, rock ve klasik hitleri",
+      "location": "Almanya"
+    },
+    {
+      "id": "sbs-chill",
+      "name": "SBS Chill",
+      "enabled": true,
+      "urls": ["https://sbs-hls.streamguys1.com/hls/sbschill/playlist.m3u8?aw_0_1st.playerid=sbs-web"],
+      "website": "https://www.sbs.com.au/audio/music/chill",
+      "content": "Downtempo, elektronik, ambient ve lo-fi",
+      "location": "Avustralya"
+    },
+    {
+      "id": "sbs-radio-4",
+      "name": "SBS Radio 4",
+      "enabled": true,
+      "urls": ["https://sbs-hls.streamguys1.com/hls/sbs4/playlist.m3u?aw_0_1st.playerid=sbs-web"],
+      "website": "https://www.sbs.com.au/audio/music/sbs4",
+      "content": "PopLatino, Latin pop ve dünya hitleri",
+      "location": "Avustralya"
+    },
+    {
+      "id": "sbs-popasia",
+      "name": "SBS PopAsia",
+      "enabled": true,
+      "urls": ["https://sbs-hls.streamguys1.com/hls/popasia/playlist.m3u?aw_0_1st.playerid=sbs-web"],
+      "website": "https://www.sbs.com.au/audio/music/popasia",
+      "content": "K-pop, C-pop, J-pop ve Asya pop müziği",
+      "location": "Avustralya"
+    },
+    {
+      "id": "radyo-dejavu",
+      "name": "Radyo Dejavu",
+      "enabled": true,
+      "urls": ["https://radyodejavu.80.yayin.com.tr/stream"],
+      "website": "https://www.radyodejavu.net/",
+      "content": "1980'ler ve 1990'lar Türkçe ve yabancı nostaljik müzik",
+      "location": "Türkiye"
+    },
+    {
+      "id": "metalradio-argentina",
+      "name": "MetalRadio Argentina",
+      "enabled": true,
+      "urls": ["https://api.metalradio.com.ar/listen/metalradio/radio.mp3"],
+      "website": "https://www.metalradio.com.ar/",
+      "content": "Heavy metal, thrash metal, death metal ve Arjantin metal müziği",
+      "location": "Buenos Aires, Arjantin"
+    },
+    {
+      "id": "krakon-radio",
+      "name": "KRAKØN Radio",
+      "enabled": true,
+      "urls": ["https://az10.yesstreaming.net:8500/radio.mp3"],
+      "website": "https://krakonradio.eu/",
+      "content": "Metal, punk ve bağımsız rock grupları",
+      "location": "Çekya"
+    },
+    {
+      "id": "radio-armageddon",
+      "name": "Radio Armageddon",
+      "enabled": true,
+      "urls": ["https://ssl-1.radiohost.pl:11608/"],
+      "website": "https://radioarmageddon.pl/",
+      "content": "Heavy metal, hard rock, alternatif rock ve klasik rock",
+      "location": "Polonya"
+    },
+    {
+      "id": "kmet-db-metalradio-live",
+      "name": "KMET-DB MetalRadio LIVE",
+      "enabled": true,
+      "urls": [
+        "https://metalradio.live/listen/metalradio/high.mp3",
+        "https://metalradio.live/listen/metalradio/low.mp3",
+        "https://metalradio.live/listen/metalradio/mobile.aac"
+      ],
+      "website": "https://metalradio.live/public/metalradio",
+      "content": "Heavy metal, thrash metal, hard rock ve yeni metal müzik",
+      "location": "ABD"
+    },
+    {
+      "id": "deafness-radio-metal",
+      "name": "Deafness Radio Metal",
+      "enabled": true,
+      "urls": ["https://deafness-radio-metal.stream.laut.fm/deafness-radio-metal"],
+      "website": "https://www.deafness-radio-metal.de/",
+      "content": "Metal, hard rock, gothic metal ve rock",
+      "location": "Dresden, Almanya"
+    },
+    {
+      "id": "mk-radyo",
+      "name": "MK Radyo",
+      "enabled": true,
+      "urls": ["https://live.sinirsizhost.com.tr/8028/stream"],
+      "website": "https://www.mkradyo.com/mkradyo/",
+      "content": "Türkçe pop, bağımsız yapımlar ve yapay zekâ destekli müzik",
+      "location": "Türkiye"
+    },
+    {
+      "id": "tropicana-bogota",
+      "name": "Tropicana Bogotá",
+      "enabled": true,
+      "urls": ["https://playerservices.streamtheworld.com/api/livestream-redirect/TROPICANA_SC"],
+      "website": "https://www.tropicanafm.com/",
+      "content": "Salsa, vallenato, merengue, reggaeton ve Kolombiya tropikal müziği",
+      "location": "Bogotá, Kolombiya"
+    },
+    {
+      "id": "handcrafted-radio",
+      "name": "Handcrafted Radio",
+      "enabled": true,
+      "urls": ["https://thassos.cdnstream.com/proxy/tsunamid/?mp=/stream"],
+      "website": "https://www.handcraftedradio.org/",
+      "content": "Klasik rock, derin albüm parçaları, nadir kayıtlar ve B yüzleri",
+      "location": "St. Louis, Missouri, ABD"
+    },
+    {
+      "id": "cadena-dial",
+      "name": "Cadena Dial",
+      "enabled": true,
+      "urls": ["https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_SC"],
+      "website": "https://www.cadenadial.com/",
+      "content": "İspanyolca pop ve Latin pop müziği",
+      "location": "Madrid, İspanya"
+    },
+    {
+      "id": "xxx80s",
+      "name": "XXX80s",
+      "enabled": true,
+      "urls": ["https://streaming.live365.com/a82367"],
+      "website": "https://xxx80s.com/",
+      "content": "1980'ler pop, rock, new wave ve klasik hitleri",
+      "location": "Los Angeles, Kaliforniya, ABD"
+    },
+    {
+      "id": "crucial-velocity-radio",
+      "name": "Crucial Velocity Radio",
+      "enabled": true,
+      "urls": ["https://ais-sa2.cdnstream1.com/1369_128"],
+      "website": "https://crucialvelocity.ca/",
+      "content": "Hard rock, heavy metal, thrash metal ve hardcore",
+      "location": "Milverton, Ontario, Kanada"
     }
   ]
 }
