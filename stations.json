@@ -20,15 +20,6 @@
       ]
     },
     {
-      "id": "trt-radyo-haber",
-      "name": "TRT Radyo Haber",
-      "enabled": true,
-      "urls": [
-        "https://rd-trtradyohaber.medya.trt.com.tr/master.m3u8",
-        "https://trt.radyotvonline.net/trthaber"
-      ]
-    },
-    {
       "id": "trt-radyo-3",
       "name": "TRT Radyo 3",
       "enabled": true,
@@ -432,17 +423,6 @@
       ]
     },
     {
-      "id": "cgtn-turk-radyo",
-      "name": "CGTN Türk Radyo",
-      "enabled": true,
-      "urls": [
-        "https://criturk.radyotvonline.net/criturk"
-      ],
-      "website": "https://www.cgtnturk.com/radyo/",
-      "content": "Türkiye, Çin ve dünya gündemi; haber, ekonomi ve kültür-sanat programları",
-      "location": "İstanbul"
-    },
-    {
       "id": "acs-radyo",
       "name": "AÇS Radyo",
       "enabled": true,
@@ -737,14 +717,6 @@
       "enabled": true,
       "urls": [
         "https://listen.radyotvonline.net/hls/play/show_ellerhavaya.m3u8"
-      ]
-    },
-    {
-      "id": "haberturk-radyo",
-      "name": "Habertürk Radyo",
-      "enabled": true,
-      "urls": [
-        "https://haberturkradyo.radyotvonline.net/haberturkradyo"
       ]
     },
     {
@@ -1383,7 +1355,11 @@
       "enabled": true,
       "urls": [
         "http://canli.radyoa.anadolu.edu.tr:44445/Radyo_A_MP3"
-      ]
+      ],
+      "website": "https://radyoa.anadolu.edu.tr/",
+      "content": "Alternatif, pop, elektronik ve öğrenci programları",
+      "location": "Eskişehir, Türkiye",
+      "frequency": "101.7 FM"
     },
     {
       "id": "play-fm",
@@ -2282,19 +2258,6 @@
       "content": "Müzik, kültür, sanat ve sohbet programları",
       "location": "İstanbul",
       "frequency": "106.8 FM"
-    },
-    {
-      "id": "anlatilanin-otesi",
-      "name": "Anlatılanın Ötesi",
-      "enabled": true,
-      "urls": [
-        "https://icecast-rian.cdnvideo.ru/voicestm",
-        "https://nfw.ria.ru/flv/audio.aspx?ID=98318704&type=mp3"
-      ],
-      "website": "https://anlatilaninotesi.com.tr/broadcasts/live/",
-      "content": "Haber, gündem, analiz ve söyleşi",
-      "location": "Türkiye",
-      "frequency": "97.8 FM İstanbul"
     },
     {
       "id": "luna-fm-world",
@@ -6337,7 +6300,9 @@
       "id": "nostalgie-cinema",
       "name": "Nostalgie Cinema",
       "enabled": true,
-      "urls": ["https://stream.rcs.revma.com/urds0v43ehuvv"],
+      "urls": [
+        "https://stream.rcs.revma.com/urds0v43ehuvv"
+      ],
       "website": "https://www.nostalgie.be/radioplayer/cinema",
       "content": "Sinema müzikleri, film müzikleri ve klasik eserler",
       "location": "Brüksel, Belçika"
@@ -6346,7 +6311,9 @@
       "id": "radyo-c",
       "name": "Radyo C",
       "enabled": true,
-      "urls": ["https://yayin.radyoc.com:8090/;stream.mp3"],
+      "urls": [
+        "https://yayin.radyoc.com:8090/;stream.mp3"
+      ],
       "website": "https://www.radyoc.com.tr/",
       "content": "80'lerden günümüze yabancı pop ve hit müzik",
       "location": "Ankara, Türkiye"
@@ -6355,7 +6322,10 @@
       "id": "dunyadan-sesler-radio",
       "name": "Dünyadan Sesler Radio",
       "enabled": true,
-      "urls": ["https://stream.dodo.radio/dunyadansesler", "https://stream.radiojar.com/cg24hdbwa0hvv"],
+      "urls": [
+        "https://stream.dodo.radio/dunyadansesler",
+        "https://stream.radiojar.com/cg24hdbwa0hvv"
+      ],
       "website": "https://www.dunyadansesler.com/radio",
       "content": "Alternatif, indie, world, funk ve keşif müzikleri",
       "location": "İstanbul, Türkiye"
@@ -6364,7 +6334,10 @@
       "id": "radio-monte-carlo",
       "name": "Radio Monte Carlo",
       "enabled": true,
-      "urls": ["https://icy.unitedradio.it/RMC.mp3", "http://edge.radiomontecarlo.net/RMC.mp3"],
+      "urls": [
+        "https://icy.unitedradio.it/RMC.mp3",
+        "http://edge.radiomontecarlo.net/RMC.mp3"
+      ],
       "website": "https://www.radiomontecarlo.net/",
       "content": "Pop, soul, lounge, caz ve klasik hitler",
       "location": "Milano, İtalya"
@@ -6373,7 +6346,9 @@
       "id": "ibiza-x-radio",
       "name": "Ibiza X Radio",
       "enabled": true,
-      "urls": ["https://stream.radiojar.com/p1f2vpv37reuv"],
+      "urls": [
+        "https://stream.radiojar.com/p1f2vpv37reuv"
+      ],
       "website": "https://www.ibizaxradio.com/",
       "content": "House, deep house, melodic techno ve elektronik müzik",
       "location": "İbiza, İspanya"
@@ -6382,7 +6357,9 @@
       "id": "americas-greatest-70s-hits",
       "name": "America's Greatest 70s Hits",
       "enabled": true,
-      "urls": ["http://hydra.cdnstream.com/1823_128"],
+      "urls": [
+        "http://hydra.cdnstream.com/1823_128"
+      ],
       "website": "https://www.americasgreatest70s.com/",
       "content": "1970'ler pop, rock, disco, soul ve country hitleri",
       "location": "Londra, Birleşik Krallık"
@@ -6391,7 +6368,10 @@
       "id": "kcea-89-1-fm",
       "name": "KCEA 89.1 FM",
       "enabled": true,
-      "urls": ["https://cloudstream.rubinbroadcasting.com/kcea", "http://streaming.rubinbroadcasting.com/kcea"],
+      "urls": [
+        "https://cloudstream.rubinbroadcasting.com/kcea",
+        "http://streaming.rubinbroadcasting.com/kcea"
+      ],
       "website": "https://kcea.org/",
       "content": "Big band, swing ve Amerikan standartları",
       "location": "Atherton, California, ABD",
@@ -6401,7 +6381,10 @@
       "id": "kcme-88-7-fm",
       "name": "KCME 88.7 FM",
       "enabled": true,
-      "urls": ["https://ice9.securenetsystems.net/KCME", "http://ice9.securenetsystems.net/KCME"],
+      "urls": [
+        "https://ice9.securenetsystems.net/KCME",
+        "http://ice9.securenetsystems.net/KCME"
+      ],
       "website": "https://www.kcme.org/",
       "content": "Klasik müzik ve kültür-sanat programları",
       "location": "Colorado Springs, Colorado, ABD",
@@ -6411,7 +6394,10 @@
       "id": "great-american-songbook",
       "name": "The Great American Songbook",
       "enabled": true,
-      "urls": ["https://remote.selfip.net:8030/1", "https://remote.selfip.net:8020/1"],
+      "urls": [
+        "https://remote.selfip.net:8030/1",
+        "https://remote.selfip.net:8020/1"
+      ],
       "website": "https://greatamericansongbook.info/",
       "content": "Vokal caz, easy listening ve Amerikan standartları",
       "location": "İnternet Radyosu"
@@ -6420,7 +6406,9 @@
       "id": "siyah-fm",
       "name": "Siyah FM",
       "enabled": true,
-      "urls": ["https://radyo3.okeylisans.com/siyahfm/stream"],
+      "urls": [
+        "https://radyo3.okeylisans.com/siyahfm/stream"
+      ],
       "website": "https://siyahfmbiz.tr.gg/",
       "content": "Türkçe pop, arabesk ve güncel hitler",
       "location": "Türkiye"
@@ -6429,7 +6417,10 @@
       "id": "radio-atilim",
       "name": "Radio Atılım",
       "enabled": true,
-      "urls": ["https://radyoatilim.yayin.com.tr/stream", "https://radyoatilim.yayin.com.tr/"],
+      "urls": [
+        "https://radyoatilim.yayin.com.tr/stream",
+        "https://radyoatilim.yayin.com.tr/"
+      ],
       "website": "https://www.radioatilim.com/",
       "content": "Yabancı pop, alternatif müzik ve üniversite programları",
       "location": "Ankara, Türkiye"
@@ -6451,7 +6442,9 @@
       "id": "rex-rock-radio",
       "name": "REX Rock Radio",
       "enabled": true,
-      "urls": ["https://stream.laut.fm/rex-rock-radio"],
+      "urls": [
+        "https://stream.laut.fm/rex-rock-radio"
+      ],
       "website": "https://laut.fm/rex-rock-radio",
       "content": "Rock, hard rock, punk rock ve heavy metal",
       "location": "Villingen-Schwenningen, Almanya"
@@ -6460,7 +6453,9 @@
       "id": "mix-rock-metal-radio",
       "name": "Mix Rock Metal Radio",
       "enabled": true,
-      "urls": ["https://s3.myradiostream.com:4202/listen.mp3"],
+      "urls": [
+        "https://s3.myradiostream.com:4202/listen.mp3"
+      ],
       "website": "https://www.mixrockmetal.net/",
       "content": "Hard rock, heavy metal, alternatif, progresif ve thrash metal",
       "location": "Ontario, Kanada"
@@ -6469,7 +6464,9 @@
       "id": "4fun-rock",
       "name": "4FUN Rock",
       "enabled": true,
-      "urls": ["https://sonic-us.arkeo.cl/8358/stream"],
+      "urls": [
+        "https://sonic-us.arkeo.cl/8358/stream"
+      ],
       "website": "https://zeno.fm/radio/4fun-rock/",
       "content": "Klasik rock, alternatif rock, hard rock ve metal",
       "location": "Şili"
@@ -6490,7 +6487,9 @@
       "id": "80s80s-digital",
       "name": "80s80s Digital",
       "enabled": true,
-      "urls": ["https://streams.80s80s.de/web/mp3-192/streams.80s80s.de/"],
+      "urls": [
+        "https://streams.80s80s.de/web/mp3-192/streams.80s80s.de/"
+      ],
       "website": "https://www.80s80s.de/streams/80s80s",
       "content": "1980'ler pop, new wave, synth-pop, rock ve klasik hitleri",
       "location": "Almanya"
@@ -6499,7 +6498,9 @@
       "id": "sbs-chill",
       "name": "SBS Chill",
       "enabled": true,
-      "urls": ["https://sbs-hls.streamguys1.com/hls/sbschill/playlist.m3u8?aw_0_1st.playerid=sbs-web"],
+      "urls": [
+        "https://sbs-hls.streamguys1.com/hls/sbschill/playlist.m3u8?aw_0_1st.playerid=sbs-web"
+      ],
       "website": "https://www.sbs.com.au/audio/music/chill",
       "content": "Downtempo, elektronik, ambient ve lo-fi",
       "location": "Avustralya"
@@ -6508,7 +6509,9 @@
       "id": "sbs-radio-4",
       "name": "SBS Radio 4",
       "enabled": true,
-      "urls": ["https://sbs-hls.streamguys1.com/hls/sbs4/playlist.m3u?aw_0_1st.playerid=sbs-web"],
+      "urls": [
+        "https://sbs-hls.streamguys1.com/hls/sbs4/playlist.m3u?aw_0_1st.playerid=sbs-web"
+      ],
       "website": "https://www.sbs.com.au/audio/music/sbs4",
       "content": "PopLatino, Latin pop ve dünya hitleri",
       "location": "Avustralya"
@@ -6517,7 +6520,9 @@
       "id": "sbs-popasia",
       "name": "SBS PopAsia",
       "enabled": true,
-      "urls": ["https://sbs-hls.streamguys1.com/hls/popasia/playlist.m3u?aw_0_1st.playerid=sbs-web"],
+      "urls": [
+        "https://sbs-hls.streamguys1.com/hls/popasia/playlist.m3u?aw_0_1st.playerid=sbs-web"
+      ],
       "website": "https://www.sbs.com.au/audio/music/popasia",
       "content": "K-pop, C-pop, J-pop ve Asya pop müziği",
       "location": "Avustralya"
@@ -6526,7 +6531,9 @@
       "id": "radyo-dejavu",
       "name": "Radyo Dejavu",
       "enabled": true,
-      "urls": ["https://radyodejavu.80.yayin.com.tr/stream"],
+      "urls": [
+        "https://radyodejavu.80.yayin.com.tr/stream"
+      ],
       "website": "https://www.radyodejavu.net/",
       "content": "1980'ler ve 1990'lar Türkçe ve yabancı nostaljik müzik",
       "location": "Türkiye"
@@ -6535,7 +6542,9 @@
       "id": "metalradio-argentina",
       "name": "MetalRadio Argentina",
       "enabled": true,
-      "urls": ["https://api.metalradio.com.ar/listen/metalradio/radio.mp3"],
+      "urls": [
+        "https://api.metalradio.com.ar/listen/metalradio/radio.mp3"
+      ],
       "website": "https://www.metalradio.com.ar/",
       "content": "Heavy metal, thrash metal, death metal ve Arjantin metal müziği",
       "location": "Buenos Aires, Arjantin"
@@ -6544,7 +6553,9 @@
       "id": "krakon-radio",
       "name": "KRAKØN Radio",
       "enabled": true,
-      "urls": ["https://az10.yesstreaming.net:8500/radio.mp3"],
+      "urls": [
+        "https://az10.yesstreaming.net:8500/radio.mp3"
+      ],
       "website": "https://krakonradio.eu/",
       "content": "Metal, punk ve bağımsız rock grupları",
       "location": "Çekya"
@@ -6553,7 +6564,9 @@
       "id": "radio-armageddon",
       "name": "Radio Armageddon",
       "enabled": true,
-      "urls": ["https://ssl-1.radiohost.pl:11608/"],
+      "urls": [
+        "https://ssl-1.radiohost.pl:11608/"
+      ],
       "website": "https://radioarmageddon.pl/",
       "content": "Heavy metal, hard rock, alternatif rock ve klasik rock",
       "location": "Polonya"
@@ -6575,7 +6588,9 @@
       "id": "deafness-radio-metal",
       "name": "Deafness Radio Metal",
       "enabled": true,
-      "urls": ["https://deafness-radio-metal.stream.laut.fm/deafness-radio-metal"],
+      "urls": [
+        "https://deafness-radio-metal.stream.laut.fm/deafness-radio-metal"
+      ],
       "website": "https://www.deafness-radio-metal.de/",
       "content": "Metal, hard rock, gothic metal ve rock",
       "location": "Dresden, Almanya"
@@ -6584,7 +6599,9 @@
       "id": "mk-radyo",
       "name": "MK Radyo",
       "enabled": true,
-      "urls": ["https://live.sinirsizhost.com.tr/8028/stream"],
+      "urls": [
+        "https://live.sinirsizhost.com.tr/8028/stream"
+      ],
       "website": "https://www.mkradyo.com/mkradyo/",
       "content": "Türkçe pop, bağımsız yapımlar ve yapay zekâ destekli müzik",
       "location": "Türkiye"
@@ -6593,7 +6610,9 @@
       "id": "tropicana-bogota",
       "name": "Tropicana Bogotá",
       "enabled": true,
-      "urls": ["https://playerservices.streamtheworld.com/api/livestream-redirect/TROPICANA_SC"],
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/TROPICANA_SC"
+      ],
       "website": "https://www.tropicanafm.com/",
       "content": "Salsa, vallenato, merengue, reggaeton ve Kolombiya tropikal müziği",
       "location": "Bogotá, Kolombiya"
@@ -6602,7 +6621,9 @@
       "id": "handcrafted-radio",
       "name": "Handcrafted Radio",
       "enabled": true,
-      "urls": ["https://thassos.cdnstream.com/proxy/tsunamid/?mp=/stream"],
+      "urls": [
+        "https://thassos.cdnstream.com/proxy/tsunamid/?mp=/stream"
+      ],
       "website": "https://www.handcraftedradio.org/",
       "content": "Klasik rock, derin albüm parçaları, nadir kayıtlar ve B yüzleri",
       "location": "St. Louis, Missouri, ABD"
@@ -6611,7 +6632,9 @@
       "id": "cadena-dial",
       "name": "Cadena Dial",
       "enabled": true,
-      "urls": ["https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_SC"],
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_SC"
+      ],
       "website": "https://www.cadenadial.com/",
       "content": "İspanyolca pop ve Latin pop müziği",
       "location": "Madrid, İspanya"
@@ -6620,7 +6643,9 @@
       "id": "xxx80s",
       "name": "XXX80s",
       "enabled": true,
-      "urls": ["https://streaming.live365.com/a82367"],
+      "urls": [
+        "https://streaming.live365.com/a82367"
+      ],
       "website": "https://xxx80s.com/",
       "content": "1980'ler pop, rock, new wave ve klasik hitleri",
       "location": "Los Angeles, Kaliforniya, ABD"
@@ -6629,10 +6654,387 @@
       "id": "crucial-velocity-radio",
       "name": "Crucial Velocity Radio",
       "enabled": true,
-      "urls": ["https://ais-sa2.cdnstream1.com/1369_128"],
+      "urls": [
+        "https://ais-sa2.cdnstream1.com/1369_128"
+      ],
       "website": "https://crucialvelocity.ca/",
       "content": "Hard rock, heavy metal, thrash metal ve hardcore",
       "location": "Milverton, Ontario, Kanada"
+    },
+    {
+      "id": "fluxfm",
+      "name": "FluxFM",
+      "enabled": true,
+      "urls": [
+        "http://streams.fluxfm.de/live/mp3-320/audio/",
+        "http://streams.fluxfm.de/live/aac-64/audio/"
+      ],
+      "website": "https://www.fluxfm.de/",
+      "content": "Alternatif, indie, elektronik ve modern rock",
+      "location": "Berlin, Almanya",
+      "frequency": "100.6 FM"
+    },
+    {
+      "id": "big-r-radio-80s-90s-pop-mix",
+      "name": "Big R Radio - 80s and 90s Pop Mix",
+      "enabled": true,
+      "urls": [
+        "http://bigrradio.cdnstream1.com/5183_128"
+      ],
+      "website": "https://bigrradio.com/",
+      "content": "1980'ler ve 1990'lar pop hitleri",
+      "location": "Mill Creek, Washington, ABD"
+    },
+    {
+      "id": "death-fm",
+      "name": "Death.FM",
+      "enabled": true,
+      "urls": [
+        "https://death.fm/live",
+        "http://hi5.death.fm/"
+      ],
+      "website": "https://death.fm/",
+      "content": "Death metal, black metal, brutal metal ve grindcore",
+      "location": "ABD"
+    },
+    {
+      "id": "metal-express-radio",
+      "name": "Metal Express Radio",
+      "enabled": true,
+      "urls": [
+        "http://s39.myradiostream.com:11590/;"
+      ],
+      "website": "https://www.metalexpressradio.com/",
+      "content": "Heavy metal, hard rock ve farklı metal türleri",
+      "location": "Oslo, Norveç"
+    },
+    {
+      "id": "hardradio",
+      "name": "HardRadio",
+      "enabled": true,
+      "urls": [
+        "http://144.217.29.205/",
+        "http://3634.cloudrad.io/stream/3//hardradio4.aac"
+      ],
+      "website": "https://hardradio.com/hr3.html",
+      "content": "Hard rock ve heavy metal",
+      "location": "ABD"
+    },
+    {
+      "id": "hit-radio-ffh",
+      "name": "Hit Radio FFH",
+      "enabled": true,
+      "urls": [
+        "http://mp3.ffh.de/radioffh/hqlivestream.mp3"
+      ],
+      "website": "https://www.ffh.de/",
+      "content": "Güncel pop hitleri ve eğlence",
+      "location": "Hessen, Almanya"
+    },
+    {
+      "id": "capital-fm-london",
+      "name": "Capital FM London",
+      "enabled": true,
+      "urls": [
+        "https://media-ssl.musicradio.com/CapitalMP3"
+      ],
+      "website": "https://www.capitalfm.com/london/",
+      "content": "Top 40, pop ve güncel hitler",
+      "location": "Londra, Birleşik Krallık",
+      "frequency": "95.8 FM"
+    },
+    {
+      "id": "chilltrax",
+      "name": "Chilltrax",
+      "enabled": true,
+      "urls": [
+        "https://streamssl.chilltrax.com/",
+        "http://server1.chilltrax.com:9000/"
+      ],
+      "website": "https://www.chilltrax.com/",
+      "content": "Chillout, downtempo, lounge ve elektronik müzik",
+      "location": "ABD"
+    },
+    {
+      "id": "radyo-can-93-4",
+      "name": "Radyo Can 93.4",
+      "enabled": true,
+      "urls": [
+        "http://yayin2.yayindakiler.com:4174/;stream.mp3"
+      ],
+      "website": "https://www.radyocan.net/",
+      "content": "Türkçe pop, yabancı pop ve yerel programlar",
+      "location": "Tekirdağ, Türkiye",
+      "frequency": "93.4 FM"
+    },
+    {
+      "id": "joe-nederland",
+      "name": "JOE Nederland",
+      "enabled": true,
+      "urls": [
+        "https://stream.joe.nl/joe/aachigh"
+      ],
+      "website": "https://joe.nl/",
+      "content": "1970'lerden günümüze pop ve klasik hitler",
+      "location": "Hollanda"
+    },
+    {
+      "id": "qmusic-nederland",
+      "name": "Qmusic Nederland",
+      "enabled": true,
+      "urls": [
+        "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live_96.mp3",
+        "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live.mp3"
+      ],
+      "website": "https://qmusic.nl/",
+      "content": "Top 40, pop ve güncel hitler",
+      "location": "Hollanda"
+    },
+    {
+      "id": "radyo-9",
+      "name": "Radyo 9",
+      "enabled": true,
+      "urls": [
+        "https://radyo.yayin.com.tr:4010/"
+      ],
+      "website": "https://www.radyo9.com/",
+      "content": "Türkçe pop, karışık müzik ve yerel programlar",
+      "location": "Nazilli, Aydın, Türkiye",
+      "frequency": "99.9 FM"
+    },
+    {
+      "id": "radyo-s",
+      "name": "Radyo S",
+      "enabled": true,
+      "urls": [
+        "http://icecast.netmedya.net/radyos"
+      ],
+      "website": "https://www.radyos.com.tr/",
+      "content": "Türkçe pop, güncel hitler ve eğlence",
+      "location": "Bursa, Türkiye",
+      "frequency": "95.6 FM"
+    },
+    {
+      "id": "venice-classic-radio",
+      "name": "Venice Classic Radio",
+      "enabled": true,
+      "urls": [
+        "https://uk2.streamingpulse.com/ssl/vcr1",
+        "http://116.202.241.212:8020/"
+      ],
+      "website": "https://veniceclassicradio.eu/",
+      "content": "Klasik müzik, oda müziği, opera ve barok eserler",
+      "location": "Venedik, İtalya"
+    },
+    {
+      "id": "gong-fm-regensburg",
+      "name": "Gong FM Regensburg",
+      "enabled": true,
+      "urls": [
+        "https://play.gongfm.de/live/webmp3/"
+      ],
+      "website": "https://www.gongfm.de/",
+      "content": "Pop, güncel hitler ve bölgesel eğlence",
+      "location": "Regensburg, Almanya",
+      "frequency": "89.7 FM"
+    },
+    {
+      "id": "soft-rock-radio",
+      "name": "Soft Rock Radio",
+      "enabled": true,
+      "urls": [
+        "https://gold.streamguys1.com/softrock.mp3"
+      ],
+      "website": "https://www.softrockradio.net/",
+      "content": "1970'ler, 1980'ler ve 1990'lardan soft rock ve yacht rock",
+      "location": "ABD"
+    },
+    {
+      "id": "kupe-fm",
+      "name": "Küpe FM",
+      "enabled": true,
+      "urls": [
+        "https://icecast.netmedya.net/kupefm"
+      ],
+      "website": "https://kupefm.com.tr/",
+      "content": "Türkçe pop, güncel hitler ve Trakya yerel programları",
+      "location": "Tekirdağ, Türkiye"
+    },
+    {
+      "id": "mastika-fm",
+      "name": "Mastika FM",
+      "enabled": true,
+      "urls": [
+        "https://mastika1.80.yayin.com.tr/"
+      ],
+      "website": "http://www.mastikafm.com/",
+      "content": "Bozlak, oyun havası, arabesk ve fantezi müzik",
+      "location": "Yozgat, Türkiye",
+      "frequency": "103.0 FM"
+    },
+    {
+      "id": "loops-radio-techno",
+      "name": "Loops Radio Techno",
+      "enabled": true,
+      "urls": [
+        "https://ip179.ozelip.com/7688//asistan/stream/"
+      ],
+      "website": "https://loopsradio.com/radiochannel/loops-radio-techno-station/",
+      "content": "Techno ve elektronik dans müziği",
+      "location": "Türkiye"
+    },
+    {
+      "id": "radyo-aktif-fm-kutahya",
+      "name": "Radyo Aktif FM Kütahya",
+      "enabled": true,
+      "urls": [
+        "https://radyo.yayindakiler.com:3164/stream"
+      ],
+      "website": "https://radyoaktiffm.com/",
+      "content": "Türkçe pop, yabancı pop, dans ve yerel programlar",
+      "location": "Kütahya, Türkiye",
+      "frequency": "99.9 FM"
+    },
+    {
+      "id": "big-r-radio-80s-metal",
+      "name": "Big R Radio - 80s Metal FM",
+      "enabled": true,
+      "urls": [
+        "http://bigrradio.cdnstream1.com/5186_128"
+      ],
+      "website": "https://bigrradio.com/",
+      "content": "1980'ler heavy metal, glam metal ve hard rock",
+      "location": "Mill Creek, Washington, ABD"
+    },
+    {
+      "id": "big-r-radio-golden-oldies",
+      "name": "Big R Radio - Golden Oldies",
+      "enabled": true,
+      "urls": [
+        "http://bigrradio.cdnstream1.com/5198_128"
+      ],
+      "website": "https://bigrradio.com/",
+      "content": "1950'ler, 1960'lar ve klasik oldies",
+      "location": "Mill Creek, Washington, ABD"
+    },
+    {
+      "id": "big-r-radio-country-gold",
+      "name": "Big R Radio - Country Gold",
+      "enabled": true,
+      "urls": [
+        "http://bigrradio.cdnstream1.com/5195_128"
+      ],
+      "website": "https://bigrradio.com/",
+      "content": "Klasik country ve country gold",
+      "location": "Mill Creek, Washington, ABD"
+    },
+    {
+      "id": "big-r-radio-90s-alternative-rock",
+      "name": "Big R Radio - 90s Alternative Rock",
+      "enabled": true,
+      "urls": [
+        "http://bigrradio.cdnstream1.com/5187_128"
+      ],
+      "website": "https://bigrradio.com/",
+      "content": "1990'lar alternatif rock ve grunge",
+      "location": "Mill Creek, Washington, ABD"
+    },
+    {
+      "id": "totally-radio-60s",
+      "name": "Totally Radio 60s",
+      "enabled": true,
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_60S_S01.mp3"
+      ],
+      "website": "https://totallyradio.com.au/",
+      "content": "1960'ların pop, rock ve oldies hitleri",
+      "location": "Avustralya"
+    },
+    {
+      "id": "totally-radio-70s",
+      "name": "Totally Radio 70s",
+      "enabled": true,
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_70S_S01.mp3"
+      ],
+      "website": "https://totallyradio.com.au/",
+      "content": "1970'lerin pop, rock ve disco hitleri",
+      "location": "Avustralya"
+    },
+    {
+      "id": "totally-radio-80s",
+      "name": "Totally Radio 80s",
+      "enabled": true,
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_80S_S01.mp3"
+      ],
+      "website": "https://totallyradio.com.au/",
+      "content": "1980'lerin pop, rock ve new wave hitleri",
+      "location": "Avustralya"
+    },
+    {
+      "id": "totally-radio-90s",
+      "name": "Totally Radio 90s",
+      "enabled": true,
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_90S_S01.mp3"
+      ],
+      "website": "https://totallyradio.com.au/",
+      "content": "1990'ların pop, rock ve dans hitleri",
+      "location": "Avustralya"
+    },
+    {
+      "id": "totally-radio-00s",
+      "name": "Totally Radio 00s",
+      "enabled": true,
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_00S_S01.mp3"
+      ],
+      "website": "https://totallyradio.com.au/",
+      "content": "2000'lerin pop ve rock hitleri",
+      "location": "Avustralya"
+    },
+    {
+      "id": "totally-radio-rock",
+      "name": "Totally Radio Rock",
+      "enabled": true,
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_ROCK_S01.mp3"
+      ],
+      "website": "https://totallyradio.com.au/",
+      "content": "Klasik ve modern rock",
+      "location": "Avustralya"
+    },
+    {
+      "id": "totally-radio-pop",
+      "name": "Totally Radio Pop",
+      "enabled": true,
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_POP_S01.mp3"
+      ],
+      "website": "https://totallyradio.com.au/",
+      "content": "Pop ve güncel hitler",
+      "location": "Avustralya"
+    },
+    {
+      "id": "totally-radio-greatest-hits",
+      "name": "Totally Radio Greatest Hits",
+      "enabled": true,
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_GRTST_HITS_S01.mp3"
+      ],
+      "website": "https://totallyradio.com.au/",
+      "content": "Farklı dönemlerden en sevilen hitler",
+      "location": "Avustralya"
     }
-  ]
+  ],
+  "catalogPolicy": {
+    "workingStreamRequired": true,
+    "logoRequired": true,
+    "metadataRequired": false,
+    "excludePrimaryNews": true,
+    "excludePrimaryReligious": true,
+    "expandedCatalog": "Radio Browser allowlisted network/source expansion at runtime"
+  },
+  "baseStationCount": 674
 }
