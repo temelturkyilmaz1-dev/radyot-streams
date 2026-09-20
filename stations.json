@@ -8,16 +8,20 @@
       "urls": [
         "https://rd-trtfm.medya.trt.com.tr/master.m3u8",
         "https://trt.radyotvonline.net/trtfm"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "trt-radyo-1",
       "name": "TRT Radyo 1",
-      "enabled": true,
+      "enabled": false,
       "urls": [
         "https://radio-trtradyo1.live.trt.com.tr/master.m3u8",
         "https://trt.radyotvonline.net/trt1"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "trt-radyo-3",
@@ -25,7 +29,9 @@
       "enabled": true,
       "urls": [
         "https://rd-trtradyo3.medya.trt.com.tr/master.m3u8"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "trt-nagme",
@@ -33,7 +39,9 @@
       "enabled": true,
       "urls": [
         "https://rd-trtnagme.medya.trt.com.tr/master.m3u8"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "trt-turku",
@@ -41,7 +49,9 @@
       "enabled": true,
       "urls": [
         "https://rd-trtturku.medya.trt.com.tr/master.m3u8"
-      ]
+      ],
+      "content": "Türk halk müziği",
+      "location": "Türkiye"
     },
     {
       "id": "trt-radyo-kurdi",
@@ -49,7 +59,9 @@
       "enabled": true,
       "urls": [
         "https://radio-trtradyo6.medya.trt.com.tr/master.m3u8"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "powerturk",
@@ -57,7 +69,9 @@
       "enabled": true,
       "urls": [
         "https://live.powerapp.com.tr/powerturk/abr/powerturk/128/playlist.m3u8"
-      ]
+      ],
+      "content": "Pop müzik ve güncel hitler",
+      "location": "Türkiye"
     },
     {
       "id": "power-fm",
@@ -65,7 +79,9 @@
       "enabled": true,
       "urls": [
         "https://live.powerapp.com.tr/powerfm/abr/powerfm/128/playlist.m3u8"
-      ]
+      ],
+      "content": "Pop müzik ve güncel hitler",
+      "location": "Türkiye"
     },
     {
       "id": "power-love",
@@ -73,7 +89,9 @@
       "enabled": true,
       "urls": [
         "https://listen.powerapp.com.tr/powerlove/abr/powerlove/128/playlist.m3u8"
-      ]
+      ],
+      "content": "Slow ve romantik müzik",
+      "location": "Türkiye"
     },
     {
       "id": "power-deep",
@@ -81,7 +99,9 @@
       "enabled": true,
       "urls": [
         "https://live.powerapp.com.tr/powerdeep/abr/playlist.m3u8"
-      ]
+      ],
+      "content": "Dans ve elektronik müzik",
+      "location": "Türkiye"
     },
     {
       "id": "power-xl",
@@ -89,7 +109,9 @@
       "enabled": true,
       "urls": [
         "https://listen.powerapp.com.tr/powerextralounge/abr/powerextralounge/96/playlist.m3u8"
-      ]
+      ],
+      "content": "Pop müzik ve güncel hitler",
+      "location": "Türkiye"
     },
     {
       "id": "power-pop",
@@ -97,7 +119,9 @@
       "enabled": true,
       "urls": [
         "https://listen.powerapp.com.tr/powerpop/128/chunks.m3u8"
-      ]
+      ],
+      "content": "Pop müzik ve güncel hitler",
+      "location": "Türkiye"
     },
     {
       "id": "powerturk-dans",
@@ -105,7 +129,9 @@
       "enabled": true,
       "urls": [
         "https://listen.powerapp.com.tr/powerturkdans/abr/powerturkdans/128/playlist.m3u8"
-      ]
+      ],
+      "content": "Dans ve elektronik müzik",
+      "location": "Türkiye"
     },
     {
       "id": "virgin-radio-turkiye",
@@ -113,7 +139,9 @@
       "enabled": true,
       "urls": [
         "https://playerservices.streamtheworld.com/api/livestream-redirect/VIRGIN_RADIOAAC_SC"
-      ]
+      ],
+      "content": "Pop müzik ve güncel hitler",
+      "location": "Türkiye"
     },
     {
       "id": "metro-fm",
@@ -121,7 +149,9 @@
       "enabled": true,
       "urls": [
         "https://playerservices.streamtheworld.com/api/livestream-redirect/METRO_FM_SC"
-      ]
+      ],
+      "content": "Pop müzik ve güncel hitler",
+      "location": "Türkiye"
     },
     {
       "id": "joyturk",
@@ -129,7 +159,9 @@
       "enabled": true,
       "urls": [
         "https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_TURK_SC"
-      ]
+      ],
+      "content": "Pop müzik ve güncel hitler",
+      "location": "Türkiye"
     },
     {
       "id": "joy-fm",
@@ -137,7 +169,9 @@
       "enabled": true,
       "urls": [
         "https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_FM_SC"
-      ]
+      ],
+      "content": "Pop müzik ve güncel hitler",
+      "location": "Türkiye"
     },
     {
       "id": "super-fm",
@@ -145,7 +179,9 @@
       "enabled": true,
       "urls": [
         "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_FM_SC"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "super-2-fm",
@@ -153,7 +189,9 @@
       "enabled": true,
       "urls": [
         "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER2_SC.mp3"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "joyturk-rock",
@@ -161,7 +199,9 @@
       "enabled": true,
       "urls": [
         "http://23613.live.streamtheworld.com/JOYTURK_ROCK128AAC.aac"
-      ]
+      ],
+      "content": "Rock müzik",
+      "location": "Türkiye"
     },
     {
       "id": "joyturk-akustik",
@@ -169,7 +209,9 @@
       "enabled": true,
       "urls": [
         "https://playerservices.streamtheworld.com/api/livestream-redirect/JOYTURK_AKUSTIK128AAC.aac"
-      ]
+      ],
+      "content": "Pop müzik ve güncel hitler",
+      "location": "Türkiye"
     },
     {
       "id": "number1-fm",
@@ -178,7 +220,9 @@
       "urls": [
         "https://number1.radyotvonline.net/hls/play/number1_fm.m3u8",
         "https://playerservices.streamtheworld.com/api/livestream-redirect/NUMBER1FMAAC.aac"
-      ]
+      ],
+      "content": "Pop müzik ve güncel hitler",
+      "location": "Türkiye"
     },
     {
       "id": "number1-turk-fm",
@@ -186,7 +230,9 @@
       "enabled": true,
       "urls": [
         "https://number1.radyotvonline.net/hls/play/number1_turk_fm.m3u8"
-      ]
+      ],
+      "content": "Pop müzik ve güncel hitler",
+      "location": "Türkiye"
     },
     {
       "id": "number1-turk-slow",
@@ -194,7 +240,9 @@
       "enabled": true,
       "urls": [
         "https://eustr75.mediatriple.net/Number1Media/03_Number1_Turk_Slow.stream/playlist.m3u8"
-      ]
+      ],
+      "content": "Slow ve romantik müzik",
+      "location": "Türkiye"
     },
     {
       "id": "number1-turk-90-lar",
@@ -202,7 +250,9 @@
       "enabled": true,
       "urls": [
         "https://ssldyg2.radyotvonline.com/live/turkce90lar.stream/playlist.m3u8"
-      ]
+      ],
+      "content": "Pop müzik ve güncel hitler",
+      "location": "Türkiye"
     },
     {
       "id": "kral-fm",
@@ -210,7 +260,9 @@
       "enabled": true,
       "urls": [
         "https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8"
-      ]
+      ],
+      "content": "Pop müzik ve güncel hitler",
+      "location": "Türkiye"
     },
     {
       "id": "kral-pop",
@@ -218,7 +270,9 @@
       "enabled": true,
       "urls": [
         "https://dygedge2.radyotvonline.net/kralpop/playlist.m3u8"
-      ]
+      ],
+      "content": "Pop müzik ve güncel hitler",
+      "location": "Türkiye"
     },
     {
       "id": "slow-turk",
@@ -226,7 +280,9 @@
       "enabled": true,
       "urls": [
         "https://radyo.duhnet.tv/ak_dtvh_slowturk"
-      ]
+      ],
+      "content": "Slow ve romantik müzik",
+      "location": "Türkiye"
     },
     {
       "id": "best-fm",
@@ -234,7 +290,9 @@
       "enabled": true,
       "urls": [
         "https://babaradyo.turkhosted.com/best/bestfm.stream/playlist.m3u8"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "radyo-viva",
@@ -242,7 +300,9 @@
       "enabled": true,
       "urls": [
         "https://listen.radyotvonline.net/hls/play/adsonline_radyoviva.m3u8"
-      ]
+      ],
+      "content": "Pop müzik ve güncel hitler",
+      "location": "Türkiye"
     },
     {
       "id": "viva-efkar",
@@ -250,7 +310,9 @@
       "enabled": true,
       "urls": [
         "https://listen.radyotvonline.net/hls/play/viva_efkar.m3u8"
-      ]
+      ],
+      "content": "Arabesk ve fantezi müzik",
+      "location": "Türkiye"
     },
     {
       "id": "viva-pop",
@@ -258,7 +320,9 @@
       "enabled": true,
       "urls": [
         "https://listen.radyotvonline.net/hls/play/viva_pop.m3u8"
-      ]
+      ],
+      "content": "Pop müzik ve güncel hitler",
+      "location": "Türkiye"
     },
     {
       "id": "viva-turka",
@@ -266,7 +330,9 @@
       "enabled": true,
       "urls": [
         "https://listen.radyotvonline.net/hls/play/viva_turca.m3u8"
-      ]
+      ],
+      "content": "Pop müzik ve güncel hitler",
+      "location": "Türkiye"
     },
     {
       "id": "viva-club",
@@ -274,7 +340,9 @@
       "enabled": true,
       "urls": [
         "https://listen.radyotvonline.net/hls/play/viva_club.m3u8"
-      ]
+      ],
+      "content": "Dans ve elektronik müzik",
+      "location": "Türkiye"
     },
     {
       "id": "viva-turku",
@@ -282,7 +350,9 @@
       "enabled": true,
       "urls": [
         "https://listen.radyotvonline.net/hls/play/viva_turku.m3u8"
-      ]
+      ],
+      "content": "Türk halk müziği",
+      "location": "Türkiye"
     },
     {
       "id": "pal-fm",
@@ -290,7 +360,9 @@
       "enabled": true,
       "urls": [
         "https://moondigitaledge.radyotvonline.net/palfm/playlist.m3u8"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "pal-nostalji",
@@ -298,7 +370,9 @@
       "enabled": true,
       "urls": [
         "https://moondigitaledge.radyotvonline.net/palnostalji/playlist.m3u8"
-      ]
+      ],
+      "content": "Nostaljik müzik",
+      "location": "Türkiye"
     },
     {
       "id": "pal-station",
@@ -306,7 +380,9 @@
       "enabled": true,
       "urls": [
         "http://shoutcast.radyogrup.com:1020/"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "kafa-radyo",
@@ -315,7 +391,9 @@
       "urls": [
         "https://moondigitalmaster.radyotvonline.net/kafaradyo/playlist.m3u8",
         "https://moondigitaledge.radyotvonline.net/kafaradyo/playlist.m3u8"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "baba-radyo",
@@ -323,7 +401,9 @@
       "enabled": true,
       "urls": [
         "https://babaradyo.turkhosted.com/best/babaradyo.stream/playlist.m3u8"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "radyo-spor",
@@ -331,7 +411,9 @@
       "enabled": true,
       "urls": [
         "https://ssl4.radyotvonline.com/radyohome/radyosporhome.stream_aac/playlist.m3u8"
-      ]
+      ],
+      "content": "Spor yayını",
+      "location": "Türkiye"
     },
     {
       "id": "alem-fm",
@@ -339,7 +421,9 @@
       "enabled": true,
       "urls": [
         "https://alemfm.radyotvonline.net/alemfmaac"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "radyo-fenomen",
@@ -347,7 +431,9 @@
       "enabled": true,
       "urls": [
         "https://live.radyofenomen.com/fenomen/abr/playlist.m3u8"
-      ]
+      ],
+      "content": "Pop müzik ve güncel hitler",
+      "location": "Türkiye"
     },
     {
       "id": "fenomen-turk",
@@ -355,7 +441,9 @@
       "enabled": true,
       "urls": [
         "https://live.radyofenomen.com/fenomenturk/256/chunks.m3u8"
-      ]
+      ],
+      "content": "Pop müzik ve güncel hitler",
+      "location": "Türkiye"
     },
     {
       "id": "fenomen-clubbin",
@@ -363,7 +451,9 @@
       "enabled": true,
       "urls": [
         "https://live.radyofenomen.com/fenomenclubbin/128/icecast.audio"
-      ]
+      ],
+      "content": "Dans ve elektronik müzik",
+      "location": "Türkiye"
     },
     {
       "id": "fenomen-karisik",
@@ -371,7 +461,9 @@
       "enabled": true,
       "urls": [
         "https://live.radyofenomen.com/fenomenkarisik/abr/fenomenkarisik/128/chunks.m3u8"
-      ]
+      ],
+      "content": "Pop müzik ve güncel hitler",
+      "location": "Türkiye"
     },
     {
       "id": "fenomen-pop",
@@ -379,7 +471,9 @@
       "enabled": true,
       "urls": [
         "https://live.radyofenomen.com/fenomenpop/abr/fenomenpop/128/chunks.m3u8"
-      ]
+      ],
+      "content": "Pop müzik ve güncel hitler",
+      "location": "Türkiye"
     },
     {
       "id": "fenomen-dans",
@@ -387,7 +481,9 @@
       "enabled": true,
       "urls": [
         "https://live.radyofenomen.com/fenomendans/abr/fenomendans/128/chunks.m3u8"
-      ]
+      ],
+      "content": "Dans ve elektronik müzik",
+      "location": "Türkiye"
     },
     {
       "id": "seymen-fm",
@@ -396,7 +492,9 @@
       "urls": [
         "https://yayin.radyoseymen.com.tr:1070/stream",
         "https://yayin.radyoseymen.com.tr:1074/stream"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "radyo-avrasya-turk",
@@ -404,7 +502,9 @@
       "enabled": true,
       "urls": [
         "https://sslyayin.netyayin.net:10909/"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "ozgur-radyo-ankara",
@@ -412,7 +512,9 @@
       "enabled": true,
       "urls": [
         "https://radyoozgur.kesintisizyayin.com:9898/;*.nsv"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "hatay-akdeniz-radyo",
@@ -420,7 +522,9 @@
       "enabled": true,
       "urls": [
         "http://yayin.netyayin.net:7077/;"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "acs-radyo",
@@ -428,7 +532,9 @@
       "enabled": true,
       "urls": [
         "https://ip169.ozelip.com:10838/stream"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "radyo-odtu",
@@ -436,7 +542,9 @@
       "enabled": true,
       "urls": [
         "https://stream.radyoodtu.com.tr/canli"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "radyo-odtu-rock",
@@ -444,7 +552,9 @@
       "enabled": true,
       "urls": [
         "https://stream.radyoodtu.com.tr/rock"
-      ]
+      ],
+      "content": "Rock müzik",
+      "location": "Türkiye"
     },
     {
       "id": "radyo-odtu-easy",
@@ -452,7 +562,9 @@
       "enabled": true,
       "urls": [
         "https://stream.radyoodtu.com.tr/easy"
-      ]
+      ],
+      "content": "Chillout ve lounge müzik",
+      "location": "Türkiye"
     },
     {
       "id": "radyo-odtu-karisik-kaset",
@@ -460,7 +572,9 @@
       "enabled": true,
       "urls": [
         "https://stream.radyoodtu.com.tr/karisikkaset"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "radyo-odtu-hit",
@@ -468,7 +582,9 @@
       "enabled": true,
       "urls": [
         "https://stream.radyoodtu.com.tr/hit"
-      ]
+      ],
+      "content": "Pop müzik ve güncel hitler",
+      "location": "Türkiye"
     },
     {
       "id": "radyo-odtu-40-haramiler",
@@ -476,7 +592,9 @@
       "enabled": true,
       "urls": [
         "https://stream.radyoodtu.com.tr/40_haramiler"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "radyo-odtu-hiphop",
@@ -484,7 +602,9 @@
       "enabled": true,
       "urls": [
         "https://stream.radyoodtu.com.tr/hiphop"
-      ]
+      ],
+      "content": "Rap ve hip hop müzik",
+      "location": "Türkiye"
     },
     {
       "id": "radyo-odtu-k-pop",
@@ -492,7 +612,9 @@
       "enabled": true,
       "urls": [
         "https://stream.radyoodtu.com.tr/kpop"
-      ]
+      ],
+      "content": "Pop müzik ve güncel hitler",
+      "location": "Türkiye"
     },
     {
       "id": "radyo-odtu-science",
@@ -500,7 +622,9 @@
       "enabled": true,
       "urls": [
         "https://stream.radyoodtu.com.tr/science"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "yon-radyo",
@@ -509,7 +633,9 @@
       "urls": [
         "https://stream.radyolarburada.com:8020/yonradyo",
         "https://stream.radyolarburada.com:8050/"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "radyo-meyhane",
@@ -518,7 +644,9 @@
       "urls": [
         "http://n01.radiojar.com:80/14wbvawntg0uv",
         "http://n05.radiojar.com:80/14wbvawntg0uv"
-      ]
+      ],
+      "content": "Arabesk ve fantezi müzik",
+      "location": "Türkiye"
     },
     {
       "id": "radyo-45-lik",
@@ -527,7 +655,9 @@
       "urls": [
         "https://stream.radyo45lik.com:4545/",
         "https://moondigitaledge.radyotvonline.net/radyo45lik/playlist.m3u8"
-      ]
+      ],
+      "content": "Nostaljik müzik",
+      "location": "Türkiye"
     },
     {
       "id": "radyo-ilef",
@@ -535,7 +665,9 @@
       "enabled": true,
       "urls": [
         "https://radyo.ilef.net/stream"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "radyo-slow-time",
@@ -543,7 +675,9 @@
       "enabled": true,
       "urls": [
         "http://46.20.7.103:8040/;"
-      ]
+      ],
+      "content": "Slow ve romantik müzik",
+      "location": "Türkiye"
     },
     {
       "id": "radyo-voyage",
@@ -553,7 +687,9 @@
         "https://dygedge.radyotvonline.net/radyovoyage/playlist.m3u8",
         "https://ssldyg.radyotvonline.com/pozitif/smil:voyage.smil/playlist.m3u8",
         "http://voyagewmp.radyotvonline.com/;"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "pal-doga",
@@ -561,7 +697,9 @@
       "enabled": true,
       "urls": [
         "http://shoutcast.radyogrup.com:1040/;*.mp3"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "radyo-d",
@@ -569,7 +707,9 @@
       "enabled": true,
       "urls": [
         "https://moondigitaledge2.radyotvonline.net/radyod/playlist.m3u8"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "kent-fm",
@@ -578,7 +718,9 @@
       "urls": [
         "https://wowza1.radyotvonline.com/unitedmedia/kentfm.stream/playlist.m3u8",
         "https://wowza1.radyotvonline.com/unitedmedia/kentfm.stream/chunklist.m3u8"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "metropol-fm-45-lik",
@@ -586,7 +728,9 @@
       "enabled": true,
       "urls": [
         "https://stream.metropolfm.de/MFM45lik/mp3-256/TuneIn"
-      ]
+      ],
+      "content": "Nostaljik müzik",
+      "location": "Türkiye"
     },
     {
       "id": "radyo-evin",
@@ -595,7 +739,9 @@
       "urls": [
         "https://yayin.rtmp.org:8752/stream",
         "http://yayin.rtmp.org:8752/stream"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "radio-drk",
@@ -603,7 +749,9 @@
       "enabled": true,
       "urls": [
         "https://stream.zeno.fm/czwwh7xfqm0uv"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "radyo-su",
@@ -612,7 +760,9 @@
       "urls": [
         "https://stream.netradyom.com/listen/radyosu/radio.mp3",
         "https://stream.netradyom.com/public/radyosu/playlist.m3u"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "tiryaki-fm",
@@ -620,7 +770,9 @@
       "enabled": true,
       "urls": [
         "https://yayin.turkhosted.com:6056/mp3"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "radyo-munzur",
@@ -628,7 +780,9 @@
       "enabled": true,
       "urls": [
         "http://yayin1.yayindakiler.com:3002/;stream.nsv"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "radyo-trafik-istanbul",
@@ -636,7 +790,9 @@
       "enabled": true,
       "urls": [
         "https://moondigitaledge.radyotvonline.net/radyotrafik/playlist.m3u8"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "radyo-trafik-ankara",
@@ -644,7 +800,9 @@
       "enabled": true,
       "urls": [
         "https://wowza1.radyotvonline.com/saran/radyotrafikankara.stream/playlist.m3u8"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "apacik-radyo",
@@ -653,7 +811,9 @@
       "urls": [
         "https://stream.34bit.net/ar.mp3",
         "https://stream.34bit.net/ar.aac"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "polis-radyosu",
@@ -661,7 +821,9 @@
       "enabled": true,
       "urls": [
         "https://m.egm.gov.tr:8093//;?type=http&nocache=1"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "radyo-fenerbahce",
@@ -669,7 +831,9 @@
       "enabled": true,
       "urls": [
         "https://radyofenerbahce.fenerbahce.org/radyofenerbahce/radyofenerbahce.stream_aac/playlist.m3u8"
-      ]
+      ],
+      "content": "Spor yayını",
+      "location": "Türkiye"
     },
     {
       "id": "show-radyo",
@@ -677,7 +841,9 @@
       "enabled": true,
       "urls": [
         "http://showradyo.radyotvonline.net/showradyoaac/"
-      ]
+      ],
+      "content": "Pop müzik ve güncel hitler",
+      "location": "Türkiye"
     },
     {
       "id": "show-slow",
@@ -685,7 +851,9 @@
       "enabled": true,
       "urls": [
         "https://listen.radyotvonline.net/hls/play/show_slow.m3u8"
-      ]
+      ],
+      "content": "Slow ve romantik müzik",
+      "location": "Türkiye"
     },
     {
       "id": "show-90lar",
@@ -693,7 +861,9 @@
       "enabled": true,
       "urls": [
         "https://listen.radyotvonline.net/hls/play/show_90lar.m3u8"
-      ]
+      ],
+      "content": "Pop müzik ve güncel hitler",
+      "location": "Türkiye"
     },
     {
       "id": "show-trend",
@@ -701,7 +871,9 @@
       "enabled": true,
       "urls": [
         "https://listen.radyotvonline.net/hls/play/show_trend.m3u8"
-      ]
+      ],
+      "content": "Pop müzik ve güncel hitler",
+      "location": "Türkiye"
     },
     {
       "id": "show-akustik",
@@ -709,7 +881,9 @@
       "enabled": true,
       "urls": [
         "https://listen.radyotvonline.net/hls/play/show_akustik.m3u8"
-      ]
+      ],
+      "content": "Pop müzik ve güncel hitler",
+      "location": "Türkiye"
     },
     {
       "id": "show-eller-havaya",
@@ -717,7 +891,9 @@
       "enabled": true,
       "urls": [
         "https://listen.radyotvonline.net/hls/play/show_ellerhavaya.m3u8"
-      ]
+      ],
+      "content": "Pop müzik ve güncel hitler",
+      "location": "Türkiye"
     },
     {
       "id": "radyo-turkuvaz",
@@ -725,7 +901,9 @@
       "enabled": true,
       "urls": [
         "https://trkvz-radyolar.ercdn.net/radyoturkuvaz/playlist.m3u8"
-      ]
+      ],
+      "content": "Türk halk müziği",
+      "location": "Türkiye"
     },
     {
       "id": "kalp-fm",
@@ -733,7 +911,9 @@
       "enabled": true,
       "urls": [
         "https://yayin.kalpfm.com:8080/"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "radyo-banko",
@@ -742,7 +922,9 @@
       "urls": [
         "http://yayin.netradyom.com:9910/RADYOBANKO",
         "http://yayin.netradyom.com:8050/RADYOBANKO"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "ask-fm",
@@ -751,7 +933,9 @@
       "urls": [
         "http://yayin.asymedya.com:8020/;",
         "https://stream.netradyom.com/listen/askfm1/radio.mp3"
-      ]
+      ],
+      "content": "Slow ve romantik müzik",
+      "location": "Türkiye"
     },
     {
       "id": "pop-90",
@@ -759,7 +943,9 @@
       "enabled": true,
       "urls": [
         "http://23623.live.streamtheworld.com:3690/POP90AAC_SC"
-      ]
+      ],
+      "content": "Pop müzik ve güncel hitler",
+      "location": "Türkiye"
     },
     {
       "id": "turkce-pop-90-lar",
@@ -767,7 +953,9 @@
       "enabled": true,
       "urls": [
         "https://moondigitaledge.radyotvonline.net/90lar/playlist.m3u8"
-      ]
+      ],
+      "content": "Pop müzik ve güncel hitler",
+      "location": "Türkiye"
     },
     {
       "id": "altin-sarkilar",
@@ -775,7 +963,9 @@
       "enabled": true,
       "urls": [
         "https://moondigitaledge.radyotvonline.net/altinsarkilar/playlist.m3u8"
-      ]
+      ],
+      "content": "Nostaljik müzik",
+      "location": "Türkiye"
     },
     {
       "id": "slow-home",
@@ -783,7 +973,9 @@
       "enabled": true,
       "urls": [
         "https://moondigitaledge.radyotvonline.net/slowhome/playlist.m3u8"
-      ]
+      ],
+      "content": "Slow ve romantik müzik",
+      "location": "Türkiye"
     },
     {
       "id": "relax-home",
@@ -791,7 +983,9 @@
       "enabled": true,
       "urls": [
         "https://moondigitaledge.radyotvonline.net/relaxhome/playlist.m3u8"
-      ]
+      ],
+      "content": "Chillout ve lounge müzik",
+      "location": "Türkiye"
     },
     {
       "id": "melankolik-home",
@@ -799,7 +993,9 @@
       "enabled": true,
       "urls": [
         "https://moondigitaledge.radyotvonline.net/melankolikhome/playlist.m3u8"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "pop-home",
@@ -807,7 +1003,9 @@
       "enabled": true,
       "urls": [
         "https://moondigitaledge.radyotvonline.net/pophome/playlist.m3u8"
-      ]
+      ],
+      "content": "Pop müzik ve güncel hitler",
+      "location": "Türkiye"
     },
     {
       "id": "radyo-vokal",
@@ -815,7 +1013,9 @@
       "enabled": true,
       "urls": [
         "https://moondigitaledge.radyotvonline.net/radyovokal/playlist.m3u8"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "damarturk-fm",
@@ -823,7 +1023,9 @@
       "enabled": true,
       "urls": [
         "https://live.radyositesihazir.com/7000/stream"
-      ]
+      ],
+      "content": "Arabesk ve fantezi müzik",
+      "location": "Türkiye"
     },
     {
       "id": "radyo-megasite",
@@ -831,7 +1033,9 @@
       "enabled": true,
       "urls": [
         "http://mega.netradyom.com:7900/radio.mp3"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "radyo-alaturka",
@@ -839,7 +1043,9 @@
       "enabled": true,
       "urls": [
         "https://yayin.jumboserver.net:9100/stream"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "dedemin-radyosu",
@@ -847,7 +1053,9 @@
       "enabled": true,
       "urls": [
         "https://anadolu.liderhost.com.tr/9002/stream"
-      ]
+      ],
+      "content": "Nostaljik müzik",
+      "location": "Türkiye"
     },
     {
       "id": "hos-mix",
@@ -855,7 +1063,9 @@
       "enabled": true,
       "urls": [
         "http://178.32.4.127:8046/stream"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "radyo-kilim",
@@ -863,15 +1073,9 @@
       "enabled": true,
       "urls": [
         "https://sslyayin.netyayin.net:10946/stream"
-      ]
-    },
-    {
-      "id": "radyo-hayat",
-      "name": "Radyo Hayat",
-      "enabled": true,
-      "urls": [
-        "http://live4.radyotvonline.com:9450/"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "keyf-station",
@@ -879,7 +1083,9 @@
       "enabled": true,
       "urls": [
         "http://yayin.radyomadyo.com:8002/stream"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "number1-turk-rap",
@@ -887,7 +1093,9 @@
       "enabled": true,
       "urls": [
         "https://eustr75.mediatriple.net/Number1Media/30_Number1_Turk_Rap.stream/playlist.m3u8"
-      ]
+      ],
+      "content": "Rap ve hip hop müzik",
+      "location": "Türkiye"
     },
     {
       "id": "mydonose-turk",
@@ -895,7 +1103,9 @@
       "enabled": true,
       "urls": [
         "https://27913.live.streamtheworld.com/MYDONOSE_TURK128AAC.aac"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "dt-nostalji",
@@ -903,7 +1113,9 @@
       "enabled": true,
       "urls": [
         "https://canli.dtnostalji.com.tr/9999/stream"
-      ]
+      ],
+      "content": "Nostaljik müzik",
+      "location": "Türkiye"
     },
     {
       "id": "yol-arkadasim",
@@ -912,7 +1124,9 @@
       "urls": [
         "https://playerservices.streamtheworld.com/api/livestream-redirect/YOL_ARKADASIM128AAC.aac",
         "https://playerservices.streamtheworld.com/api/livestream-redirect/YOL_ARKADASIM32AAC.aac"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "joy-jazz",
@@ -921,7 +1135,9 @@
       "urls": [
         "https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_JAZZAAC.aac",
         "https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_JAZZ32AAC.aac"
-      ]
+      ],
+      "content": "Caz müzik",
+      "location": "Türkiye"
     },
     {
       "id": "power-greece",
@@ -931,7 +1147,9 @@
         "https://live.powerapp.com.tr/powergreece/128/playlist.m3u8",
         "https://live.powerapp.com.tr/powergreece/96/playlist.m3u8",
         "https://live.powerapp.com.tr/powergreece/256/playlist.m3u8"
-      ]
+      ],
+      "content": "Pop müzik ve güncel hitler",
+      "location": "Yunanistan"
     },
     {
       "id": "gonul-turkuleri",
@@ -940,7 +1158,9 @@
       "urls": [
         "https://playerservices.streamtheworld.com/api/livestream-redirect/GONUL_TURKULERI128AAC.aac",
         "https://playerservices.streamtheworld.com/api/livestream-redirect/GONUL_TURKULERI32AAC.aac"
-      ]
+      ],
+      "content": "Türk halk müziği",
+      "location": "Türkiye"
     },
     {
       "id": "radyo-baris-103-0",
@@ -948,7 +1168,9 @@
       "enabled": true,
       "urls": [
         "https://sslyayin.netyayin.net/8510/stream/;"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "radyo-yol",
@@ -956,7 +1178,9 @@
       "enabled": true,
       "urls": [
         "https://r1.comcities.com/proxy/radyoyol/stream"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "harman-radyo",
@@ -964,7 +1188,9 @@
       "enabled": true,
       "urls": [
         "https://free.rcast.net/200259?/;"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "bati-radyo",
@@ -972,7 +1198,9 @@
       "enabled": true,
       "urls": [
         "https://sslyayin.netyayin.net:10902/;*.mp3"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "ostim-radyo",
@@ -980,7 +1208,9 @@
       "enabled": true,
       "urls": [
         "https://stream.netradyom.com/radio/8010/radio.mp3"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "dost-radyo-erzincan",
@@ -999,7 +1229,9 @@
       "enabled": true,
       "urls": [
         "https://radio.ithouse24.de/listen/radyo-tezene/radio.mp3"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "ezgi-radyo",
@@ -1007,7 +1239,9 @@
       "enabled": true,
       "urls": [
         "https://sslyayin.netyayin.net/elazigezgiradyo/stream"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "radyo-cagdas-89-5",
@@ -1015,7 +1249,9 @@
       "enabled": true,
       "urls": [
         "https://icecast.netmedya.net/radyocagdas"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "radyo-boombox",
@@ -1023,7 +1259,9 @@
       "enabled": true,
       "urls": [
         "https://live.radyofenomen.com/radyoboombox/mpeg/playlist.m3u8"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "radyo-ege",
@@ -1031,7 +1269,9 @@
       "enabled": true,
       "urls": [
         "https://istek.ozelip.com/radyoege"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "radyo-kordelya-88-5",
@@ -1039,7 +1279,9 @@
       "enabled": true,
       "urls": [
         "https://radyo.medyahost.com.tr/8048/stream"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "kiss-fm",
@@ -1047,7 +1289,9 @@
       "enabled": true,
       "urls": [
         "https://kiss.radyotvonline.net/kissfm"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "kiss-turk",
@@ -1055,7 +1299,9 @@
       "enabled": true,
       "urls": [
         "https://kiss.radyotvonline.net/kissturk"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "kiss-dance",
@@ -1063,7 +1309,9 @@
       "enabled": true,
       "urls": [
         "https://dijimedya.radyotvonline.net/kissdance"
-      ]
+      ],
+      "content": "Dans ve elektronik müzik",
+      "location": "Türkiye"
     },
     {
       "id": "kiss-genc",
@@ -1071,7 +1319,9 @@
       "enabled": true,
       "urls": [
         "https://dijimedya.radyotvonline.net/gncradyo"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "kiss-gold",
@@ -1079,7 +1329,9 @@
       "enabled": true,
       "urls": [
         "https://dijimedya.radyotvonline.net/goldfm"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "kiss-gold-turk",
@@ -1087,7 +1339,9 @@
       "enabled": true,
       "urls": [
         "https://dijimedya.radyotvonline.net/goldturk"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "kiss-egenin-sesi",
@@ -1095,7 +1349,9 @@
       "enabled": true,
       "urls": [
         "https://dijimedya.radyotvonline.net/radyoegeninsesi"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "kiss-beatbox",
@@ -1103,7 +1359,9 @@
       "enabled": true,
       "urls": [
         "https://dijimedya.radyotvonline.net/radiobeatbox"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "kiss-musiki",
@@ -1111,7 +1369,9 @@
       "enabled": true,
       "urls": [
         "https://dijimedya.radyotvonline.net/radyomusiki"
-      ]
+      ],
+      "content": "Klasik müzik",
+      "location": "Türkiye"
     },
     {
       "id": "kiss-fk",
@@ -1119,7 +1379,9 @@
       "enabled": true,
       "urls": [
         "https://dijimedya.radyotvonline.net/radiofk"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "kiss-greatest-hits",
@@ -1127,7 +1389,9 @@
       "enabled": true,
       "urls": [
         "https://dijimedya.radyotvonline.net/greatesthits"
-      ]
+      ],
+      "content": "Pop müzik ve güncel hitler",
+      "location": "Türkiye"
     },
     {
       "id": "kiss-turk-45-lik",
@@ -1135,7 +1399,9 @@
       "enabled": true,
       "urls": [
         "https://dijimedya.radyotvonline.net/45lik"
-      ]
+      ],
+      "content": "Nostaljik müzik",
+      "location": "Türkiye"
     },
     {
       "id": "kiss-rock",
@@ -1143,7 +1409,9 @@
       "enabled": true,
       "urls": [
         "https://dijimedya.radyotvonline.net/analog"
-      ]
+      ],
+      "content": "Rock müzik",
+      "location": "Türkiye"
     },
     {
       "id": "kiss-classical",
@@ -1151,7 +1419,9 @@
       "enabled": true,
       "urls": [
         "https://dijimedya.radyotvonline.net/classical"
-      ]
+      ],
+      "content": "Klasik müzik",
+      "location": "Türkiye"
     },
     {
       "id": "kiss-club",
@@ -1159,7 +1429,9 @@
       "enabled": true,
       "urls": [
         "https://dijimedya.radyotvonline.net/club"
-      ]
+      ],
+      "content": "Dans ve elektronik müzik",
+      "location": "Türkiye"
     },
     {
       "id": "kiss-jazz",
@@ -1167,7 +1439,9 @@
       "enabled": true,
       "urls": [
         "https://dijimedya.radyotvonline.net/jazz"
-      ]
+      ],
+      "content": "Caz müzik",
+      "location": "Türkiye"
     },
     {
       "id": "kisstory",
@@ -1175,7 +1449,9 @@
       "enabled": true,
       "urls": [
         "https://dijimedya.radyotvonline.net/kisstory"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "kiss-k-pop",
@@ -1183,7 +1459,9 @@
       "enabled": true,
       "urls": [
         "https://dijimedya.radyotvonline.net/kpop"
-      ]
+      ],
+      "content": "Pop müzik ve güncel hitler",
+      "location": "Türkiye"
     },
     {
       "id": "kiss-turk-rap",
@@ -1191,7 +1469,9 @@
       "enabled": true,
       "urls": [
         "https://dijimedya.radyotvonline.net/turkrap"
-      ]
+      ],
+      "content": "Rap ve hip hop müzik",
+      "location": "Türkiye"
     },
     {
       "id": "kiss-turk-slow",
@@ -1199,7 +1479,9 @@
       "enabled": true,
       "urls": [
         "https://dijimedya.radyotvonline.net/turkslow"
-      ]
+      ],
+      "content": "Slow ve romantik müzik",
+      "location": "Türkiye"
     },
     {
       "id": "kiss-slow",
@@ -1207,7 +1489,9 @@
       "enabled": true,
       "urls": [
         "https://dijimedya.radyotvonline.net/slow"
-      ]
+      ],
+      "content": "Slow ve romantik müzik",
+      "location": "Türkiye"
     },
     {
       "id": "kiss-speedup",
@@ -1215,7 +1499,9 @@
       "enabled": true,
       "urls": [
         "https://dijimedya.radyotvonline.net/speedup"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "max-fm",
@@ -1223,7 +1509,9 @@
       "enabled": true,
       "urls": [
         "http://live2.radyotvonline.com:8025/"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "nostaljinin-sesi",
@@ -1231,7 +1519,9 @@
       "enabled": true,
       "urls": [
         "http://eu8.fastcast4u.com/proxy/eskininadami/stream"
-      ]
+      ],
+      "content": "Nostaljik müzik",
+      "location": "Türkiye"
     },
     {
       "id": "x-radio",
@@ -1239,7 +1529,9 @@
       "enabled": true,
       "urls": [
         "https://stream.xradio.com.tr:8770/stream"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "radyo-eksen",
@@ -1247,7 +1539,9 @@
       "enabled": true,
       "urls": [
         "http://eksenwmp.radyotvonline.com/;stream.mp3"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "classicland",
@@ -1255,7 +1549,9 @@
       "enabled": true,
       "urls": [
         "https://moondigitaledge.radyotvonline.net/classicland/playlist.m3u8"
-      ]
+      ],
+      "content": "Klasik müzik",
+      "location": "Türkiye"
     },
     {
       "id": "houseland",
@@ -1263,7 +1559,9 @@
       "enabled": true,
       "urls": [
         "https://moondigitaledge.radyotvonline.net/houseland/playlist.m3u8"
-      ]
+      ],
+      "content": "Dans ve elektronik müzik",
+      "location": "Türkiye"
     },
     {
       "id": "radyo-renk-antakya",
@@ -1271,7 +1569,9 @@
       "enabled": true,
       "urls": [
         "https://radyo.yayindakiler.com:3016/renk"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "efsane-4-lu",
@@ -1279,7 +1579,9 @@
       "enabled": true,
       "urls": [
         "https://moondigitalmaster.radyotvonline.net/efsane4lu/playlist.m3u8"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "halk-radyo",
@@ -1287,7 +1589,9 @@
       "enabled": true,
       "urls": [
         "https://anadolu.liderhost.com.tr:10876/;"
-      ]
+      ],
+      "content": "Türk halk müziği",
+      "location": "Türkiye"
     },
     {
       "id": "radyo-ekin",
@@ -1295,7 +1599,9 @@
       "enabled": true,
       "urls": [
         "http://yayin.turkhosted.com:6006/"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "turku-radyo",
@@ -1304,7 +1610,9 @@
       "urls": [
         "https://yayin.turkhosted.com:4591/turkuradyo",
         "http://yayin.turkhosted.com:4591/turkuradyo"
-      ]
+      ],
+      "content": "Türk halk müziği",
+      "location": "Türkiye"
     },
     {
       "id": "radyo-dem",
@@ -1323,7 +1631,9 @@
       "enabled": true,
       "urls": [
         "http://yayin.arabeskfm.biz:8042/"
-      ]
+      ],
+      "content": "Arabesk ve fantezi müzik",
+      "location": "Türkiye"
     },
     {
       "id": "arabeskland",
@@ -1331,7 +1641,9 @@
       "enabled": true,
       "urls": [
         "https://moondigitaledge.radyotvonline.net/arabeskland/playlist.m3u8"
-      ]
+      ],
+      "content": "Arabesk ve fantezi müzik",
+      "location": "Türkiye"
     },
     {
       "id": "park-fm",
@@ -1339,7 +1651,9 @@
       "enabled": true,
       "urls": [
         "https://stream.netradyom.com/listen/parkfm/radio.mp3"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "efkar-fm",
@@ -1347,7 +1661,9 @@
       "enabled": true,
       "urls": [
         "https://playerservices.streamtheworld.com/api/livestream-redirect/EFKAR.mp3"
-      ]
+      ],
+      "content": "Arabesk ve fantezi müzik",
+      "location": "Türkiye"
     },
     {
       "id": "radyo-a-anadolu-universitesi",
@@ -1367,7 +1683,9 @@
       "enabled": true,
       "urls": [
         "https://radyo.playfm.com.tr/listen/playfm/playfm.mp3"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "play-fm-akustik",
@@ -1375,7 +1693,9 @@
       "enabled": true,
       "urls": [
         "https://radyo.playfm.com.tr/listen/akustik/playfm-akustik.mp3"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "kralturk",
@@ -1384,7 +1704,9 @@
       "urls": [
         "https://live.radyositesihazir.com/8032/stream",
         "http://yayin.radyokralturk.com:8032/stream.mp3"
-      ]
+      ],
+      "content": "Pop müzik ve güncel hitler",
+      "location": "Türkiye"
     },
     {
       "id": "arabesk-vadisi",
@@ -1392,7 +1714,9 @@
       "enabled": true,
       "urls": [
         "https://arabeskv.80.yayin.com.tr/stream"
-      ]
+      ],
+      "content": "Arabesk ve fantezi müzik",
+      "location": "Türkiye"
     },
     {
       "id": "top-90-s",
@@ -1401,7 +1725,9 @@
       "urls": [
         "https://90.streeemer.com/listen/90s/radio.mp3",
         "https://90.streeemer.com/listen/90s/radio.aac"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "chillout-vibes",
@@ -1409,7 +1735,9 @@
       "enabled": true,
       "urls": [
         "https://chillout.streeemer.com/listen/chillout/radio.mp3"
-      ]
+      ],
+      "content": "Chillout ve lounge müzik",
+      "location": "Türkiye"
     },
     {
       "id": "retro-turk",
@@ -1418,7 +1746,9 @@
       "urls": [
         "https://playerservices.streamtheworld.com/api/livestream-redirect/RETROTURK_SC",
         "https://playerservices.streamtheworld.com/api/livestream-redirect/RETROTURKAAC_SC"
-      ]
+      ],
+      "content": "Nostaljik müzik",
+      "location": "Türkiye"
     },
     {
       "id": "the-penthouse",
@@ -1427,7 +1757,9 @@
       "urls": [
         "https://ssl.nexuscast.com:9046/;",
         "http://s2.nexuscast.com:8052/;"
-      ]
+      ],
+      "content": "Dans ve elektronik müzik",
+      "location": "ABD"
     },
     {
       "id": "beam-fm",
@@ -1436,7 +1768,9 @@
       "urls": [
         "https://beamfm.streeemer.com/listen/beam_fm/radio.mp3",
         "https://beamfm.streeemer.com/listen/beam_fm/radio.aac"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Uluslararası internet radyosu"
     },
     {
       "id": "country-vibes",
@@ -1445,7 +1779,9 @@
       "urls": [
         "https://country.streeemer.com/listen/country/radio.mp3",
         "https://country.streeemer.com/listen/country/radio.aac"
-      ]
+      ],
+      "content": "Country müzik",
+      "location": "Uluslararası internet radyosu"
     },
     {
       "id": "smooth-jazz-groov",
@@ -1454,7 +1790,9 @@
       "urls": [
         "https://jazz.streeemer.com/listen/jazz/radio.mp3",
         "https://jazz.streeemer.com/listen/jazz/radio.aac"
-      ]
+      ],
+      "content": "Caz müzik",
+      "location": "Uluslararası internet radyosu"
     },
     {
       "id": "latina-bandida",
@@ -1463,7 +1801,9 @@
       "urls": [
         "https://latina.streeemer.com/listen/latina/radio.mp3",
         "https://latina.streeemer.com/listen/latina/radio.aac"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "İspanya"
     },
     {
       "id": "radyo-karacadag-fm",
@@ -1471,7 +1811,9 @@
       "enabled": true,
       "urls": [
         "https://yayin.firatfm.com:3065/stream.mp3"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "muzik-habercisi",
@@ -1479,7 +1821,9 @@
       "enabled": true,
       "urls": [
         "http://trstream.msccdn.com:80/stream/240/;stream.mp3"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "akdeniz-turku-fm",
@@ -1487,7 +1831,9 @@
       "enabled": true,
       "urls": [
         "http://akdeniz.radyomhd.com:9786/;"
-      ]
+      ],
+      "content": "Türk halk müziği",
+      "location": "Türkiye"
     },
     {
       "id": "classic-rock-station",
@@ -1496,7 +1842,9 @@
       "urls": [
         "https://classicrock.streeemer.com/listen/classic_rock/radio.mp3",
         "https://classicrock.streeemer.com/listen/classic_rock/radio.aac"
-      ]
+      ],
+      "content": "Rock müzik",
+      "location": "Uluslararası internet radyosu"
     },
     {
       "id": "classic-fm",
@@ -1505,7 +1853,9 @@
       "urls": [
         "https://media-ssl.musicradio.com/ClassicFMMP3",
         "https://media-ssl.musicradio.com/ClassicFM"
-      ]
+      ],
+      "content": "Klasik müzik",
+      "location": "Birleşik Krallık"
     },
     {
       "id": "80s-alive",
@@ -1514,7 +1864,9 @@
       "urls": [
         "https://stream.80sa.live/80s-alive.mp3",
         "https://stream.80sa.live/80s-alive.aac"
-      ]
+      ],
+      "content": "Nostaljik müzik",
+      "location": "Hollanda"
     },
     {
       "id": "gelisim-radyo",
@@ -1522,7 +1874,9 @@
       "enabled": true,
       "urls": [
         "http://yayin2.yayindakiler.com:4008/;"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "blues-radio",
@@ -1531,7 +1885,9 @@
       "urls": [
         "https://i4.streams.ovh/sc/bluesrad/stream",
         "http://live.bluesradio.gr:8352/stream"
-      ]
+      ],
+      "content": "Blues müzik",
+      "location": "Yunanistan"
     },
     {
       "id": "radyo-piryolu",
@@ -1539,7 +1895,9 @@
       "enabled": true,
       "urls": [
         "http://radyopiryolu.canliyayinda.com:8165/;stream/1"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "heart-uk",
@@ -1548,7 +1906,9 @@
       "urls": [
         "https://media-ssl.musicradio.com/HeartUKMP3",
         "https://media-ssl.musicradio.com/HeartUK"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Birleşik Krallık"
     },
     {
       "id": "america-s-country",
@@ -1557,7 +1917,9 @@
       "urls": [
         "https://ais-sa2.cdnstream1.com/1976_128.mp3",
         "https://ais-sa2.cdnstream1.com/1976_64.aac"
-      ]
+      ],
+      "content": "Country müzik",
+      "location": "ABD"
     },
     {
       "id": "radyo-yakamoz",
@@ -1565,7 +1927,9 @@
       "enabled": true,
       "urls": [
         "http://live4.radyotvonline.com:6570/;"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "itu-radyosu-klasik",
@@ -1573,7 +1937,9 @@
       "enabled": true,
       "urls": [
         "http://160.75.86.29:8088/ituklasikmp3"
-      ]
+      ],
+      "content": "Klasik müzik",
+      "location": "Türkiye"
     },
     {
       "id": "itu-radyosu-rock",
@@ -1581,7 +1947,9 @@
       "enabled": true,
       "urls": [
         "http://160.75.86.29:8088/iturockmp3"
-      ]
+      ],
+      "content": "Rock müzik",
+      "location": "Türkiye"
     },
     {
       "id": "itu-radyosu-jazz-blues",
@@ -1589,7 +1957,9 @@
       "enabled": true,
       "urls": [
         "http://160.75.86.29:8088/itucazmp3"
-      ]
+      ],
+      "content": "Caz müzik",
+      "location": "Türkiye"
     },
     {
       "id": "radio-fg",
@@ -1609,7 +1979,9 @@
       "enabled": true,
       "urls": [
         "https://radyo.yayindakiler.com/4202/stream"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "rock-klassiker",
@@ -1617,7 +1989,9 @@
       "enabled": true,
       "urls": [
         "https://live-bauerse-fm.sharp-stream.com/rockklassiker_instream_se_aacp"
-      ]
+      ],
+      "content": "Rock müzik",
+      "location": "İsveç"
     },
     {
       "id": "rock-fm-94-5",
@@ -1625,7 +1999,9 @@
       "enabled": true,
       "urls": [
         "https://rockfm.rockfm.com.tr:9450/stream"
-      ]
+      ],
+      "content": "Rock müzik",
+      "location": "Türkiye"
     },
     {
       "id": "radyo-assos",
@@ -1633,7 +2009,9 @@
       "enabled": true,
       "urls": [
         "https://stream.radio.co/sb2e24edf5/listen"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "metal-underground",
@@ -1641,7 +2019,9 @@
       "enabled": true,
       "urls": [
         "https://das-edge12-live365-dal02.cdnstream.com/a93362"
-      ]
+      ],
+      "content": "Metal müzik",
+      "location": "ABD"
     },
     {
       "id": "bloodstream-radio",
@@ -1649,7 +2029,9 @@
       "enabled": true,
       "urls": [
         "https://uk1.internet-radio.com/proxy/bloodstream?mp=/autodj"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Birleşik Krallık"
     },
     {
       "id": "radio-metal",
@@ -1657,7 +2039,9 @@
       "enabled": true,
       "urls": [
         "https://radio3.pro-fhi.net/live/Radio%20Metal"
-      ]
+      ],
+      "content": "Metal müzik",
+      "location": "Fransa"
     },
     {
       "id": "metal-radio",
@@ -1665,7 +2049,9 @@
       "enabled": true,
       "urls": [
         "http://curiosity.shoutca.st:9073/stream"
-      ]
+      ],
+      "content": "Metal müzik",
+      "location": "Birleşik Krallık"
     },
     {
       "id": "rock-fm-metal",
@@ -1674,7 +2060,9 @@
       "urls": [
         "https://stream.regenbogen2.de/metal/mp3-128/mytuner",
         "https://stream.regenbogen2.de/metal/aac-128/mytuner"
-      ]
+      ],
+      "content": "Metal müzik",
+      "location": "Almanya"
     },
     {
       "id": "metal-rock-radio",
@@ -1730,7 +2118,9 @@
       "enabled": true,
       "urls": [
         "https://c13.radioboss.fm:18099/stream"
-      ]
+      ],
+      "content": "Metal müzik",
+      "location": "ABD"
     },
     {
       "id": "rebel-radio-chicago",
@@ -1738,7 +2128,9 @@
       "enabled": true,
       "urls": [
         "https://s1.reliastream.com/proxy/rebelrad/stream"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "ABD"
     },
     {
       "id": "maximus-rock-fm",
@@ -1746,7 +2138,9 @@
       "enabled": true,
       "urls": [
         "https://stream.laut.fm/maximusrockfm"
-      ]
+      ],
+      "content": "Rock müzik",
+      "location": "Almanya"
     },
     {
       "id": "metal-radio-austria",
@@ -1754,7 +2148,9 @@
       "enabled": true,
       "urls": [
         "https://stream.radiotechnikum.at/METALRadio"
-      ]
+      ],
+      "content": "Metal müzik",
+      "location": "Avusturya"
     },
     {
       "id": "radyo-trio",
@@ -1762,7 +2158,9 @@
       "enabled": true,
       "urls": [
         "https://radyotrio.radyotvonline.net/radyotrio"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "star-arti-fm",
@@ -1770,7 +2168,9 @@
       "enabled": true,
       "urls": [
         "https://ritim.80.yayin.com.tr/;stream.mp3"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "antalya-olay-fm",
@@ -1778,7 +2178,9 @@
       "enabled": true,
       "urls": [
         "https://netyayin.jsproduksiyon.com:9010/olayfm"
-      ]
+      ],
+      "content": "Karma müzik ve canlı radyo yayını",
+      "location": "Türkiye"
     },
     {
       "id": "radyo-akdeniz-95-0",
@@ -2617,7 +3019,7 @@
     {
       "id": "meteorolojinin-sesi",
       "name": "Meteorolojinin Sesi Radyosu",
-      "enabled": true,
+      "enabled": false,
       "urls": [
         "https://radyo.yayin.com.tr:6227/stream"
       ],
@@ -3202,7 +3604,7 @@
     {
       "id": "radio-onda-rossa",
       "name": "Radio Onda Rossa",
-      "enabled": true,
+      "enabled": false,
       "urls": [
         "https://s.streampunk.cc/ondarossa.ogg",
         "http://stream.auto.ondarossa.net/ondarossa.mp3"
@@ -3215,7 +3617,7 @@
     {
       "id": "tele-radio-stereo",
       "name": "Tele Radio Stereo",
-      "enabled": true,
+      "enabled": false,
       "urls": [
         "http://trsw.inmystream.info:8068/;stream.mp3"
       ],
@@ -3274,7 +3676,7 @@
     {
       "id": "real-fm-978",
       "name": "Real FM 97.8",
-      "enabled": true,
+      "enabled": false,
       "urls": [
         "https://realfm.live24.gr/realfm"
       ],
@@ -3525,7 +3927,7 @@
     {
       "id": "radio-roma-sound",
       "name": "Radio Roma Sound",
-      "enabled": true,
+      "enabled": false,
       "urls": [
         "https://bay1.streamfm.it:8070/aacp"
       ],
@@ -3536,7 +3938,7 @@
     {
       "id": "rik-radio-1",
       "name": "RIK Radio 1",
-      "enabled": true,
+      "enabled": false,
       "urls": [
         "https://r1.cloudskep.com/cybcr/cybc1/playlist.m3u8"
       ],
@@ -3547,7 +3949,7 @@
     {
       "id": "rik-radio-2",
       "name": "RIK Radio 2",
-      "enabled": true,
+      "enabled": false,
       "urls": [
         "https://r1.cloudskep.com/cybcr/cybc2/playlist.m3u8"
       ],
@@ -7026,6 +7428,76 @@
       "website": "https://totallyradio.com.au/",
       "content": "Farklı dönemlerden en sevilen hitler",
       "location": "Avustralya"
+    },
+    {
+      "id": "arazaman",
+      "name": "Arazaman",
+      "enabled": true,
+      "urls": [
+        "https://stream.laut.fm/arazaman"
+      ],
+      "content": "Indie, alternatif, rock, electronica, reggae, blues, funk ve metal",
+      "location": "İstanbul, Türkiye"
+    },
+    {
+      "id": "radio-apex",
+      "name": "Radio Apex",
+      "enabled": true,
+      "urls": [
+        "https://radio.cast.click/radio/8000/radioapex.flac"
+      ],
+      "content": "Elektronik ve alternatif müzik",
+      "location": "Türkiye"
+    },
+    {
+      "id": "radio-gramophone",
+      "name": "Radio Gramophone",
+      "enabled": true,
+      "urls": [
+        "https://stream.radiogramophone.com/hls/radio_gramophone/live.m3u8"
+      ],
+      "content": "Elektronik, ambient ve deneysel müzik",
+      "location": "İstanbul, Türkiye"
+    },
+    {
+      "id": "literal-radio",
+      "name": "Literal Radio",
+      "enabled": true,
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/LITERAL128AAC.aac"
+      ],
+      "content": "Alternatif, bağımsız ve seçkili müzik",
+      "location": "Türkiye"
+    },
+    {
+      "id": "en-radio",
+      "name": "En Radio",
+      "enabled": true,
+      "urls": [
+        "https://radyo1.radyo-dinle.tc:8098/stream"
+      ],
+      "content": "Türkçe ve yabancı müzik seçkisi",
+      "location": "Türkiye"
+    },
+    {
+      "id": "radyo-gri",
+      "name": "Radyo Gri",
+      "enabled": true,
+      "urls": [
+        "https://radyo.radyogri.com.tr:2108/;"
+      ],
+      "content": "Alternatif, bağımsız ve karma müzik",
+      "location": "Türkiye"
+    },
+    {
+      "id": "baska-radyo",
+      "name": "Başka Radyo",
+      "enabled": true,
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/BASKA128AAC.aac"
+      ],
+      "content": "Alternatif ve seçkili müzik",
+      "location": "İstanbul, Türkiye"
     }
   ],
   "catalogPolicy": {
@@ -7036,5 +7508,5 @@
     "excludePrimaryReligious": true,
     "expandedCatalog": "Radio Browser allowlisted network/source expansion at runtime"
   },
-  "baseStationCount": 674
+  "baseStationCount": 666
 }
