@@ -2365,13 +2365,35 @@
     },
     {
       "id": "cafe-del-mar-radio",
-      "name": "Café del Mar Radio",
+      "name": "Café del Mar Chill",
       "enabled": true,
       "urls": [
         "https://streams.radio.co/se1a320b47/listen"
       ],
       "website": "https://cafedelmar.com/radio/",
       "content": "Chillout, ambient, lounge ve Balearic müzik",
+      "location": "İbiza, İspanya"
+    },
+    {
+      "id": "cafe-del-mar-calm",
+      "name": "Café del Mar Calm",
+      "enabled": true,
+      "urls": [
+        "https://streamer.radio.co/sb748f24ad/listen"
+      ],
+      "website": "https://cafedelmar.com/radio/",
+      "content": "Sakin, ambient ve dinlendirici müzik",
+      "location": "İbiza, İspanya"
+    },
+    {
+      "id": "cafe-del-mar-house",
+      "name": "Café del Mar House",
+      "enabled": true,
+      "urls": [
+        "https://s4.radio.co/seeae9c220/listen"
+      ],
+      "website": "https://cafedelmar.com/radio/",
+      "content": "Balearic, deep ve chill house",
       "location": "İbiza, İspanya"
     },
     {
@@ -2417,6 +2439,39 @@
       ],
       "website": "https://dinamo.fm/",
       "content": "Elektronik, house, techno, indie, nu-disco ve downtempo",
+      "location": "İstanbul"
+    },
+    {
+      "id": "kiyi-turkce",
+      "name": "Kıyı Türkçe",
+      "enabled": true,
+      "urls": [
+        "https://kiyiturk.radioca.st/stream"
+      ],
+      "website": "https://kiyimuzik.com/radyo/",
+      "content": "Türkçe bağımsız, alternatif ve rock müzik",
+      "location": "İstanbul"
+    },
+    {
+      "id": "kiyi-gece",
+      "name": "Kıyı Gece",
+      "enabled": true,
+      "urls": [
+        "https://gece.radioca.st/stream"
+      ],
+      "website": "https://kiyimuzik.com/radyo/",
+      "content": "Geceye özel sakin, elektronik ve alternatif müzik",
+      "location": "İstanbul"
+    },
+    {
+      "id": "kiyi-caz",
+      "name": "Kıyı Caz",
+      "enabled": true,
+      "urls": [
+        "https://caz.radioca.st/stream"
+      ],
+      "website": "https://kiyimuzik.com/radyo/",
+      "content": "Klasik ve çağdaş caz seçkileri",
       "location": "İstanbul"
     },
     {
@@ -5775,14 +5830,14 @@
       "location": "Rusya"
     },
     {
-      "id": "new_jazz_de_ville_chill",
-      "name": "Jazz de Ville - Chill",
+      "id": "jazz-radio-by-maestro-relaxin",
+      "name": "Jazz Radio by Maestro - Relaxin'",
       "enabled": true,
       "urls": [
-        "https://onair22.xdevel.com/proxy/xautocloud_td3e_421?mp=/stream"
+        "https://stream.jazzradiobymaestro.com/easy"
       ],
-      "website": "https://www.jazzdeville.com/",
-      "content": "Caz, blues, soul ve funk müzik",
+      "website": "https://www.jazzradiobymaestro.com/",
+      "content": "Sakin caz, lounge ve dinlendirici seçkiler",
       "location": "Hollanda"
     },
     {
@@ -6006,14 +6061,36 @@
       "location": "Kanada"
     },
     {
-      "id": "new_jazz_de_ville_jazz",
-      "name": "Jazz de Ville - Jazz",
+      "id": "jazz-radio-by-maestro-swingin",
+      "name": "Jazz Radio by Maestro - Swingin'",
       "enabled": true,
       "urls": [
-        "https://onair22.xdevel.com/proxy/xautocloud_kkyb_420?mp=/stream"
+        "https://stream.jazzradiobymaestro.com/jazzy"
       ],
-      "website": "https://www.jazzdeville.com/",
-      "content": "Caz, blues, soul ve funk müzik",
+      "website": "https://www.jazzradiobymaestro.com/",
+      "content": "Klasik ve modern caz seçkileri",
+      "location": "Hollanda"
+    },
+    {
+      "id": "jazz-radio-by-maestro-groovin",
+      "name": "Jazz Radio by Maestro - Groovin'",
+      "enabled": true,
+      "urls": [
+        "https://stream.jazzradiobymaestro.com/groovy"
+      ],
+      "website": "https://www.jazzradiobymaestro.com/",
+      "content": "Groove, soul, funk ve caz",
+      "location": "Hollanda"
+    },
+    {
+      "id": "jazz-radio-by-maestro-steamin",
+      "name": "Jazz Radio by Maestro - Steamin'",
+      "enabled": true,
+      "urls": [
+        "https://stream.jazzradiobymaestro.com/party"
+      ],
+      "website": "https://www.jazzradiobymaestro.com/",
+      "content": "Hareketli caz, funk ve parti seçkileri",
       "location": "Hollanda"
     },
     {
