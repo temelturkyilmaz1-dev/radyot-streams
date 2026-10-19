@@ -1,0 +1,37 @@
+name: Cloudflare katalog aktarımı
+
+on:
+  workflow_dispatch:
+    inputs:
+      confirm_upload:
+        description: "Katalogları eşitledim ve Cloudflare kataloğunun değişmesini onaylıyorum."
+        required: true
+        default: false
+        type: boolean
+
+permissions:
+  contents: read
+
+jobs:
+  upload:
+    if: inputs.confirm_upload == true
+    runs-on: ubuntu-latest
+    steps:
+      - name: Depoyu al
+        uses: actions/checkout@v4
+
+      - name: Katalog JSON dosyasını doğrula
+        run: python -c "import json; d=json.load(open('stations.json', encoding='utf-8')); s=d.get('stations'); assert isinstance(s, list) and s; print(len(s), 'istasyon doğrulandı')"
+
+      - name: Cloudflare KV kataloğuna aktar
+        env:
+          ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          NAMESPACE_ID: ${{ secrets.CLOUDFLARE_KV_NAMESPACE_ID }}
+          API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+        run: |
+          curl --fail-with-body --silent --show-error \
+            --request PUT \
+            "https://api.cloudflare.com/client/v4/accounts/${ACCOUNT_ID}/storage/kv/namespaces/${NAMESPACE_ID}/values/stations_latest.json" \
+            --header "Authorization: Bearer ${API_TOKEN}" \
+            --header "Content-Type: application/json" \
+            --data-binary @stations.json
