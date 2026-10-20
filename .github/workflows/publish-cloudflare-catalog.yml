@@ -1,30 +1,59 @@
-name: Cloudflare salt okunur bağlantı testi
+name: Katalogu Cloudflare'e aktar
 
 on:
+  push:
+    branches:
+      - main
+    paths:
+      - stations.json
   workflow_dispatch:
 
-permissions: {}
+permissions:
+  contents: read
 
 jobs:
-  verify_connection:
-    name: Cloudflare KV erişimini doğrula
+  upload:
     runs-on: ubuntu-latest
-    timeout-minutes: 2
+
     steps:
-      - name: Cloudflare KV namespace bilgilerini salt okunur doğrula
-        env:
-          ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          NAMESPACE_ID: ${{ secrets.CLOUDFLARE_KV_NAMESPACE_ID }}
-          API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+      - name: GitHub dosyalarını al
+        uses: actions/checkout@v4
+
+      - name: JSON dosyasını kontrol et
         run: |
-          set -euo pipefail
-          : "${ACCOUNT_ID:?CLOUDFLARE_ACCOUNT_ID secret eksik}"
-          : "${NAMESPACE_ID:?CLOUDFLARE_KV_NAMESPACE_ID secret eksik}"
-          : "${API_TOKEN:?CLOUDFLARE_API_TOKEN secret eksik}"
+          python - <<'PY'
+          import json
 
-          response="$(curl --fail-with-body --silent --show-error \
-            --request GET \
-            "https://api.cloudflare.com/client/v4/accounts/${ACCOUNT_ID}/storage/kv/namespaces/${NAMESPACE_ID}" \
-            --header "Authorization: Bearer ${API_TOKEN}")"
+          with open("stations.json", encoding="utf-8") as file:
+              data = json.load(file)
 
-          python -c 'import json,sys; d=json.load(sys.stdin); assert d.get("success") is True, "Cloudflare API isteği başarısız"; r=d.get("result") or {}; print("Cloudflare KV bağlantısı başarılı:", r.get("title", "namespace bulundu"))' <<< "$response"
+          stations = data.get("stations")
+          if not isinstance(stations, list) or not stations:
+              raise SystemExit("stations.json içinde istasyon listesi bulunamadı.")
+
+          print(f"JSON kontrol edildi. İstasyon sayısı: {len(stations)}")
+          PY
+
+      - name: Cloudflare KV'ye yükle
+        env:
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          CLOUDFLARE_KV_NAMESPACE_ID: ${{ secrets.CLOUDFLARE_KV_NAMESPACE_ID }}
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+        run: |
+          response_file="$(mktemp)"
+
+          http_code="$(curl --silent --show-error \
+            --output "$response_file" \
+            --write-out "%{http_code}" \
+            --request PUT \
+            --header "Authorization: Bearer ${CLOUDFLARE_API_TOKEN}" \
+            --header "Content-Type: application/json" \
+            --data-binary "@stations.json" \
+            "https://api.cloudflare.com/client/v4/accounts/${CLOUDFLARE_ACCOUNT_ID}/storage/kv/namespaces/${CLOUDFLARE_KV_NAMESPACE_ID}/values/stations.json")"
+
+          if [ "$http_code" != "200" ] || ! jq -e '.success == true' "$response_file" >/dev/null; then
+            cat "$response_file"
+            exit 1
+          fi
+
+          echo "stations.json Cloudflare KV'ye yüklendi."
