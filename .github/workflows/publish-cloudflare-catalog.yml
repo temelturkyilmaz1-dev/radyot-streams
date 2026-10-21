@@ -1,4 +1,4 @@
-name: Katalogu Cloudflare'e aktar
+name: Katalog ve logoları Cloudflare'e aktar
 
 on:
   push:
@@ -6,6 +6,9 @@ on:
       - main
     paths:
       - stations.json
+      - logos/**
+      - cloudflare_logo_repairs/kv_logo_repairs.json
+      - .github/workflows/publish-cloudflare-catalog.yml
   workflow_dispatch:
 
 permissions:
@@ -18,42 +21,203 @@ jobs:
     steps:
       - name: GitHub dosyalarını al
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
-      - name: JSON dosyasını kontrol et
+      - name: Görsel dönüştürme aracını kur
+        run: python -m pip install --disable-pip-version-check Pillow
+
+      - name: Katalog ve logo kayıtlarını hazırla
+        id: package
+        env:
+          EVENT_PATH: ${{ github.event_path }}
+          EVENT_NAME: ${{ github.event_name }}
+          EVENT_SHA: ${{ github.sha }}
+          RUNNER_TEMP: ${{ runner.temp }}
         run: |
           python - <<'PY'
+          import base64
+          import io
           import json
+          import os
+          import pathlib
+          import re
+          import subprocess
+          import urllib.parse
 
-          with open("stations.json", encoding="utf-8") as file:
-              data = json.load(file)
+          from PIL import Image
 
-          stations = data.get("stations")
+          catalog = json.loads(pathlib.Path("stations.json").read_text(encoding="utf-8"))
+          stations = catalog.get("stations")
           if not isinstance(stations, list) or not stations:
               raise SystemExit("stations.json içinde istasyon listesi bulunamadı.")
 
-          print(f"JSON kontrol edildi. İstasyon sayısı: {len(stations)}")
+          event_name = os.environ.get("EVENT_NAME", "")
+          event_path = pathlib.Path(os.environ["EVENT_PATH"])
+          event = json.loads(event_path.read_text(encoding="utf-8")) if event_path.exists() else {}
+          before = event.get("before", "")
+          changed_paths = set()
+          if event_name == "push" and before and set(before) != {"0"}:
+              diff = subprocess.run(
+                  ["git", "diff", "--name-only", f"{before}..{os.environ['EVENT_SHA']}"],
+                  check=True, capture_output=True, text=True
+              )
+              changed_paths = set(diff.stdout.splitlines())
+
+          bootstrap = pathlib.Path("cloudflare_logo_repairs/kv_logo_repairs.json")
+          use_bootstrap = bootstrap.exists() and (
+              event_name == "workflow_dispatch"
+              or bootstrap.as_posix() in changed_paths
+          )
+
+          if use_bootstrap:
+              pairs = json.loads(bootstrap.read_text(encoding="utf-8"))
+              if not isinstance(pairs, list):
+                  raise SystemExit("kv_logo_repairs.json bir kayıt listesi olmalı.")
+              indexed = {item.get("key"): item.get("value") for item in pairs if isinstance(item, dict)}
+              expected_catalog = json.loads(indexed.get("stations.json", "null"))
+              if expected_catalog != catalog:
+                  raise SystemExit("Logo paketi içindeki stations.json, depodaki stations.json ile aynı değil. Önce logo paketini güncelleyin.")
+              logo_keys = {key for key in indexed if isinstance(key, str) and key.startswith("logos/")}
+              if len(logo_keys) != len(pairs) - 1 or "stations.json" not in indexed:
+                  raise SystemExit("Logo paketinde yinelenen veya geçersiz KV anahtarı var.")
+              expected_keys = {
+                  "logos/" + pathlib.PurePosixPath(urllib.parse.urlparse(station.get("logo", "")).path).name
+                  for station in stations
+                  if isinstance(station, dict)
+                  and "/logos/" in urllib.parse.urlparse(station.get("logo", "")).path
+              }
+              if expected_keys != logo_keys:
+                  raise SystemExit(f"Logo paketi katalogla uyuşmuyor: {len(expected_keys - logo_keys)} eksik, {len(logo_keys - expected_keys)} fazladan logo.")
+              for key in logo_keys:
+                  try:
+                      raw = base64.b64decode(indexed[key], validate=True)
+                  except Exception as error:
+                      raise SystemExit(f"Logo Base64 verisi bozuk ({key}): {error}")
+                  if not (raw.startswith(b"RIFF") and raw[8:12] == b"WEBP"):
+                      raise SystemExit(f"Logo geçerli WebP değil: {key}")
+              pairs = [{"key": key, "value": indexed[key]} for key in ["stations.json"] + sorted(logo_keys)]
+              print(f"İlk tam yükleme: {len(stations)} istasyon ve {len(logo_keys)} logo.")
+          else:
+              pairs = [{
+                  "key": "stations.json",
+                  "value": json.dumps(catalog, ensure_ascii=False, separators=(",", ":"))
+              }]
+
+              old_urls = set()
+              if event_name == "push" and before and set(before) != {"0"}:
+                  old = subprocess.run(
+                      ["git", "show", f"{before}:stations.json"],
+                      check=False, capture_output=True, text=True
+                  )
+                  if old.returncode == 0:
+                      old_catalog = json.loads(old.stdout)
+                      old_urls = {
+                          station.get("logo") for station in old_catalog.get("stations", [])
+                          if isinstance(station, dict) and isinstance(station.get("logo"), str)
+                      }
+
+              new_logo_urls = {
+                  station.get("logo") for station in stations
+                  if isinstance(station, dict)
+                  and isinstance(station.get("logo"), str)
+                  and "/logos/" in urllib.parse.urlparse(station["logo"]).path
+                  and station.get("logo") not in old_urls
+              } if event_name == "push" else set()
+              logo_dir = pathlib.Path("logos")
+              supported = {".webp", ".png", ".jpg", ".jpeg"}
+              source_files = sorted(
+                  path for path in logo_dir.iterdir()
+                  if path.is_file() and path.suffix.lower() in supported
+              ) if logo_dir.exists() else []
+              stems = {path.stem for path in source_files}
+              missing = []
+              for url in sorted(new_logo_urls):
+                  filename = pathlib.PurePosixPath(urllib.parse.urlparse(url).path).name
+                  stem = pathlib.PurePosixPath(filename).stem
+                  if not filename.lower().endswith(".webp") or stem not in stems:
+                      missing.append(f"{url} (logos/{stem}.webp/png/jpg dosyası eksik)")
+              if missing:
+                  raise SystemExit("Yeni kanalın Cloudflare logosu için görsel dosyası da logos/ klasöründe olmalı:\n- " + "\n- ".join(missing))
+
+              # On a push, upload only logo files changed in that commit. A manual
+              # workflow run uploads every logo file in logos/ for recovery.
+              if event_name == "workflow_dispatch":
+                  upload_files = source_files
+              else:
+                  upload_files = [path for path in source_files if path.as_posix() in changed_paths]
+
+              seen_stems = set()
+              for path in upload_files:
+                  stem = path.stem
+                  if not re.fullmatch(r"[A-Za-z0-9_-]+", stem):
+                      raise SystemExit(f"Logo dosya adı yalnız harf, rakam, _ ve - içermeli: {path}")
+                  if stem in seen_stems:
+                      raise SystemExit(f"Aynı logonun birden fazla dosya biçimi var: {stem}")
+                  seen_stems.add(stem)
+
+                  raw = path.read_bytes()
+                  if path.suffix.lower() == ".webp":
+                      if not (raw.startswith(b"RIFF") and raw[8:12] == b"WEBP"):
+                          raise SystemExit(f"Geçerli WebP görseli değil: {path}")
+                      webp = raw
+                  else:
+                      try:
+                          with Image.open(io.BytesIO(raw)) as image:
+                              converted = io.BytesIO()
+                              image.convert("RGBA").save(converted, format="WEBP", quality=92, method=6)
+                              webp = converted.getvalue()
+                      except Exception as error:
+                          raise SystemExit(f"Görsel dönüştürülemedi ({path}): {error}")
+
+                  if len(webp) > 25 * 1024 * 1024:
+                      raise SystemExit(f"Cloudflare için logo 25 MB sınırını aşıyor: {path}")
+                  pairs.append({
+                      "key": f"logos/{stem}.webp",
+                      "value": base64.b64encode(webp).decode("ascii")
+                  })
+              print(f"Katalog güncellenecek; {len(upload_files)} logo dosyası yüklenecek.")
+
+          if not pairs or pairs[0].get("key") != "stations.json":
+              raise SystemExit("Yükleme paketi stations.json kaydıyla başlamalı.")
+          payload_path = pathlib.Path(os.environ["RUNNER_TEMP"]) / "cloudflare-kv-bulk.json"
+          payload_path.write_text(json.dumps(pairs, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+          if payload_path.stat().st_size > 90 * 1024 * 1024:
+              raise SystemExit("Toplu yükleme paketi 90 MB sınırını aşıyor.")
+          with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as output:
+              output.write(f"record_count={len(pairs)}\n")
+              output.write(f"logo_count={len(pairs) - 1}\n")
           PY
 
-      - name: Cloudflare KV'ye yükle
+      - name: Cloudflare KV'ye katalogu ve logoları yükle
         env:
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           CLOUDFLARE_KV_NAMESPACE_ID: ${{ secrets.CLOUDFLARE_KV_NAMESPACE_ID }}
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          EXPECTED_RECORD_COUNT: ${{ steps.package.outputs.record_count }}
+          RUNNER_TEMP: ${{ runner.temp }}
         run: |
-          response_file="$(mktemp)"
+          : "${CLOUDFLARE_ACCOUNT_ID:?CLOUDFLARE_ACCOUNT_ID gizli değeri eksik}"
+          : "${CLOUDFLARE_KV_NAMESPACE_ID:?CLOUDFLARE_KV_NAMESPACE_ID gizli değeri eksik}"
+          : "${CLOUDFLARE_API_TOKEN:?CLOUDFLARE_API_TOKEN gizli değeri eksik}"
 
+          response_file="$(mktemp)"
+          bulk_file="${RUNNER_TEMP}/cloudflare-kv-bulk.json"
           http_code="$(curl --silent --show-error \
             --output "$response_file" \
             --write-out "%{http_code}" \
             --request PUT \
             --header "Authorization: Bearer ${CLOUDFLARE_API_TOKEN}" \
             --header "Content-Type: application/json" \
-            --data-binary "@stations.json" \
-            "https://api.cloudflare.com/client/v4/accounts/${CLOUDFLARE_ACCOUNT_ID}/storage/kv/namespaces/${CLOUDFLARE_KV_NAMESPACE_ID}/values/stations.json")"
+            --data-binary "@${bulk_file}" \
+            "https://api.cloudflare.com/client/v4/accounts/${CLOUDFLARE_ACCOUNT_ID}/storage/kv/namespaces/${CLOUDFLARE_KV_NAMESPACE_ID}/bulk")"
 
-          if [ "$http_code" != "200" ] || ! jq -e '.success == true' "$response_file" >/dev/null; then
+          if [ "$http_code" != "200" ] || ! jq -e \
+            --argjson expected "$EXPECTED_RECORD_COUNT" \
+            '.success == true and .result.successful_key_count == $expected and ((.result.unsuccessful_keys // []) | length) == 0' \
+            "$response_file" >/dev/null; then
             cat "$response_file"
             exit 1
           fi
 
-          echo "stations.json Cloudflare KV'ye yüklendi."
+          echo "Cloudflare'a katalog ve ${{ steps.package.outputs.logo_count }} logo yüklendi."
