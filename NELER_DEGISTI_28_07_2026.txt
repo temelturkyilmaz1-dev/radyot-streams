@@ -1,0 +1,59 @@
+RadyoT - Yayın Düzeltmeleri
+Tarih: 28.07.2026
+
+GÜNCELLENEN YAYINLAR
+
+- Number1 Türk FM:
+  Eski StreamTheWorld adresi 404 döndürdüğü için Number1'in resmî
+  sayfasındaki çalışan HLS adresiyle değiştirildi.
+
+- Number1 Türk Slow:
+  Eski StreamTheWorld adresi 404 döndürdüğü için Number1'in resmî
+  sayfasındaki çalışan HLS adresiyle değiştirildi.
+
+- Number1 Türk 90'lar:
+  Eski StreamTheWorld adresi 404 döndürdüğü için Number1'in resmî
+  sayfasındaki çalışan HLS adresiyle değiştirildi.
+
+- Alem FM:
+  Süresi dolmuş sertifika kullanan eski adres yerine resmî web
+  oynatıcısındaki geçerli HTTPS/AAC adresi eklendi.
+
+- Seymen FM:
+  Çözümlenemeyen eski sunucu yerine resmî sitedeki AAC yayın eklendi.
+  Resmî sitedeki MP3 yayın yedek adres olarak eklendi.
+
+- Özgür Radyo Ankara:
+  Eski IP adresi yerine çalışan HTTPS/AAC yayın eklendi.
+
+- Hatay Akdeniz Radyo:
+  Eski IP adresi yerine çalışan AAC yayın eklendi.
+
+- AÇS Radyo:
+  TLS bağlantısı kurulamayan eski adres yerine çalışan HTTPS/AAC yayın eklendi.
+
+- Radyo ODTÜ:
+  Eski IP adresi yerine resmî web oynatıcısının kullandığı HTTPS/AAC yayın eklendi.
+
+LOGOLAR
+
+- Fenomen Türk için resmî Fenomen Türk logosu eklendi ve doğru eşleme yapıldı.
+- Pal Nostalji logo dosyasının projede bulunduğu ve doğru eşlendiği doğrulandı.
+
+KONTROLLER
+
+- TRT Radyo 3, TRT Türkü, Kral Pop, Fenomen Türk ve Pal Nostalji mevcut
+  yayınlarının çalıştığı doğrulandı; çalışan adresler değiştirilmedi.
+- Projede aynı isimli ikinci bir "Number1 Türk" kaydı bulunmadı.
+  Number1 Türk FM, Number1 Türk Slow ve Number1 Türk 90'lar birbirinden
+  farklı kanallar olduğundan hiçbir geçerli kanal silinmedi.
+- Ana ekran, XML yerleşimleri, tema ve oynatıcı görünümü değiştirilmedi.
+- Windows kullanıcı klasöründeki Türkçe karakterlerle derleme yapılabilmesi
+  için android.overridePathCheck=true eklendi.
+- :app:assembleDebug görevi başarıyla tamamlandı.
+
+NOT
+
+Canlı yayınlar yayıncılar tarafından sonradan değiştirilebilir. Buradaki
+adresler 28.07.2026 tarihinde HTTP yanıtı ve gerçek ses/playlist verisi
+alınarak doğrulandı.

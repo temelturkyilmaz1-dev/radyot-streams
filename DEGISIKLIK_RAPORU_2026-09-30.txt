@@ -1,0 +1,60 @@
+RADIOnline DEĞİŞİKLİK RAPORU
+Tarih aralığı: 29–30 Eylül 2026
+
+SÜRÜM
+- versionName: 1.6.5.10
+- versionCode: 51
+- İstek doğrultusunda sürüm numarası artırılmadı.
+
+ANDROID TV / TV BOX
+- Telefon arayüzünden ayrılmış, daha hafif bir TV/box ekranı uygulandı.
+- TV açılışında Chromecast ve geniş internet kataloglarının başlatılması engellendi.
+- Radyo kataloğu arka planda yüklenerek açılış ekranının kilitlenme riski azaltıldı.
+- Bluetooth/TV kumandası için üst menü, oynatma tuşları ve yatay kanal listesinin odak geçişleri düzenlendi.
+- Odaktaki menü ve düğmenin belirgin görünmesi sağlandı.
+- Önceki, oynat/duraklat ve sonraki düğmeleri eşit boyutta düzenlendi.
+- Tüm Radyolar, Favoriler ve Ayarlar düğmeleri TV ekranına eklendi.
+- Kanal kartına kısa basma ile oynatma, basılı tutma ile favoriye ekleme/çıkarma uygulandı.
+- Favoriye ekleme bildirimi yeşil, favoriden çıkarma bildirimi kırmızı yapıldı.
+- İstasyon logosu ile varsa albüm kapağının dönüşümlü gösterimi eklendi.
+- Canlı/yayın durumu ve kanal bilgisi TV oynatma alanında gösterildi.
+- TV kanal şeridinin odağı kaybetmesi ve beklenmedik biçimde başa dönmesiyle ilgili gezinme düzenlemeleri yapıldı.
+- Üst menü odağı alttaki kanal kartları kadar belirgin olacak biçimde büyüme, yükselme ve yeşil-mavi renk efektiyle güçlendirildi.
+- Oynatma ekranında kanal adının yanına, ülke bilgisi bulunan istasyonlar için uygun boyutta ülke bayrağı eklendi; bilinmeyen ülkelerde alan gizlenir.
+- TV arka planı, yazıların okunabilirliği korunarak bir miktar açıldı.
+- TV üst menüsüne kumandayla kullanılabilen normal arama ve sesli arama düğmeleri eklendi.
+- Arama sonuçları alttaki kanal şeridinde filtrelenir; Tüm Radyolar düğmesi aramayı temizler.
+- Cihazda ses tanıma hizmeti yoksa uygulama çökmeden normal arama penceresine geçer.
+
+TELEFON ARAYÜZÜ
+- Tüm Radyolar arama alanında yazının tek satırda ve dikey olarak tam görünmesi düzenlendi.
+- Arama alanına sesli arama simgesi/işlevi korundu.
+- Alt kategori sekmelerinin seçili durumunu belirginleştiren renk kaynakları korundu.
+- Telefonun mevcut ekran yapısı ve Chromecast kullanımı ayrı tutularak TV değişikliklerinden etkilenmemesi amaçlandı.
+
+RADYO KATALOĞU VE YAYIN ADRESLERİ
+- Radyovu üzerinden doğrulanan 72 radyo ayrı katalog halinde projeye eklendi.
+- RadyoBurada referans kataloğu güncellendi; mevcut dosyada 790 istasyon kaydı bulunuyor.
+- Yeni katalog, ana radyo deposuna ve logo eşleştirme sistemine bağlandı.
+- Tekrarlı adları azaltmak için katalog birleştirmesinde ad temelli ayıklama korunuyor.
+- Resmî/uygun doğrudan yayın adresleri bulunan istasyonların kaynakları güncellendi.
+- Bodrum FM, Ruwave 94FM, Radyo Yakamoz, Polis 102.6, Astra Radio 93.2, Radyo Ki, EGO Radio, Radyo Öğüt ve Kəpəz FM kaynakları gözden geçirildi.
+- Bizim FM Londra resmî alan adı ve logosu ile güncellendi.
+- RadioTEDU ana kanalına ek olarak Classic, Jazz, Lo-Fi, Rock ve Energize alt kanalları eklendi; doğrudan AAC yayınları doğrulandı.
+- NET FM Malta, Win Radio 101, Heartbeat Radio 104.1 FM, Sweet 100.1 FM, Music Radio 97.1 ve Radio Surco kayıtları eklendi/güncellendi.
+
+LOGOLAR
+- Radyovu kataloğundaki istasyonlar için yerel WebP logo dosyaları eklendi.
+- NET FM Malta, Win Radio 101, Heartbeat Radio, Sweet 100.1 FM, Music Radio 97.1 ve Radio Surco için 512x512 yerel logo kaynakları eklendi.
+- İmaj FM Erzurum, Can Radyo Kayseri ve Sivas Arkadaş Radyo logoları güncellendi.
+- Logo eşleştirmeleri çevrim içi bağlantıya bağlı kalmadan yerel kaynakları kullanacak biçimde genişletildi.
+
+DOĞRULAMA NOTLARI
+- RadioTEDU alt yayınları yapılan kontrolde HTTP 200 ve AAC olarak yanıt verdi.
+- Win Radio 101, Heartbeat Radio, Sweet 100.1 FM ve Music Radio 97.1 doğrudan yayın bağlantıları doğrulandı.
+- Radio Surco için resmî yayın yolu bulundu; ancak sunucu kontrol sırasında aralıklı HTTP 502 yanıtı verdi. Bu durum istasyonun sunucu taraflı erişilebilirliğine bağlıdır.
+- Kaynak ve XML kontrolleri yapıldı. Bu çalışma ortamında Gradle 9.4.1 dağıtımı önbellekte bulunmadığı ve dış indirme kapalı olduğu için tam Gradle derlemesi burada çalıştırılamadı; proje Android Studio'da Gradle eşitlemesinden sonra derlenmelidir.
+
+PAKETLEME
+- ZIP tek bir RadiOnline klasörü içerir.
+- Derleme önbellekleri, build klasörleri, eski ZIP/APK/AAB dosyaları, .idea ve makineye özel local.properties pakete alınmaz.

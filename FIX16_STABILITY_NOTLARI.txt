@@ -1,0 +1,14 @@
+RadyoT 2.0.12 FIX16
+
+Uygulanan değişiklikler:
+- Kanal değişiminde eski şarkı/kapak verisinin yeni kanala taşınmasını engelleyen istasyon ve parça doğrulaması eklendi.
+- Kanal değişince albüm kapağı önbelleği temizleniyor; yeni kapak gelene kadar kanal logosu gösteriliyor.
+- MediaItem içine radyo kimliği eklenerek gecikmiş metadata olayları filtreleniyor.
+- Şarkı geçmişi kanal bazlı tutulmaya devam ediyor; kanal değişiminde geçmiş silinmiyor.
+- Oynatma için foreground servis bildirimi ve START_STICKY davranışı eklendi.
+- Dikey ana ekranda Son Çalanlar düğmesi görünür bir bölüme alındı.
+- Yatay ana ekran 56/44 oranında yeniden düzenlendi; logo, Ayarlar ve Çıkış üst çubukta sabit tutuldu.
+- Yatay Favoriler bölümü daraltıldı, oynatıcı alanı genişletildi.
+
+Derleme durumu:
+- Bu ortamda Gradle 9.4.1 dağıtımı services.gradle.org adresinden indirilemediği için APK derlemesi doğrulanamadı.

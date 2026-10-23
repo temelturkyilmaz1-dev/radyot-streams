@@ -1,0 +1,12 @@
+RadyoT FIX13 - İlk somut düzeltmeler
+
+- Radyo Fenerbahçe aktif listeden kaldırıldı.
+- Kullanıcı testinde çalışmadığı bildirilen Radyo D, Number1 FM, Alem FM,
+  TRT Nağme, TRT Türkü ve TRT Radyo 3 doğrulanana kadar aktif listeden çıkarıldı.
+- ICY StreamTitle metadata desteği eklendi.
+- Aynı metadata tekrar tekrar geçmişe kaydedilmiyor.
+- Boş/geçersiz metadata değerleri filtreleniyor.
+- Yatay ve dikey ana ekrana sol/sağ/alt sistem çubuğu boşlukları eklendi.
+- Hakkında ekranındaki RadyoT logosu 184dp'den 128dp'ye küçültüldü.
+
+Not: Gradle derlemesi ağ erişimi olmadan doğrulanamadı.

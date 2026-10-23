@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="190dp"
+    android:layout_height="116dp"
+    android:layout_margin="6dp"
+    android:background="@drawable/bg_tv_focus"
+    android:clickable="true"
+    android:focusable="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="10dp">
+
+        <ImageView
+            android:id="@+id/tvRadioLogo"
+            android:layout_width="68dp"
+            android:layout_height="68dp"
+            android:contentDescription="@string/radio_logo"
+            android:scaleType="fitCenter" />
+
+        <TextView
+            android:id="@+id/tvRadioName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ellipsize="marquee"
+            android:gravity="center"
+            android:marqueeRepeatLimit="marquee_forever"
+            android:maxLines="1"
+            android:singleLine="true"
+            android:textColor="#FFFFFFFF"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/tvFavoriteBadge"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_gravity="top|end"
+        android:layout_margin="7dp"
+        android:background="@drawable/bg_tv_favorite_badge"
+        android:contentDescription="Favorilerde"
+        android:padding="6dp"
+        android:src="@drawable/ic_favorite_filled"
+        android:tint="#FFFFFFFF"
+        android:visibility="gone" />
+
+</FrameLayout>

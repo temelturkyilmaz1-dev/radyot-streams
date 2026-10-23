@@ -1,0 +1,13 @@
+RadyoT FIX17
+
+- Android Auto/Bluetooth araç sesi için ExoPlayer AudioAttributes USAGE_MEDIA + MUSIC eklendi.
+- Audio focus yönetimi ExoPlayer'a verildi ve noisy route desteği açıldı.
+- MediaSession STREAM_MUSIC ve transport/media-button bayraklarıyla güçlendirildi.
+- Android Auto onPlay davranışı, mevcut istasyonu yanlışlıkla duraklatmayacak şekilde düzeltildi.
+- Tüm Radyolar ekranında gezinme çubuğu yüksekliği kadar dinamik alt dolgu eklendi.
+- Son radyo kartı/logosu artık sistem gezinme çubuğunun altında kalmamalı.
+- Tiryaki FM ve ulaşılamayan 90'lar FM listeden çıkarıldı.
+- Dikey player daha kompakt yapıldı; RadyoT logosu ile Ayarlar/Çıkış düğmeleri büyütüldü.
+- Arka plan logo bulanıklığı daha saydam hale getirildi.
+
+Not: Android Auto gerçek araç testi kullanıcı tarafından yapılmalıdır.

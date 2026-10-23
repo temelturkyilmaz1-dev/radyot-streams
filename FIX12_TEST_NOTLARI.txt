@@ -1,0 +1,15 @@
+RadyoT v2.0 FIX12 - Logo ve Aydınlık Arka Plan Testi
+Tarih: 23.07.2026
+
+Gerçekten yapılan değişiklikler:
+- Alem FM, Kafa Radyo, Baba Radyo, Radyo Spor ve Pal Nostalji logo dosyaları yeniden işlendi.
+- Bu beş logoya küçük ve favori kartlarında kaybolmamaları için beyaz, yuvarlatılmış görünür zemin uygulandı.
+- RadyoRepository eşleştirmeleri kontrol edildi; beş istasyon doğru drawable kaynaklarına bağlıdır.
+- Tüm radyo/favori logo alanlarına nötr beyaz logo zemini eklendi. Koyu veya şeffaf logolar artık arka planda kaybolmamalıdır.
+- Flu arka planın görünürlüğü artırıldı: yüzde 100 ayarında arka plan logosu belirgin şekilde daha açık görünür.
+- Sürüm adı 2.0.9-fix12-logo-bright-beta yapıldı.
+
+Not:
+- Son gönderilen RAR tam arşiv olarak kullanılmadı; mevcut düzgün logolar korunmuştur.
+- Bu çalışma ortamında RAR5 çıkarıcı bulunmadığından RAR içindeki dosyalar doğrudan alınamadı. Projede zaten bulunan eşleşen logo dosyaları yeniden işlendi.
+- APK/Gradle derlemesi bu ortamda doğrulanamadı; proje ZIP'i Android Studio için hazırlanmıştır.

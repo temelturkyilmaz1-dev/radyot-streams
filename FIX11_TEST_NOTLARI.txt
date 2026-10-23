@@ -1,0 +1,40 @@
+RadyoT v2.0.8 FIX11 - Yerleşim ve Logo Testi
+Tarih: 23.07.2026
+
+Bu pakette yapılan gerçek değişiklikler:
+
+1) Dikey ana ekran
+- Oynatıcı ve favoriler alanı yaklaşık yarı yarıya ayrıldı.
+- Favoriler başlığı ile Tüm Radyolar düğmesi aynı üst satıra alındı.
+- Tüm Radyolar düğmesi artık favori listesinin altında kalmıyor.
+- Sadece favori radyo listesi kayıyor.
+
+2) Yatay ana ekran
+- Oynatıcı sol yarıya, favoriler sağ yarıya yerleştirildi.
+- Oynatıcı içerikleri yatay düzene geçirildi; ekran altına taşmaması hedeflendi.
+- Favoriler ve Tüm Radyolar sağ bölümün üstünde sabit tutuldu.
+
+3) RadyoT logosu
+- Logo, yüksek çözünürlüklü Logo.png kaynağından yeniden üretildi.
+- Kenarlardaki beyaz zemin temizlenerek şeffaf hale getirildi.
+- Hakkında, ana ekran, oynatıcı ve varsayılan görselde aynı temiz kaynak kullanıldı.
+- Launcher simgeleri yeni logo ile yeniden üretildi.
+
+4) Kanal logoları
+- Mevcut düzgün logolar silinmedi.
+- 36 kanal logosunun optik görünür alanı yeniden ortalandı ve 512x512 şeffaf tuvalde standartlaştırıldı.
+- Beyaz kenarlı kaynaklarda yalnızca dış kenara bağlı beyaz alanlar temizlendi.
+
+5) Sürüm
+- versionCode: 8
+- versionName: 2.0.8-fix11-layout-logo-beta
+
+Kontrol edilmesi gerekenler:
+- Dikeyde oynatıcı/favoriler oranı
+- Tüm Radyolar düğmesinin yüksekliği ve konumu
+- Yatayda taşma olup olmadığı
+- Hakkında ekranında RadyoT logosunun beyaz çerçevesiz görünmesi
+- Favorilerde kanal logolarının birbirine yakın optik büyüklükte görünmesi
+
+Not:
+XML dosyaları ayrıştırma kontrolünden geçti. Bu ortamda Gradle 9.4.1 dağıtımı DNS nedeniyle indirilemediği için APK derlemesi burada tamamlanamadı.

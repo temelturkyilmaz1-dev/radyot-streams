@@ -1,0 +1,5 @@
+FIX15
+- updatePaddingRelative bağımlılığı kaldırıldı; View.setPaddingRelative kullanıldı.
+- API 24-30 cihazlarda View.setRenderEffect çağrısı tamamen kaldırıldı.
+- RenderEffect yalnızca Android 12 / API 31 ve üstünde çağrılıyor.
+- FIX14 yeni radyo ve logo içerikleri korunmuştur.

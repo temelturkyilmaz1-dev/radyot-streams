@@ -1,0 +1,14 @@
+RadyoT son görsel düzeltmeleri - 26.07.2026
+
+- Albüm resmi ve kanal logosu tek görsel alanında gösterilir.
+- İki görsel arasında 10 saniyede bir yumuşak 3B dönme geçişi yapılır.
+- Dikey görünümde oynatıcının arkasındaki üst RadyoT yazısı kaldırıldı.
+- RadyoT logosu oynatıcı içindeki ses çubuğu yanında tutuldu; yataya da aynı yerleşim uygulandı.
+- Ayarlar ve Çıkış düğmeleri büyütüldü.
+- Son Çalanlar varsayılan olarak daha opak yapıldı; şeffaflık aralığı 0-60 olarak düzenlendi.
+- Yatay Favoriler paneline yumuşak köşeli çerçeve eklendi.
+- Oynatma ekolayzırı daha kalın, dikey ve dolu çubuklara çevrildi.
+
+Kontrol:
+- Kaynak XML dosyalarının tümü ayrıştırma kontrolünden geçti.
+- Bu ortamda Gradle bağımlılık indirmesi olmadığı için APK derlemesi yapılmadı.

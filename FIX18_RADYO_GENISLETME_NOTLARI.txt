@@ -1,0 +1,14 @@
+RadyoT 2.1.0 / FIX18
+
+- FIX17 Android Auto ses ve güvenli alan düzeltmeleri korundu.
+- Mevcut çalışan istasyonların ana URL'leri değiştirilmedi.
+- TRT Radyo 3, TRT Nağme ve TRT Türkü eklendi.
+- Power FM eklendi; PowerTürk korundu.
+- Karnaval ana grubu (Virgin Radio Türkiye, Metro FM, JoyTürk, Joy FM, Süper FM) korundu.
+- Number1 FM, Number1 Türk FM ve Number1 Türk Slow eklendi; Number1 Türk 90'lar korundu.
+- Kral Pop eklendi.
+- Yanlış adla Number1 Türk Slow yayını kullanan "Slow FM" kaydı kaldırıldı.
+- Tiryaki FM ve Radyo 2000 bu katalogda bulunmuyor.
+
+Önemli: Derleme kaynak kodu kontrolü yapılmıştır. Canlı yayınların ağ üzerinden uçtan uca testi,
+bu çalışma ortamındaki DNS erişim kısıtı nedeniyle yapılamamıştır.

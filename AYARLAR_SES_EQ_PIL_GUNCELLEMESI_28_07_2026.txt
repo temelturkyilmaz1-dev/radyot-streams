@@ -1,0 +1,16 @@
+RadyoT — Ayarlar / Ses / Ekolayzır / Pil güncellemesi
+Tarih: 28.07.2026
+
+Yapılanlar:
+- Ana ekran ve oynatıcı görseline dokunulmadı.
+- Ayarlar bölümüne “Kesintisiz ses” aç/kapa eklendi.
+  Açık olduğunda RadyoT, başka uygulamaların ses odağı talebinde otomatik duraklamaz.
+- Ayarlar bölümüne pil optimizasyonu durumu ve sistem ayarına geçiş düğmesi eklendi.
+- Ekolayzıra aç/kapa anahtarı eklendi.
+- Hazır profiller eklendi: Düz, Pop, Rock, Caz, Klasik, Bas, Vokal ve Özel.
+- Elle bant değiştirildiğinde profil otomatik olarak “Özel” olur.
+- Ekolayzır ayarları ve seçilen profil kalıcı olarak saklanır.
+
+Not:
+Bu ortamda Gradle 9.4.1 indirmesi için internet erişimi olmadığından assembleDebug tamamlanamadı.
+Proje Android Studio’da Gradle bağımlılıkları mevcutken derlenmelidir.

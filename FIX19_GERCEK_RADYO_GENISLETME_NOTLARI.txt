@@ -1,0 +1,23 @@
+RadyoT 2.1.1 FIX19 - GERÇEK RADYO GENİŞLETME
+
+Bu paket FIX18 üzerine gerçekten eklenen kayıtları içerir.
+Toplam istasyon: 42
+
+YENİ EKLENENLER:
+- Alem FM
+- Radyo Fenomen
+- Fenomen Türk
+- Seymen FM
+
+ÖZELLİKLE KORUNAN / DOĞRULANAN KAYITLAR:
+- Radyo Avrasya Türk (resmî logo kaynağı mevcut)
+- Özgür Radyo Ankara (resmî logo kaynağı mevcut)
+- Radyo ODTÜ
+- Yön Radyo
+- Radyo Meyhane
+- Radyo 45'lik
+- PowerTürk / Power FM
+- Karnaval ana kanalları
+- Number1 ana ve tematik kanalları
+
+Mevcut çalışan ana bağlantılar değiştirilmemiştir. Yeni istasyonlar ayrı kayıt olarak eklenmiştir.

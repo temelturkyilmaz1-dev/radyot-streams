@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="54" fill="#ffffff"/>
+  <path d="M72 55h112l-62 126 62 126H72L18 181z" fill="#31c6d4"/>
+  <path d="M184 55h310v252H184l-62-126z" fill="#3935d9"/>
+  <g fill="#ffffff">
+    <rect x="184" y="83" width="274" height="13" rx="6"/>
+    <rect x="175" y="119" width="283" height="13" rx="6"/>
+    <rect x="164" y="155" width="294" height="13" rx="6"/>
+    <rect x="164" y="194" width="294" height="13" rx="6"/>
+    <rect x="175" y="230" width="283" height="13" rx="6"/>
+    <rect x="184" y="266" width="274" height="13" rx="6"/>
+  </g>
+  <text x="256" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="58" font-weight="700" fill="#17171c">RADYO</text>
+  <text x="256" y="444" text-anchor="middle" font-family="Arial, sans-serif" font-size="55" font-weight="700" fill="#17171c">KORDELYA 88.5</text>
+</svg>

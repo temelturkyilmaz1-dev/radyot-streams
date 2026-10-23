@@ -1,0 +1,9 @@
+RadyoT – TRT metadata / yayın çekirdeği ilk iyileştirme
+
+- ICY metadata isteği için Icy-MetaData: 1 başlığı eklendi.
+- HTTP/HTTPS yönlendirmeleri ve bağlantı zaman aşımı yönetimi güçlendirildi.
+- HLS içindeki ID3 TIT2/TPE1/TXXX metadata kareleri okunur hâle getirildi.
+- TRT'nin mevcut resmi HLS adresleri ve yedek yayın sırası korundu.
+- Radyo bağlantı tamponu canlı radyo kullanımına göre ayarlandı.
+- Yeniden bağlantı ve yedek akış geçişi daha kontrollü hâle getirildi.
+- Arayüz dosyalarına dokunulmadı.

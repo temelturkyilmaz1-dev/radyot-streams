@@ -1,0 +1,20 @@
+RadyoT v2.0 FIX9 TEST
+
+GERÇEKTEN EKLENENLER
+- Radyo Fenerbahçe eklendi (HLS ana yayın + HTTP yedek yayın).
+- Radyo Fenerbahçe için test amaçlı yerel şeffaf logo eklendi.
+- Dikey ekranda albüm kapağı 124x96 dp yerine 176x132 dp yapıldı; şarkı yazısının yeri değiştirilmedi.
+- Son Çalanlar satırlarına 58x58 dp albüm kapağı eklendi.
+- Albüm kapağı bulunamazsa ilgili radyo logosu gösteriliyor.
+- Geçmiş kayıt formatı artworkUrl ve radioName alanlarını saklayacak şekilde geliştirildi.
+- Eski geçmiş kayıtlarıyla geriye uyumluluk korundu.
+
+TEST EDİLECEKLER
+- Radyo Fenerbahçe ana/yedek yayın geçişi.
+- Albüm kapağının dikey ekranda taşma yapmaması.
+- Son Çalanlar kapaklarının doğru gelmesi ve kapak yokken logo göstermesi.
+
+HENÜZ TAMAMLANMAYANLAR
+- 80-100 radyoluk tam doğrulanmış arşiv henüz eklenmedi.
+- LyngSat logolarının toplu arşivlenmesi tamamlanmadı.
+- Yayını açmadan önceki istasyon geçmişi yalnızca dış servis sağlayan radyolarda mümkün; bu sürümde yok.

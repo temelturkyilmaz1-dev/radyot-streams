@@ -1,0 +1,15 @@
+RadyoT - Kafa Radyo metadata test sürümü
+Tarih: 27.07.2026
+
+Değişiklik kapsamı:
+- Yalnızca oynatıcı metadata ayrıştırması güçlendirildi.
+- Kafa Radyo için aynı yayın ağındaki edge adresi yedek akış olarak eklendi.
+- layout, drawable, strings, themes ve diğer arayüz dosyalarına dokunulmadı.
+
+Test:
+1. Kafa Radyo'yu açın.
+2. Yayının başlamasını bekleyin.
+3. Şarkı değişiminde sanatçı / şarkı alanını gözlemleyin.
+4. Sonucu "çalıyor/çalmıyor" ve "metadata var/yok" olarak bildirin.
+
+Not: Bu bir test sürümüdür; metadata kaynağının cihaz/ağ üzerinde doğrulanması gerekir.

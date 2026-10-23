@@ -1,0 +1,6 @@
+RadyoT - Son UI düzeltmeleri (26.07.2026)
+
+1. Android alt gezinme / gesture alanı için güvenli alt boşluk uygulandı.
+2. Yatay favori kartları kare görünümlü, yuvarlatılmış köşeli MaterialCardView olarak düzenlendi.
+3. Yatay favori ızgarasındaki 6 sütun kaldırıldı; görünüm ayarına göre 2 veya en fazla 4 sütun kullanılıyor.
+4. Oynatma, metadata, geçmiş, albüm kapağı ve diğer çalışan özelliklere dokunulmadı.

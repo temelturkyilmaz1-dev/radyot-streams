@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="?attr/colorSurface">
+
+    <TextView
+        android:id="@+id/txtAllStationsPageTitle"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="16dp"
+        android:layout_marginTop="12dp"
+        android:paddingVertical="8dp"
+        android:text="@string/all_radios"
+        android:textAppearance="@style/TextAppearance.Material3.HeadlineMedium"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/searchBox"
+        style="@style/Widget.Material3.TextInputLayout.OutlinedBox"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="10dp"
+        android:layout_marginTop="2dp"
+        android:hint="@string/search_radio"
+        app:startIconDrawable="@drawable/ic_search"
+        app:endIconMode="custom"
+        app:endIconDrawable="@drawable/ic_mic"
+        app:endIconContentDescription="@string/voice_search"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/txtAllStationsPageTitle">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/inputSearch"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:minHeight="56dp"
+            android:gravity="center_vertical"
+            android:includeFontPadding="true"
+            android:inputType="text"
+            android:maxLines="1"
+            android:scrollHorizontally="true"
+            android:singleLine="true" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <HorizontalScrollView
+        android:id="@+id/filterScroll"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="2dp"
+        android:clipToPadding="false"
+        android:overScrollMode="never"
+        android:paddingHorizontal="12dp"
+        android:scrollbars="none"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/searchBox">
+
+        <com.google.android.material.button.MaterialButtonToggleGroup
+            android:id="@+id/filterGroup"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:checkedButton="@id/filterAll"
+            app:selectionRequired="true"
+            app:singleSelection="true">
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/filterAll"
+                style="@style/Widget.Material3.Button.OutlinedButton"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:textColor="@color/radio_filter_text"
+                app:backgroundTint="@color/radio_filter_background"
+                app:strokeColor="@color/radio_filter_stroke"
+                android:text="@string/filter_all" />
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/filterNew"
+                style="@style/Widget.Material3.Button.OutlinedButton"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:textColor="@color/radio_filter_text"
+                app:backgroundTint="@color/radio_filter_background"
+                app:strokeColor="@color/radio_filter_stroke"
+                android:text="@string/filter_new" />
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/filterTurkey"
+                style="@style/Widget.Material3.Button.OutlinedButton"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:textColor="@color/radio_filter_text"
+                app:backgroundTint="@color/radio_filter_background"
+                app:strokeColor="@color/radio_filter_stroke"
+                android:text="@string/filter_turkey" />
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/filterWorld"
+                style="@style/Widget.Material3.Button.OutlinedButton"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:textColor="@color/radio_filter_text"
+                app:backgroundTint="@color/radio_filter_background"
+                app:strokeColor="@color/radio_filter_stroke"
+                android:text="@string/filter_world" />
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/filterRock"
+                style="@style/Widget.Material3.Button.OutlinedButton"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:textColor="@color/radio_filter_text"
+                app:backgroundTint="@color/radio_filter_background"
+                app:strokeColor="@color/radio_filter_stroke"
+                android:text="@string/filter_rock_metal" />
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/filterRetro"
+                style="@style/Widget.Material3.Button.OutlinedButton"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:textColor="@color/radio_filter_text"
+                app:backgroundTint="@color/radio_filter_background"
+                app:strokeColor="@color/radio_filter_stroke"
+                android:text="@string/filter_retro" />
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/filterJazz"
+                style="@style/Widget.Material3.Button.OutlinedButton"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:textColor="@color/radio_filter_text"
+                app:backgroundTint="@color/radio_filter_background"
+                app:strokeColor="@color/radio_filter_stroke"
+                android:text="@string/filter_jazz_blues" />
+        </com.google.android.material.button.MaterialButtonToggleGroup>
+    </HorizontalScrollView>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerAllRadios"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:clipToPadding="false"
+        android:paddingHorizontal="4dp"
+        android:paddingTop="4dp"
+        android:paddingBottom="16dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/filterScroll" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

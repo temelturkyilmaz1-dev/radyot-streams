@@ -1,0 +1,6 @@
+RadyoT - 27.07.2026
+
+Yapılan tek değişiklik:
+- Yatay görünümde favori radyo öğesini dikdörtgen gösteren MaterialCardView kaldırıldı.
+- Yatay favoriler artık dikey görünümle aynı düzeni kullanıyor: yuvarlatılmış kare logo ve altında istasyon adı.
+- Diğer çalışan özelliklere ve dosyalara dokunulmadı.

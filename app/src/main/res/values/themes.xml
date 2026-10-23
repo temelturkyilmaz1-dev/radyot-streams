@@ -1,0 +1,86 @@
+<resources>
+    <style name="Base.Theme.TurkiyeRadyolari" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="colorPrimary">#5F6368</item>
+        <item name="colorSecondary">#8B8E93</item>
+        <item name="appScreenBackground">?attr/colorSurface</item>
+    </style>
+
+    <style name="Theme.TurkiyeRadyolari" parent="Base.Theme.TurkiyeRadyolari" />
+
+    <style name="Theme.TurkiyeRadyolari.MetallicGold" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:statusBarColor">#080704</item>
+        <item name="android:navigationBarColor">#080704</item>
+        <item name="android:windowBackground">@drawable/bg_theme_24k_gold</item>
+        <item name="appScreenBackground">@drawable/bg_theme_24k_gold</item>
+        <item name="colorPrimary">#D3AF37</item>
+        <item name="colorOnPrimary">#211A00</item>
+        <item name="colorSecondary">#F4D77A</item>
+        <item name="colorOnSecondary">#251D00</item>
+        <item name="colorTertiary">#B59410</item>
+        <item name="colorOnTertiary">#1F1800</item>
+        <item name="android:colorBackground">#080704</item>
+        <item name="colorOnBackground">#FFF7DE</item>
+        <item name="colorSurface">#0D0B07</item>
+        <item name="colorOnSurface">#FFF7DE</item>
+        <item name="colorSurfaceVariant">#2A2313</item>
+        <item name="colorOnSurfaceVariant">#E8D9AA</item>
+        <item name="colorSurfaceContainer">#18130A</item>
+        <item name="colorSurfaceContainerHigh">#2B210D</item>
+        <item name="colorOutline">#C2A64E</item>
+        <item name="colorOutlineVariant">#66551F</item>
+    </style>
+
+    <style name="Theme.TurkiyeRadyolari.RoseGold" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:statusBarColor">#090607</item>
+        <item name="android:navigationBarColor">#090607</item>
+        <item name="android:windowBackground">@drawable/bg_theme_rose_gold</item>
+        <item name="appScreenBackground">@drawable/bg_theme_rose_gold</item>
+        <item name="colorPrimary">#DEA193</item>
+        <item name="colorOnPrimary">#2D0E12</item>
+        <item name="colorSecondary">#F1C7BE</item>
+        <item name="colorOnSecondary">#321016</item>
+        <item name="colorTertiary">#B76E79</item>
+        <item name="colorOnTertiary">#2A0B10</item>
+        <item name="android:colorBackground">#090607</item>
+        <item name="colorOnBackground">#FFF1EE</item>
+        <item name="colorSurface">#100A0C</item>
+        <item name="colorOnSurface">#FFF1EE</item>
+        <item name="colorSurfaceVariant">#322126</item>
+        <item name="colorOnSurfaceVariant">#E8C5C7</item>
+        <item name="colorSurfaceContainer">#1C1013</item>
+        <item name="colorSurfaceContainerHigh">#301A20</item>
+        <item name="colorOutline">#C88E98</item>
+        <item name="colorOutlineVariant">#70464E</item>
+    </style>
+
+    <style name="Theme.TurkiyeRadyolari.Titanium" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:statusBarColor">#07090B</item>
+        <item name="android:navigationBarColor">#07090B</item>
+        <item name="android:windowBackground">@drawable/bg_theme_platinum_titanium</item>
+        <item name="appScreenBackground">@drawable/bg_theme_platinum_titanium</item>
+        <item name="colorPrimary">#C7CDD3</item>
+        <item name="colorOnPrimary">#12171C</item>
+        <item name="colorSecondary">#EEF1F4</item>
+        <item name="colorOnSecondary">#171C21</item>
+        <item name="colorTertiary">#878681</item>
+        <item name="colorOnTertiary">#151515</item>
+        <item name="android:colorBackground">#07090B</item>
+        <item name="colorOnBackground">#F4F7FA</item>
+        <item name="colorSurface">#0C0F12</item>
+        <item name="colorOnSurface">#F4F7FA</item>
+        <item name="colorSurfaceVariant">#252B31</item>
+        <item name="colorOnSurfaceVariant">#D7DDE3</item>
+        <item name="colorSurfaceContainer">#14181D</item>
+        <item name="colorSurfaceContainerHigh">#252B31</item>
+        <item name="colorOutline">#A9B0B8</item>
+        <item name="colorOutlineVariant">#535B64</item>
+    </style>
+</resources>

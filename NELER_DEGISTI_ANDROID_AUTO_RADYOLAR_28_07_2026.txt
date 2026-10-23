@@ -1,0 +1,68 @@
+RadyoT - Android Auto, Ayarlar ve Radyo Güncellemesi
+Tarih: 28.07.2026
+
+ANDROID AUTO
+
+- Şarkı Geçmişi bölümü eklendi. Seçili/son istasyonun son 20 şarkısı gösterilir.
+- Çalan istasyonu favorilere ekleme ve favorilerden çıkarma özel eylemi eklendi.
+- Yayını durdurup servisi kapatan Çıkış özel eylemi eklendi.
+- Albüm kapağı mevcutsa radyo logosu ve albüm kapağı sekiz saniyede bir
+  dönüşümlü olarak Android Auto metadata alanına gönderilir.
+- İleri, geri, oynat/duraklat komutları korunmuştur.
+- Android Auto standart taşıma düğmelerinin fiziksel boyutu uygulama tarafından
+  değiştirilemez; boyut araç ekranı/Android Auto tarafından belirlenir.
+
+AYARLAR
+
+- Ekran görünümü, vurgu rengi, oynatıcıda gösterilecekler, arka plan ve
+  son çalanlar seçenekleri "Oynatıcı Ayarları" başlığı altında toplandı.
+- Arka plan ve Son Çalanlar saydamlık kontrolleri aynı sisteme geçirildi.
+- Her iki kontrol de yalnızca 0, 20, 40, 60, 80 ve 100 değerlerini kullanır.
+- Eski kayıtlı ara değerler en yakın 20'lik değere otomatik yuvarlanır.
+
+YAYIN ALTYAPISI
+
+- Android 9 ve üzerindeki HTTP radyo yayınlarının uygulama tarafından
+  engellenmesine neden olan cleartext ayarı düzeltildi.
+- TRT Radyo 3, TRT Türkü ve TRT Nağme eski alan adındaki bozuk alt listeler
+  yerine çalışan yeni TRT medya yayınlarına geçirildi.
+- Radyo Avrasya Türk çalışan HTTPS/AAC+ yayınına geçirildi.
+- Radyo Slow Time'ın çalışan 8040 yayını eklendi.
+- Hatay Akdeniz gibi HTTP kullanan mevcut yerel yayınların Android tarafından
+  engellenmesi giderildi.
+
+LOGOLAR
+
+- Pal Nostalji'nin resmî kare logosu eklendi.
+- Radyo Seymen'in resmî güncel logosu eklendi.
+- Radyo Voyage logosu eklendi.
+
+EKLENEN RADYOLAR
+
+- Radyo Voyage (iki yedek yayınla)
+- Radyo ODTÜ Rock
+- Radyo ODTÜ Easy
+- Radyo ODTÜ Karışık Kaset
+- Radyo ODTÜ Hit
+- Radyo ODTÜ 40 Haramiler
+- Radyo ODTÜ Hiphop
+- Radyo ODTÜ K-Pop
+- Radyo ODTÜ Science
+- Pal Doğa
+- Radyo D
+- Kent FM
+- Tiryaki FM
+- Radyo Munzur
+- Radyo Trafik İstanbul
+
+DOĞRULAMA
+
+- Eklenen/güncellenen adreslerden canlı playlist veya gerçek ses verisi alındı.
+- :app:assembleDebug görevi başarıyla tamamlandı.
+- Ana ekranın mevcut XML yerleşimi ve genel tasarımı değiştirilmedi.
+
+NOT
+
+- Radyo ODTÜ ana ve tematik yayınları metadata taşıyorsa Media3 üzerinden
+  okunur. Uygulama yayıncının göndermediği metadata bilgisini üretemez.
+- Radyo yayıncıları adreslerini daha sonra değiştirebilir.

@@ -1,0 +1,25 @@
+RadyoT v2.0 FIX10 TEST — 23.07.2026
+
+BU PAKETTE GERÇEKTEN YAPILANLAR
+1) Ana ekrandaki “Tüm Radyolar” düğmesi ve “Favoriler” başlığı kayan yapıdan çıkarıldı.
+   Yalnızca favori radyo listesi kayar.
+2) Dikey ve yatay ana ekran aynı sabit başlık davranışını kullanır.
+3) Tüm radyo logo PNG dosyalarının görünür içeriği alfa sınırından kırpılıp 512x512 şeffaf tuvalde
+   en fazla 400x400 güvenli alana yeniden ölçeklendi. Böylece dosya tuvali değil, gerçek logo büyüklüğü standarttır.
+4) Kafa Radyo logo kaynağı pakette vardır ve aynı standarda sokulmuştur.
+5) HTTP kullanan veya bu ortamda canlılığı doğrulanamayan 9 istasyon test listesinden geçici olarak çıkarıldı:
+   Seymen FM, Radyo Shema, Radyo 45'lik, Kent FM, Radyovizyon, Pal Doğa, Yön Radyo,
+   Radyo Munzur ve Hatay Radyo Akdeniz.
+
+DOĞRULANAMAYANLAR
+- Bu ortamda dış ağ/DNS erişimi olmadığı için yayınların gerçek cihazda ses üretmesi ve Gradle derlemesi
+  burada uçtan uca doğrulanamadı.
+- LyngSat sayfasındaki tüm güncel logo dosyaları otomatik indirilemedi. Bu sürüm mevcut logo arşivini
+  görsel ölçü bakımından standardize eder; sonraki pakette kaynak dosyalar erişilebildikçe marka güncellemeleri yapılacaktır.
+
+TEST ODAĞI
+- Tüm Radyolar ve Favoriler başlığı sabit mi?
+- Favori listesi tek başına kayıyor mu?
+- Liste ve grid görünümündeki logolar yaklaşık aynı görsel büyüklükte mi?
+- Kafa Radyo logosu görünüyor mu?
+- Yayın yok hatası veren kalan kanal adlarını not edin.

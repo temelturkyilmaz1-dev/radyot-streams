@@ -1,0 +1,23 @@
+RadiOnline 1.6.5.11 - TV Box arama ve katalog düzenlemesi
+
+- TV Box sesli arama artık konuşma motorunun ilk sonucuna bağlı kalmaz; sekiz
+  olası sonucu Türkçe karakterlerden bağımsız karşılaştırır ve en güçlü kanal
+  eşleşmelerini önce gösterir.
+- Sesli arama sonucu doğrudan kumandayla kullanılabilen kanal kartlarına odaklanır.
+- Tüm Radyolar, Favoriler, Ara ve Sesli Ara için kalıcı seçili bölüm görünümü
+  eklendi. Odak ve seçili durumlar daha parlak kenarlık/renkle ayrıştırıldı.
+- TV arka planı ve ekran kaplaması bir miktar açıldı.
+- Oğuz FM ile Yozgat Oğuz FM canlı ICY başlığında aynı kanal olarak doğrulandı
+  (OGUZ FM SARIKAYA). Katalog birleştirmesinde tek kanal kabul edilir.
+- Akdağ Oğuz FM ayrı ICY kimliği (AKDAG OGUZ FM) nedeniyle korundu.
+- Aynı yayın adresindeki dinamo.fm legacy ve Radyo Aktif FM Kütahya kayıtları
+  stations.json içinde devre dışı bırakıldı; Dinamo FM ve Radyo Aktif korundu.
+- Sürüm 1.6.5.11 / versionCode 52 olarak güncellendi.
+
+Doğrulama:
+- Android debug paketi başarıyla derlendi.
+- Kaynak katalogda 687 kayıt tarandı: 677 etkin, 10 devre dışı.
+- 94 kayıt için kaynak kod seviyesinde özel/yerel logo tanımı bulunamadı; ayrıntı
+  alfabetik PDF raporunda [L] işaretiyle gösterildi.
+- Unit test çalışanı, yerel Java 25 / Gradle test-worker uyumsuzluğu nedeniyle
+  başlatılamadı; uygulama Kotlin derlemesi ve APK paketleme başarılıdır.

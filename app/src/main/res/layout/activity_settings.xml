@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="?attr/appScreenBackground">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingStart="16dp"
+        android:paddingTop="28dp"
+        android:paddingEnd="16dp"
+        android:paddingBottom="32dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="64dp"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+            <ImageButton
+                android:id="@+id/btnBack"
+                style="@style/Widget.RadyoT.IconButton"
+                android:contentDescription="@string/back"
+                android:src="@drawable/ic_back" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/settings"
+                android:textAppearance="@style/TextAppearance.Material3.TitleLarge"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+        <TextView
+            style="@style/TextAppearance.Material3.HeadlineSmall"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            android:text="@string/display_settings"
+            android:textStyle="bold" />
+
+        <TextView
+            style="@style/TextAppearance.Material3.TitleMedium"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="@string/theme"
+            android:textStyle="bold" />
+        <RadioGroup
+            android:id="@+id/groupTheme"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <RadioButton android:id="@+id/themeSystem" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/theme_system" />
+            <RadioButton android:id="@+id/themeLight" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/theme_light" />
+            <RadioButton android:id="@+id/themeDark" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/theme_dark" />
+        </RadioGroup>
+
+        <TextView
+            style="@style/TextAppearance.Material3.TitleMedium"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="@string/accent_color"
+            android:textStyle="bold" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal">
+            <com.google.android.material.button.MaterialButton android:id="@+id/colorTeal" style="@style/Widget.RadyoT.ColorButton" android:backgroundTint="#00796B" />
+            <com.google.android.material.button.MaterialButton android:id="@+id/colorBlue" style="@style/Widget.RadyoT.ColorButton" android:backgroundTint="#1565C0" />
+            <com.google.android.material.button.MaterialButton android:id="@+id/colorOrange" style="@style/Widget.RadyoT.ColorButton" android:backgroundTint="#E65100" />
+            <com.google.android.material.button.MaterialButton android:id="@+id/colorRed" style="@style/Widget.RadyoT.ColorButton" android:backgroundTint="#C62828" />
+            <com.google.android.material.button.MaterialButton android:id="@+id/colorPurple" style="@style/Widget.RadyoT.ColorButton" android:backgroundTint="#6A1B9A" />
+            <com.google.android.material.button.MaterialButton android:id="@+id/colorGreen" style="@style/Widget.RadyoT.ColorButton" android:backgroundTint="#2E7D32" />
+        </LinearLayout>
+
+        <TextView
+            style="@style/TextAppearance.Material3.TitleMedium"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="22dp"
+            android:text="@string/player_background"
+            android:textStyle="bold" />
+        <com.google.android.material.switchmaterial.SwitchMaterial
+            android:id="@+id/switchBlurLogo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/show_blurred_logo" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/background_effect_hint"
+            android:textAppearance="@style/TextAppearance.Material3.BodySmall" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/background_effect" />
+            <SeekBar
+                android:id="@+id/seekBlurIntensity"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="12dp"
+                android:layout_weight="1"
+                android:max="5" />
+            <TextView
+                android:id="@+id/txtBlurIntensityValue"
+                android:layout_width="48dp"
+                android:layout_height="wrap_content"
+                android:gravity="end"
+                android:text="40%" />
+        </LinearLayout>
+
+        <TextView
+            style="@style/TextAppearance.Material3.HeadlineSmall"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="28dp"
+            android:text="@string/player_settings"
+            android:textStyle="bold" />
+
+        <TextView
+            style="@style/TextAppearance.Material3.TitleMedium"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="@string/player_elements"
+            android:textStyle="bold" />
+        <androidx.appcompat.widget.AppCompatCheckBox
+            android:id="@+id/checkShowAlbum"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/show_album_art" />
+        <androidx.appcompat.widget.AppCompatCheckBox
+            android:id="@+id/checkShowStationLogo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/show_station_logo" />
+        <androidx.appcompat.widget.AppCompatCheckBox
+            android:id="@+id/checkShowStationName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/show_station_name" />
+
+        <TextView
+            style="@style/TextAppearance.Material3.TitleMedium"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="22dp"
+            android:text="@string/history_panel_transparency"
+            android:textStyle="bold" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+            <SeekBar
+                android:id="@+id/seekHistoryTransparency"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:max="5" />
+            <TextView
+                android:id="@+id/txtHistoryTransparencyValue"
+                android:layout_width="48dp"
+                android:layout_height="wrap_content"
+                android:gravity="end"
+                android:text="20%" />
+        </LinearLayout>
+
+        <TextView
+            style="@style/TextAppearance.Material3.TitleMedium"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="22dp"
+            android:text="@string/playback_behavior"
+            android:textStyle="bold" />
+        <com.google.android.material.switchmaterial.SwitchMaterial
+            android:id="@+id/switchContinuousAudio"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/continuous_audio" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/continuous_audio_hint"
+            android:textAppearance="@style/TextAppearance.Material3.BodySmall" />
+
+        <TextView
+            style="@style/TextAppearance.Material3.TitleMedium"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="22dp"
+            android:text="@string/battery_optimization"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/txtBatteryOptimizationStatus"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/battery_optimization_enabled"
+            android:textAppearance="@style/TextAppearance.Material3.BodyMedium" />
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnBatteryOptimization"
+            style="@style/Widget.Material3.Button.OutlinedButton"
+            android:layout_width="match_parent"
+            android:layout_height="56dp"
+            android:layout_marginTop="8dp"
+            android:text="@string/open_battery_optimization" />
+
+        <TextView
+            style="@style/TextAppearance.Material3.TitleMedium"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="@string/radio_view"
+            android:textStyle="bold" />
+        <RadioGroup
+            android:id="@+id/groupView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <RadioButton android:id="@+id/viewList" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/list_view" />
+            <RadioButton android:id="@+id/viewGrid2" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/grid_view_2" />
+            <RadioButton android:id="@+id/viewGrid4" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/grid_view_4" />
+        </RadioGroup>
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnEqualizer"
+            style="@style/Widget.Material3.Button.OutlinedButton"
+            android:layout_width="match_parent"
+            android:layout_height="56dp"
+            android:layout_marginTop="20dp"
+            android:text="@string/equalizer"
+            app:icon="@drawable/ic_equalizer" />
+
+        <TextView
+            style="@style/TextAppearance.Material3.HeadlineSmall"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="28dp"
+            android:text="Dil ve zamanlayıcı"
+            android:textStyle="bold" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnLanguage"
+            style="@style/Widget.Material3.Button.OutlinedButton"
+            android:layout_width="match_parent"
+            android:layout_height="56dp"
+            android:layout_marginTop="12dp"
+            android:text="Dil seçimi" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnTimers"
+            style="@style/Widget.Material3.Button.OutlinedButton"
+            android:layout_width="match_parent"
+            android:layout_height="56dp"
+            android:layout_marginTop="12dp"
+            android:text="Alarm ve uyku zamanlayıcısı" />
+
+        <TextView
+            style="@style/TextAppearance.Material3.HeadlineSmall"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="28dp"
+            android:text="Radyo yönetimi"
+            android:textStyle="bold" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnAddStation"
+            style="@style/Widget.Material3.Button.OutlinedButton"
+            android:layout_width="match_parent"
+            android:layout_height="56dp"
+            android:layout_marginTop="12dp"
+            android:text="Yeni istasyon ekle" />
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnAbout"
+            style="@style/Widget.Material3.Button.OutlinedButton"
+            android:layout_width="match_parent"
+            android:layout_height="56dp"
+            android:layout_marginTop="12dp"
+            android:text="@string/about"
+            app:icon="@drawable/ic_info" />
+    </LinearLayout>
+</androidx.core.widget.NestedScrollView>
