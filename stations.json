@@ -9645,6 +9645,275 @@
       "content": "Türk halk müziği, yöresel müzik ve canlı programlar",
       "location": "Şiran, Gümüşhane",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/radyo_siran.webp"
+    },
+    {
+      "id": "radyo-eylul-99-1",
+      "name": "Radyo Eylül 99.1",
+      "enabled": true,
+      "urls": [
+        "https://anadolu.liderhost.com.tr/8036/stream"
+      ],
+      "website": "https://www.radyoeylul.com/",
+      "content": "Türkçe müzik ve yerel programlar",
+      "location": "Sakarya, Türkiye",
+      "frequency": "99.1 FM",
+      "logo": "https://www.radyoeylul.com/wp-content/uploads/2026/10/512.jpeg"
+    },
+    {
+      "id": "isleyen-fm-96-6",
+      "name": "İşleyen FM 96.6",
+      "enabled": true,
+      "urls": [
+        "https://live.radyositesihazir.com/8060/stream"
+      ],
+      "website": "https://radio-tune.com/turkish/isleyen-fm/",
+      "content": "Arabesk müzik",
+      "location": "Ankara, Türkiye",
+      "frequency": "96.6 FM",
+      "logo": "https://radio-tune.com/wp-content/uploads/2021/11/Isleyen-FM.webp"
+    },
+    {
+      "id": "radyo-fef-101-5",
+      "name": "Radyo FEF 101.5",
+      "enabled": true,
+      "urls": [
+        "https://radyo.ulusalkanal.net.tr:9306/stream",
+        "http://radyo.ulusalkanal.net.tr:9306/stream"
+      ],
+      "website": "https://radyofef.com/",
+      "content": "Yabancı müzik, rock ve karışık müzik",
+      "location": "Milas, Muğla, Türkiye",
+      "frequency": "101.5 FM",
+      "logo": "https://radyofef.com/wp-content/uploads/2022/05/indir.jpg"
+    },
+    {
+      "id": "size-radio-france",
+      "name": "Size Radio",
+      "enabled": true,
+      "urls": [
+        "https://stream.radiojar.com/atr1e8aswa5tv",
+        "https://stream.radiojar.com/atr1e8aswa5tv.mp3"
+      ],
+      "website": "https://www.size-radio.com/",
+      "content": "Elektronik, hip-hop, pop, rock, soul ve funk; reklamsız müzik",
+      "location": "Paris, Fransa",
+      "logo": "https://www.size-radio.com/wp-content/uploads/2020/05/size-flyer-paris-300.png"
+    },
+    {
+      "id": "restored-radyogokceada",
+      "name": "Radyo Gökçeada",
+      "enabled": true,
+      "urls": [
+        "https://radyo.yayin.com.tr:6179/;"
+      ],
+      "website": "https://www.radyogokceada.net/",
+      "content": "Pop, 90'lar, oldies ve elektronik müzik • metadata destekli",
+      "location": "Gökçeada, Çanakkale, Türkiye",
+      "logo": "https://www.radyogokceada.net/images/logo.png"
+    },
+    {
+      "id": "restored-radyo44",
+      "name": "Radyo 44",
+      "enabled": true,
+      "urls": [
+        "https://radyo44.80.yayin.com.tr/stream"
+      ],
+      "website": "https://radyo44.com.tr/",
+      "content": "Türkçe müzik • MP3 128 kbps • metadata",
+      "location": "Malatya, Türkiye",
+      "logo": "https://static.mytuner-radio.net/media/radios/ncm3m8rehe9w.jpg"
+    },
+    {
+      "id": "restored-radyo13tatvan960",
+      "name": "Radyo 13 Tatvan 96.0",
+      "enabled": true,
+      "urls": [
+        "https://radyo.yayindakiler.com:3050/stream"
+      ],
+      "website": "https://www.radyo13.com.tr/",
+      "content": "Türkçe pop, yöresel, arabesk ve fantezi müzik",
+      "location": "Tatvan, Bitlis, Türkiye",
+      "logo": "https://www.radyo13.com.tr/wp-content/uploads/2022/10/WhatsApp_Image_2022-10-11_at_15.27.31-removebg-preview.png"
+    },
+    {
+      "id": "restored-retroradiovf",
+      "name": "Retro Radio VF",
+      "enabled": true,
+      "urls": [
+        "https://stream.zeno.fm/vzusmynf8tzuv"
+      ],
+      "website": "https://retroradiovf.blogspot.com/",
+      "content": "60'lar-90'lar classic hits, oldies, rock ve disco",
+      "location": "Villaflores, Chiapas, Meksika",
+      "logo": "https://static.mytuner-radio.net/media/radios/894/retro-radio-vf-classic-hits.6e69c1fd.png"
+    },
+    {
+      "id": "restored-salsaradio",
+      "name": "Salsa Radio",
+      "enabled": true,
+      "urls": [
+        "https://domiplay.net/live/salsa-radio.mp3"
+      ],
+      "website": "https://domiplay.com/salsa-radio/",
+      "content": "24 saat salsa • metadata",
+      "location": "Santo Domingo, Dominik Cumhuriyeti",
+      "logo": "https://static.mytuner-radio.net/media/radios/34zgpcj49zes.png"
+    },
+    {
+      "id": "restored-goldfmbrussels",
+      "name": "GOLD FM Brussels",
+      "enabled": true,
+      "urls": [
+        "https://onair.goldfm.be:8000/stream"
+      ],
+      "website": "https://goldfm.be/",
+      "content": "Türkçe topluluk ve müzik radyosu",
+      "location": "Brüksel, Belçika",
+      "logo": "https://static.mytuner-radio.net/media/radios/Z4Y5mVJP8T.png"
+    },
+    {
+      "id": "restored-danubiusradio",
+      "name": "Danubius Rádió",
+      "enabled": true,
+      "urls": [
+        "https://stream.danubiusradio.hu/danubius_192k"
+      ],
+      "website": "https://www.danubiusradio.hu/",
+      "content": "Pop, retro ve hit müzik • MP3 192 kbps • metadata",
+      "location": "Macaristan",
+      "logo": "https://static.mytuner-radio.net/media/radios/l4xjesjr3rdc.png"
+    },
+    {
+      "id": "restored-lazaradiomulatos",
+      "name": "Laza Rádió Mulatós",
+      "enabled": true,
+      "urls": [
+        "https://stream.lazaradio.com/mulatos.mp3"
+      ],
+      "website": "https://lazaradio.com/mulatos-radio/",
+      "content": "24 saat mulatós/lakodalmas müzik • MP3 320 kbps",
+      "location": "Macaristan",
+      "logo": "https://static.mytuner-radio.net/media/radios/bmjn3b8h5uau.png"
+    },
+    {
+      "id": "restored-radyobigafm",
+      "name": "Radyo Biga FM",
+      "enabled": true,
+      "urls": [
+        "https://radyo.yayin.com.tr:5896/;stream.mp3"
+      ],
+      "website": "https://www.bigafm.com/",
+      "content": "Türkçe karma müzik ve yerel programlar • MP3 128 kbps",
+      "location": "Biga, Çanakkale, Türkiye",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/restored-radyobigafm.webp"
+    },
+    {
+      "id": "restored-cizrebotanfm",
+      "name": "Cizre Botan FM",
+      "enabled": true,
+      "urls": [
+        "https://sslyayin.netyayin.net:9914/stream"
+      ],
+      "website": "https://www.cizrebotanfm.com/",
+      "content": "Türkçe pop ve karma müzik • MP3 96 kbps",
+      "location": "Cizre, Şırnak, Türkiye",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/restored-cizrebotanfm.webp"
+    },
+    {
+      "id": "restored-energy2000",
+      "name": "Energy 2000",
+      "enabled": true,
+      "urls": [
+        "http://95.154.196.37:14323/stream"
+      ],
+      "website": "https://www.radioenergy.online/",
+      "content": "2000'ler, pop, dance ve elektronik müzik • MP3 320 kbps • metadata",
+      "location": "Karşıyaka, İzmir, Türkiye",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/restored-energy2000.webp"
+    },
+    {
+      "id": "restored-bilecikfm999",
+      "name": "Bilecik FM 99.9",
+      "enabled": true,
+      "urls": [
+        "http://bilecikfm.kesintisizyayin.com:9980/"
+      ],
+      "website": "http://www.bilecikfm.com.tr/",
+      "content": "Türkçe pop, karma ve yerel müzik • AAC 64 kbps • metadata",
+      "location": "Bilecik, Türkiye",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/restored-bilecikfm999.webp"
+    },
+    {
+      "id": "restored-gribalkon",
+      "name": "Gri Balkon",
+      "enabled": true,
+      "urls": [
+        "https://gribalkon.radioca.st/stream"
+      ],
+      "website": "https://www.gribalkon.com/",
+      "content": "Bağımsız, indie, elektronik ve alternatif müzik • MP3 128 kbps • metadata",
+      "location": "Ankara, Türkiye",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/restored-gribalkon.webp"
+    },
+    {
+      "id": "restored-hayatmix",
+      "name": "HayatMix",
+      "enabled": true,
+      "urls": [
+        "https://hayatmix.yayin.com.tr/mp3"
+      ],
+      "website": "https://www.hayatmix.com/",
+      "content": "Türkçe pop ve remix müzik • MP3 192 kbps",
+      "location": "İstanbul, Türkiye",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/restored-hayatmix.webp"
+    },
+    {
+      "id": "restored-hayalfm",
+      "name": "Hayal FM",
+      "enabled": true,
+      "urls": [
+        "https://panel.radyomhd.com:8050/"
+      ],
+      "website": "https://www.hayalfm.org/",
+      "content": "Arabesk, fantezi ve Türk halk müziği • MP3 128 kbps",
+      "location": "Ankara, Türkiye",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/restored-hayalfm.webp"
+    },
+    {
+      "id": "restored-genckralfm",
+      "name": "Genç Kral FM",
+      "enabled": true,
+      "urls": [
+        "https://anadolu.liderhost.com.tr:10853/;"
+      ],
+      "website": "https://www.genckralfm.com.tr/",
+      "content": "Arabesk, fantezi, slow ve Türkçe müzik • MP3 128 kbps • metadata",
+      "location": "Ankara, Türkiye",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/restored-genckralfm.webp"
+    },
+    {
+      "id": "restored-dersimfm",
+      "name": "Dersim FM",
+      "enabled": true,
+      "urls": [
+        "https://host10.onlineradyotv.net:7002/stream"
+      ],
+      "website": "https://dersimfm.com/",
+      "content": "Kürtçe ve Türkçe müzik, yerel kültür programları • MP3",
+      "location": "Tunceli, Türkiye",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/restored-dersimfm.webp"
+    },
+    {
+      "id": "restored-rmfmaxxx",
+      "name": "RMF MAXXX",
+      "enabled": true,
+      "urls": [
+        "https://rs101-krk-cyfronet.rmfstream.pl/RMFMAXXX48"
+      ],
+      "website": "https://www.rmfmaxx.pl/",
+      "content": "Pop, dance, CHR ve R&B • metadata",
+      "location": "Polonya",
+      "logo": "https://static.mytuner-radio.net/media/radios/891/rmf-maxxx.8bab39cf.png"
     }
   ],
   "catalogPolicy": {
