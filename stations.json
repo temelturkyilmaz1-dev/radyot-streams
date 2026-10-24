@@ -9925,7 +9925,8 @@
       "website": "https://radyo.io/radyo/havin-fm",
       "content": "Kürtçe halk müziği ve yöresel müzik • Kürtçe",
       "location": "Türkiye",
-      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/havin_fm.webp"
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/havin_fm.webp",
+      "newlyAdded": true
     },
     {
       "id": "rock-the-bones-radio",
@@ -9937,7 +9938,8 @@
       "website": "https://rtbradio.blogspot.com/",
       "content": "Rock ve metal • Principal Edition • İspanyolca",
       "location": "Şili",
-      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/rock_the_bones_radio.webp"
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/rock_the_bones_radio.webp",
+      "newlyAdded": true
     },
     {
       "id": "rock-the-bones-extreme",
@@ -9985,7 +9987,8 @@
       "website": "https://purerock.us/",
       "content": "Hard rock, klasik rock ve heavy metal • İngilizce",
       "location": "Alabama, ABD",
-      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/purerock_us.webp"
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/purerock_us.webp",
+      "newlyAdded": true
     }
   ],
   "catalogPolicy": {
