@@ -9914,6 +9914,78 @@
       "content": "Pop, dance, CHR ve R&B • metadata",
       "location": "Polonya",
       "logo": "https://static.mytuner-radio.net/media/radios/891/rmf-maxxx.8bab39cf.png"
+    },
+    {
+      "id": "havin-fm",
+      "name": "Havin FM",
+      "enabled": true,
+      "urls": [
+        "https://stream.radyo.io/s/havin-fm"
+      ],
+      "website": "https://radyo.io/radyo/havin-fm",
+      "content": "Kürtçe halk müziği ve yöresel müzik • Kürtçe",
+      "location": "Türkiye",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/havin_fm.webp"
+    },
+    {
+      "id": "rock-the-bones-radio",
+      "name": "Rock The Bones Radio",
+      "enabled": true,
+      "urls": [
+        "https://srv6.sonicpanel.cl:7006/stream"
+      ],
+      "website": "https://rtbradio.blogspot.com/",
+      "content": "Rock ve metal • Principal Edition • İspanyolca",
+      "location": "Şili",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/rock_the_bones_radio.webp"
+    },
+    {
+      "id": "rock-the-bones-extreme",
+      "name": "Rock The Bones Extreme",
+      "enabled": true,
+      "urls": [
+        "https://radio.plandos.com:7025/stream"
+      ],
+      "website": "https://rtbradio.blogspot.com/",
+      "content": "Extreme rock ve metal • Extreme Edition • İspanyolca",
+      "location": "Şili",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/rock_the_bones_radio.webp"
+    },
+    {
+      "id": "rock-the-bones-hard-n-heavy",
+      "name": "Rock The Bones Hard N Heavy",
+      "enabled": true,
+      "urls": [
+        "https://radio.plandos.com:7012/stream"
+      ],
+      "website": "https://rtbradio.blogspot.com/",
+      "content": "Hard rock ve heavy metal • Hard N Heavy Edition • İspanyolca",
+      "location": "Şili",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/rock_the_bones_radio.webp"
+    },
+    {
+      "id": "rock-the-bones-rock-metal-chile",
+      "name": "Rock The Bones Rock / Metal Chile",
+      "enabled": true,
+      "urls": [
+        "https://sp001.servidoresph.com:8086/stream"
+      ],
+      "website": "https://rtbradio.blogspot.com/",
+      "content": "Rock ve metal • Chile Edition • İspanyolca",
+      "location": "Şili",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/rock_the_bones_radio.webp"
+    },
+    {
+      "id": "purerock-us",
+      "name": "PureRock.US",
+      "enabled": true,
+      "urls": [
+        "https://purerock.radioca.st/live"
+      ],
+      "website": "https://purerock.us/",
+      "content": "Hard rock, klasik rock ve heavy metal • İngilizce",
+      "location": "Alabama, ABD",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/purerock_us.webp"
     }
   ],
   "catalogPolicy": {
