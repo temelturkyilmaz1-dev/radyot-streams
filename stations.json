@@ -9989,6 +9989,835 @@
       "location": "Alabama, ABD",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/purerock_us.webp",
       "newlyAdded": true
+    },
+    {
+      "id": "radio-uartes",
+      "name": "Radio UArtes",
+      "enabled": true,
+      "urls": [
+        "https://streamer.radio.co/se440ad747/listen"
+      ],
+      "website": "https://radio.uartes.edu.ec/",
+      "content": "Üniversite radyosu, sanat, kültür ve müzik • İspanyolca",
+      "location": "Guayaquil, Ekvador",
+      "logo": "https://radio.uartes.edu.ec/wp-content/uploads/sites/24/2022/03/cropped-favico-logo-radio-ua-192x192.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "clasica-rock",
+      "name": "ClásicaRock",
+      "enabled": true,
+      "urls": [
+        "https://clasicarock.streamradio.live/listen/clasicarock/radio.mp3"
+      ],
+      "website": "https://clasicarock.com/",
+      "content": "Pop, rock, thrash, blues ve rockabilly • 1950'lerden 2000'lere • İspanyolca",
+      "location": "İspanya",
+      "logo": "https://clasicarock.com/storage/2026/06/Logo2-2.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "radyo-aura",
+      "name": "RadyoAura",
+      "enabled": true,
+      "urls": [
+        "https://stream.radiaura.net/station-ea8ab46e-ae01-4b71-ad9a-fef58665b89c"
+      ],
+      "website": "https://www.radyoaura.com/",
+      "content": "Türkçe pop, caz, haber ve sohbet • Türkçe",
+      "location": "İstanbul, Türkiye",
+      "logo": "https://radioaurastorage2.blob.core.windows.net/music-files/station-branding/radyoaura/logo.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "0n-radio",
+      "name": "0N Radio",
+      "enabled": true,
+      "urls": [
+        "https://0n-radio.radionetz.de/0n-radio_web.mp3",
+        "https://0n-radio.radionetz.de/0n-radio_web.aac"
+      ],
+      "website": "https://www.0nradio.com/",
+      "content": "Top 40, pop, hit ve oldies • Almanca",
+      "location": "Hof, Almanya",
+      "logo": "https://www.0nradio.com/logos/0n-radio_600x600.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "0n-2010s",
+      "name": "0N 2010s",
+      "enabled": true,
+      "urls": [
+        "https://0n-2010s.radionetz.de/0n-2010s_web.mp3",
+        "https://0n-2010s.radionetz.de/0n-2010s_web.aac"
+      ],
+      "website": "https://www.0nradio.com/",
+      "content": "0N 2010s tematik müzik kanalı",
+      "location": "Hof, Almanya",
+      "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-2010s-64-1.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "0n-50s",
+      "name": "0N 50s",
+      "enabled": true,
+      "urls": [
+        "https://0n-50s.radionetz.de/0n-50s_web.mp3",
+        "https://0n-50s.radionetz.de/0n-50s_web.aac"
+      ],
+      "website": "https://www.0nradio.com/",
+      "content": "0N 50s tematik müzik kanalı",
+      "location": "Hof, Almanya",
+      "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-50s-69-1.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "0n-60s",
+      "name": "0N 60s",
+      "enabled": true,
+      "urls": [
+        "https://0n-60s.radionetz.de/0n-60s_web.mp3",
+        "https://0n-60s.radionetz.de/0n-60s_web.aac"
+      ],
+      "website": "https://www.0nradio.com/",
+      "content": "0N 60s tematik müzik kanalı",
+      "location": "Hof, Almanya",
+      "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-60s-33-1.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "0n-black",
+      "name": "0N Black",
+      "enabled": true,
+      "urls": [
+        "https://0n-black.radionetz.de/0n-black_web.mp3",
+        "https://0n-black.radionetz.de/0n-black_web.aac"
+      ],
+      "website": "https://www.0nradio.com/",
+      "content": "0N Black tematik müzik kanalı",
+      "location": "Hof, Almanya",
+      "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-black-31-1.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "0n-blues",
+      "name": "0N Blues",
+      "enabled": true,
+      "urls": [
+        "https://0n-blues.radionetz.de/0n-blues_web.mp3",
+        "https://0n-blues.radionetz.de/0n-blues_web.aac"
+      ],
+      "website": "https://www.0nradio.com/",
+      "content": "0N Blues tematik müzik kanalı",
+      "location": "Hof, Almanya",
+      "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-blues-83-1.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "0n-charts",
+      "name": "0N Charts",
+      "enabled": true,
+      "urls": [
+        "https://0n-charts.radionetz.de/0n-charts_web.mp3",
+        "https://0n-charts.radionetz.de/0n-charts_web.aac"
+      ],
+      "website": "https://www.0nradio.com/",
+      "content": "0N Charts tematik müzik kanalı",
+      "location": "Hof, Almanya",
+      "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-charts-3-1.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "0n-chillout",
+      "name": "0N Chillout",
+      "enabled": true,
+      "urls": [
+        "https://0n-chillout.radionetz.de/0n-chillout_web.mp3",
+        "https://0n-chillout.radionetz.de/0n-chillout_web.aac"
+      ],
+      "website": "https://www.0nradio.com/",
+      "content": "0N Chillout tematik müzik kanalı",
+      "location": "Hof, Almanya",
+      "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-chillout-35-1.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "0n-christmas",
+      "name": "0N Christmas",
+      "enabled": true,
+      "urls": [
+        "https://0n-christmas.radionetz.de/0n-christmas_web.mp3",
+        "https://0n-christmas.radionetz.de/0n-christmas_web.aac"
+      ],
+      "website": "https://www.0nradio.com/",
+      "content": "0N Christmas tematik müzik kanalı",
+      "location": "Hof, Almanya",
+      "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-christmas-61-1.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "0n-classicrock",
+      "name": "0N Classic Rock",
+      "enabled": true,
+      "urls": [
+        "https://0n-classicrock.radionetz.de/0n-classicrock_web.mp3",
+        "https://0n-classicrock.radionetz.de/0n-classicrock_web.aac"
+      ],
+      "website": "https://www.0nradio.com/",
+      "content": "0N Classic Rock tematik müzik kanalı",
+      "location": "Hof, Almanya",
+      "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-classic-rock-50-1.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "0n-country",
+      "name": "0N Country",
+      "enabled": true,
+      "urls": [
+        "https://0n-country.radionetz.de/0n-country_web.mp3",
+        "https://0n-country.radionetz.de/0n-country_web.aac"
+      ],
+      "website": "https://www.0nradio.com/",
+      "content": "0N Country tematik müzik kanalı",
+      "location": "Hof, Almanya",
+      "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-country-47-1.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "0n-dance",
+      "name": "0N Dance",
+      "enabled": true,
+      "urls": [
+        "https://0n-dance.radionetz.de/0n-dance_web.mp3",
+        "https://0n-dance.radionetz.de/0n-dance_web.aac"
+      ],
+      "website": "https://www.0nradio.com/",
+      "content": "0N Dance tematik müzik kanalı",
+      "location": "Hof, Almanya",
+      "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-dance-4-1.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "0n-deutschpop",
+      "name": "0N Deutsch Pop",
+      "enabled": true,
+      "urls": [
+        "https://0n-deutschpop.radionetz.de/0n-deutschpop_web.mp3",
+        "https://0n-deutschpop.radionetz.de/0n-deutschpop_web.aac"
+      ],
+      "website": "https://www.0nradio.com/",
+      "content": "0N Deutsch Pop tematik müzik kanalı",
+      "location": "Hof, Almanya",
+      "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-deutsch-pop-54-1.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "0n-deutschrap",
+      "name": "0N Deutsch Rap",
+      "enabled": true,
+      "urls": [
+        "https://0n-deutschrap.radionetz.de/0n-deutschrap_web.mp3",
+        "https://0n-deutschrap.radionetz.de/0n-deutschrap_web.aac"
+      ],
+      "website": "https://www.0nradio.com/",
+      "content": "0N Deutsch Rap tematik müzik kanalı",
+      "location": "Hof, Almanya",
+      "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-deutsch-rap-55-1.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "0n-deutschrock",
+      "name": "0N Deutsch Rock",
+      "enabled": true,
+      "urls": [
+        "https://0n-deutschrock.radionetz.de/0n-deutschrock_web.mp3",
+        "https://0n-deutschrock.radionetz.de/0n-deutschrock_web.aac"
+      ],
+      "website": "https://www.0nradio.com/",
+      "content": "0N Deutsch Rock tematik müzik kanalı",
+      "location": "Hof, Almanya",
+      "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-deutsch-rock-75-1.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "0n-electro",
+      "name": "0N Electro",
+      "enabled": true,
+      "urls": [
+        "https://0n-electro.radionetz.de/0n-electro_web.mp3",
+        "https://0n-electro.radionetz.de/0n-electro_web.aac"
+      ],
+      "website": "https://www.0nradio.com/",
+      "content": "0N Electro tematik müzik kanalı",
+      "location": "Hof, Almanya",
+      "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-electro-5-1.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "0n-evergreens",
+      "name": "0N Evergreens",
+      "enabled": true,
+      "urls": [
+        "https://0n-evergreens.radionetz.de/0n-evergreens_web.mp3",
+        "https://0n-evergreens.radionetz.de/0n-evergreens_web.aac"
+      ],
+      "website": "https://www.0nradio.com/",
+      "content": "0N Evergreens tematik müzik kanalı",
+      "location": "Hof, Almanya",
+      "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-evergreens-57-1.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "0n-gay",
+      "name": "0N Gay",
+      "enabled": true,
+      "urls": [
+        "https://0n-gay.radionetz.de/0n-gay_web.mp3",
+        "https://0n-gay.radionetz.de/0n-gay_web.aac"
+      ],
+      "website": "https://www.0nradio.com/",
+      "content": "0N Gay tematik müzik kanalı",
+      "location": "Hof, Almanya",
+      "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-gay-28-1.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "0n-gold",
+      "name": "0N Gold",
+      "enabled": true,
+      "urls": [
+        "https://0n-gold.radionetz.de/0n-gold_web.mp3",
+        "https://0n-gold.radionetz.de/0n-gold_web.aac"
+      ],
+      "website": "https://www.0nradio.com/",
+      "content": "0N Gold tematik müzik kanalı",
+      "location": "Hof, Almanya",
+      "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-gold-71-1.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "0n-gothic",
+      "name": "0N Gothic",
+      "enabled": true,
+      "urls": [
+        "https://0n-gothic.radionetz.de/0n-gothic_web.mp3",
+        "https://0n-gothic.radionetz.de/0n-gothic_web.aac"
+      ],
+      "website": "https://www.0nradio.com/",
+      "content": "0N Gothic tematik müzik kanalı",
+      "location": "Hof, Almanya",
+      "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-gothic-39-1.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "0n-greatesthits",
+      "name": "0N Greatest Hits",
+      "enabled": true,
+      "urls": [
+        "https://0n-greatesthits.radionetz.de/0n-greatesthits_web.mp3",
+        "https://0n-greatesthits.radionetz.de/0n-greatesthits_web.aac"
+      ],
+      "website": "https://www.0nradio.com/",
+      "content": "0N Greatest Hits tematik müzik kanalı",
+      "location": "Hof, Almanya",
+      "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-greatest-hits-70-1.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "0n-heavymetal",
+      "name": "0N Heavy Metal",
+      "enabled": true,
+      "urls": [
+        "https://0n-heavymetal.radionetz.de/0n-heavymetal_web.mp3",
+        "https://0n-heavymetal.radionetz.de/0n-heavymetal_web.aac"
+      ],
+      "website": "https://www.0nradio.com/",
+      "content": "0N Heavy Metal tematik müzik kanalı",
+      "location": "Hof, Almanya",
+      "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-heavy-metal-81-1.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "0n-hits",
+      "name": "0N Hits",
+      "enabled": true,
+      "urls": [
+        "https://0n-hits.radionetz.de/0n-hits.mp3",
+        "https://0n-hits.radionetz.de/0n-hits.aac"
+      ],
+      "website": "https://www.0nradio.com/",
+      "content": "0N Hits tematik müzik kanalı",
+      "location": "Hof, Almanya",
+      "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-hits-30-1.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "0n-hot",
+      "name": "0N Hot",
+      "enabled": true,
+      "urls": [
+        "https://0n-hot.radionetz.de/0n-hot_web.mp3",
+        "https://0n-hot.radionetz.de/0n-hot_web.aac"
+      ],
+      "website": "https://www.0nradio.com/",
+      "content": "0N Hot tematik müzik kanalı",
+      "location": "Hof, Almanya",
+      "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-hot-65-1.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "0n-house",
+      "name": "0N House",
+      "enabled": true,
+      "urls": [
+        "https://0n-house.radionetz.de/0n-house_web.mp3",
+        "https://0n-house.radionetz.de/0n-house_web.aac"
+      ],
+      "website": "https://www.0nradio.com/",
+      "content": "0N House tematik müzik kanalı",
+      "location": "Hof, Almanya",
+      "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-house-66-1.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "0n-jukebox",
+      "name": "0N Jukebox",
+      "enabled": true,
+      "urls": [
+        "https://0n-jukebox.radionetz.de/0n-jukebox_web.mp3",
+        "https://0n-jukebox.radionetz.de/0n-jukebox_web.aac"
+      ],
+      "website": "https://www.0nradio.com/",
+      "content": "0N Jukebox tematik müzik kanalı",
+      "location": "Hof, Almanya",
+      "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-jukebox-58-1.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "0n-klassik",
+      "name": "0N Klassik",
+      "enabled": true,
+      "urls": [
+        "https://0n-klassik.radionetz.de/0n-klassik_web.mp3",
+        "https://0n-klassik.radionetz.de/0n-klassik_web.aac"
+      ],
+      "website": "https://www.0nradio.com/",
+      "content": "0N Klassik tematik müzik kanalı",
+      "location": "Hof, Almanya",
+      "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-klassik-45-1.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "0n-kpop",
+      "name": "0N K-Pop",
+      "enabled": true,
+      "urls": [
+        "https://0n-kpop.radionetz.de/0n-kpop_web.mp3",
+        "https://0n-kpop.radionetz.de/0n-kpop_web.aac"
+      ],
+      "website": "https://www.0nradio.com/",
+      "content": "0N K-Pop tematik müzik kanalı",
+      "location": "Hof, Almanya",
+      "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-k-pop-79-1.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "0n-latin",
+      "name": "0N Latin",
+      "enabled": true,
+      "urls": [
+        "https://0n-latin.radionetz.de/0n-latin_web.mp3",
+        "https://0n-latin.radionetz.de/0n-latin_web.aac"
+      ],
+      "website": "https://www.0nradio.com/",
+      "content": "0N Latin tematik müzik kanalı",
+      "location": "Hof, Almanya",
+      "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-latin-78-1.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "0n-lounge",
+      "name": "0N Lounge",
+      "enabled": true,
+      "urls": [
+        "https://0n-lounge.radionetz.de/0n-lounge_web.mp3",
+        "https://0n-lounge.radionetz.de/0n-lounge_web.aac"
+      ],
+      "website": "https://www.0nradio.com/",
+      "content": "0N Lounge tematik müzik kanalı",
+      "location": "Hof, Almanya",
+      "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-lounge-72-1.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "0n-love",
+      "name": "0N Love",
+      "enabled": true,
+      "urls": [
+        "https://0n-love.radionetz.de/0n-love_web.mp3",
+        "https://0n-love.radionetz.de/0n-love_web.aac"
+      ],
+      "website": "https://www.0nradio.com/",
+      "content": "0N Love tematik müzik kanalı",
+      "location": "Hof, Almanya",
+      "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-love-74-1.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "0n-movies",
+      "name": "0N Movies",
+      "enabled": true,
+      "urls": [
+        "https://0n-movies.radionetz.de/0n-movies_web.mp3",
+        "https://0n-movies.radionetz.de/0n-movies_web.aac"
+      ],
+      "website": "https://www.0nradio.com/",
+      "content": "0N Movies tematik müzik kanalı",
+      "location": "Hof, Almanya",
+      "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-movies-46-1.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "0n-newwave",
+      "name": "0N New Wave",
+      "enabled": true,
+      "urls": [
+        "https://0n-newwave.radionetz.de/0n-newwave_web.mp3",
+        "https://0n-newwave.radionetz.de/0n-newwave_web.aac"
+      ],
+      "website": "https://www.0nradio.com/",
+      "content": "0N New Wave tematik müzik kanalı",
+      "location": "Hof, Almanya",
+      "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-new-wave-84-1.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "0n-oldies",
+      "name": "0N Oldies",
+      "enabled": true,
+      "urls": [
+        "https://0n-oldies.radionetz.de/0n-oldies_web.mp3",
+        "https://0n-oldies.radionetz.de/0n-oldies_web.aac"
+      ],
+      "website": "https://www.0nradio.com/",
+      "content": "0N Oldies tematik müzik kanalı",
+      "location": "Hof, Almanya",
+      "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-oldies-34-1.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "0n-party",
+      "name": "0N Party",
+      "enabled": true,
+      "urls": [
+        "https://0n-party.radionetz.de/0n-party_web.mp3",
+        "https://0n-party.radionetz.de/0n-party_web.aac"
+      ],
+      "website": "https://www.0nradio.com/",
+      "content": "0N Party tematik müzik kanalı",
+      "location": "Hof, Almanya",
+      "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-party-48-1.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "0n-pop",
+      "name": "0N Pop",
+      "enabled": true,
+      "urls": [
+        "https://0n-pop.radionetz.de/0n-pop_web.mp3",
+        "https://0n-pop.radionetz.de/0n-pop_web.aac"
+      ],
+      "website": "https://www.0nradio.com/",
+      "content": "0N Pop tematik müzik kanalı",
+      "location": "Hof, Almanya",
+      "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-pop-42-1.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "0n-reggae",
+      "name": "0N Reggae",
+      "enabled": true,
+      "urls": [
+        "https://0n-reggae.radionetz.de/0n-reggae_web.mp3",
+        "https://0n-reggae.radionetz.de/0n-reggae_web.aac"
+      ],
+      "website": "https://www.0nradio.com/",
+      "content": "0N Reggae tematik müzik kanalı",
+      "location": "Hof, Almanya",
+      "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-reggae-82-1.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "0n-rock",
+      "name": "0N Rock",
+      "enabled": true,
+      "urls": [
+        "https://0n-rock.radionetz.de/0n-rock_web.mp3",
+        "https://0n-rock.radionetz.de/0n-rock_web.aac"
+      ],
+      "website": "https://www.0nradio.com/",
+      "content": "0N Rock tematik müzik kanalı",
+      "location": "Hof, Almanya",
+      "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-rock-32-1.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "0n-schlager",
+      "name": "0N Schlager",
+      "enabled": true,
+      "urls": [
+        "https://0n-schlager.radionetz.de/0n-schlager_web.mp3",
+        "https://0n-schlager.radionetz.de/0n-schlager_web.aac"
+      ],
+      "website": "https://www.0nradio.com/",
+      "content": "0N Schlager tematik müzik kanalı",
+      "location": "Hof, Almanya",
+      "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-schlager-6-1.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "0n-schlagergold",
+      "name": "0N Schlager Gold",
+      "enabled": true,
+      "urls": [
+        "https://0n-schlagergold.radionetz.de/0n-schlagergold_web.mp3",
+        "https://0n-schlagergold.radionetz.de/0n-schlagergold_web.aac"
+      ],
+      "website": "https://www.0nradio.com/",
+      "content": "0N Schlager Gold tematik müzik kanalı",
+      "location": "Hof, Almanya",
+      "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-schlager-gold-52-1.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "0n-schlagerkult",
+      "name": "0N Schlager Kult",
+      "enabled": true,
+      "urls": [
+        "https://0n-schlagerkult.radionetz.de/0n-schlagerkult_web.mp3",
+        "https://0n-schlagerkult.radionetz.de/0n-schlagerkult_web.aac"
+      ],
+      "website": "https://www.0nradio.com/",
+      "content": "0N Schlager Kult tematik müzik kanalı",
+      "location": "Hof, Almanya",
+      "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-schlager-kult-51-1.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "0n-smoothjazz",
+      "name": "0N Smooth Jazz",
+      "enabled": true,
+      "urls": [
+        "https://0n-smoothjazz.radionetz.de/0n-smoothjazz_web.mp3",
+        "https://0n-smoothjazz.radionetz.de/0n-smoothjazz_web.aac"
+      ],
+      "website": "https://www.0nradio.com/",
+      "content": "0N Smooth Jazz tematik müzik kanalı",
+      "location": "Hof, Almanya",
+      "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-smooth-jazz-43-1.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "0n-softpop",
+      "name": "0N Soft Pop",
+      "enabled": true,
+      "urls": [
+        "https://0n-softpop.radionetz.de/0n-softpop_web.mp3",
+        "https://0n-softpop.radionetz.de/0n-softpop_web.aac"
+      ],
+      "website": "https://www.0nradio.com/",
+      "content": "0N Soft Pop tematik müzik kanalı",
+      "location": "Hof, Almanya",
+      "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-soft-pop-73-1.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "0n-softrock",
+      "name": "0N Soft Rock",
+      "enabled": true,
+      "urls": [
+        "https://0n-softrock.radionetz.de/0n-softrock_web.mp3",
+        "https://0n-softrock.radionetz.de/0n-softrock_web.aac"
+      ],
+      "website": "https://www.0nradio.com/",
+      "content": "0N Soft Rock tematik müzik kanalı",
+      "location": "Hof, Almanya",
+      "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-soft-rock-76-1.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "0n-techno",
+      "name": "0N Techno",
+      "enabled": true,
+      "urls": [
+        "https://0n-techno.radionetz.de/0n-techno_web.mp3",
+        "https://0n-techno.radionetz.de/0n-techno_web.aac"
+      ],
+      "website": "https://www.0nradio.com/",
+      "content": "0N Techno tematik müzik kanalı",
+      "location": "Hof, Almanya",
+      "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-techno-68-1.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "0n-top40",
+      "name": "0N Top 40",
+      "enabled": true,
+      "urls": [
+        "https://0n-top40.radionetz.de/0n-top40_web.mp3",
+        "https://0n-top40.radionetz.de/0n-top40_web.aac"
+      ],
+      "website": "https://www.0nradio.com/",
+      "content": "0N Top 40 tematik müzik kanalı",
+      "location": "Hof, Almanya",
+      "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-top-40-38-1.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "0n-volksmusik",
+      "name": "0N Volksmusik",
+      "enabled": true,
+      "urls": [
+        "https://0n-volksmusik.radionetz.de/0n-volksmusik_web.mp3",
+        "https://0n-volksmusik.radionetz.de/0n-volksmusik_web.aac"
+      ],
+      "website": "https://www.0nradio.com/",
+      "content": "0N Volksmusik tematik müzik kanalı",
+      "location": "Hof, Almanya",
+      "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-volksmusik-53-1.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "0n-weihnachten",
+      "name": "0N Weihnachten",
+      "enabled": true,
+      "urls": [
+        "https://0n-weihnachten.radionetz.de/0n-weihnachten_web.mp3",
+        "https://0n-weihnachten.radionetz.de/0n-weihnachten_web.aac"
+      ],
+      "website": "https://www.0nradio.com/",
+      "content": "0N Weihnachten tematik müzik kanalı",
+      "location": "Hof, Almanya",
+      "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-weihnachten-59-1.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "volcano-fm-ecuador",
+      "name": "Volcano FM",
+      "enabled": true,
+      "urls": [
+        "https://stream.zeno.fm/ptumr2qh0ziuv"
+      ],
+      "website": "https://www.volcanofm.com/",
+      "content": "Rock, metal, alternatif rock ve klasik rock • İspanyolca",
+      "location": "Ibarra, Ekvador",
+      "logo": "https://cdn.instant.audio/images/logos/radios-com-ec/volcano-fm.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-anatolia",
+      "name": "Radio Anatolia",
+      "enabled": true,
+      "urls": [
+        "https://streaming.live365.com/a99253"
+      ],
+      "website": "https://radioanatolia.net/",
+      "content": "Dünden bugüne Türkçe pop müzik • Türkçe",
+      "location": "Türkiye",
+      "logo": "https://radioanatolia.net/images/logo-128-light.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "billyboy340-merengue-clasicos",
+      "name": "Merengue Clasicos",
+      "enabled": true,
+      "urls": ["https://radio.billyboy340.com/8038/stream"],
+      "website": "https://billyboy340.com/radio/",
+      "content": "Klasik merengue • İspanyolca",
+      "location": "Bronx, New York, ABD",
+      "logo": "https://pub-0100dceb5cce4083a3e8abfcf372cd8a.r2.dev/wp-content/uploads/2026/05/cropped-logo.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "billyboy340-romance",
+      "name": "Romance",
+      "enabled": true,
+      "urls": ["https://radio.billyboy340.com/8002/stream"],
+      "website": "https://billyboy340.com/radio/",
+      "content": "Romantik müzik • İspanyolca",
+      "location": "Bronx, New York, ABD",
+      "logo": "https://pub-0100dceb5cce4083a3e8abfcf372cd8a.r2.dev/wp-content/uploads/2026/05/cropped-logo.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "billyboy340-infinity-radio",
+      "name": "INFINITY Radio",
+      "enabled": true,
+      "urls": ["https://radio.billyboy340.com/8030/stream"],
+      "website": "https://billyboy340.com/radio/",
+      "content": "Karışık müzik • İspanyolca",
+      "location": "Bronx, New York, ABD",
+      "logo": "https://pub-0100dceb5cce4083a3e8abfcf372cd8a.r2.dev/wp-content/uploads/2026/05/cropped-logo.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "billyboy340-zona-urbana",
+      "name": "ZONA URBANA",
+      "enabled": true,
+      "urls": ["https://radio.billyboy340.com/8040/stream"],
+      "website": "https://billyboy340.com/radio/",
+      "content": "Urban müzik • İspanyolca",
+      "location": "Bronx, New York, ABD",
+      "logo": "https://pub-0100dceb5cce4083a3e8abfcf372cd8a.r2.dev/wp-content/uploads/2026/05/cropped-logo.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "billyboy340-hit-play",
+      "name": "HIT PLAY",
+      "enabled": true,
+      "urls": ["https://radio.billyboy340.com/8042/stream"],
+      "website": "https://billyboy340.com/radio/",
+      "content": "Urban, hip-hop, rap ve R&B • İngilizce ve İspanyolca",
+      "location": "Bronx, New York, ABD",
+      "logo": "https://pub-0100dceb5cce4083a3e8abfcf372cd8a.r2.dev/wp-content/uploads/2026/05/cropped-logo.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "billyboy340-timeless-radio",
+      "name": "TIMELESS RADIO",
+      "enabled": true,
+      "urls": ["https://radio.billyboy340.com/8044/stream"],
+      "website": "https://billyboy340.com/radio/",
+      "content": "Zamansız hitler • İngilizce ve İspanyolca",
+      "location": "Bronx, New York, ABD",
+      "logo": "https://pub-0100dceb5cce4083a3e8abfcf372cd8a.r2.dev/wp-content/uploads/2026/05/cropped-logo.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "rock-melodic-radio",
+      "name": "Rock Melodic Radio",
+      "enabled": true,
+      "urls": [
+        "https://i4.streams.ovh:2200/ssl/rockmelo?mp=/stream"
+      ],
+      "website": "https://rockmelodic-radio.com/",
+      "content": "AOR, melodic rock, hard rock ve classic rock",
+      "location": "Atina, Yunanistan",
+      "logo": "https://rockmelodic-radio.com/wp-content/uploads/2018/11/ROCK-MELODIC-POSTER-201801.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "whog-957-the-hog",
+      "name": "95.7 The Hog",
+      "enabled": true,
+      "urls": [
+        "https://ssc.streamguys1.com/whog-icy"
+      ],
+      "website": "https://www.957thehog.com/",
+      "content": "95.7 FM • Klasik rock, hard rock ve alternatif rock • İngilizce",
+      "location": "Daytona Beach, Florida, ABD",
+      "logo": "https://player.streamguys.com/ssc/whog/sgplayer/include/image/whog.png",
+      "newlyAdded": true
     }
   ],
   "catalogPolicy": {
