@@ -10731,7 +10731,9 @@
       "id": "billyboy340-merengue-clasicos",
       "name": "Merengue Clasicos",
       "enabled": true,
-      "urls": ["https://radio.billyboy340.com/8038/stream"],
+      "urls": [
+        "https://radio.billyboy340.com/8038/stream"
+      ],
       "website": "https://billyboy340.com/radio/",
       "content": "Klasik merengue • İspanyolca",
       "location": "Bronx, New York, ABD",
@@ -10742,7 +10744,9 @@
       "id": "billyboy340-romance",
       "name": "Romance",
       "enabled": true,
-      "urls": ["https://radio.billyboy340.com/8002/stream"],
+      "urls": [
+        "https://radio.billyboy340.com/8002/stream"
+      ],
       "website": "https://billyboy340.com/radio/",
       "content": "Romantik müzik • İspanyolca",
       "location": "Bronx, New York, ABD",
@@ -10753,7 +10757,9 @@
       "id": "billyboy340-infinity-radio",
       "name": "INFINITY Radio",
       "enabled": true,
-      "urls": ["https://radio.billyboy340.com/8030/stream"],
+      "urls": [
+        "https://radio.billyboy340.com/8030/stream"
+      ],
       "website": "https://billyboy340.com/radio/",
       "content": "Karışık müzik • İspanyolca",
       "location": "Bronx, New York, ABD",
@@ -10764,7 +10770,9 @@
       "id": "billyboy340-zona-urbana",
       "name": "ZONA URBANA",
       "enabled": true,
-      "urls": ["https://radio.billyboy340.com/8040/stream"],
+      "urls": [
+        "https://radio.billyboy340.com/8040/stream"
+      ],
       "website": "https://billyboy340.com/radio/",
       "content": "Urban müzik • İspanyolca",
       "location": "Bronx, New York, ABD",
@@ -10775,7 +10783,9 @@
       "id": "billyboy340-hit-play",
       "name": "HIT PLAY",
       "enabled": true,
-      "urls": ["https://radio.billyboy340.com/8042/stream"],
+      "urls": [
+        "https://radio.billyboy340.com/8042/stream"
+      ],
       "website": "https://billyboy340.com/radio/",
       "content": "Urban, hip-hop, rap ve R&B • İngilizce ve İspanyolca",
       "location": "Bronx, New York, ABD",
@@ -10786,7 +10796,9 @@
       "id": "billyboy340-timeless-radio",
       "name": "TIMELESS RADIO",
       "enabled": true,
-      "urls": ["https://radio.billyboy340.com/8044/stream"],
+      "urls": [
+        "https://radio.billyboy340.com/8044/stream"
+      ],
       "website": "https://billyboy340.com/radio/",
       "content": "Zamansız hitler • İngilizce ve İspanyolca",
       "location": "Bronx, New York, ABD",
@@ -10817,6 +10829,1572 @@
       "content": "95.7 FM • Klasik rock, hard rock ve alternatif rock • İngilizce",
       "location": "Daytona Beach, Florida, ABD",
       "logo": "https://player.streamguys.com/ssc/whog/sgplayer/include/image/whog.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-corax",
+      "name": "Radio CORAX",
+      "enabled": true,
+      "urls": [
+        "https://streaming.fueralle.org/corax_192.mp3",
+        "https://streaming.fueralle.org/corax_128.mp3"
+      ],
+      "website": "https://radiocorax.de/",
+      "content": "95.9 FM • Bağımsız topluluk radyosu; müzik, kültür ve yerel programlar • Almanca ve çok dilli",
+      "location": "Halle (Saale), Almanya",
+      "frequency": "95.9 FM",
+      "logo": "https://radiocorax.de/wp-content/uploads/cropped-corax_icon-270x270.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-bob-2000er",
+      "name": "RADIO BOB! 2000er Rock",
+      "enabled": true,
+      "urls": [
+        "https://streams.radiobob.de/2000er/mp3-192/streams.radiobob.de/"
+      ],
+      "website": "https://www.radiobob.de/musik/streams",
+      "content": "2000er Rock • Rock ve metal müzik • Almanca",
+      "location": "Almanya",
+      "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-bob-70errock",
+      "name": "RADIO BOB! 70er Rock",
+      "enabled": true,
+      "urls": [
+        "https://streams.radiobob.de/70errock/mp3-192/streams.radiobob.de/"
+      ],
+      "website": "https://www.radiobob.de/musik/streams",
+      "content": "70er Rock • Rock ve metal müzik • Almanca",
+      "location": "Almanya",
+      "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-bob-blues",
+      "name": "RADIO BOB! Blues",
+      "enabled": true,
+      "urls": [
+        "https://streams.radiobob.de/blues/mp3-192/streams.radiobob.de/"
+      ],
+      "website": "https://www.radiobob.de/musik/streams",
+      "content": "Blues • Rock ve metal müzik • Almanca",
+      "location": "Almanya",
+      "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-bob-bob-80srock",
+      "name": "RADIO BOB! 80er Rock",
+      "enabled": true,
+      "urls": [
+        "https://streams.radiobob.de/bob-80srock/mp3-192/streams.radiobob.de/"
+      ],
+      "website": "https://www.radiobob.de/musik/streams",
+      "content": "80er Rock • Rock ve metal müzik • Almanca",
+      "location": "Almanya",
+      "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-bob-bob-90srock",
+      "name": "RADIO BOB! 90er Rock",
+      "enabled": true,
+      "urls": [
+        "https://streams.radiobob.de/bob-90srock/mp3-192/streams.radiobob.de/"
+      ],
+      "website": "https://www.radiobob.de/musik/streams",
+      "content": "90er Rock • Rock ve metal müzik • Almanca",
+      "location": "Almanya",
+      "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-bob-bob-acdc",
+      "name": "RADIO BOB! AC/DC Collection",
+      "enabled": true,
+      "urls": [
+        "https://streams.radiobob.de/bob-acdc/mp3-192/streams.radiobob.de/"
+      ],
+      "website": "https://www.radiobob.de/musik/streams",
+      "content": "AC/DC Collection • Rock ve metal müzik • Almanca",
+      "location": "Almanya",
+      "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-bob-bob-alternative",
+      "name": "RADIO BOB! Alternative Rock",
+      "enabled": true,
+      "urls": [
+        "https://streams.radiobob.de/bob-alternative/mp3-192/streams.radiobob.de/"
+      ],
+      "website": "https://www.radiobob.de/musik/streams",
+      "content": "Alternative Rock • Rock ve metal müzik • Almanca",
+      "location": "Almanya",
+      "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-bob-bob-bestofrock",
+      "name": "RADIO BOB! Best of Rock",
+      "enabled": true,
+      "urls": [
+        "https://streams.radiobob.de/bob-bestofrock/mp3-192/streams.radiobob.de/"
+      ],
+      "website": "https://www.radiobob.de/musik/streams",
+      "content": "Best of Rock • Rock ve metal müzik • Almanca",
+      "location": "Almanya",
+      "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-bob-bob-britpop",
+      "name": "RADIO BOB! Britpop",
+      "enabled": true,
+      "urls": [
+        "https://streams.radiobob.de/bob-britpop/mp3-192/streams.radiobob.de/"
+      ],
+      "website": "https://www.radiobob.de/musik/streams",
+      "content": "Britpop • Rock ve metal müzik • Almanca",
+      "location": "Almanya",
+      "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-bob-bob-chillout",
+      "name": "RADIO BOB! Chillout Unplugged Songs",
+      "enabled": true,
+      "urls": [
+        "https://streams.radiobob.de/bob-chillout/mp3-192/streams.radiobob.de/"
+      ],
+      "website": "https://www.radiobob.de/musik/streams",
+      "content": "Chillout Unplugged Songs • Rock ve metal müzik • Almanca",
+      "location": "Almanya",
+      "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-bob-bob-christmas",
+      "name": "RADIO BOB! Christmas Rock",
+      "enabled": true,
+      "urls": [
+        "https://streams.radiobob.de/bob-christmas/mp3-192/streams.radiobob.de/"
+      ],
+      "website": "https://www.radiobob.de/musik/streams",
+      "content": "Christmas Rock • Rock ve metal müzik • Almanca",
+      "location": "Almanya",
+      "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-bob-bob-classicrock",
+      "name": "RADIO BOB! Classic Rock",
+      "enabled": true,
+      "urls": [
+        "https://streams.radiobob.de/bob-classicrock/mp3-192/streams.radiobob.de/"
+      ],
+      "website": "https://www.radiobob.de/musik/streams",
+      "content": "Classic Rock • Rock ve metal müzik • Almanca",
+      "location": "Almanya",
+      "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-bob-bob-deutsch",
+      "name": "RADIO BOB! Deutsch Rock",
+      "enabled": true,
+      "urls": [
+        "https://streams.radiobob.de/bob-deutsch/mp3-192/streams.radiobob.de/"
+      ],
+      "website": "https://www.radiobob.de/musik/streams",
+      "content": "Deutsch Rock • Rock ve metal müzik • Almanca",
+      "location": "Almanya",
+      "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-bob-bob-festival",
+      "name": "RADIO BOB! Festival",
+      "enabled": true,
+      "urls": [
+        "https://streams.radiobob.de/bob-festival/mp3-192/streams.radiobob.de/"
+      ],
+      "website": "https://www.radiobob.de/musik/streams",
+      "content": "Festival • Rock ve metal müzik • Almanca",
+      "location": "Almanya",
+      "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-bob-bob-grunge",
+      "name": "RADIO BOB! Grunge",
+      "enabled": true,
+      "urls": [
+        "https://streams.radiobob.de/bob-grunge/mp3-192/streams.radiobob.de/"
+      ],
+      "website": "https://www.radiobob.de/musik/streams",
+      "content": "Grunge • Rock ve metal müzik • Almanca",
+      "location": "Almanya",
+      "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-bob-bob-hardrock",
+      "name": "RADIO BOB! Hardrock",
+      "enabled": true,
+      "urls": [
+        "https://streams.radiobob.de/bob-hardrock/mp3-192/streams.radiobob.de/"
+      ],
+      "website": "https://www.radiobob.de/musik/streams",
+      "content": "Hardrock • Rock ve metal müzik • Almanca",
+      "location": "Almanya",
+      "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-bob-bob-hartesaite",
+      "name": "RADIO BOB! Harte Saite",
+      "enabled": true,
+      "urls": [
+        "https://streams.radiobob.de/bob-hartesaite/mp3-192/streams.radiobob.de/"
+      ],
+      "website": "https://www.radiobob.de/musik/streams",
+      "content": "Harte Saite • Rock ve metal müzik • Almanca",
+      "location": "Almanya",
+      "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-bob-bob-ironmaiden",
+      "name": "RADIO BOB! Iron Maiden",
+      "enabled": true,
+      "urls": [
+        "https://streams.radiobob.de/bob-ironmaiden/mp3-192/streams.radiobob.de/"
+      ],
+      "website": "https://www.radiobob.de/musik/streams",
+      "content": "Iron Maiden • Rock ve metal müzik • Almanca",
+      "location": "Almanya",
+      "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-bob-bob-kuschelrock",
+      "name": "RADIO BOB! Kuschelrock",
+      "enabled": true,
+      "urls": [
+        "https://streams.radiobob.de/bob-kuschelrock/mp3-192/streams.radiobob.de/"
+      ],
+      "website": "https://www.radiobob.de/musik/streams",
+      "content": "Kuschelrock • Rock ve metal müzik • Almanca",
+      "location": "Almanya",
+      "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-bob-bob-live",
+      "name": "RADIO BOB! Hessen",
+      "enabled": true,
+      "urls": [
+        "https://streams.radiobob.de/bob-live/mp3-192/streams.radiobob.de/"
+      ],
+      "website": "https://www.radiobob.de/musik/streams",
+      "content": "Hessen • Rock ve metal müzik • Almanca",
+      "location": "Almanya",
+      "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-bob-bob-metal",
+      "name": "RADIO BOB! Metal",
+      "enabled": true,
+      "urls": [
+        "https://streams.radiobob.de/bob-metal/mp3-192/streams.radiobob.de/"
+      ],
+      "website": "https://www.radiobob.de/musik/streams",
+      "content": "Metal • Rock ve metal müzik • Almanca",
+      "location": "Almanya",
+      "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-bob-bob-national",
+      "name": "RADIO BOB! National",
+      "enabled": true,
+      "urls": [
+        "https://streams.radiobob.de/bob-national/mp3-192/streams.radiobob.de/"
+      ],
+      "website": "https://www.radiobob.de/musik/streams",
+      "content": "National • Rock ve metal müzik • Almanca",
+      "location": "Almanya",
+      "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-bob-bob-punk",
+      "name": "RADIO BOB! Punk",
+      "enabled": true,
+      "urls": [
+        "https://streams.radiobob.de/bob-punk/mp3-192/streams.radiobob.de/"
+      ],
+      "website": "https://www.radiobob.de/musik/streams",
+      "content": "Punk • Rock ve metal müzik • Almanca",
+      "location": "Almanya",
+      "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-bob-bob-queen",
+      "name": "RADIO BOB! Queen-Stream",
+      "enabled": true,
+      "urls": [
+        "https://streams.radiobob.de/bob-queen/mp3-192/streams.radiobob.de/"
+      ],
+      "website": "https://www.radiobob.de/musik/streams",
+      "content": "Queen-Stream • Rock ve metal müzik • Almanca",
+      "location": "Almanya",
+      "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-bob-bob-rockabilly",
+      "name": "RADIO BOB! Rockabilly",
+      "enabled": true,
+      "urls": [
+        "https://streams.radiobob.de/bob-rockabilly/mp3-192/streams.radiobob.de/"
+      ],
+      "website": "https://www.radiobob.de/musik/streams",
+      "content": "Rockabilly • Rock ve metal müzik • Almanca",
+      "location": "Almanya",
+      "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-bob-bob-rockhits",
+      "name": "RADIO BOB! Rock Hits",
+      "enabled": true,
+      "urls": [
+        "https://streams.radiobob.de/bob-rockhits/mp3-192/streams.radiobob.de/"
+      ],
+      "website": "https://www.radiobob.de/musik/streams",
+      "content": "Rock Hits • Rock ve metal müzik • Almanca",
+      "location": "Almanya",
+      "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-bob-bob-shlive",
+      "name": "RADIO BOB! Schleswig-Holstein",
+      "enabled": true,
+      "urls": [
+        "https://streams.radiobob.de/bob-shlive/mp3-192/streams.radiobob.de/"
+      ],
+      "website": "https://www.radiobob.de/musik/streams",
+      "content": "Schleswig-Holstein • Rock ve metal müzik • Almanca",
+      "location": "Almanya",
+      "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-bob-bob-singersong",
+      "name": "RADIO BOB! Singer and Songwriter",
+      "enabled": true,
+      "urls": [
+        "https://streams.radiobob.de/bob-singersong/mp3-192/streams.radiobob.de/"
+      ],
+      "website": "https://www.radiobob.de/musik/streams",
+      "content": "Singer and Songwriter • Rock ve metal müzik • Almanca",
+      "location": "Almanya",
+      "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-bob-bob-wacken",
+      "name": "RADIO BOB! Wacken Nonstop",
+      "enabled": true,
+      "urls": [
+        "https://streams.radiobob.de/bob-wacken/mp3-192/streams.radiobob.de/"
+      ],
+      "website": "https://www.radiobob.de/musik/streams",
+      "content": "Wacken Nonstop • Rock ve metal müzik • Almanca",
+      "location": "Almanya",
+      "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-bob-collegerock",
+      "name": "RADIO BOB! College Rock",
+      "enabled": true,
+      "urls": [
+        "https://streams.radiobob.de/collegerock/mp3-192/streams.radiobob.de/"
+      ],
+      "website": "https://www.radiobob.de/musik/streams",
+      "content": "College Rock • Rock ve metal müzik • Almanca",
+      "location": "Almanya",
+      "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-bob-country",
+      "name": "RADIO BOB! Country",
+      "enabled": true,
+      "urls": [
+        "https://streams.radiobob.de/country/mp3-192/streams.radiobob.de/"
+      ],
+      "website": "https://www.radiobob.de/musik/streams",
+      "content": "Country • Rock ve metal müzik • Almanca",
+      "location": "Almanya",
+      "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-bob-deathmetal",
+      "name": "RADIO BOB! Death Metal",
+      "enabled": true,
+      "urls": [
+        "https://streams.radiobob.de/deathmetal/mp3-192/streams.radiobob.de/"
+      ],
+      "website": "https://www.radiobob.de/musik/streams",
+      "content": "Death Metal • Rock ve metal müzik • Almanca",
+      "location": "Almanya",
+      "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-bob-donots",
+      "name": "RADIO BOB! Donots",
+      "enabled": true,
+      "urls": [
+        "https://streams.radiobob.de/donots/mp3-192/streams.radiobob.de/"
+      ],
+      "website": "https://www.radiobob.de/musik/streams",
+      "content": "Donots • Rock ve metal müzik • Almanca",
+      "location": "Almanya",
+      "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-bob-electrorock",
+      "name": "RADIO BOB! Electro Rock",
+      "enabled": true,
+      "urls": [
+        "https://streams.radiobob.de/electrorock/mp3-192/streams.radiobob.de/"
+      ],
+      "website": "https://www.radiobob.de/musik/streams",
+      "content": "Electro Rock • Rock ve metal müzik • Almanca",
+      "location": "Almanya",
+      "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-bob-emo",
+      "name": "RADIO BOB! Emo",
+      "enabled": true,
+      "urls": [
+        "https://streams.radiobob.de/emo/mp3-192/streams.radiobob.de/"
+      ],
+      "website": "https://www.radiobob.de/musik/streams",
+      "content": "Emo • Rock ve metal müzik • Almanca",
+      "location": "Almanya",
+      "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-bob-folkrock",
+      "name": "RADIO BOB! Folk Rock",
+      "enabled": true,
+      "urls": [
+        "https://streams.radiobob.de/folkrock/mp3-192/streams.radiobob.de/"
+      ],
+      "website": "https://www.radiobob.de/musik/streams",
+      "content": "Folk Rock • Rock ve metal müzik • Almanca",
+      "location": "Almanya",
+      "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-bob-fury",
+      "name": "RADIO BOB! Fury in the Slaughterhouse",
+      "enabled": true,
+      "urls": [
+        "https://streams.radiobob.de/fury/mp3-192/streams.radiobob.de/"
+      ],
+      "website": "https://www.radiobob.de/musik/streams",
+      "content": "Fury in the Slaughterhouse • Rock ve metal müzik • Almanca",
+      "location": "Almanya",
+      "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-bob-gamingrock",
+      "name": "RADIO BOB! Gaming Rock",
+      "enabled": true,
+      "urls": [
+        "https://streams.radiobob.de/gamingrock/mp3-192/streams.radiobob.de/"
+      ],
+      "website": "https://www.radiobob.de/musik/streams",
+      "content": "Gaming Rock • Rock ve metal müzik • Almanca",
+      "location": "Almanya",
+      "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-bob-gastro",
+      "name": "RADIO BOB! Gastro Stream",
+      "enabled": true,
+      "urls": [
+        "https://streams.radiobob.de/gastro/mp3-192/streams.radiobob.de/"
+      ],
+      "website": "https://www.radiobob.de/musik/streams",
+      "content": "Gastro Stream • Rock ve metal müzik • Almanca",
+      "location": "Almanya",
+      "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-bob-gastro2",
+      "name": "RADIO BOB! Gastro Stream 2",
+      "enabled": true,
+      "urls": [
+        "https://streams.radiobob.de/gastro2/mp3-192/streams.radiobob.de/"
+      ],
+      "website": "https://www.radiobob.de/musik/streams",
+      "content": "Gastro Stream 2 • Rock ve metal müzik • Almanca",
+      "location": "Almanya",
+      "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-bob-gothic",
+      "name": "RADIO BOB! Gothic Rock",
+      "enabled": true,
+      "urls": [
+        "https://streams.radiobob.de/gothic/mp3-192/streams.radiobob.de/"
+      ],
+      "website": "https://www.radiobob.de/musik/streams",
+      "content": "Gothic Rock • Rock ve metal müzik • Almanca",
+      "location": "Almanya",
+      "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-bob-guitarheroes",
+      "name": "RADIO BOB! Guitar Heroes",
+      "enabled": true,
+      "urls": [
+        "https://streams.radiobob.de/guitarheroes/mp3-192/streams.radiobob.de/"
+      ],
+      "website": "https://www.radiobob.de/musik/streams",
+      "content": "Guitar Heroes • Rock ve metal müzik • Almanca",
+      "location": "Almanya",
+      "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-bob-hairmetal",
+      "name": "RADIO BOB! Hair Metal",
+      "enabled": true,
+      "urls": [
+        "https://streams.radiobob.de/hairmetal/mp3-192/streams.radiobob.de/"
+      ],
+      "website": "https://www.radiobob.de/musik/streams",
+      "content": "Hair Metal • Rock ve metal müzik • Almanca",
+      "location": "Almanya",
+      "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-bob-kiss",
+      "name": "RADIO BOB! KISS",
+      "enabled": true,
+      "urls": [
+        "https://streams.radiobob.de/kiss/mp3-192/streams.radiobob.de/"
+      ],
+      "website": "https://www.radiobob.de/musik/streams",
+      "content": "KISS • Rock ve metal müzik • Almanca",
+      "location": "Almanya",
+      "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-bob-live-nrw-mitte",
+      "name": "RADIO BOB! NRW",
+      "enabled": true,
+      "urls": [
+        "https://streams.radiobob.de/live-nrw-mitte/mp3-192/streams.radiobob.de/"
+      ],
+      "website": "https://www.radiobob.de/musik/streams",
+      "content": "NRW • Rock ve metal müzik • Almanca",
+      "location": "Almanya",
+      "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-bob-metalcore",
+      "name": "RADIO BOB! Metalcore",
+      "enabled": true,
+      "urls": [
+        "https://streams.radiobob.de/metalcore/mp3-192/streams.radiobob.de/"
+      ],
+      "website": "https://www.radiobob.de/musik/streams",
+      "content": "Metalcore • Rock ve metal müzik • Almanca",
+      "location": "Almanya",
+      "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-bob-metallica",
+      "name": "RADIO BOB! Metallica",
+      "enabled": true,
+      "urls": [
+        "https://streams.radiobob.de/metallica/mp3-192/streams.radiobob.de/"
+      ],
+      "website": "https://www.radiobob.de/musik/streams",
+      "content": "Metallica • Rock ve metal müzik • Almanca",
+      "location": "Almanya",
+      "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-bob-mittelalter",
+      "name": "RADIO BOB! Mittelalter Rock",
+      "enabled": true,
+      "urls": [
+        "https://streams.radiobob.de/mittelalter/mp3-192/streams.radiobob.de/"
+      ],
+      "website": "https://www.radiobob.de/musik/streams",
+      "content": "Mittelalter Rock • Rock ve metal müzik • Almanca",
+      "location": "Almanya",
+      "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-bob-motoerhead",
+      "name": "RADIO BOB! Motoerhead",
+      "enabled": true,
+      "urls": [
+        "https://streams.radiobob.de/motoerhead/mp3-192/streams.radiobob.de/"
+      ],
+      "website": "https://www.radiobob.de/musik/streams",
+      "content": "Motoerhead • Rock ve metal müzik • Almanca",
+      "location": "Almanya",
+      "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-bob-newcomer",
+      "name": "RADIO BOB! Newcomer",
+      "enabled": true,
+      "urls": [
+        "https://streams.radiobob.de/newcomer/mp3-192/streams.radiobob.de/"
+      ],
+      "website": "https://www.radiobob.de/musik/streams",
+      "content": "Newcomer • Rock ve metal müzik • Almanca",
+      "location": "Almanya",
+      "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-bob-numetal",
+      "name": "RADIO BOB! Nu Metal",
+      "enabled": true,
+      "urls": [
+        "https://streams.radiobob.de/numetal/mp3-192/streams.radiobob.de/"
+      ],
+      "website": "https://www.radiobob.de/musik/streams",
+      "content": "Nu Metal • Rock ve metal müzik • Almanca",
+      "location": "Almanya",
+      "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-bob-ozzyosbourne",
+      "name": "RADIO BOB! Ozzy Osbourne",
+      "enabled": true,
+      "urls": [
+        "https://streams.radiobob.de/ozzyosbourne/mp3-192/streams.radiobob.de/"
+      ],
+      "website": "https://www.radiobob.de/musik/streams",
+      "content": "Ozzy Osbourne • Rock ve metal müzik • Almanca",
+      "location": "Almanya",
+      "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-bob-powermetal",
+      "name": "RADIO BOB! Power Metal",
+      "enabled": true,
+      "urls": [
+        "https://streams.radiobob.de/powermetal/mp3-192/streams.radiobob.de/"
+      ],
+      "website": "https://www.radiobob.de/musik/streams",
+      "content": "Power Metal • Rock ve metal müzik • Almanca",
+      "location": "Almanya",
+      "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-bob-progrock",
+      "name": "RADIO BOB! Prog Rock",
+      "enabled": true,
+      "urls": [
+        "https://streams.radiobob.de/progrock/mp3-192/streams.radiobob.de/"
+      ],
+      "website": "https://www.radiobob.de/musik/streams",
+      "content": "Prog Rock • Rock ve metal müzik • Almanca",
+      "location": "Almanya",
+      "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-bob-roadtrip",
+      "name": "RADIO BOB! Roadtrip",
+      "enabled": true,
+      "urls": [
+        "https://streams.radiobob.de/roadtrip/mp3-192/streams.radiobob.de/"
+      ],
+      "website": "https://www.radiobob.de/musik/streams",
+      "content": "Roadtrip • Rock ve metal müzik • Almanca",
+      "location": "Almanya",
+      "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-bob-rockamring",
+      "name": "RADIO BOB! Rock am Ring",
+      "enabled": true,
+      "urls": [
+        "https://streams.radiobob.de/rockamring/mp3-192/streams.radiobob.de/"
+      ],
+      "website": "https://www.radiobob.de/musik/streams",
+      "content": "Rock am Ring • Rock ve metal müzik • Almanca",
+      "location": "Almanya",
+      "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-bob-rockmadeingermany",
+      "name": "RADIO BOB! Rock made in Germany",
+      "enabled": true,
+      "urls": [
+        "https://streams.radiobob.de/rockmadeingermany/mp3-192/streams.radiobob.de/"
+      ],
+      "website": "https://www.radiobob.de/musik/streams",
+      "content": "Rock made in Germany • Rock ve metal müzik • Almanca",
+      "location": "Almanya",
+      "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-bob-rockoldies",
+      "name": "RADIO BOB! Rock Oldies",
+      "enabled": true,
+      "urls": [
+        "https://streams.radiobob.de/rockoldies/mp3-192/streams.radiobob.de/"
+      ],
+      "website": "https://www.radiobob.de/musik/streams",
+      "content": "Rock Oldies • Rock ve metal müzik • Almanca",
+      "location": "Almanya",
+      "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-bob-rockparty",
+      "name": "RADIO BOB! Rockparty",
+      "enabled": true,
+      "urls": [
+        "https://streams.radiobob.de/rockparty/mp3-192/streams.radiobob.de/"
+      ],
+      "website": "https://www.radiobob.de/musik/streams",
+      "content": "Rockparty • Rock ve metal müzik • Almanca",
+      "location": "Almanya",
+      "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-bob-rollingstones",
+      "name": "RADIO BOB! Rolling Stones",
+      "enabled": true,
+      "urls": [
+        "https://streams.radiobob.de/rollingstones/mp3-192/streams.radiobob.de/"
+      ],
+      "website": "https://www.radiobob.de/musik/streams",
+      "content": "Rolling Stones • Rock ve metal müzik • Almanca",
+      "location": "Almanya",
+      "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-bob-sammet",
+      "name": "RADIO BOB! Tobias Sammet Rockshow",
+      "enabled": true,
+      "urls": [
+        "https://streams.radiobob.de/sammet/mp3-192/streams.radiobob.de/"
+      ],
+      "website": "https://www.radiobob.de/musik/streams",
+      "content": "Tobias Sammet Rockshow • Rock ve metal müzik • Almanca",
+      "location": "Almanya",
+      "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-bob-ska",
+      "name": "RADIO BOB! SKA",
+      "enabled": true,
+      "urls": [
+        "https://streams.radiobob.de/ska/mp3-192/streams.radiobob.de/"
+      ],
+      "website": "https://www.radiobob.de/musik/streams",
+      "content": "SKA • Rock ve metal müzik • Almanca",
+      "location": "Almanya",
+      "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-bob-southernrock",
+      "name": "RADIO BOB! Southern Rock",
+      "enabled": true,
+      "urls": [
+        "https://streams.radiobob.de/southernrock/mp3-192/streams.radiobob.de/"
+      ],
+      "website": "https://www.radiobob.de/musik/streams",
+      "content": "Southern Rock • Rock ve metal müzik • Almanca",
+      "location": "Almanya",
+      "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-bob-stonerrock",
+      "name": "RADIO BOB! Stoner Rock",
+      "enabled": true,
+      "urls": [
+        "https://streams.radiobob.de/stonerrock/mp3-192/streams.radiobob.de/"
+      ],
+      "website": "https://www.radiobob.de/musik/streams",
+      "content": "Stoner Rock • Rock ve metal müzik • Almanca",
+      "location": "Almanya",
+      "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-bob-summerrock",
+      "name": "RADIO BOB! Summer Rock Hits",
+      "enabled": true,
+      "urls": [
+        "https://streams.radiobob.de/summerrock/mp3-192/streams.radiobob.de/"
+      ],
+      "website": "https://www.radiobob.de/musik/streams",
+      "content": "Summer Rock Hits • Rock ve metal müzik • Almanca",
+      "location": "Almanya",
+      "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-bob-symphmetal",
+      "name": "RADIO BOB! Symphonic Metal",
+      "enabled": true,
+      "urls": [
+        "https://streams.radiobob.de/symphmetal/mp3-192/streams.radiobob.de/"
+      ],
+      "website": "https://www.radiobob.de/musik/streams",
+      "content": "Symphonic Metal • Rock ve metal müzik • Almanca",
+      "location": "Almanya",
+      "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-bob-womenofrock",
+      "name": "RADIO BOB! Women Of Rock",
+      "enabled": true,
+      "urls": [
+        "https://streams.radiobob.de/womenofrock/mp3-192/streams.radiobob.de/"
+      ],
+      "website": "https://www.radiobob.de/musik/streams",
+      "content": "Women Of Rock • Rock ve metal müzik • Almanca",
+      "location": "Almanya",
+      "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-bob-woodstock",
+      "name": "RADIO BOB! Woodstock",
+      "enabled": true,
+      "urls": [
+        "https://streams.radiobob.de/woodstock/mp3-192/streams.radiobob.de/"
+      ],
+      "website": "https://www.radiobob.de/musik/streams",
+      "content": "Woodstock • Rock ve metal müzik • Almanca",
+      "location": "Almanya",
+      "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "badrock-national",
+      "name": "BadRock National",
+      "enabled": true,
+      "urls": [
+        "https://streams.badrockradio.net/national"
+      ],
+      "website": "https://badrockradio.net/",
+      "content": "Rock müzik • 320 kbps MP3 • Bulgarca",
+      "location": "Sofya, Bulgaristan",
+      "logo": "https://badrockradio.net/wp-content/themes/proradio-child/img/badrock_app_icon.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "badrock-classic-rock",
+      "name": "BadRock Classic Rock",
+      "enabled": true,
+      "urls": [
+        "https://streams.badrockradio.net/classic-rock"
+      ],
+      "website": "https://badrockradio.net/",
+      "content": "Classic rock • 320 kbps MP3",
+      "location": "Sofya, Bulgaristan",
+      "logo": "https://badrockradio.net/wp-content/themes/proradio-child/img/badrock_app_icon.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "badrock-hard-heavy",
+      "name": "BadRock Hard & Heavy",
+      "enabled": true,
+      "urls": [
+        "https://streams.badrockradio.net/hard-heavy"
+      ],
+      "website": "https://badrockradio.net/",
+      "content": "Hard rock ve heavy metal • 320 kbps MP3",
+      "location": "Sofya, Bulgaristan",
+      "logo": "https://badrockradio.net/wp-content/themes/proradio-child/img/badrock_app_icon.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "badrock-golden-era",
+      "name": "BadRock Golden Era",
+      "enabled": true,
+      "urls": [
+        "https://streams.badrockradio.net/golden-era"
+      ],
+      "website": "https://badrockradio.net/",
+      "content": "Rock oldies ve easy listening • 320 kbps MP3",
+      "location": "Sofya, Bulgaristan",
+      "logo": "https://badrockradio.net/wp-content/themes/proradio-child/img/badrock_app_icon.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "rautemusik-metal",
+      "name": "RauteMusik Metal",
+      "enabled": true,
+      "urls": [
+        "https://wackenradio-high.rautemusik.fm/"
+      ],
+      "website": "https://www.rm.fm/wacken",
+      "content": "Heavy metal ve Wacken seçkileri • 192 kbps MP3 • Almanca",
+      "location": "Almanya",
+      "logo": "https://www.rm.fm/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-maximum-maximum",
+      "name": "Radio MAXIMUM",
+      "enabled": true,
+      "urls": [
+        "https://hls-01-maximum.hostingradio.ru/maximum/playlist.m3u8?radiostatistica=APP"
+      ],
+      "website": "https://maximum.ru/online/maximum",
+      "content": "Rock, alternatif ve metal müzik • Rusça",
+      "location": "Moskova, Rusya",
+      "logo": "https://maximum.ru/b/d/XWbK87shCEITaNlLNzesRJh5J6hDDlNfK9ziY9jCC4j4NUqxPHxmiURCDCgd7hYZhTlZ8fe7AP4=K1hORtSUH-4ZgRMeEdKDsA.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-maximum-russborka",
+      "name": "MAXIMUM Русская сборка",
+      "enabled": true,
+      "urls": [
+        "https://hls-01-maximum.hostingradio.ru/russborka/playlist.m3u8?radiostatistica=APP"
+      ],
+      "website": "https://maximum.ru/online/29-russkaq-sborka",
+      "content": "Rock, alternatif ve metal müzik • Rusça",
+      "location": "Moskova, Rusya",
+      "logo": "https://maximum.ru/b/d/XWbK87shCEIVattGJS6wAMZgI_RGQ1tfM9y_PYOcDZj-LhCuLjVpnRQWGTkf4hdGzjVV9_O7AOeFUQ=TQy83L2ZWIGPrQf3ivQwoQ.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-maximum-maxtop2024",
+      "name": "MAXIMUM TOP 2025",
+      "enabled": true,
+      "urls": [
+        "https://hls-01-maximum.hostingradio.ru/maxtop2024/playlist.m3u8?radiostatistica=APP"
+      ],
+      "website": "https://maximum.ru/online/28-top-2024",
+      "content": "Rock, alternatif ve metal müzik • Rusça",
+      "location": "Moskova, Rusya",
+      "logo": "https://maximum.ru/b/d/XWbK87shCEIVatpHJS6wAMZgI_RGQ1tfM9y_PYOcDZj-LhCuLjVpnRQWGTkf4hdGzjVV9_O7AOeFUQ=6YZPGCmdQVLQGJnh8kyxXA.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-maximum-maxhall",
+      "name": "MAXIMUM Hall Of Fame",
+      "enabled": true,
+      "urls": [
+        "https://hls-01-maximum.hostingradio.ru/maxhall/playlist.m3u8?radiostatistica=APP"
+      ],
+      "website": "https://maximum.ru/online/hall-of-fame",
+      "content": "Rock, alternatif ve metal müzik • Rusça",
+      "location": "Moskova, Rusya",
+      "logo": "https://maximum.ru/b/d/XWbK87shCEIVaNxHJC6wAMZgI_RGQ1tfM9y_PYOcDZj-LhCuLjVpnRQWGTkf4hdGzjVV9_O7AOeFUQ=ftMlS_miGFtq8EYP4NiiLg.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-maximum-ozzy",
+      "name": "MAXIMUM Ozzy Osbourne",
+      "enabled": true,
+      "urls": [
+        "https://hls-01-maximum.hostingradio.ru/ozzy/playlist.m3u8?radiostatistica=APP"
+      ],
+      "website": "https://maximum.ru/online/ozzy",
+      "content": "Rock, alternatif ve metal müzik • Rusça",
+      "location": "Moskova, Rusya",
+      "logo": "https://maximum.ru/b/d/XWbK87shCEIVatdGJSqwAMZgI_RGQ1tfM9y_PYOcDZj-LhCuLjVpnRQWGTkf4hdGzjVV9_O7AOeFUQ=bQcYNI5VL3Hs07zYVHThig.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-maximum-maxmuse",
+      "name": "MAXIMUM Muse",
+      "enabled": true,
+      "urls": [
+        "https://hls-01-maximum.hostingradio.ru/maxmuse/playlist.m3u8?radiostatistica=APP"
+      ],
+      "website": "https://maximum.ru/online/muse",
+      "content": "Rock, alternatif ve metal müzik • Rusça",
+      "location": "Moskova, Rusya",
+      "logo": "https://maximum.ru/b/d/XWbK87shCEIVYdpKNzesRJh5J6hDDlNfK9ziY9jCC4j4NUqxPHxmiURCDCgd7hYZhTlZ8fe7AP4=QA4ehB7611XMzv16kmJktQ.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-maximum-maxrhcp",
+      "name": "MAXIMUM Red Hot Chili Peppers",
+      "enabled": true,
+      "urls": [
+        "https://hls-01-maximum.hostingradio.ru/maxrhcp/playlist.m3u8?radiostatistica=APP"
+      ],
+      "website": "https://maximum.ru/online/rhcp",
+      "content": "Rock, alternatif ve metal müzik • Rusça",
+      "location": "Moskova, Rusya",
+      "logo": "https://maximum.ru/b/d/XWbK87shCEIVYdpLNzesRJh5J6hDDlNfK9ziY9jCC4j4NUqxPHxmiURCDCgd7hYZhTlZ8fe7AP4=1PBqA10tBJ_ViA4X6WHfjw.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-maximum-maxcover",
+      "name": "MAXIMUM COVERS",
+      "enabled": true,
+      "urls": [
+        "https://hls-01-maximum.hostingradio.ru/maxcover/playlist.m3u8?radiostatistica=APP"
+      ],
+      "website": "https://maximum.ru/online/covers",
+      "content": "Rock, alternatif ve metal müzik • Rusça",
+      "location": "Moskova, Rusya",
+      "logo": "https://maximum.ru/b/d/XWbK87shCEIXadxINzesRJh5J6hDDlNfK9ziY9jCC4j4NUqxPHxmiURCDCgd7hYZhTlZ8fe7AP4=3HRVG2Pfi0cp9avRwafuLA.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-maximum-max80",
+      "name": "MAXIMUM HEAVY 80s",
+      "enabled": true,
+      "urls": [
+        "https://hls-01-maximum.hostingradio.ru/max80/playlist.m3u8?radiostatistica=APP"
+      ],
+      "website": "https://maximum.ru/online/HEAVY-80s",
+      "content": "Rock, alternatif ve metal müzik • Rusça",
+      "location": "Moskova, Rusya",
+      "logo": "https://maximum.ru/b/d/XWbK87shCEIXadxKNzesRJh5J6hDDlNfK9ziY9jCC4j4NUqxPHxmiURCDCgd7hYZhTlZ8fe7AP4=N4i8FeRwLNMbeE0LN6CYWQ.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-maximum-maxunplugged",
+      "name": "MAXIMUM SUPERNOVA",
+      "enabled": true,
+      "urls": [
+        "https://hls-01-maximum.hostingradio.ru/maxunplugged/playlist.m3u8?radiostatistica=APP"
+      ],
+      "website": "https://maximum.ru/online/supernova",
+      "content": "Rock, alternatif ve metal müzik • Rusça",
+      "location": "Moskova, Rusya",
+      "logo": "https://maximum.ru/b/d/XWbK87shCEIXadxMNzesRJh5J6hDDlNfK9ziY9jCC4j4NUqxPHxmiURCDCgd7hYZhTlZ8fe7AP4=yY2HBmyAxG9M7mZkLakCxw.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-maximum-maxsoft",
+      "name": "MAXIMUM Soft",
+      "enabled": true,
+      "urls": [
+        "https://hls-01-maximum.hostingradio.ru/maxsoft/playlist.m3u8?radiostatistica=APP"
+      ],
+      "website": "https://maximum.ru/online/soft",
+      "content": "Rock, alternatif ve metal müzik • Rusça",
+      "location": "Moskova, Rusya",
+      "logo": "https://maximum.ru/b/d/XWbK87shCEISa9hZOSX6TIlsbuRCB1pOOpDwKs_TCo_kcxP6PnF_wFlKFTMK-F8biztd8fe7GQ=XUCQ4mQQSnEDMsjuDQpECg.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-maximum-maxerock",
+      "name": "MAXIMUM Beats & Riffs",
+      "enabled": true,
+      "urls": [
+        "https://hls-01-maximum.hostingradio.ru/maxerock/playlist.m3u8?radiostatistica=APP"
+      ],
+      "website": "https://maximum.ru/online/beats-riffs",
+      "content": "Rock, alternatif ve metal müzik • Rusça",
+      "location": "Moskova, Rusya",
+      "logo": "https://maximum.ru/b/d/XWbK87shCEISbN9ZOSX6TIlsbuRCB1pOOpDwKs_TCo_kcxP6PnF_wFlKFTMK-F8biztd8fe7GQ=A5vPDnhdcu8L6KuFJo-1nw.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-maximum-maxbritpop",
+      "name": "MAXIMUM BRITPOP",
+      "enabled": true,
+      "urls": [
+        "https://hls-01-maximum.hostingradio.ru/maxbritpop/playlist.m3u8?radiostatistica=APP"
+      ],
+      "website": "https://maximum.ru/online/britpop",
+      "content": "Rock, alternatif ve metal müzik • Rusça",
+      "location": "Moskova, Rusya",
+      "logo": "https://maximum.ru/b/d/XWbK87shCEISa9dZOSX6TIlsbuRCB1pOOpDwKs_TCo_kcxP6PnF_wFlKFTMK-F8biztd8fe7GQ=jas-N_21bPXkcaFXGvI2Zg.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-maximum-maxpunk",
+      "name": "MAXIMUM PUNK",
+      "enabled": true,
+      "urls": [
+        "https://hls-01-maximum.hostingradio.ru/maxpunk/playlist.m3u8?radiostatistica=APP"
+      ],
+      "website": "https://maximum.ru/online/punk",
+      "content": "Rock, alternatif ve metal müzik • Rusça",
+      "location": "Moskova, Rusya",
+      "logo": "https://maximum.ru/b/d/XWbK87shCEISattZOSX6TIlsbuRCB1pOOpDwKs_TCo_kcxP6PnF_wFlKFTMK-F8biztd8fe7GQ=41pa8c-uDRw7SgRgsv3Mbg.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-maximum-maxdark",
+      "name": "MAXIMUM EMO",
+      "enabled": true,
+      "urls": [
+        "https://hls-01-maximum.hostingradio.ru/maxdark/playlist.m3u8?radiostatistica=APP"
+      ],
+      "website": "https://maximum.ru/online/emo",
+      "content": "Rock, alternatif ve metal müzik • Rusça",
+      "location": "Moskova, Rusya",
+      "logo": "https://maximum.ru/b/d/XWbK87shCEISa9ZZOSX6TIlsbuRCB1pOOpDwKs_TCo_kcxP6PnF_wFlKFTMK-F8biztd8fe7GQ=vd-5dCpmpuyigswsGUkMoQ.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-maximum-rugby",
+      "name": "MAXIMUM Регби",
+      "enabled": true,
+      "urls": [
+        "https://hls-01-maximum.hostingradio.ru/rugby/playlist.m3u8?radiostatistica=APP"
+      ],
+      "website": "https://maximum.ru/online/rugby",
+      "content": "Rock, alternatif ve metal müzik • Rusça",
+      "location": "Moskova, Rusya",
+      "logo": "https://maximum.ru/b/d/XWbK87shCEISa9lZOSX6TIlsbuRCB1pOOpDwKs_TCo_kcxP6PnF_wFlKFTMK-F8biztd8fe7GQ=bTQXobPDgGhFwaWVDrF-zQ.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-maximum-rockhits",
+      "name": "MAXIMUM Rock Hits",
+      "enabled": true,
+      "urls": [
+        "https://hls-01-maximum.hostingradio.ru/rockhits/playlist.m3u8?radiostatistica=APP"
+      ],
+      "website": "https://maximum.ru/online/rock-hits",
+      "content": "Rock, alternatif ve metal müzik • Rusça",
+      "location": "Moskova, Rusya",
+      "logo": "https://maximum.ru/b/d/XWbK87shCEISa9pZOSX6TIlsbuRCB1pOOpDwKs_TCo_kcxP6PnF_wFlKFTMK-F8biztd8fe7GQ=PameZcu33kOO1BIYCnwxhA.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-maximum-rammstein",
+      "name": "MAXIMUM Rammstein",
+      "enabled": true,
+      "urls": [
+        "https://hls-01-maximum.hostingradio.ru/rammstein/playlist.m3u8?radiostatistica=APP"
+      ],
+      "website": "https://maximum.ru/online/rammstein",
+      "content": "Rock, alternatif ve metal müzik • Rusça",
+      "location": "Moskova, Rusya",
+      "logo": "https://maximum.ru/b/d/XWbK87shCEISathZOSX6TIlsbuRCB1pOOpDwKs_TCo_kcxP6PnF_wFlKFTMK-F8biztd8fe7GQ=s8fTNbfaUzfwX7PttjCDJw.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-maximum-nirvana",
+      "name": "MAXIMUM Nirvana",
+      "enabled": true,
+      "urls": [
+        "https://hls-01-maximum.hostingradio.ru/nirvana/playlist.m3u8?radiostatistica=APP"
+      ],
+      "website": "https://maximum.ru/online/nirvana",
+      "content": "Rock, alternatif ve metal müzik • Rusça",
+      "location": "Moskova, Rusya",
+      "logo": "https://maximum.ru/b/d/XWbK87shCEISatZZOSX6TIlsbuRCB1pOOpDwKs_TCo_kcxP6PnF_wFlKFTMK-F8biztd8fe7GQ=U1j6o_msv6pR77cvonPLjA.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-maximum-millenium",
+      "name": "MAXIMUM Миллениум",
+      "enabled": true,
+      "urls": [
+        "https://hls-01-maximum.hostingradio.ru/millenium/playlist.m3u8?radiostatistica=APP"
+      ],
+      "website": "https://maximum.ru/online/millennium",
+      "content": "Rock, alternatif ve metal müzik • Rusça",
+      "location": "Moskova, Rusya",
+      "logo": "https://maximum.ru/b/d/XWbK87shCEISa9tZOSX6TIlsbuRCB1pOOpDwKs_TCo_kcxP6PnF_wFlKFTMK-F8biztd8fe7GQ=Dd0ZJhxkFFrIJ39jCccLQw.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-maximum-metallica",
+      "name": "MAXIMUM Metallica",
+      "enabled": true,
+      "urls": [
+        "https://hls-01-maximum.hostingradio.ru/metallica/playlist.m3u8?radiostatistica=APP"
+      ],
+      "website": "https://maximum.ru/online/metallica",
+      "content": "Rock, alternatif ve metal müzik • Rusça",
+      "location": "Moskova, Rusya",
+      "logo": "https://maximum.ru/b/d/XWbK87shCEISa9xZOSX6TIlsbuRCB1pOOpDwKs_TCo_kcxP6PnF_wFlKFTMK-F8biztd8fe7GQ=nJKN7TtfYhQY_30CA-avFg.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-maximum-maximum90",
+      "name": "MAXIMUM Maximum 90-е",
+      "enabled": true,
+      "urls": [
+        "https://hls-01-maximum.hostingradio.ru/maximum90/playlist.m3u8?radiostatistica=APP"
+      ],
+      "website": "https://maximum.ru/online/maximum90",
+      "content": "Rock, alternatif ve metal müzik • Rusça",
+      "location": "Moskova, Rusya",
+      "logo": "https://maximum.ru/b/d/XWbK87shCEISa91ZOSX6TIlsbuRCB1pOOpDwKs_TCo_kcxP6PnF_wFlKFTMK-F8biztd8fe7GQ=rOYKruyMqA1eDBB5AF2V0Q.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-maximum-linkinpark",
+      "name": "MAXIMUM Linkin Park",
+      "enabled": true,
+      "urls": [
+        "https://hls-01-maximum.hostingradio.ru/linkinpark/playlist.m3u8?radiostatistica=APP"
+      ],
+      "website": "https://maximum.ru/online/linkin-park",
+      "content": "Rock, alternatif ve metal müzik • Rusça",
+      "location": "Moskova, Rusya",
+      "logo": "https://maximum.ru/b/d/XWbK87shCEISatlZOSX6TIlsbuRCB1pOOpDwKs_TCo_kcxP6PnF_wFlKFTMK-F8biztd8fe7GQ=g7NUdmAJmS62rN6WtYu54A.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-maximum-indie",
+      "name": "MAXIMUM Indie",
+      "enabled": true,
+      "urls": [
+        "https://hls-01-maximum.hostingradio.ru/indie/playlist.m3u8?radiostatistica=APP"
+      ],
+      "website": "https://maximum.ru/online/indie",
+      "content": "Rock, alternatif ve metal müzik • Rusça",
+      "location": "Moskova, Rusya",
+      "logo": "https://maximum.ru/b/d/XWbK87shCEISatdZOSX6TIlsbuRCB1pOOpDwKs_TCo_kcxP6PnF_wFlKFTMK-F8biztd8fe7GQ=Yyx94C5_dbMXHNpUocjxSw.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-maximum-heavymonday",
+      "name": "MAXIMUM Heavy Monday",
+      "enabled": true,
+      "urls": [
+        "https://hls-01-maximum.hostingradio.ru/heavymonday/playlist.m3u8?radiostatistica=APP"
+      ],
+      "website": "https://maximum.ru/online/heavy-monday",
+      "content": "Rock, alternatif ve metal müzik • Rusça",
+      "location": "Moskova, Rusya",
+      "logo": "https://maximum.ru/b/d/XWbK87shCEISa95ZOSX6TIlsbuRCB1pOOpDwKs_TCo_kcxP6PnF_wFlKFTMK-F8biztd8fe7GQ=_HuDapT49iaVGaf0BJDamA.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-maximum-grunge",
+      "name": "MAXIMUM Grunge",
+      "enabled": true,
+      "urls": [
+        "https://hls-01-maximum.hostingradio.ru/grunge/playlist.m3u8?radiostatistica=APP"
+      ],
+      "website": "https://maximum.ru/online/grunge",
+      "content": "Rock, alternatif ve metal müzik • Rusça",
+      "location": "Moskova, Rusya",
+      "logo": "https://maximum.ru/b/d/XWbK87shCEISatpZOSX6TIlsbuRCB1pOOpDwKs_TCo_kcxP6PnF_wFlKFTMK-F8biztd8fe7GQ=0y7dshh9xwV9uWkbsUb2qQ.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-maximum-depechemode",
+      "name": "MAXIMUM Depeche Mode",
+      "enabled": true,
+      "urls": [
+        "https://hls-01-maximum.hostingradio.ru/depechemode/playlist.m3u8?radiostatistica=APP"
+      ],
+      "website": "https://maximum.ru/online/maximum-dm",
+      "content": "Rock, alternatif ve metal müzik • Rusça",
+      "location": "Moskova, Rusya",
+      "logo": "https://maximum.ru/b/d/XWbK87shCEIXadtMNzesRJh5J6hDDlNfK9ziY9jCC4j4NUqxPHxmiURCDCgd7hYZhTlZ8fe7AP4=WMITzUu7siGcNmQFJ4imkg.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-hazzard-of-darkness",
+      "name": "Radio HaZZard of Darkness",
+      "enabled": true,
+      "urls": [
+        "http://85.93.89.57:7777/listen1"
+      ],
+      "website": "https://radio-hazzardofdarkness.de/news.php",
+      "content": "Gothic, darkwave, EBM, industrial, alternative rock ve metal • Almanca",
+      "location": "Köln, Almanya",
+      "logo": "https://radio-hazzardofdarkness.de/images/php-fusion-logo.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "heavy-metal-history-radio",
+      "name": "Heavy Metal History Radio",
+      "enabled": true,
+      "urls": [
+        "https://stream.zeno.fm/8j4omrwrk2puv"
+      ],
+      "website": "https://heavymetalhistory.net/home.html#radio",
+      "content": "Classic heavy metal, thrash, doom, black metal, canlı konserler ve nadir kayıtlar • İngilizce",
+      "location": "Montclair, New Jersey, ABD",
+      "logo": "https://heavymetalhistory.net/pic/hmh.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "prambors-fm-jakarta",
+      "name": "Prambors FM",
+      "enabled": true,
+      "urls": [
+        "https://stream.rcs.revma.com/h77wwp48kxcwv"
+      ],
+      "website": "https://prambors.live/",
+      "content": "102.2 FM • Pop, Top 40, hit müzik ve gençlik programları • Endonezce",
+      "location": "Jakarta, Endonezya",
+      "frequency": "102.2 FM",
+      "logo": "https://pramborsfm.com/og-image.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "absolut-radio-hot",
+      "name": "Absolut Hot",
+      "enabled": true,
+      "urls": [
+        "https://absolut-hot.live-sm.absolutradio.de/absolut-hot/stream/mp3"
+      ],
+      "website": "https://absolutradio.de/hot/",
+      "content": "Güncel pop, dans ve liste hitleri • Almanca",
+      "location": "Almanya",
+      "logo": "https://cms.antenne-deutschland.de/api/media/file/AbsolutRadio_Logo_Kreis_mitSchatten-1200x630.webp?v=1774425138325",
+      "newlyAdded": true
+    },
+    {
+      "id": "absolut-radio-germany",
+      "name": "Absolut Germany",
+      "enabled": true,
+      "urls": [
+        "https://absolut-germany.live-sm.absolutradio.de/absolut-germany/stream/mp3"
+      ],
+      "website": "https://absolutradio.de/germany/",
+      "content": "Alman pop, rap ve urban müzik • Almanca",
+      "location": "Almanya",
+      "logo": "https://cms.antenne-deutschland.de/api/media/file/AbsolutRadio_Logo_Kreis_mitSchatten-1200x630.webp?v=1774425138325",
+      "newlyAdded": true
+    },
+    {
+      "id": "absolut-radio-top",
+      "name": "Absolut Top 2000er",
+      "enabled": true,
+      "urls": [
+        "https://absolut-top.live-sm.absolutradio.de/absolut-top/stream/mp3"
+      ],
+      "website": "https://absolutradio.de/top/",
+      "content": "2000'ler pop, dans ve liste hitleri • Almanca",
+      "location": "Almanya",
+      "logo": "https://cms.antenne-deutschland.de/api/media/file/AbsolutRadio_Logo_Kreis_mitSchatten-1200x630.webp?v=1774425138325",
+      "newlyAdded": true
+    },
+    {
+      "id": "absolut-radio-relax",
+      "name": "Absolut Relax",
+      "enabled": true,
+      "urls": [
+        "https://absolut-relax.live-sm.absolutradio.de/absolut-relax/stream/mp3"
+      ],
+      "website": "https://absolutradio.de/relax/",
+      "content": "Soft pop ve rahatlatıcı hitler • Almanca",
+      "location": "Almanya",
+      "logo": "https://cms.antenne-deutschland.de/api/media/file/AbsolutRadio_Logo_Kreis_mitSchatten-1200x630.webp?v=1774425138325",
+      "newlyAdded": true
+    },
+    {
+      "id": "absolut-radio-bella",
+      "name": "Absolut Bella",
+      "enabled": true,
+      "urls": [
+        "https://absolut-bella.live-sm.absolutradio.de/absolut-bella/stream/mp3"
+      ],
+      "website": "https://absolutradio.de/bella/",
+      "content": "Alman schlager ve uluslararası oldies • Almanca",
+      "location": "Almanya",
+      "logo": "https://cms.antenne-deutschland.de/api/media/file/AbsolutRadio_Logo_Kreis_mitSchatten-1200x630.webp?v=1774425138325",
+      "newlyAdded": true
+    },
+    {
+      "id": "absolut-radio-classics",
+      "name": "Absolut Classics",
+      "enabled": true,
+      "urls": [
+        "https://absolut-oldieclassics.live-sm.absolutradio.de/absolut-oldieclassics/stream/mp3"
+      ],
+      "website": "https://absolutradio.de/classics/",
+      "content": "Pop ve rock klasikleri • Almanca",
+      "location": "Almanya",
+      "logo": "https://cms.antenne-deutschland.de/api/media/file/AbsolutRadio_Logo_Kreis_mitSchatten-1200x630.webp?v=1774425138325",
+      "newlyAdded": true
+    },
+    {
+      "id": "absolut-radio-christmastime",
+      "name": "Absolut Christmas Time",
+      "enabled": true,
+      "urls": [
+        "https://absolut-christmastime.live-sm.absolutradio.de/absolut-christmastime/stream/mp3"
+      ],
+      "website": "https://absolutradio.de/christmastime/",
+      "content": "Noel ve yılbaşı şarkıları • Almanca",
+      "location": "Almanya",
+      "logo": "https://cms.antenne-deutschland.de/api/media/file/AbsolutRadio_Logo_Kreis_mitSchatten-1200x630.webp?v=1774425138325",
+      "newlyAdded": true
+    },
+    {
+      "id": "absolut-radio-rock",
+      "name": "Absolut Rock",
+      "enabled": true,
+      "urls": [
+        "https://absolut-rock.live-sm.absolutradio.de/absolut-rock/stream/mp3"
+      ],
+      "website": "https://absolutradio.de/rock/",
+      "content": "1990'lar ve 2000'ler rock müziği • Almanca",
+      "location": "Almanya",
+      "logo": "https://cms.antenne-deutschland.de/api/media/file/AbsolutRadio_Logo_Kreis_mitSchatten-1200x630.webp?v=1774425138325",
+      "newlyAdded": true
+    },
+    {
+      "id": "absolut-radio-clubnight",
+      "name": "Absolut Top Clubnight",
+      "enabled": true,
+      "urls": [
+        "https://absolut-clubnight.live-sm.absolutradio.de/absolut-clubnight/stream/mp3"
+      ],
+      "website": "https://absolutradio.de/clubnight/",
+      "content": "Dans, elektronik ve club müziği • Almanca",
+      "location": "Almanya",
+      "logo": "https://cms.antenne-deutschland.de/api/media/file/AbsolutRadio_Logo_Kreis_mitSchatten-1200x630.webp?v=1774425138325",
+      "newlyAdded": true
+    },
+    {
+      "id": "absolut-radio-80er",
+      "name": "Absolut 80er",
+      "enabled": true,
+      "urls": [
+        "https://absolut-80er.live-sm.absolutradio.de/absolut-80er/stream/mp3"
+      ],
+      "website": "https://absolutradio.de/80er/",
+      "content": "1980'ler pop ve rock müziği • Almanca",
+      "location": "Almanya",
+      "logo": "https://cms.antenne-deutschland.de/api/media/file/AbsolutRadio_Logo_Kreis_mitSchatten-1200x630.webp?v=1774425138325",
+      "newlyAdded": true
+    },
+    {
+      "id": "absolut-radio-musicxl",
+      "name": "Absolut musicXL",
+      "enabled": true,
+      "urls": [
+        "https://absolut-musicxl.live-sm.absolutradio.de/absolut-musicxl/stream/mp3"
+      ],
+      "website": "https://absolutradio.de/musicxl/",
+      "content": "Alternatif pop, rock ve klasik hitler • Almanca",
+      "location": "Almanya",
+      "logo": "https://cms.antenne-deutschland.de/api/media/file/AbsolutRadio_Logo_Kreis_mitSchatten-1200x630.webp?v=1774425138325",
+      "newlyAdded": true
+    },
+    {
+      "id": "absolut-radio-lovesongs",
+      "name": "Absolut Lovesongs",
+      "enabled": true,
+      "urls": [
+        "https://absolut-lovesongs.live-sm.absolutradio.de/absolut-lovesongs/stream/mp3"
+      ],
+      "website": "https://absolutradio.de/lovesongs/",
+      "content": "Aşk şarkıları ve baladlar • Almanca",
+      "location": "Almanya",
+      "logo": "https://cms.antenne-deutschland.de/api/media/file/AbsolutRadio_Logo_Kreis_mitSchatten-1200x630.webp?v=1774425138325",
+      "newlyAdded": true
+    },
+    {
+      "id": "absolut-radio-ai",
+      "name": "Absolut Radio AI",
+      "enabled": true,
+      "urls": [
+        "https://absolut-ai.live-sm.absolutradio.de/absolut-ai/stream/mp3"
+      ],
+      "website": "https://absolutradio.de/ai/",
+      "content": "Yapay zekâ sunumlu güncel hitler • Almanca",
+      "location": "Almanya",
+      "logo": "https://cms.antenne-deutschland.de/api/media/file/AbsolutRadio_Logo_Kreis_mitSchatten-1200x630.webp?v=1774425138325",
+      "newlyAdded": true
+    },
+    {
+      "id": "absolut-radio-coffeemusic",
+      "name": "Absolut Coffeemusic",
+      "enabled": true,
+      "urls": [
+        "https://absolut-coffeemusic.live-sm.absolutradio.de/absolut-coffeemusic/stream/mp3"
+      ],
+      "website": "https://absolutradio.de/coffeemusic/",
+      "content": "Akustik, indie, folk ve chillout • Almanca",
+      "location": "Almanya",
+      "logo": "https://cms.antenne-deutschland.de/api/media/file/AbsolutRadio_Logo_Kreis_mitSchatten-1200x630.webp?v=1774425138325",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-caprice-hard-heavy-rock",
+      "name": "Radio Caprice - Hard / Heavy Rock",
+      "enabled": true,
+      "urls": [
+        "http://79.120.77.11:8000/hardrock"
+      ],
+      "backupUrls": [
+        "http://79.120.77.11:8002/hardrock"
+      ],
+      "website": "http://radcap.ru/hardrock.html",
+      "content": "Hard rock ve heavy rock müziği",
+      "location": "Rusya",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_radio_caprice_melodic_death_metal.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-caprice-heavy-metal",
+      "name": "Radio Caprice - Heavy Metal",
+      "enabled": true,
+      "urls": [
+        "http://79.111.14.76:8000/heavymetal"
+      ],
+      "website": "http://radcap.ru/heavymetal.html",
+      "content": "Heavy metal müziği",
+      "location": "Rusya",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_radio_caprice_melodic_death_metal.webp",
       "newlyAdded": true
     }
   ],
