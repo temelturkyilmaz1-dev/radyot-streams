@@ -12396,6 +12396,2438 @@
       "location": "Rusya",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_radio_caprice_melodic_death_metal.webp",
       "newlyAdded": true
+    },
+    {
+      "id": "181-fm-80-s-country",
+      "name": "181.FM - 80's Country",
+      "enabled": true,
+      "urls": [
+        "http://listen.181fm.com/181-80scountry_128k.mp3"
+      ],
+      "website": "http://www.181.fm/",
+      "content": "80s,country,waynesboro",
+      "location": "Virginia, ABD",
+      "logo": "http://www.181.fm/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "181-fm-80-s-hairband",
+      "name": "181.FM - 80's HairBand",
+      "enabled": true,
+      "urls": [
+        "https://listen.181fm.com/181-hairband_128k.mp3"
+      ],
+      "website": "http://www.181.fm/",
+      "content": "80s,hair metal,metal,waynesboro",
+      "location": "Virginia, ABD",
+      "logo": "http://www.181.fm/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "181-fm-90-s-alternative",
+      "name": "181.FM - 90's Alternative",
+      "enabled": true,
+      "urls": [
+        "http://listen.181fm.com/181-90salt_128k.mp3"
+      ],
+      "website": "http://www.181.fm/",
+      "content": "90s,alternative,waynesboro",
+      "location": "Virginia, ABD",
+      "logo": "http://www.181.fm/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "181-fm-90-s-country",
+      "name": "181.FM - 90's Country",
+      "enabled": true,
+      "urls": [
+        "https://listen.181fm.com/181-90scountry_128k.mp3"
+      ],
+      "website": "http://www.181.fm/",
+      "content": "90s,country,waynesboro",
+      "location": "Virginia, ABD",
+      "logo": "http://www.181.fm/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "181-fm-90-s-dance",
+      "name": "181.FM - 90's Dance",
+      "enabled": true,
+      "urls": [
+        "http://listen.181fm.com/181-90sdance_128k.mp3"
+      ],
+      "website": "http://www.181.fm/",
+      "content": "90s,dance,waynesboro",
+      "location": "Virginia, ABD",
+      "logo": "http://www.181.fm/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "181-fm-acid-jazz",
+      "name": "181.FM - Acid Jazz",
+      "enabled": true,
+      "urls": [
+        "https://listen.181fm.com/181-acidjazz_128k.mp3"
+      ],
+      "website": "http://www.181.fm/",
+      "content": "acid jazz,waynesboro",
+      "location": "Virginia, ABD",
+      "logo": "http://www.181.fm/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "181-fm-awesome-80-s",
+      "name": "181.FM - Awesome 80's",
+      "enabled": true,
+      "urls": [
+        "http://listen.181fm.com/181-awesome80s_128k.mp3"
+      ],
+      "website": "http://www.181.fm/",
+      "content": "80s,waynesboro",
+      "location": "Virginia, ABD",
+      "logo": "http://www.181.fm/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "181-fm-bebop-jazz",
+      "name": "181.FM - BeBop Jazz",
+      "enabled": true,
+      "urls": [
+        "http://listen.181fm.com/181-bebop_128k.mp3"
+      ],
+      "website": "http://www.181.fm/",
+      "content": "bebop,jazz,waynesboro",
+      "location": "Virginia, ABD",
+      "logo": "http://www.181.fm/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "181-fm-chilled-out",
+      "name": "181.FM - Chilled Out",
+      "enabled": true,
+      "urls": [
+        "https://listen.181fm.com/181-chilled_128k.mp3"
+      ],
+      "website": "http://www.181.fm/",
+      "content": "chillout,waynesboro",
+      "location": "Virginia, ABD",
+      "logo": "http://www.181.fm/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "181-fm-chloe-181-fm",
+      "name": "181.FM - Chloe@181.FM",
+      "enabled": true,
+      "urls": [
+        "https://listen.181fm.com/181-chloe_128k.mp3"
+      ],
+      "website": "http://www.181.fm/",
+      "content": "adult album alternative,alternative rock,waynesboro",
+      "location": "Virginia, ABD",
+      "logo": "http://www.181.fm/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "181-fm-classic-buzz-alt",
+      "name": "181.FM - Classic Buzz (Alt)",
+      "enabled": true,
+      "urls": [
+        "https://listen.181fm.com/181-classicbuzz_128k.mp3"
+      ],
+      "website": "http://www.181.fm/",
+      "content": "alternative,waynesboro",
+      "location": "Virginia, ABD",
+      "logo": "http://www.181.fm/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "181-fm-classical-guitar",
+      "name": "181.FM - Classical Guitar",
+      "enabled": true,
+      "urls": [
+        "http://listen.livestreamingservice.com:8020/"
+      ],
+      "website": "https://www.181.fm/",
+      "content": "easy listening,guitar",
+      "location": "ABD",
+      "logo": "https://www.181.fm/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "181-fm-classical-jazz",
+      "name": "181.FM - Classical Jazz",
+      "enabled": true,
+      "urls": [
+        "http://listen.181fm.com/181-classicaljazz_128k.mp3"
+      ],
+      "website": "http://www.181.fm/",
+      "content": "classic jazz,jazz",
+      "location": "Virginia, ABD",
+      "logo": "http://www.181.fm/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "181-fm-classical-music",
+      "name": "181.FM - Classical Music",
+      "enabled": true,
+      "urls": [
+        "https://listen.181fm.com/181-classical_128k.mp3"
+      ],
+      "backupUrls": [
+        "http://listen.livestreamingservice.com/181-classical_128k.mp3"
+      ],
+      "website": "http://www.181.fm/",
+      "content": "classical,waynesboro",
+      "location": "Virginia, ABD",
+      "logo": "http://www.181.fm/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "181-fm-energy-98",
+      "name": "181.FM - Energy 98",
+      "enabled": true,
+      "urls": [
+        "http://listen.181fm.com/181-energy98_128k.mp3"
+      ],
+      "website": "http://www.181.fm/",
+      "content": "dance,house,waynesboro",
+      "location": "Virginia, ABD",
+      "logo": "http://www.181.fm/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "181-fm-front-porch-bluegrass",
+      "name": "181.FM - Front Porch (Bluegrass)",
+      "enabled": true,
+      "urls": [
+        "https://listen.181fm.com/181-frontporch_128k.mp3"
+      ],
+      "website": "http://www.181.fm/",
+      "content": "bluegrass,waynesboro",
+      "location": "Virginia, ABD",
+      "logo": "http://www.181.fm/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "181-fm-fusion-jazz",
+      "name": "181.FM - Fusion Jazz",
+      "enabled": true,
+      "urls": [
+        "http://listen.181fm.com/181-fusionjazz_128k.mp3"
+      ],
+      "website": "http://www.181.fm/",
+      "content": "fusion jazz,waynesboro",
+      "location": "Virginia, ABD",
+      "logo": "http://www.181.fm/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "181-fm-good-time-oldies-radio",
+      "name": "181.FM - Good Time Oldies Radio",
+      "enabled": true,
+      "urls": [
+        "http://listen.181fm.com/181-goodtime_128k.mp3"
+      ],
+      "website": "http://www.181.fm/",
+      "content": "oldies,waynesboro",
+      "location": "Virginia, ABD",
+      "logo": "http://www.181.fm/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "181-fm-highway-181",
+      "name": "181.FM - Highway 181",
+      "enabled": true,
+      "urls": [
+        "https://listen.181fm.com/181-highway_128k.mp3"
+      ],
+      "website": "http://www.181.fm/",
+      "content": "classic country,waynesboro",
+      "location": "Virginia, ABD",
+      "logo": "http://www.181.fm/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "181-fm-jammin-181",
+      "name": "181.FM - Jammin 181",
+      "enabled": true,
+      "urls": [
+        "http://listen.181fm.com/181-jammin_128k.mp3"
+      ],
+      "website": "http://www.181.fm/",
+      "content": "rnb,soul,waynesboro",
+      "location": "Virginia, ABD",
+      "logo": "http://www.181.fm/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "181-fm-lite-80-s",
+      "name": "181.FM - Lite 80's",
+      "enabled": true,
+      "urls": [
+        "http://listen.181fm.com/181-lite80s_128k.mp3"
+      ],
+      "website": "http://www.181.fm/",
+      "content": "80s,waynesboro",
+      "location": "Virginia, ABD",
+      "logo": "http://www.181.fm/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "181-fm-mellow-gold",
+      "name": "181.FM - Mellow Gold",
+      "enabled": true,
+      "urls": [
+        "https://listen.181fm.com/181-mellow_128k.mp3"
+      ],
+      "website": "http://www.181.fm/",
+      "content": "classic hits,waynesboro",
+      "location": "Virginia, ABD",
+      "logo": "http://www.181.fm/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "181-fm-old-school-hiphop-rnb",
+      "name": "181.FM - Old School HipHop/RnB",
+      "enabled": true,
+      "urls": [
+        "http://listen.181fm.com/181-oldschool_128k.mp3"
+      ],
+      "website": "http://www.181.fm/",
+      "content": "hiphop,oldschool,rnb,waynesboro",
+      "location": "Virginia, ABD",
+      "logo": "http://www.181.fm/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "181-fm-party-181",
+      "name": "181.FM - Party 181",
+      "enabled": true,
+      "urls": [
+        "https://listen.181fm.com/181-party_128k.mp3"
+      ],
+      "website": "http://www.181.fm/",
+      "content": "party,pop,top 40,waynesboro",
+      "location": "Virginia, ABD",
+      "logo": "http://www.181.fm/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "181-fm-reggae-roots",
+      "name": "181.FM - Reggae Roots",
+      "enabled": true,
+      "urls": [
+        "http://listen.181fm.com/181-reggae_128k.mp3"
+      ],
+      "website": "http://www.181.fm/",
+      "content": "reggae,waynesboro",
+      "location": "Virginia, ABD",
+      "logo": "http://www.181.fm/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "181-fm-rock-40-rock-roll",
+      "name": "181.FM - Rock 40 (Rock & Roll)",
+      "enabled": true,
+      "urls": [
+        "https://listen.181fm.com/181-rock40_128k.mp3"
+      ],
+      "website": "http://www.181.fm/",
+      "content": "rock'n'roll,waynesboro",
+      "location": "Virginia, ABD",
+      "logo": "http://www.181.fm/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "181-fm-salsa",
+      "name": "181.FM - Salsa",
+      "enabled": true,
+      "urls": [
+        "http://listen.181fm.com/181-salsa_128k.mp3"
+      ],
+      "website": "http://www.181.fm/",
+      "content": "salsa,waynesboro",
+      "location": "Virginia, ABD",
+      "logo": "http://www.181.fm/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "181-fm-smooth-ac",
+      "name": "181.FM - Smooth AC",
+      "enabled": true,
+      "urls": [
+        "http://listen.181fm.com/181-smoothac_128k.mp3"
+      ],
+      "website": "http://www.181.fm/",
+      "content": "easy listening,waynesboro",
+      "location": "Virginia, ABD",
+      "logo": "http://www.181.fm/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "181-fm-soul",
+      "name": "181.FM - Soul",
+      "enabled": true,
+      "urls": [
+        "http://listen.181fm.com/181-soul_128k.mp3"
+      ],
+      "website": "http://www.181.fm/",
+      "content": "soul,waynesboro",
+      "location": "Virginia, ABD",
+      "logo": "http://www.181.fm/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "181-fm-star-90-s",
+      "name": "181.FM - Star 90's",
+      "enabled": true,
+      "urls": [
+        "http://listen.181fm.com/181-star90s_128k.mp3"
+      ],
+      "website": "http://www.181.fm/",
+      "content": "90s,waynesboro",
+      "location": "Virginia, ABD",
+      "logo": "http://www.181.fm/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "181-fm-super-70s",
+      "name": "181.FM - Super 70s",
+      "enabled": true,
+      "urls": [
+        "https://listen.181fm.com/181-70s_128k.mp3"
+      ],
+      "backupUrls": [
+        "http://listen.livestreamingservice.com/181-70s_128k.mp3"
+      ],
+      "website": "http://www.181.fm/",
+      "content": "70s,waynesboro",
+      "location": "Virginia, ABD",
+      "logo": "http://www.181.fm/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "181-fm-techno-club",
+      "name": "181.FM - Techno Club",
+      "enabled": true,
+      "urls": [
+        "https://listen.181fm.com/181-technoclub_128k.mp3"
+      ],
+      "website": "http://www.181.fm/",
+      "content": "techno,waynesboro",
+      "location": "Virginia, ABD",
+      "logo": "http://www.181.fm/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "181-fm-the-ball",
+      "name": "181.FM - The Ball",
+      "enabled": true,
+      "urls": [
+        "https://listen.181fm.com/181-ball_128k.mp3"
+      ],
+      "website": "http://www.181.fm/",
+      "content": "disco,waynesboro",
+      "location": "Virginia, ABD",
+      "logo": "http://www.181.fm/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "181-fm-the-beat-hiphop-r-b",
+      "name": "181.FM - The Beat (HipHop/R&B)",
+      "enabled": true,
+      "urls": [
+        "https://listen.181fm.com/181-beat_128k.mp3"
+      ],
+      "backupUrls": [
+        "http://listen.livestreamingservice.com/181-beat_64k.aac"
+      ],
+      "website": "http://www.181.fm/",
+      "content": "hiphop,rnb,urban,waynesboro",
+      "location": "Virginia, ABD",
+      "logo": "http://www.181.fm/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "181-fm-the-box-urban",
+      "name": "181.FM - The Box (Urban)",
+      "enabled": true,
+      "urls": [
+        "https://listen.181fm.com/181-thebox_128k.mp3"
+      ],
+      "website": "http://www.181.fm/",
+      "content": "urban,waynesboro",
+      "location": "Virginia, ABD",
+      "logo": "http://www.181.fm/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "181-fm-the-buzz-alt-rock",
+      "name": "181.FM - The Buzz (Alt. Rock)",
+      "enabled": true,
+      "urls": [
+        "https://listen.181fm.com/181-buzz_128k.mp3"
+      ],
+      "backupUrls": [
+        "http://listen.livestreamingservice.com/181-buzz_64k.aac"
+      ],
+      "website": "http://www.181.fm/",
+      "content": "alternative rock,waynesboro",
+      "location": "Virginia, ABD",
+      "logo": "http://www.181.fm/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "181-fm-the-heart-love-songs",
+      "name": "181.FM - The Heart (Love Songs)",
+      "enabled": true,
+      "urls": [
+        "http://listen.181fm.com/181-heart_128k.mp3"
+      ],
+      "website": "http://www.181.fm/",
+      "content": "love songs,waynesboro",
+      "location": "Virginia, ABD",
+      "logo": "http://www.181.fm/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "181-fm-the-mix",
+      "name": "181.FM - The Mix",
+      "enabled": true,
+      "urls": [
+        "http://listen.181fm.com/181-themix_128k.mp3"
+      ],
+      "website": "http://www.181.fm/",
+      "content": "classic hits,pop,waynesboro",
+      "location": "Virginia, ABD",
+      "logo": "http://www.181.fm/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "181-fm-the-office",
+      "name": "181.FM - The Office",
+      "enabled": true,
+      "urls": [
+        "http://listen.181fm.com/181-office_128k.mp3"
+      ],
+      "backupUrls": [
+        "http://listen.livestreamingservice.com/181-office_64k.aac"
+      ],
+      "website": "http://www.181.fm/",
+      "content": "pop,waynesboro",
+      "location": "Virginia, ABD",
+      "logo": "http://www.181.fm/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "181-fm-the-point",
+      "name": "181.FM - The Point",
+      "enabled": true,
+      "urls": [
+        "http://listen.181fm.com/181-thepoint_128k.mp3"
+      ],
+      "website": "http://www.181.fm/",
+      "content": "pop,rock,waynesboro",
+      "location": "Virginia, ABD",
+      "logo": "http://www.181.fm/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "181-fm-the-rock-hardrock",
+      "name": "181.FM - The Rock! (HardRock)",
+      "enabled": true,
+      "urls": [
+        "http://listen.181fm.com/181-hardrock_128k.mp3"
+      ],
+      "website": "http://www.181.fm/",
+      "content": "hard rock,waynesboro",
+      "location": "Virginia, ABD",
+      "logo": "http://www.181.fm/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "181-fm-the-vibe-of-vegas",
+      "name": "181.FM - The Vibe of Vegas",
+      "enabled": true,
+      "urls": [
+        "http://listen.181fm.com/181-vibe_128k.mp3"
+      ],
+      "website": "http://www.181.fm/",
+      "content": "dance,edm,electro,pop,waynesboro",
+      "location": "Virginia, ABD",
+      "logo": "https://www.181.fm/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "181-fm-trance-jazz",
+      "name": "181.FM - Trance Jazz",
+      "enabled": true,
+      "urls": [
+        "http://listen.181fm.com/181-trancejazz_128k.mp3"
+      ],
+      "website": "http://www.181.fm/",
+      "content": "chillout,jazz,trance,waynesboro",
+      "location": "Virginia, ABD",
+      "logo": "http://www.181.fm/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "181-fm-true-blues",
+      "name": "181.FM - True Blues",
+      "enabled": true,
+      "urls": [
+        "http://listen.181fm.com/181-blues_128k.mp3"
+      ],
+      "website": "http://www.181.fm/",
+      "content": "blues,waynesboro",
+      "location": "Virginia, ABD",
+      "logo": "http://www.181.fm/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "181-fm-true-r-b",
+      "name": "181.FM - True R&B",
+      "enabled": true,
+      "urls": [
+        "https://listen.181fm.com/181-rnb_128k.mp3"
+      ],
+      "website": "http://www.181.fm/",
+      "content": "rnb,urban,waynesboro",
+      "location": "Virginia, ABD",
+      "logo": "http://www.181.fm/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "181-fm-uk-top-40",
+      "name": "181.FM - UK top 40",
+      "enabled": true,
+      "urls": [
+        "http://listen.181fm.com/181-uktop40_128k.mp3"
+      ],
+      "backupUrls": [
+        "http://listen.livestreamingservice.com/181-uktop40_64k.aac"
+      ],
+      "website": "http://www.181.fm/",
+      "content": "pop,top 40,waynesboro",
+      "location": "Virginia, ABD",
+      "logo": "http://www.181.fm/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "181-fm-vocal-jazz",
+      "name": "181.FM - Vocal Jazz",
+      "enabled": true,
+      "urls": [
+        "http://listen.181fm.com/181-vocals_128k.mp3"
+      ],
+      "website": "http://www.181.fm/",
+      "content": "jazz,vocal jazz,waynesboro",
+      "location": "Virginia, ABD",
+      "logo": "http://www.181.fm/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "100hitz-90-s-alternative",
+      "name": "100hitz - 90's Alternative",
+      "enabled": true,
+      "urls": [
+        "http://pureplay.cdnstream1.com/6040_128.mp3"
+      ],
+      "website": "https://100hitz.com/",
+      "content": "90's,alternative",
+      "location": "Antelope, CA, ABD",
+      "logo": "https://100hitz.com/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "100hitz-alternative",
+      "name": "100Hitz - Alternative",
+      "enabled": true,
+      "urls": [
+        "https://pureplay.cdnstream1.com/6034_128.mp3"
+      ],
+      "website": "https://100hitz.com/",
+      "content": "Müzik",
+      "location": "ABD",
+      "logo": "https://100hitz.com/wp-content/uploads/2023/03/100hitz.com-png-08-e1678043645250.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "100hitz-indie",
+      "name": "100Hitz - Indie",
+      "enabled": true,
+      "urls": [
+        "https://pureplay.cdnstream1.com/6056_128.mp3"
+      ],
+      "backupUrls": [
+        "http://pureplay.cdnstream1.com/6056_64.aac"
+      ],
+      "website": "https://100hitz.com/",
+      "content": "Müzik",
+      "location": "ABD",
+      "logo": "https://100hitz.com/wp-content/uploads/2023/03/100hitz.com-png-08-e1678043645250.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "100hitz-rock",
+      "name": "100hitz - Rock",
+      "enabled": true,
+      "urls": [
+        "http://pureplay.cdnstream1.com/6036_64.aac"
+      ],
+      "website": "https://100hitz.com/",
+      "content": "rock",
+      "location": "Antelope, CA, ABD",
+      "logo": "https://100hitz.com/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "100hitz-top-40",
+      "name": "100hitz - Top 40",
+      "enabled": true,
+      "urls": [
+        "http://pureplay.cdnstream1.com/6025_128.mp3"
+      ],
+      "website": "https://100hitz.com/",
+      "content": "top 40,us",
+      "location": "Antelope, Ca, ABD",
+      "logo": "https://100hitz.com/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "100hitz-hot-hitz",
+      "name": "100hitz Hot Hitz",
+      "enabled": true,
+      "urls": [
+        "http://pureplay.cdnstream1.com/6027_128.mp3"
+      ],
+      "website": "https://100hitz.com/",
+      "content": "Müzik",
+      "location": "Antelope, Ca, ABD",
+      "logo": "https://100hitz.com/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "100hitz-the-mix-80s-90s-today-s-hits",
+      "name": "100hitz The Mix - 80s 90s & Today's Hits",
+      "enabled": true,
+      "urls": [
+        "http://pureplay.cdnstream1.com/6038_128.mp3"
+      ],
+      "website": "https://100hitz.com/",
+      "content": "80s,90s,today's hits",
+      "location": "Antelope, CA, ABD",
+      "logo": "https://100hitz.com/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "100hitz-today-s-new-country",
+      "name": "100hitz Today's New Country",
+      "enabled": true,
+      "urls": [
+        "http://pureplay.cdnstream1.com/6030_128.mp3"
+      ],
+      "website": "https://100hitz.com/",
+      "content": "Müzik",
+      "location": "Antelope, CA, ABD",
+      "logo": "https://100hitz.com/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "rock-antenne-90er-rock",
+      "name": "Rock Antenne - 90er Rock",
+      "enabled": true,
+      "urls": [
+        "https://stream.rockantenne.de/90er-rock/stream/mp3"
+      ],
+      "website": "https://www.rockantenne.de/rockhoeren/streams/90er-rock",
+      "content": "90s,music,rock",
+      "location": "Almanya",
+      "logo": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "rock-antenne-country-antenne",
+      "name": "Rock Antenne - Country Antenne",
+      "enabled": true,
+      "urls": [
+        "https://stream.rockantenne.de/country-antenne/stream/mp3"
+      ],
+      "website": "https://www.rockantenne.de/rockhoeren/streams/country-antenne",
+      "content": "country,music,rock",
+      "location": "Almanya",
+      "logo": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "rock-antenne-grunge",
+      "name": "Rock Antenne - Grunge",
+      "enabled": true,
+      "urls": [
+        "https://stream.rockantenne.de/grunge/stream/mp3"
+      ],
+      "website": "https://www.rockantenne.de/rockhoeren/streams/grunge",
+      "content": "grunge,music,rock",
+      "location": "Almanya",
+      "logo": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "rock-antenne-heavy-metal",
+      "name": "Rock Antenne - Heavy Metal",
+      "enabled": true,
+      "urls": [
+        "http://mp3channels.webradio.rockantenne.de/heavy-metal"
+      ],
+      "backupUrls": [
+        "https://stream.rockantenne.de/heavy-metal/stream/aacp"
+      ],
+      "website": "http://www.rockantenne.de/",
+      "content": "heavy metal,metal",
+      "location": "Bavaria, Almanya",
+      "logo": "http://www.rockantenne.de/logos/station-rock-antenne/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "rock-antenne-lagerfeuer-rock",
+      "name": "Rock Antenne - Lagerfeuer Rock",
+      "enabled": true,
+      "urls": [
+        "https://stream.rockantenne.de/lagerfeuer-rock/stream/mp3"
+      ],
+      "website": "https://www.rockantenne.de/rockhoeren/streams/lagerfeuer-rock",
+      "content": "music,rock",
+      "location": "Almanya",
+      "logo": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "rock-antenne-melodic-rock",
+      "name": "Rock Antenne - Melodic Rock",
+      "enabled": true,
+      "urls": [
+        "http://stream.rockantenne.de/melodic-rock"
+      ],
+      "website": "https://www.rockantenne.de/",
+      "content": "hard rock,melodic hard rock,melodic rock,rock",
+      "location": "Almanya",
+      "logo": "https://www.rockantenne.de/logos/rock-antenne/apple-touch-icon.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "rock-antenne-party-rock",
+      "name": "Rock Antenne - Party Rock",
+      "enabled": true,
+      "urls": [
+        "https://stream.rockantenne.de/rock-antenne-party-rock/stream/mp3"
+      ],
+      "website": "https://www.rockantenne.de/rockhoeren/streams/party-rock",
+      "content": "music,party,rock",
+      "location": "Almanya",
+      "logo": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "rock-antenne-punk-rock",
+      "name": "Rock Antenne - Punk Rock",
+      "enabled": true,
+      "urls": [
+        "http://mp3channels.webradio.rockantenne.de/punkrock.aac"
+      ],
+      "website": "http://www.rockantenne.de/",
+      "content": "punk rock",
+      "location": "Bavaria, Almanya",
+      "logo": "http://www.rockantenne.de/logos/station-rock-antenne/apple-touch-icon.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "rock-antenne-rock-n-roll",
+      "name": "Rock Antenne - Rock 'n' Roll",
+      "enabled": true,
+      "urls": [
+        "https://stream.rockantenne.de/rockandroll/stream/mp3"
+      ],
+      "website": "https://www.rockantenne.de/rockhoeren/streams/rock-n-roll",
+      "content": "music,rock",
+      "location": "Almanya",
+      "logo": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "rock-antenne-70er-rock-mp3",
+      "name": "ROCK ANTENNE 70er Rock",
+      "enabled": true,
+      "urls": [
+        "https://s2-webradio.rockantenne.de/70er-rock/stream/mp3"
+      ],
+      "website": "https://www.rockantenne.de/",
+      "content": "70's,classic rock",
+      "location": "Almanya",
+      "logo": "https://www.rockantenne.de/logos/station-rock-antenne/apple-touch-icon.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "rock-antenne-80er-rock-mp3",
+      "name": "ROCK ANTENNE 80er Rock",
+      "enabled": true,
+      "urls": [
+        "https://stream.rockantenne.de/80er-rock/stream/mp3"
+      ],
+      "backupUrls": [
+        "https://stream.rockantenne.de/80er-rock/stream/aacp"
+      ],
+      "website": "https://www.rockantenne.de/",
+      "content": "80's,classic rock",
+      "location": "Almanya",
+      "logo": "https://www.rockantenne.de/logos/station-rock-antenne/apple-touch-icon.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "rock-antenne-bayern",
+      "name": "Rock Antenne Bayern",
+      "enabled": true,
+      "urls": [
+        "https://stream.rockantenne.bayern/rockantenne-bayern/stream/mp3"
+      ],
+      "website": "https://www.rockantenne.bayern/",
+      "content": "heavy metal,rock",
+      "location": "Bavaria, Almanya",
+      "logo": "https://www.rockantenne.bayern/logos/station-rock-antenne-bayern/station.svg",
+      "newlyAdded": true
+    },
+    {
+      "id": "rock-antenne-biker-rock",
+      "name": "Rock Antenne Biker Rock",
+      "enabled": true,
+      "urls": [
+        "https://stream.rockantenne.de/biker-rock/stream/"
+      ],
+      "website": "https://www.rockantenne.de/",
+      "content": "rock",
+      "location": "Deutschland (Almanya), Almanya",
+      "logo": "https://www.rockantenne.de/logos/station-rock-antenne/apple-touch-icon.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "rock-antenne-blues-rock",
+      "name": "ROCK ANTENNE Blues rock",
+      "enabled": true,
+      "urls": [
+        "https://stream.rockantenne.de/blues-rock/stream/mp3"
+      ],
+      "website": "https://www.rockantenne.de/",
+      "content": "Müzik",
+      "location": "Almanya",
+      "logo": "https://www.rockantenne.de/logos/station-rock-antenne/apple-touch-icon.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "rock-antenne-classic-perlen",
+      "name": "ROCK ANTENNE Classic Perlen",
+      "enabled": true,
+      "urls": [
+        "http://mp3channels.webradio.rockantenne.de/classic-perlen"
+      ],
+      "website": "http://www.rockantenne.de/",
+      "content": "rock classics",
+      "location": "Almanya",
+      "logo": "http://www.rockantenne.de/logos/station-rock-antenne/apple-touch-icon.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "rock-antenne-coversongs",
+      "name": "Rock Antenne Coversongs",
+      "enabled": true,
+      "urls": [
+        "http://stream.rockantenne.de/coversongs"
+      ],
+      "website": "https://www.rockantenne.de/",
+      "content": "rock",
+      "location": "Almanya",
+      "logo": "https://www.rockantenne.de/logos/station-rock-antenne/apple-touch-icon.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "rock-antenne-hamburg-aac",
+      "name": "Rock Antenne Hamburg",
+      "enabled": true,
+      "urls": [
+        "https://stream.rockantenne.de/rockantenne-hamburg/stream/aacp"
+      ],
+      "website": "https://www.rockantenne.de/",
+      "content": "rock",
+      "location": "Hamburg, Almanya",
+      "logo": "https://www.rockantenne.de/media/cache/3/version/13/rahh-v1.jpg/fccb3fcb0a2733dd2265a4d6eb6ad375.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "rock-antenne-live-rock",
+      "name": "ROCK ANTENNE Live Rock",
+      "enabled": true,
+      "urls": [
+        "https://stream.rockantenne.de/live-rock/stream/aacp"
+      ],
+      "website": "https://www.rockantenne.de/",
+      "content": "Müzik",
+      "location": "Almanya",
+      "logo": "https://www.rockantenne.de/logos/station-rock-antenne/apple-touch-icon.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "rock-antenne-modern-metal",
+      "name": "Rock Antenne Modern Metal",
+      "enabled": true,
+      "urls": [
+        "https://stream.rockantenne.de/modern-metal/stream/mp3"
+      ],
+      "website": "https://www.rockantenne.de/",
+      "content": "heavy metal,metal",
+      "location": "Almanya",
+      "logo": "https://www.rockantenne.de/logos/station-rock-antenne/apple-touch-icon.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "rock-antenne-modern-rock",
+      "name": "ROCK ANTENNE Modern Rock",
+      "enabled": true,
+      "urls": [
+        "http://stream.rockantenne.de/modern-rock/stream/aacp"
+      ],
+      "website": "https://www.rockantenne.de/",
+      "content": "modern rock",
+      "location": "Almanya",
+      "logo": "https://www.rockantenne.de/logos/station-rock-antenne/apple-touch-icon.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "rock-antenne-munich-city-nights",
+      "name": "Rock Antenne Munich City Nights",
+      "enabled": true,
+      "urls": [
+        "https://s6-webradio.rockantenne.bayern/munich-city-nights/stream/mp3"
+      ],
+      "website": "https://www.rockantenne.bayern/rockhoeren/streams/munich-city-nights",
+      "content": "Müzik",
+      "location": "Almanya",
+      "logo": "https://www.rockantenne.bayern/media/cache/3/version/583/streamlogo_munich_city_nighty_ra-v1.jpg/5397f2a2b8da048b.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "rock-antenne-osterreich-aac",
+      "name": "Rock Antenne Österreich",
+      "enabled": true,
+      "urls": [
+        "https://s7-webradio.rockantenne.at/rockantenne-oesterreich/stream/aacp"
+      ],
+      "website": "https://www.rockantenne.at/",
+      "content": "Müzik",
+      "location": "Avusturya",
+      "logo": "https://www.rockantenne.at/logos/rock-antenne-at/apple-touch-icon.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "rock-antenne-sound-of-summer",
+      "name": "ROCK ANTENNE Sound of Summer",
+      "enabled": true,
+      "urls": [
+        "http://s4-webradio.rockantenne.de/sound-of-summer"
+      ],
+      "website": "https://www.rockantenne.de/",
+      "content": "alternative rock,classic rock,pop rock,rock",
+      "location": "Almanya",
+      "logo": "https://www.rockantenne.de/logos/rock-antenne/apple-touch-icon.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "rock-antenne-xmas-rock",
+      "name": "ROCK ANTENNE Xmas Rock",
+      "enabled": true,
+      "urls": [
+        "https://stream.rockantenne.de/xmas-rock/stream/aacp"
+      ],
+      "website": "https://www.rockantenne.de/webradio/xmas-rock",
+      "content": "Müzik",
+      "location": "Almanya",
+      "logo": "https://www.rockantenne.de/logos/station-rock-antenne/apple-touch-icon.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "rock-antenne-young-stars",
+      "name": "ROCK ANTENNE Young Stars",
+      "enabled": true,
+      "urls": [
+        "http://stream.rockantenne.de/young-stars"
+      ],
+      "website": "http://www.rockantenne.de/",
+      "content": "rock",
+      "location": "Almanya",
+      "logo": "http://www.rockantenne.de/logos/station-rock-antenne/apple-touch-icon.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "ffh-brandneu",
+      "name": "FFH BRANDNEU",
+      "enabled": true,
+      "urls": [
+        "http://mp3.ffh.de/ffhchannels/hqbrandneu.mp3"
+      ],
+      "website": "https://www.ffh.de/#",
+      "content": "Müzik",
+      "location": "Almanya",
+      "logo": "https://static.ffh.de/fileadmin/fm-dam/ffh.de/pages/musik/webradios/nologo/brandneu_nologo_600x600.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "ffh-eurodance",
+      "name": "FFH EURODANCE",
+      "enabled": true,
+      "urls": [
+        "http://mp3.ffh.de/ffhchannels/hqeurodance.mp3"
+      ],
+      "website": "https://www.ffh.de/#",
+      "content": "Müzik",
+      "location": "Almanya",
+      "logo": "https://static.ffh.de/fileadmin/fm-dam/ffh.de/pages/musik/webradios/nologo/ffh_eurodance_nologo_600x600.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "ffh-just-white",
+      "name": "FFH Just White",
+      "enabled": true,
+      "urls": [
+        "http://mp3.ffh.de/ffhchannels/hqjustwhite.mp3"
+      ],
+      "website": "https://www.ffh.de/",
+      "content": "Müzik",
+      "location": "Hessen, Almanya",
+      "logo": "https://www.ffh.de/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "ffh-top-1000",
+      "name": "FFH Top 1000",
+      "enabled": true,
+      "urls": [
+        "http://mp3.ffh.de/ffhchannels/hqtop1000.mp3"
+      ],
+      "website": "https://www.ffh.de/index.html",
+      "content": "Müzik",
+      "location": "Almanya",
+      "logo": "https://static.ffh.de/fileadmin/fm-dam/ffh.de/pages/musik/webradios/nologo/top1000_600x600_nologo_01.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "ffh-top-40",
+      "name": "FFH TOP 40",
+      "enabled": true,
+      "urls": [
+        "http://mp3.ffh.de/ffhchannels/hqtop40.mp3"
+      ],
+      "website": "https://www.ffh.de/#",
+      "content": "Müzik",
+      "location": "Almanya",
+      "logo": "https://static.ffh.de/fileadmin/fm-dam/ffh.de/pages/musik/webradios/nologo/top40_600x600_ohne_ffh.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "ffh-workout",
+      "name": "FFH WORKOUT",
+      "enabled": true,
+      "urls": [
+        "http://mp3.ffh.de/ffhchannels/hqworkout.mp3"
+      ],
+      "website": "https://www.ffh.de/#",
+      "content": "Müzik",
+      "location": "Almanya",
+      "logo": "https://static.ffh.de/fileadmin/fm-dam/ffh.de/pages/musik/webradios/nologo/workout_nologo_600x600.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "nrg-91",
+      "name": "NRG 91",
+      "enabled": true,
+      "urls": [
+        "https://sh.onweb.gr/9100/stream/;"
+      ],
+      "website": "https://nrg91.gr/",
+      "content": "mainstream,pop music",
+      "location": "Larisa, Yunanistan",
+      "logo": "https://www.nrg91.gr/wp-content/uploads/2017/07/cropped-icon-1-180x180.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "nrg-92-4",
+      "name": "NRG 92.4",
+      "enabled": true,
+      "urls": [
+        "http://s6.onweb.gr:9240/stream"
+      ],
+      "website": "https://nrg924.gr/",
+      "content": "dance,pop",
+      "location": "Lamia, Yunanistan",
+      "logo": "https://nrg924.gr/wp-content/uploads/2020/09/nrg_gif.gif",
+      "newlyAdded": true
+    },
+    {
+      "id": "nrg-95",
+      "name": "NRG 95",
+      "enabled": true,
+      "urls": [
+        "http://n0b.radiojar.com/93c3avwu48hvv"
+      ],
+      "website": "http://www.nrg95.gr/",
+      "content": "Müzik",
+      "location": "Chalkida, Yunanistan",
+      "logo": "http://resources.live24.gr/resources/images/stations/cfcdc4db-f667-41b1-99b3-410dc1401186.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "nrg-98-5",
+      "name": "NRG 98.5",
+      "enabled": true,
+      "urls": [
+        "https://eco.onestreaming.com/proxy/nrg985ice/stream"
+      ],
+      "website": "https://www.985.gr/",
+      "content": "greek pop,mainstream",
+      "location": "Alexandroupolis, Yunanistan",
+      "logo": "https://resources.live24.gr/resources/images/stations/e6a8be4d-599f-4d48-a132-cad94934d0d9.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "nrg-homeoffice",
+      "name": "NRG Homeoffice",
+      "enabled": true,
+      "urls": [
+        "http://nrj.de/homeoffice"
+      ],
+      "website": "https://www.energy.de/streams/homeoffice",
+      "content": "Müzik",
+      "location": "Almanya",
+      "logo": "https://www.energy.de/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "dinamo-fm-locodyno",
+      "name": "dinamo.fm locodyno",
+      "enabled": true,
+      "urls": [
+        "http://channels.dinamo.fm/locodyno-mp3"
+      ],
+      "website": "http://www.dinamo.fm/",
+      "content": "dj sets,dub,electronic,house,mix,nu disco,techno",
+      "location": "Istanbul, Türkiye",
+      "logo": "https://www.dinamo.fm/favicons/dinamo-locodyno-favicon.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "loops-radio",
+      "name": "loops radio",
+      "enabled": true,
+      "urls": [
+        "https://progressive.ozelip.com/7670/stream"
+      ],
+      "website": "https://loopsradio.com/",
+      "content": "Müzik",
+      "location": "Türkiye",
+      "logo": "https://loopsradio.com/wp-content/uploads/2023/09/cropped-loopsradiofaviconred-180x180.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "capital-nottinghamshire",
+      "name": "Capital (Nottinghamshire)",
+      "enabled": true,
+      "urls": [
+        "https://media-ice.musicradio.com/CapitalNottinghamshireMP3"
+      ],
+      "website": "https://www.capitalfm.com/",
+      "content": "top 40",
+      "location": "Birleşik Krallık",
+      "logo": "https://www.capitalfm.com/assets_v4r/capital/img/favicon-196x196.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "capital-104-8",
+      "name": "Capital 104.8",
+      "enabled": true,
+      "urls": [
+        "https://rdst.win:59354/stream"
+      ],
+      "website": "https://www.capital1048.gr/",
+      "content": "mainstream,pop",
+      "location": "Serres, Yunanistan",
+      "logo": "http://resources.live24.gr/resources/images/stations/2a8d7315-4394-4bea-b5ff-47f0c494f983.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "capital-107",
+      "name": "Capital 107",
+      "enabled": true,
+      "urls": [
+        "https://neos.win:59350/stream"
+      ],
+      "website": "http://capital107.gr/",
+      "content": "Müzik",
+      "location": "Kavala, Yunanistan",
+      "logo": "https://capital107.gr/wp-content/uploads/2020/12/cropped-sdf-3-180x180.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "capital-90-7",
+      "name": "Capital 90.7",
+      "enabled": true,
+      "urls": [
+        "https://hotsoft.net.gr:9100/"
+      ],
+      "website": "https://www.capitalradio.gr/",
+      "content": "Müzik",
+      "location": "Yunanistan",
+      "logo": "https://www.capitalradio.gr/images/capitalradio-logo.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "capital-95-campo-grande",
+      "name": "Capital 95 - Campo Grande",
+      "enabled": true,
+      "urls": [
+        "https://stm1.srvif.com:7908/stream"
+      ],
+      "website": "https://capital95.com.br/",
+      "content": "Müzik",
+      "location": "Mato Grosso do Sul, Brazil",
+      "logo": "https://capital95.com.br/img/logo-footer.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "capital-958",
+      "name": "CAPITAL 958",
+      "enabled": true,
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/CAPITAL958FM_PREM.aac"
+      ],
+      "backupUrls": [
+        "http://playerservices.streamtheworld.com/api/livestream-redirect/CAPITAL958FMAAC.aac"
+      ],
+      "website": "https://www.melisten.sg/radio/capital-958",
+      "content": "melisten",
+      "location": "Singapore",
+      "logo": "https://www16.mediacorp.sg/melisten/radiostation-logos/capital-958.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "capital-dance",
+      "name": "Capital Dance",
+      "enabled": true,
+      "urls": [
+        "https://icecast.thisisdax.com/CapitalDanceMP3"
+      ],
+      "website": "https://www.capitaldance.com/",
+      "content": "Müzik",
+      "location": "Birleşik Krallık",
+      "logo": "https://www.capitaldance.com/assets_v4r/capitaldance/img/favicon-196x196.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "capital-fm",
+      "name": "CAPITAL FM",
+      "enabled": true,
+      "urls": [
+        "http://5229.cloudrad.io:8316/;"
+      ],
+      "website": "http://capitalradio.com/",
+      "content": "fresh hits",
+      "location": "Uganda",
+      "logo": "http://capitalradio.com/assets_v4r/capital/img/favicon-32x32.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "capital-fm-glasgow",
+      "name": "Capital FM Glasgow",
+      "enabled": true,
+      "urls": [
+        "http://media-the.musicradio.com/CapitalGlasgow"
+      ],
+      "website": "https://www.capitalfm.com/glasgow/",
+      "content": "Müzik",
+      "location": "Glasgow, Birleşik Krallık",
+      "logo": "https://www.capitalfm.com/assets_v4r/capital/img/favicon-196x196.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "capital-fm-manchester",
+      "name": "Capital FM Manchester",
+      "enabled": true,
+      "urls": [
+        "http://ice-the.musicradio.com/CapitalManchester"
+      ],
+      "website": "http://www.capitalfm.com/manchester/",
+      "content": "manchester,pop",
+      "location": "Birleşik Krallık",
+      "logo": "http://www.capitalfm.com/assets_v4r/capital/img/favicon-196x196.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "capital-fm-nottinghamshire",
+      "name": "Capital FM Nottinghamshire",
+      "enabled": true,
+      "urls": [
+        "http://icecast.thisisdax.com/CapitalNottinghamshire"
+      ],
+      "website": "https://www.capitalfm.com/nottinghamshire",
+      "content": "charts,english,hits,pop",
+      "location": "Birleşik Krallık",
+      "logo": "https://www.capitalfm.com/assets_v4r/capital/img/favicon-196x196.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "capital-fm-reunion",
+      "name": "Capital FM Réunion",
+      "enabled": true,
+      "urls": [
+        "https://capitalfmreunion.ice.infomaniak.ch/capitalfmreunion.mp3"
+      ],
+      "website": "http://www.capitalfm.re/",
+      "content": "974,créole,réunion,saint-denis",
+      "location": "Reunion",
+      "logo": "https://static2.mytuner.mobi/media/tvos_radios/4qa2fweqmadn.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "capital-fm-south-coast-103-2",
+      "name": "Capital FM South Coast 103.2",
+      "enabled": true,
+      "urls": [
+        "http://media-ice.musicradio.com/CapitalSouthCoastMP3"
+      ],
+      "website": "http://www.capitalfm.com/southcoast/",
+      "content": "commercial,pop,south coast",
+      "location": "Birleşik Krallık",
+      "logo": "http://www.capitalfm.com/assets_v4r/capital/img/favicon-196x196.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "capital-fm-2",
+      "name": "CAPITAL FM Москва",
+      "enabled": true,
+      "urls": [
+        "https://icecast-vgtrk.cdnvideo.ru/capitalfmmp3"
+      ],
+      "website": "https://capitalfm.moscow/",
+      "content": "pop,pop music",
+      "location": "Moscow (Russia), Rusya",
+      "logo": "https://capitalfm.moscow/img/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "capital-north-wales-north-wales-coast",
+      "name": "Capital North Wales - North Wales Coast",
+      "enabled": true,
+      "urls": [
+        "https://media-ssl.musicradio.com/CapitalWalesCoastMP3"
+      ],
+      "website": "https://www.capitalfm.com/walescoast/",
+      "content": "entertainment,hits",
+      "location": "Birleşik Krallık",
+      "logo": "https://assets.capitalfm.com/2022/44/generic-capital-web-holder-1667331088-large-article-0.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "capital-radio-netherlands",
+      "name": "Capital Radio Netherlands",
+      "enabled": true,
+      "urls": [
+        "https://stream.capitalradio.nl/listen/capitalradio/capitalradio"
+      ],
+      "website": "https://capitalradio.nl/",
+      "content": "Müzik",
+      "location": "Hollanda",
+      "logo": "https://capitalradio.nl/logo_2026.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "capital-radio-sl",
+      "name": "Capital Radio SL",
+      "enabled": true,
+      "urls": [
+        "http://live.capitalradio.sl/"
+      ],
+      "website": "https://www.capitalradio.sl/",
+      "content": "Müzik",
+      "location": "Slovenia",
+      "logo": "https://www.capitalradio.sl/wp/wp-content/uploads/2021/01/cropped-caplogo.gif",
+      "newlyAdded": true
+    },
+    {
+      "id": "capital-uk",
+      "name": "Capital UK",
+      "enabled": true,
+      "urls": [
+        "http://icecast.thisisdax.com/CapitalUKMP3"
+      ],
+      "website": "https://www.capitalfm.com/digital/",
+      "content": "pop",
+      "location": "Birleşik Krallık",
+      "logo": "https://i.imgur.com/xCTMNrl.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "qmusic-90-s-00-s-64k-aac",
+      "name": "Qmusic 90's & 00's",
+      "enabled": true,
+      "urls": [
+        "https://stream.qmusic.nl/90s-00s/aaclow"
+      ],
+      "website": "https://qmusic.nl/",
+      "content": "00s,90s,hits",
+      "location": "Hollanda",
+      "logo": "https://cdn-radio.dpgmedia.net/2/72/3d/09/109/Site-logo-_220x220_2.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "qmusic-be",
+      "name": "Qmusic BE",
+      "enabled": true,
+      "urls": [
+        "https://icecast-qmusicbe-cdp.triple-it.nl/qmusic.aac"
+      ],
+      "website": "https://qmusic.be/",
+      "content": "Müzik",
+      "location": "Vilvoorde, Belçika",
+      "logo": "https://qmusic.be/assets/favicon/default-67977c4f518d45d3a639958e1c6c072532dd2e05cbef9e42cb9f8ecde1964c97.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "qmusic-het-foute-uur",
+      "name": "Qmusic Het Foute Uur",
+      "enabled": true,
+      "urls": [
+        "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_fouteuur_96.mp3"
+      ],
+      "website": "https://qmusic.nl/",
+      "content": "Müzik",
+      "location": "Hollanda",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/7/70/Qmusic_logo.svg",
+      "newlyAdded": true
+    },
+    {
+      "id": "qmusic-nederland-aac-high",
+      "name": "QMUSIC NEDERLAND AAC HIGH",
+      "enabled": true,
+      "urls": [
+        "https://stream.qmusic.nl/qmusic/aachigh"
+      ],
+      "website": "https://qmusic.nl/",
+      "content": "Müzik",
+      "location": "Hollanda",
+      "logo": "https://qmusic.nl/assets/favicon/default-67977c4f518d45d3a639958e1c6c072532dd2e05cbef9e42cb9f8ecde1964c97.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "qmusic-q-allstars",
+      "name": "Qmusic Q-Allstars",
+      "enabled": true,
+      "urls": [
+        "https://icecast-qmusicbe-cdp.triple-it.nl/q-allstars.aac"
+      ],
+      "website": "https://qmusic.be/",
+      "content": "00's,10's,80's,90's",
+      "location": "Belçika",
+      "logo": "https://qmusic.be/assets/favicon/default-67977c4f518d45d3a639958e1c6c072532dd2e05cbef9e42cb9f8ecde1964c97.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "1-fm-a-list-80s",
+      "name": "1.FM - A List 80s",
+      "enabled": true,
+      "urls": [
+        "http://strm112.1.fm/back280s_mobile_mp3"
+      ],
+      "website": "http://www.1.fm/",
+      "content": "80s",
+      "location": "İsviçre",
+      "logo": "https://i.imgur.com/vFiPaW4.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "1-fm-absolute-pop-latino-radio",
+      "name": "1.FM - Absolute Pop Latino Radio",
+      "enabled": true,
+      "urls": [
+        "http://strm112.1.fm/latino_mobile_mp3"
+      ],
+      "website": "http://www.1.fm/",
+      "content": "latin,pop",
+      "location": "İsviçre",
+      "logo": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "1-fm-classic-rock-replay-radio",
+      "name": "1.FM - Classic Rock Replay Radio",
+      "enabled": true,
+      "urls": [
+        "http://strm112.1.fm/crock_mobile_mp3"
+      ],
+      "website": "http://www.1.fm/",
+      "content": "classic rock",
+      "location": "İsviçre",
+      "logo": "http://i.imgur.com/Jmvwqen.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "nrj-belgique",
+      "name": "NRJ Belgique",
+      "enabled": true,
+      "urls": [
+        "https://stream.rcs.revma.com/xh00fwuptg0uv"
+      ],
+      "website": "https://www.nrj.be/",
+      "content": "contemporary hits radio,dance,pop,top40",
+      "location": "Belçika",
+      "logo": "https://www.nrj.be/build/images/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "nrj-egypt",
+      "name": "NRJ EGYPT",
+      "enabled": true,
+      "urls": [
+        "http://nrjstreaming.ahmed-melege.com/nrjegypt"
+      ],
+      "website": "https://nrj.com/",
+      "content": "Müzik",
+      "location": "Egypt",
+      "logo": "https://nrj.com/img/NRJ_EGYPT_140.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "nrj-norge",
+      "name": "NRJ Norge",
+      "enabled": true,
+      "urls": [
+        "https://live-bauerno.sharp-stream.com/kiss_no_mp3"
+      ],
+      "website": "https://radioplay.no/nrj/",
+      "content": "pop,hits,top 40",
+      "location": "Oslo, Norveç",
+      "logo": "https://media.bauerradio.com/image/upload/c_crop,g_custom/v1733412560/brand_manager/stations/op6xarklazczsrwxi2ga.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "nrj-radio",
+      "name": "NRJ RADIO",
+      "enabled": true,
+      "urls": [
+        "https://cast.mediaonline.net.ua/nrj320"
+      ],
+      "website": "https://nrjradio.ua/",
+      "content": "Müzik",
+      "location": "Ukraine",
+      "logo": "https://nrjradio.ua/images/NRJ.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "nrj-reunion",
+      "name": "NRJ Réunion",
+      "enabled": true,
+      "urls": [
+        "https://streaming.nrjaudio.fm/ougonmrb92oc"
+      ],
+      "website": "http://www.nrj.re/",
+      "content": "Müzik",
+      "location": "Reunion",
+      "logo": "https://i.ibb.co/B5w8zvHr/nrj-reunion-9d96388c.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "nrj-russia",
+      "name": "NRJ Russia",
+      "enabled": true,
+      "urls": [
+        "https://srv02.gpmradio.ru:8443/stream/air/aac/64/99"
+      ],
+      "website": "http://energyfm.ru/",
+      "content": "Müzik",
+      "location": "Moscow (Russia), Rusya",
+      "logo": "https://api.radioplayer.ru/images/energy_colored.svg",
+      "newlyAdded": true
+    },
+    {
+      "id": "nrj-zouk",
+      "name": "NRJ Zouk",
+      "enabled": true,
+      "urls": [
+        "https://streaming.nrjaudio.fm/ousryem4z85f?origine=fluxradios&aw_0_1st.station=NRJ-Zouk"
+      ],
+      "website": "https://nrjantilles.com/",
+      "content": "zouk",
+      "location": "France",
+      "logo": "https://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj_fr_an/logos/173x173/NRJ-WR-Zouk.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "nrj-belgique-2",
+      "name": "NRJ+ (Belgique)",
+      "enabled": true,
+      "urls": [
+        "https://stream.rcs.revma.com/1a6hdnzbebuvv"
+      ],
+      "website": "https://www.nrj.be/",
+      "content": "00s,64kbps,90s,aac,contemporary hits radio,dance,pop",
+      "location": "Belçika",
+      "logo": "https://www.nrj.be/build/images/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "joe",
+      "name": "Joe",
+      "enabled": true,
+      "urls": [
+        "https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl.mp3"
+      ],
+      "backupUrls": [
+        "https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl_high.aac"
+      ],
+      "website": "https://joe.nl/",
+      "content": "Müzik",
+      "location": "Hollanda",
+      "logo": "https://cdn-radio.dpgmedia.net/6/7c/6a/1e/47/JOE-7-WEBSITE-220x220.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "joe-all-the-way",
+      "name": "Joe - All the way",
+      "enabled": true,
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/JOE.mp3"
+      ],
+      "website": "https://www.joe.be/",
+      "content": "pop",
+      "location": "Vlaanderen, Belçika",
+      "logo": "https://www.joe.be/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "joe-80-s-90-s",
+      "name": "Joe 80's & 90's",
+      "enabled": true,
+      "urls": [
+        "https://icecast-qmusicbe-cdp.triple-it.nl/joe_80s_90s.mp3"
+      ],
+      "backupUrls": [
+        "https://streams.radio.dpgmedia.cloud/redirect/joe_80s_90s/mp3"
+      ],
+      "website": "https://joe.be/",
+      "content": "80's,90's,hits",
+      "location": "Vlaanderen, Belçika",
+      "logo": "https://static.mytuner.mobi/media/tvos_radios/x7fzbddfxjqy.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "joe-gold",
+      "name": "JOE Gold",
+      "enabled": true,
+      "urls": [
+        "https://streams.radio.dpgmedia.cloud/redirect/joe_gold/mp3"
+      ],
+      "website": "https://joe.be/",
+      "content": "Müzik",
+      "location": "Belçika",
+      "logo": "https://cdn-radio.dpgmedia.net/7/32/78/a4/113/JOE_GOLD-7-WEBSITE-220x220.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "joe-lage-landen",
+      "name": "Joe Lage Landen",
+      "enabled": true,
+      "urls": [
+        "https://icecast-qmusicbe-cdp.triple-it.nl/joe_lage_landen.mp3"
+      ],
+      "website": "https://joe.be/luister/joe_lage_landen",
+      "content": "Müzik",
+      "location": "Belçika",
+      "logo": "https://joe.be/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "joe-non-stop",
+      "name": "JOE non-stop",
+      "enabled": true,
+      "urls": [
+        "https://stream.joe.nl/nonstop/mp3"
+      ],
+      "website": "https://joe.nl/",
+      "content": "non-stop music",
+      "location": "Hollanda",
+      "logo": "https://cdn-radio.dpgmedia.net/2/b4/49/28/115/JOE_NON-STOP_WEBSITE_LOGO-JOE-NON-STOP_35298ac114.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "totally-radio-country-mp3",
+      "name": "Totally Radio - Country",
+      "enabled": true,
+      "urls": [
+        "http://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_COUNTRY_S01.mp3"
+      ],
+      "backupUrls": [
+        "http://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_COUNTRY_S01AAC.aac"
+      ],
+      "website": "https://totallyradio.com.au/Country",
+      "content": "country,country music",
+      "location": "Avustralya",
+      "logo": "https://i.ibb.co/P9yMvcX/Totally-Radio-Country-qjacmi6h94nashli42opsd2x6oxm98rtw88syia8v4.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "totally-radio-easy-aac",
+      "name": "Totally Radio - Easy",
+      "enabled": true,
+      "urls": [
+        "http://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_EASY_S01AAC.aac"
+      ],
+      "website": "https://totallyradio.com.au/Easy/",
+      "content": "easy listening",
+      "location": "Avustralya",
+      "logo": "https://i.ibb.co/7GT6nrZ/Easy-2017-nyk468hxd4jmibnhq05llse8xal7g55mon8ph5x2sg.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "totally-radio-hits-aac",
+      "name": "Totally Radio - Hits",
+      "enabled": true,
+      "urls": [
+        "http://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_HITS_S01AAC.aac"
+      ],
+      "website": "https://totallyradio.com.au/Hits/",
+      "content": "contemporary hits,hits,top 40 hits,top hits",
+      "location": "Avustralya",
+      "logo": "https://i.ibb.co/pK0kqYL/Hits-2017-nyk46oh6lb5hzp0a4p29a6d30ueg2zx2eubymv9duo.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "totally-radio-mp3",
+      "name": "Totally Radio",
+      "enabled": true,
+      "urls": [
+        "http://stream.zeno.fm/76ehbdmxtzutv"
+      ],
+      "website": "http://totallyradio.com.au/",
+      "content": "music",
+      "location": "Brisbane QLD, Avustralya",
+      "logo": "https://i.ibb.co/nLxHrTH/image.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "fluxfm-new-yorker-instore-radio-germany",
+      "name": "FluxFM - New Yorker Instore Radio Germany",
+      "enabled": true,
+      "urls": [
+        "http://streams.fluxfm.de/nyir-ger/mp3-128/streams.fluxfm.de/"
+      ],
+      "website": "https://www.fluxfm.de/",
+      "content": "Müzik",
+      "location": "Berlin, Almanya",
+      "logo": "https://www.fluxfm.de/assets/favicons/apple-icon-120x120.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "fluxfm-new-yorker-instore-radio-global",
+      "name": "FluxFM - New Yorker Instore Radio Global",
+      "enabled": true,
+      "urls": [
+        "http://streams.fluxfm.de/nyir-glob/mp3-320/streams.fluxfm.de/"
+      ],
+      "website": "https://www.fluxfm.de/",
+      "content": "Müzik",
+      "location": "Berlin, Almanya",
+      "logo": "https://www.fluxfm.de/assets/favicons/apple-icon-120x120.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "fluxfm-xradio-90s-channel",
+      "name": "FluxFM - XRadio – 90’s Channel",
+      "enabled": true,
+      "urls": [
+        "http://fluxmusic.api.radiosphere.io/channels/90s/stream.mp3?quality=10"
+      ],
+      "website": "http://www.fluxfm.de/",
+      "content": "90s",
+      "location": "Berlin, Almanya",
+      "logo": "http://www.fluxfm.de/assets/favicons/apple-icon-120x120.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "fluxfm-2000er-320k-mp3",
+      "name": "FluxFM 2000er",
+      "enabled": true,
+      "urls": [
+        "https://fluxmusic.api.radiosphere.io/channels/2000er/stream.mp3?quality=10"
+      ],
+      "backupUrls": [
+        "https://fluxmusic.api.radiosphere.io/channels/2000er/stream.aac?quality=10"
+      ],
+      "website": "https://www.fluxfm.de/channels/fc56c149-6140-4e7f-9aa8-fe8febd10bab",
+      "content": "00s,alternative rock,hip hop,music only,nostalgic,pop",
+      "location": "Almanya",
+      "logo": "https://fluxmusic.cdn.radiosphere.io/images/4baa09a4-bc9d-4f68-93b0-4f3d411d76e5?type=medium",
+      "newlyAdded": true
+    },
+    {
+      "id": "fluxfm-90s-radio",
+      "name": "FluxFM 90s Radio",
+      "enabled": true,
+      "urls": [
+        "http://channels.fluxfm.de/90s/externalembedflxhp/stream.aac"
+      ],
+      "website": "https://www.fluxfm.de/channels/7ee29cf1-7561-4ba6-9c9b-cc4faebbaf28",
+      "content": "90s radio",
+      "location": "Berlin, Almanya",
+      "logo": "https://fluxmusic.cdn.radiosphere.io/images/0855ed40-7c1e-4ea4-ad82-a52c4e93ed9e_1634204212.webp.90?type=medium&blocking=false",
+      "newlyAdded": true
+    },
+    {
+      "id": "fluxfm-anima-radio-320k-mp3",
+      "name": "FluxFM Anima Radio",
+      "enabled": true,
+      "urls": [
+        "https://fluxmusic.api.radiosphere.io/channels/anima-radio/stream.mp3?quality=10"
+      ],
+      "backupUrls": [
+        "https://fluxmusic.api.radiosphere.io/channels/anima-radio/stream.mp3?quality=1",
+        "https://fluxmusic.api.radiosphere.io/channels/anima-radio/stream.aac?quality=10",
+        "https://fluxmusic.api.radiosphere.io/channels/anima-radio/stream.aac?quality=1"
+      ],
+      "website": "https://www.fluxfm.de/channels/b4084f1f-8f53-46bf-929f-eb719fcdf9ec",
+      "content": "contemporary,downtempo,focus,lounge,music only,relaxed,warm",
+      "location": "Almanya",
+      "logo": "https://fluxmusic.cdn.radiosphere.io/images/32db08fb-7747-449b-b980-20dbf74bd56c?type=medium",
+      "newlyAdded": true
+    },
+    {
+      "id": "fluxfm-b-funk-64k-mp3",
+      "name": "FluxFM B-Funk",
+      "enabled": true,
+      "urls": [
+        "https://fluxmusic.api.radiosphere.io/channels/b-funk/stream.mp3?quality=1"
+      ],
+      "website": "https://www.fluxfm.de/channels/85f323a6-e066-49ab-9a3d-fb74030adfae",
+      "content": "contemporary,focus,funk,groovy,hip hop,music only,relaxation,soul,uplifting",
+      "location": "Almanya",
+      "logo": "https://fluxmusic.cdn.radiosphere.io/images/4b576518-ad35-407d-a08c-d58e285763d9?type=medium",
+      "newlyAdded": true
+    },
+    {
+      "id": "fluxfm-electronic-chillout-64k-mp3",
+      "name": "FluxFM Electronic Chillout",
+      "enabled": true,
+      "urls": [
+        "https://fluxmusic.api.radiosphere.io/channels/electronic-chillout/stream.mp3?quality=1"
+      ],
+      "website": "https://www.fluxfm.de/channels/aa1a53ce-7743-444d-a0b9-115ba01c7321",
+      "content": "contemporary,downtempo,electronica,music only,relaxation,relaxed",
+      "location": "Almanya",
+      "logo": "https://fluxmusic.cdn.radiosphere.io/images/3057f808-131c-4bae-a0f5-d06fb6b15da1?type=medium",
+      "newlyAdded": true
+    },
+    {
+      "id": "fluxfm-fluxfm-finest-64k-mp3",
+      "name": "FluxFM FluxFM Finest",
+      "enabled": true,
+      "urls": [
+        "https://fluxmusic.api.radiosphere.io/channels/fluxfm-finest/stream.mp3?quality=1"
+      ],
+      "backupUrls": [
+        "https://fluxmusic.api.radiosphere.io/channels/fluxfm-finest/stream.aac?quality=1"
+      ],
+      "website": "https://www.fluxfm.de/channels/a777b93d-e60c-47f9-be28-1233e6c9802d",
+      "content": "contemporary,electronica,indie pop,music only,upbeat",
+      "location": "Almanya",
+      "logo": "https://fluxmusic.cdn.radiosphere.io/images/fe494353-9aee-45b4-8814-c4b1941ef7b0?type=medium",
+      "newlyAdded": true
+    },
+    {
+      "id": "fluxfm-indie-disco-64k-mp3",
+      "name": "FluxFM Indie Disco",
+      "enabled": true,
+      "urls": [
+        "https://fluxmusic.api.radiosphere.io/channels/indiedisco/stream.aac?quality=10"
+      ],
+      "backupUrls": [
+        "https://fluxmusic.api.radiosphere.io/channels/indiedisco/stream.aac?quality=10"
+      ],
+      "website": "https://www.fluxfm.de/channels/cbc089f5-b834-40ca-9438-0b2f4bfb915f",
+      "content": "contemporary,dance-pop,indie rock,music only,party,upbeat",
+      "location": "Almanya",
+      "logo": "https://fluxmusic.cdn.radiosphere.io/images/ba2db4e9-39b0-4309-8bab-6ace2b3dc54d?type=medium",
+      "newlyAdded": true
+    },
+    {
+      "id": "ffh-90er",
+      "name": "ffh + 90er",
+      "enabled": true,
+      "urls": [
+        "http://mp3.ffh.de/ffhplus/90er.aac?aw_0_req.gdpr=true"
+      ],
+      "website": "http://ffh.de/",
+      "content": "90s",
+      "location": "Hessen",
+      "logo": "https://www.ffh.de/android-icon.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-2019",
+      "name": "Radio 2019",
+      "enabled": true,
+      "urls": [
+        "http://31.210.157.103/stream/494/;stream.mp3"
+      ],
+      "website": "https://www.radio2019.com.tr/",
+      "content": "Elektronik müzik ve DJ performansları",
+      "location": "İstanbul, Türkiye",
+      "logo": "https://www.radio2019.com.tr/wp-content/uploads/2018/04/alt_radio_2019_logo.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "play-dance-radio",
+      "name": "Play Dance Radio",
+      "enabled": true,
+      "urls": [
+        "https://radyo1.radyo-dinle.tc/playdanceradio/stream"
+      ],
+      "website": "https://theplaygroup.com.tr/#canli-radyolar",
+      "content": "Dans ve elektronik müzik",
+      "location": "İstanbul, Türkiye",
+      "logo": "https://theplaygroup.com.tr/IMG_20240601_132152_273.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "play-dance-turk",
+      "name": "Play Dance Türk",
+      "enabled": true,
+      "urls": [
+        "https://radyo1.radyo-dinle.tc/playdanceturk/stream"
+      ],
+      "website": "https://theplaygroup.com.tr/#canli-radyolar",
+      "content": "Türkçe dans müziği",
+      "location": "İstanbul, Türkiye",
+      "logo": "https://theplaygroup.com.tr/IMG_20240601_132152_273.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "andromeda-turk",
+      "name": "Andromeda Türk",
+      "enabled": true,
+      "urls": [
+        "https://radyo1.radyo-dinle.tc/andromedaturk/stream"
+      ],
+      "website": "https://theplaygroup.com.tr/#canli-radyolar",
+      "content": "Türkçe müzik",
+      "location": "İstanbul, Türkiye",
+      "logo": "https://theplaygroup.com.tr/IMG_20240601_132152_273.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-886",
+      "name": "Radio 88.6",
+      "enabled": true,
+      "urls": [
+        "https://frontend.streamonkey.net/radio886-onair/stream/mp3?aggregator=886Website"
+      ],
+      "website": "https://radio886.at/",
+      "content": "Rock müzik",
+      "location": "Viyana, Avusturya",
+      "logo": "https://radio886.at/apple-touch-icon.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-886-classic-rock",
+      "name": "Radio 88.6 Classic Rock",
+      "enabled": true,
+      "urls": [
+        "https://frontend.streamonkey.net/radio886-classicrock/stream/mp3?aggregator=886Website"
+      ],
+      "website": "https://radio886.at/Musik/Webstreams",
+      "content": "Klasik rock",
+      "location": "Viyana, Avusturya",
+      "logo": "https://radio886.at/apple-touch-icon.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-886-hard-rock",
+      "name": "Radio 88.6 Hard Rock",
+      "enabled": true,
+      "urls": [
+        "https://frontend.streamonkey.net/radio886-hardrock/stream/mp3?aggregator=886Website"
+      ],
+      "website": "https://radio886.at/Musik/Webstreams",
+      "content": "Hard rock",
+      "location": "Viyana, Avusturya",
+      "logo": "https://radio886.at/apple-touch-icon.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-886-metal",
+      "name": "Radio 88.6 Metal",
+      "enabled": true,
+      "urls": [
+        "https://frontend.streamonkey.net/radio886-metal/stream/mp3?aggregator=886Website"
+      ],
+      "website": "https://radio886.at/Musik/Webstreams",
+      "content": "Metal müzik",
+      "location": "Viyana, Avusturya",
+      "logo": "https://radio886.at/apple-touch-icon.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-886-new-rock",
+      "name": "Radio 88.6 New Rock",
+      "enabled": true,
+      "urls": [
+        "https://frontend.streamonkey.net/radio886-newrock/stream/mp3?aggregator=886Website"
+      ],
+      "website": "https://radio886.at/Musik/Webstreams",
+      "content": "Yeni rock",
+      "location": "Viyana, Avusturya",
+      "logo": "https://radio886.at/apple-touch-icon.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-886-rot-weiss-rock",
+      "name": "Radio 88.6 Rot-Weiß-Rock",
+      "enabled": true,
+      "urls": [
+        "https://frontend.streamonkey.net/radio886-rotweissrock/stream/mp3?aggregator=886Website"
+      ],
+      "website": "https://radio886.at/Musik/Webstreams",
+      "content": "Avusturya rock müziği",
+      "location": "Viyana, Avusturya",
+      "logo": "https://radio886.at/apple-touch-icon.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-flamingo",
+      "name": "Radio Flamingo",
+      "enabled": true,
+      "urls": [
+        "https://live.radioflamingo.at/rf"
+      ],
+      "website": "https://www.radioflamingo.at/",
+      "content": "Schlager müziği",
+      "location": "Graz, Avusturya",
+      "logo": "https://www.radioflamingo.at/icons/ios/1024.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "hiper-fm",
+      "name": "Hiper FM",
+      "enabled": true,
+      "urls": [
+        "https://centova.radio.com.pt/proxy/500?mp=/stream"
+      ],
+      "website": "https://www.hiper.fm/",
+      "content": "Pop, rock ve dans müziği",
+      "location": "Rio Maior, Portekiz",
+      "logo": "https://www.hiper.fm/wp-content/uploads/2015/03/player.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "metal-on-the-heavy",
+      "name": "Metal ON The Heavy",
+      "enabled": true,
+      "urls": [
+        "https://radiometalon.com/listen/radio_metal_on_the_heavy/radio.mp3"
+      ],
+      "website": "https://metalon.org/index.php/the-heavy/",
+      "content": "Hard rock, heavy metal ve power metal",
+      "location": "Portekiz",
+      "logo": "https://metalon.org/wp-content/uploads/2026/05/mo_theheavy-2.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "metal-on-the-brutal",
+      "name": "Metal ON The Brutal",
+      "enabled": true,
+      "urls": [
+        "https://radiometalon.com/listen/radio_metal_on_the_brutal/radio.mp3"
+      ],
+      "website": "https://metalon.org/index.php/the-brutal/",
+      "content": "Death metal, black metal ve grindcore",
+      "location": "Portekiz",
+      "logo": "https://metalon.org/wp-content/uploads/2026/05/mo_thebrutal.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "metal-on-the-thrasher",
+      "name": "Metal ON The Thrasher",
+      "enabled": true,
+      "urls": [
+        "https://radiometalon.com/listen/radio_metal_on_the_thrasher/radio.mp3"
+      ],
+      "website": "https://metalon.org/index.php/the-thrasher/",
+      "content": "Thrash metal",
+      "location": "Portekiz",
+      "logo": "https://metalon.org/wp-content/uploads/2026/05/mo_thetrasher.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "metal-on-80shnh",
+      "name": "Metal ON 80sHNH",
+      "enabled": true,
+      "urls": [
+        "https://radiometalon.com/listen/radio_metal_on_80s_hnh/radio.mp3"
+      ],
+      "website": "https://metalon.org/index.php/80shnh/",
+      "content": "80'ler hard rock ve heavy metal",
+      "location": "Portekiz",
+      "logo": "https://metalon.org/wp-content/uploads/2026/05/mo_80.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "metal-on-toxic",
+      "name": "Metal ON Toxic",
+      "enabled": true,
+      "urls": [
+        "https://radiometalon.com/listen/radio_metal_on_toxic/radio.mp3"
+      ],
+      "website": "https://metalon.org/index.php/toxic/",
+      "content": "Modern ve alternatif metal",
+      "location": "Portekiz",
+      "logo": "https://metalon.org/wp-content/uploads/2026/05/mo_toxic-1.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "80rock",
+      "name": "80ROCK",
+      "enabled": true,
+      "urls": [
+        "https://rs2.ptservidor.com:2199/proxy/febrites?mp=/stream"
+      ],
+      "website": "https://80rock.pt/",
+      "content": "80'lerden günümüze rock ve metal",
+      "location": "Portekiz",
+      "logo": "https://80rock.pt/wp-content/uploads/2020/02/logo.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "northern-metal-radio",
+      "name": "Northern Metal Radio",
+      "enabled": true,
+      "urls": [
+        "https://dc5.serverse.com/proxy/lvzgnvcj/stream"
+      ],
+      "website": "https://www.northernmetalradio.com/",
+      "content": "Metal müzik",
+      "location": "İsveç",
+      "logo": "https://www.northernmetalradio.com/wp-content/uploads/2023/06/NMR.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "northern-metal-radio-extreme",
+      "name": "Northern Metal Radio Extreme",
+      "enabled": true,
+      "urls": [
+        "https://s2.free-shoutcast.com/stream/18092"
+      ],
+      "website": "https://www.northernmetalradio.com/station/northern-metal-radio-extreme/",
+      "content": "Extreme metal",
+      "location": "İsveç",
+      "logo": "https://www.northernmetalradio.com/wp-content/uploads/2023/05/NMR-Extreme-1.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "cosmoradio-951",
+      "name": "Cosmoradio 95.1",
+      "enabled": true,
+      "urls": [
+        "http://eco.onestreaming.com:8689/"
+      ],
+      "website": "https://www.cosmoradio.gr/",
+      "content": "Yunan pop müziği ve güncel Yunan hitleri",
+      "location": "Selanik, Yunanistan",
+      "logo": "https://www.cosmoradio.gr/images/folder/CosmoLogoNew.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "fly-fm-881",
+      "name": "Fly FM 88.1",
+      "enabled": true,
+      "urls": [
+        "http://eco.onestreaming.com:8602/;"
+      ],
+      "website": "https://flyfm.gr/",
+      "content": "Deep house, indie dance, elektronik ve chill müzik",
+      "location": "Kandiye, Girit, Yunanistan",
+      "logo": "https://flyfm.gr/wp-content/uploads/2025/03/cropped-logo1-1-1.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "oldies-fm-se",
+      "name": "Oldies FM",
+      "enabled": true,
+      "urls": [
+        "https://stream3.themediasite.co.uk:8030/"
+      ],
+      "website": "https://oldiesfm.se/",
+      "content": "60'lar, 70'ler, 80'ler, 90'lar ve 2000'lerden klasik hitler",
+      "location": "Gävle, İsveç",
+      "logo": "https://oldiesfm.se/beta/logo-utan-se.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "coffee-web-radio",
+      "name": "Coffee Web Radio",
+      "enabled": true,
+      "urls": [
+        "https://solid9.streamupsolutions.com/proxy/teqgebwz/stream"
+      ],
+      "website": "https://www.thewebradio.gr/index.php/coffee",
+      "content": "80'ler, 90'lar, 2000'ler ve günümüzden yabancı pop ve rock",
+      "location": "Atina, Yunanistan",
+      "logo": "https://www.thewebradio.gr/images/coffee.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "40rock-radio",
+      "name": "40ROCK Radio",
+      "enabled": true,
+      "urls": [
+        "https://40rockstream.live-streams.nl/live"
+      ],
+      "website": "https://40rockradio.nl/",
+      "content": "Klasik hitler, albüm parçaları, pop, Americana, blues ve rock",
+      "location": "Eindhoven, Hollanda",
+      "logo": "https://40rockradio.nl/wp-content/uploads/2021/04/40ROCK-Favicon-geel.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "tukker-fm",
+      "name": "Tukker FM",
+      "enabled": true,
+      "urls": [
+        "https://stream.tukkerfm.nl/tukkerfm"
+      ],
+      "website": "https://tukker.fm/",
+      "content": "Hollanda korsan klasikleri, lehçe müziği ve 60'lar, 70'ler, 80'ler hitleri",
+      "location": "Sneek, Hollanda",
+      "logo": "https://tukker.fm/wp-content/uploads/2025/01/Tukker-FM-logo.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "real-hardstyle-radio",
+      "name": "Real Hardstyle Radio",
+      "enabled": true,
+      "urls": [
+        "https://stream.realhardstyle.nl/"
+      ],
+      "website": "https://realhardstyle.nl/",
+      "content": "Early, euphoric, raw ve klasik hardstyle; freestyle",
+      "location": "Kuzey Brabant, Hollanda",
+      "logo": "https://realhardstyle.nl/wp-content/uploads/2020/11/cropped-Real-Hardstyle-website-logo-icon.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "autolife-radio-azerbaijan",
+      "name": "AutoLife Radio Azerbaijan",
+      "enabled": true,
+      "urls": [
+        "https://radio.autoliferadio.com:8095/radio"
+      ],
+      "backupUrls": [
+        "https://radio.autoliferadio.com:8005/radio"
+      ],
+      "website": "https://autolife.az/radiochannel/autolife-radio-azerbaijan/",
+      "content": "Pop, dans, güncel hitler ve otomobil yaşamı odaklı müzik",
+      "location": "Bakü, Azerbaycan",
+      "logo": "https://autolife.az/wp-content/uploads/2025/08/alr_logo-2-black-png.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "vintage-radio-azerbaijan",
+      "name": "Vintage Radio Azerbaijan",
+      "enabled": true,
+      "urls": [
+        "https://trucker.autoliferadio.com:1045/stream"
+      ],
+      "backupUrls": [
+        "https://trucker.autoliferadio.com:1095/stream"
+      ],
+      "website": "https://autolife.az/radiochannel/vintage-radio-azerbaijan/",
+      "content": "Vintage klasikler, oldies ve nostaljik müzik",
+      "location": "Bakü, Azerbaycan",
+      "logo": "https://autolife.az/wp-content/uploads/2025/08/72558_category-370x370.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-antalya",
+      "name": "Radio Antalya",
+      "enabled": true,
+      "urls": [
+        "https://my.radiolize.com/radio/8000/radio.mp3"
+      ],
+      "website": "https://radioantalya.com/",
+      "content": "Indie, rock, electronica ve tür bağımsız özel miksler",
+      "location": "Antalya, Türkiye",
+      "logo": "https://radioantalya.com/wp-content/uploads/2025/01/logoradioantalya.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-antalya-kaleici",
+      "name": "Radio Antalya Kaleiçi",
+      "enabled": true,
+      "urls": [
+        "https://s2.radiolize.com/radio/8030/radio.aac"
+      ],
+      "website": "https://radioantalya.com/",
+      "content": "Indie, rock, electronica ve Kaleiçi atmosferine özel seçkiler",
+      "location": "Kaleiçi, Antalya, Türkiye",
+      "logo": "https://radioantalya.com/wp-content/uploads/2025/01/logoradioantalya.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radyo-kaptan",
+      "name": "Radyo Kaptan",
+      "enabled": true,
+      "urls": [
+        "https://live.sinirsizhost.com.tr/8008/stream"
+      ],
+      "website": "https://radyokaptan.com.tr/",
+      "content": "Slow pop, nostaljik şarkılar ve 70'ler, 80'ler, 90'lar, 2000'ler",
+      "location": "Türkiye",
+      "logo": "https://radyokaptan.com.tr/assets/radyo-kaptan-logo-primary.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "sezen-radyo",
+      "name": "Sezen Radyo",
+      "enabled": true,
+      "urls": [
+        "https://radyo1.radyo-dinle.tc:7018/"
+      ],
+      "backupUrls": [
+        "http://radyo1.radyo-dinle.tc:8038/stream"
+      ],
+      "website": "https://www.sezenradyo.com/",
+      "content": "Caz, blues, new age, pop ve alternatif rock",
+      "location": "Efeler, Aydın, Türkiye",
+      "logo": "https://www.sezenradyo.com/wp-content/uploads/2025/09/cropped-sezenradyo_logo.jpeg",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-lora",
+      "name": "Radio LoRa",
+      "enabled": true,
+      "urls": [
+        "https://livestream.lora.ch/lora.mp3"
+      ],
+      "backupUrls": [
+        "https://lora.ice.infomaniak.ch/lora.mp3"
+      ],
+      "website": "https://www.lora.ch/",
+      "content": "Çok dilli topluluk radyosu; alternatif müzik, kültür ve bağımsız programlar",
+      "location": "Zürih, İsviçre",
+      "frequency": "97.5 FM",
+      "logo": "https://www.lora.ch/images/social-sharing.png",
+      "newlyAdded": true
     }
   ],
   "catalogPolicy": {
