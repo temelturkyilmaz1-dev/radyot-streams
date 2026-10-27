@@ -14828,6 +14828,1271 @@
       "frequency": "97.5 FM",
       "logo": "https://www.lora.ch/images/social-sharing.png",
       "newlyAdded": true
+    },
+    {
+      "id": "181-fm-beatles",
+      "name": "181.FM - Beatles",
+      "enabled": true,
+      "urls": [
+        "http://listen.181fm.com/181-beatles_128k.mp3"
+      ],
+      "website": "http://www.181.fm/",
+      "content": "beat,oldies,pop,rock,waynesboro",
+      "location": "Virginia, The United States Of America",
+      "logo": "https://www.181.fm/images/og181fmlogo.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "181-fm-classic-hits-181",
+      "name": "181.FM - Classic Hits 181",
+      "enabled": true,
+      "urls": [
+        "http://listen.181fm.com/181-greatoldies_128k.mp3"
+      ],
+      "website": "http://www.181.fm/",
+      "content": "classic hits,waynesboro",
+      "location": "Virginia, The United States Of America",
+      "logo": "https://www.181.fm/images/og181fmlogo.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "181-fm-rock-181",
+      "name": "181.FM - Rock 181",
+      "enabled": true,
+      "urls": [
+        "http://listen.181fm.com/181-rock_128k.mp3"
+      ],
+      "website": "http://www.181.fm/",
+      "content": "rock,waynesboro",
+      "location": "Virginia, The United States Of America",
+      "logo": "https://www.181.fm/images/og181fmlogo.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "181-fm-the-eagle-classic",
+      "name": "181.FM - The Eagle (Classic)",
+      "enabled": true,
+      "urls": [
+        "http://listen.181fm.com/181-eagle_128k.mp3"
+      ],
+      "website": "http://www.181.fm/",
+      "content": "Müzik",
+      "location": "Virginia, The United States Of America",
+      "logo": "https://www.181.fm/images/og181fmlogo.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "181-fm-power-explicit",
+      "name": "181.FM Power Explicit",
+      "enabled": true,
+      "urls": [
+        "http://listen.livestreamingservice.com/181-powerexplicit_128k.mp3"
+      ],
+      "website": "http://181.fm/",
+      "content": "explicit,pop,top 40",
+      "location": "Virginia, The United States Of America",
+      "logo": "https://www.181.fm/images/og181fmlogo.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "100hitz-90s-alternative-hitz",
+      "name": "100Hitz - 90s Alternative Hitz",
+      "enabled": true,
+      "urls": [
+        "http://pureplay.cdnstream1.com/6040_64.aac/playlist.m3u8"
+      ],
+      "website": "https://100hitz.com/stations/90s-alternative-hitz/",
+      "content": "90s alternative",
+      "location": "The United States Of America",
+      "logo": "https://100hitz.com/wp-content/uploads/2023/03/cropped-Icon_master-logo-180x180.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "100hitz-alternative-hitz",
+      "name": "100Hitz - Alternative Hitz",
+      "enabled": true,
+      "urls": [
+        "https://pureplay.cdnstream1.com/6034_64.aac/playlist.m3u8"
+      ],
+      "website": "https://100hitz.com/",
+      "content": "aaa",
+      "location": "California, The United States Of America",
+      "logo": "https://100hitz.com/wp-content/uploads/2023/03/cropped-Icon_master-logo-180x180.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "rock-antenne-deutschrock",
+      "name": "Rock Antenne Deutschrock",
+      "enabled": true,
+      "urls": [
+        "https://stream.rockantenne.de/deutschrock/stream/aacp"
+      ],
+      "website": "http://www.rockantenne.de/",
+      "content": "deutschrock",
+      "location": "Almanya",
+      "logo": "https://www.rockantenne.de/logos/station-rock-antenne/apple-touch-icon.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "ffh-leider-geil",
+      "name": "FFH Leider Geil",
+      "enabled": true,
+      "urls": [
+        "http://mp3.ffh.de/ffhchannels/hqvoting.mp3?aw_0_req.gdpr=true"
+      ],
+      "website": "https://www.ffh.de/musik/webradio/42-ffh-leider-geil.html",
+      "content": "Müzik",
+      "location": "Almanya",
+      "logo": "https://www.ffh.de/apple-touch-icon.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "hit-radio-ffh-80er-aac",
+      "name": "Hit Radio FFH - 80er (AAC+)",
+      "enabled": true,
+      "urls": [
+        "http://mp3.ffh.de/ffhchannels/80er.aac?aw_0_req.gdpr=true"
+      ],
+      "website": "https://webradio.ffh.de/80er",
+      "content": "Müzik",
+      "location": "Almanya",
+      "logo": "https://www.ffh.de/apple-touch-icon.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "hit-radio-ffh-party",
+      "name": "Hit Radio FFH - Party",
+      "enabled": true,
+      "urls": [
+        "http://mp3.ffh.de/ffhchannels/hqparty.mp3?aw_0_req.gdpr=true"
+      ],
+      "website": "http://webradio.ffh.de/party",
+      "content": "party",
+      "location": "Almanya",
+      "logo": "https://www.ffh.de/apple-touch-icon.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "hit-radio-ffh-schlagerkult",
+      "name": "Hit Radio FFH - Schlagerkult",
+      "enabled": true,
+      "urls": [
+        "http://mp3.ffh.de/ffhchannels/schlager.aac?aw_0_req.gdpr=true"
+      ],
+      "website": "https://webradio.ffh.de/schlager",
+      "content": "schlager",
+      "location": "Almanya",
+      "logo": "https://www.ffh.de/apple-touch-icon.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "big-r-radio-100-3-the-rock-mix",
+      "name": "Big R Radio - 100.3 The Rock Mix",
+      "enabled": true,
+      "urls": [
+        "http://bigrradio.cdnstream1.com/5172_128"
+      ],
+      "website": "http://www.bigrradio.com/",
+      "content": "Müzik",
+      "location": "Washington, The United States Of America",
+      "logo": "https://www.bigrradio.com/assets/apple-touch-icon.690c3943c6.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "big-r-radio-100-9-star-country",
+      "name": "Big R Radio - 100.9 Star Country",
+      "enabled": true,
+      "urls": [
+        "http://bigrradio.cdnstream1.com/5175_128"
+      ],
+      "website": "http://www.bigrradio.com/",
+      "content": "country",
+      "location": "The United States Of America",
+      "logo": "https://www.bigrradio.com/assets/apple-touch-icon.690c3943c6.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "big-r-radio-70s-and-80s-pop-mix",
+      "name": "Big R Radio - 70s and 80s Pop Mix",
+      "enabled": true,
+      "urls": [
+        "http://bigrradio.cdnstream1.com/5181_128"
+      ],
+      "website": "http://www.bigrradio.com/",
+      "content": "classic hits,pop",
+      "location": "Washington, The United States Of America",
+      "logo": "https://www.bigrradio.com/assets/apple-touch-icon.690c3943c6.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "big-r-radio-80s-fm",
+      "name": "Big R Radio - 80s FM",
+      "enabled": true,
+      "urls": [
+        "http://bigrradio-edge1.cdnstream.com/5184_128"
+      ],
+      "website": "http://www.bigrradio.com/",
+      "content": "80s,classic hits",
+      "location": "Washington, The United States Of America",
+      "logo": "https://www.bigrradio.com/assets/apple-touch-icon.690c3943c6.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "big-r-radio-90s-fm",
+      "name": "Big R Radio - 90s FM",
+      "enabled": true,
+      "urls": [
+        "http://bigrradio.cdnstream1.com/5188_128"
+      ],
+      "website": "http://www.bigrradio.com/",
+      "content": "Müzik",
+      "location": "The United States Of America",
+      "logo": "https://www.bigrradio.com/assets/apple-touch-icon.690c3943c6.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "big-r-radio-alternative-rock",
+      "name": "Big R Radio - Alternative Rock",
+      "enabled": true,
+      "urls": [
+        "http://bigrradio.cdnstream1.com/5189_128"
+      ],
+      "website": "http://www.bigrradio.com/",
+      "content": "alternative rock",
+      "location": "Washington, The United States Of America",
+      "logo": "https://www.bigrradio.com/assets/apple-touch-icon.690c3943c6.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "big-r-radio-coffee-house",
+      "name": "Big R Radio - Coffee House",
+      "enabled": true,
+      "urls": [
+        "http://bigrradio-edge1.cdnstream.com/5156_128"
+      ],
+      "website": "http://www.bigrradio.com/",
+      "content": "Müzik",
+      "location": "NV, The United States Of America",
+      "logo": "https://www.bigrradio.com/assets/apple-touch-icon.690c3943c6.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "big-r-radio-country-mix",
+      "name": "Big R Radio - Country Mix",
+      "enabled": true,
+      "urls": [
+        "http://bigrradio.cdnstream1.com/5196_128"
+      ],
+      "website": "http://www.bigrradio.com/",
+      "content": "country",
+      "location": "Washington, The United States Of America",
+      "logo": "https://www.bigrradio.com/assets/apple-touch-icon.690c3943c6.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "big-r-radio-erin-s-chill",
+      "name": "Big R Radio - Erin's Chill",
+      "enabled": true,
+      "urls": [
+        "http://bigrradio.cdnstream1.com/5197_128"
+      ],
+      "website": "http://www.bigrradio.com/",
+      "content": "chillout",
+      "location": "Washington, The United States Of America",
+      "logo": "https://www.bigrradio.com/assets/apple-touch-icon.690c3943c6.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "big-r-radio-grunge-fm",
+      "name": "Big R Radio - Grunge FM",
+      "enabled": true,
+      "urls": [
+        "http://bigrradio.cdnstream1.com/5200_128"
+      ],
+      "website": "http://www.bigrradio.com/",
+      "content": "alternative,grunge",
+      "location": "Washington, The United States Of America",
+      "logo": "https://www.bigrradio.com/assets/apple-touch-icon.690c3943c6.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "big-r-radio-new-r-b",
+      "name": "Big R Radio - New R&B",
+      "enabled": true,
+      "urls": [
+        "http://bigrradio.cdnstream1.com/5202_128"
+      ],
+      "website": "http://www.bigrradio.com/",
+      "content": "contemporary hits,rnb",
+      "location": "Washington, The United States Of America",
+      "logo": "https://www.bigrradio.com/assets/apple-touch-icon.690c3943c6.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "big-r-radio-post-grunge-rock",
+      "name": "Big R Radio - Post Grunge Rock",
+      "enabled": true,
+      "urls": [
+        "http://bigrradio.cdnstream1.com/5203_128"
+      ],
+      "website": "http://www.bigrradio.com/",
+      "content": "alternative,grunge,rock",
+      "location": "Washington, The United States Of America",
+      "logo": "https://www.bigrradio.com/assets/apple-touch-icon.690c3943c6.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "big-r-radio-rock-top-40",
+      "name": "Big R Radio - Rock Top 40",
+      "enabled": true,
+      "urls": [
+        "http://bigrradio.cdnstream1.com/5204_128"
+      ],
+      "website": "http://www.bigrradio.com/",
+      "content": "rock,top 40",
+      "location": "Washington, The United States Of America",
+      "logo": "https://www.bigrradio.com/assets/apple-touch-icon.690c3943c6.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "big-r-radio-the-love-channel",
+      "name": "Big R Radio - The Love Channel",
+      "enabled": true,
+      "urls": [
+        "http://bigrradio.cdnstream1.com/5207_128"
+      ],
+      "website": "http://www.bigrradio.com/",
+      "content": "love songs,soft adult contemporary",
+      "location": "Washington, The United States Of America",
+      "logo": "https://www.bigrradio.com/assets/apple-touch-icon.690c3943c6.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "big-r-radio-the-wave",
+      "name": "Big R Radio - The Wave",
+      "enabled": true,
+      "urls": [
+        "http://bigrradio.cdnstream1.com/5208_128"
+      ],
+      "website": "http://www.bigrradio.com/",
+      "content": "80s,new wave",
+      "location": "Washington, The United States Of America",
+      "logo": "https://www.bigrradio.com/assets/apple-touch-icon.690c3943c6.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "nrg-radio-uganda",
+      "name": "NRG Radio Uganda",
+      "enabled": true,
+      "urls": [
+        "https://dc4.serverse.com/proxy/nrgugstream/stream"
+      ],
+      "website": "https://www.nrgug.radio/",
+      "content": "Müzik",
+      "location": "Uganda",
+      "logo": "https://www.nrgug.radio/_next/image?url=%2Fnrg-logo.png&w=1080&q=75&dpl=dpl_3dfZg3bwmCQL4NtrRmo1888U1pNy",
+      "newlyAdded": true
+    },
+    {
+      "id": "loops-radio-elektronica-station",
+      "name": "Loops Radio Elektronica Station",
+      "enabled": true,
+      "urls": [
+        "https://ssl22.radyotelekom.com/8232/stream"
+      ],
+      "website": "https://loopsradio.com/radiochannel/loops-radio-electronica-station",
+      "content": "elektronik",
+      "location": "Istambul, Türkiye",
+      "logo": "https://loopsradio.com/wp-content/uploads/2023/09/cropped-Pro-Radio-Circle-Radio-demo-15-logo-MOBILE-2-180x180.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "capital-the-uk-s-no-1-hit-music-station",
+      "name": "CAPITAL - The UK's No.1 Hit Music Station",
+      "enabled": true,
+      "urls": [
+        "https://media-ssl.musicradio.com/CapitalUK"
+      ],
+      "website": "https://www.capitalfm.com/",
+      "content": "capital,capital fm,contemporary hits radio,dab+,england,entertainment,europe,global radio,london,moi merino,music,pop music,radio,top hits",
+      "location": "London, The United Kingdom Of Great Britain And Northern Ireland",
+      "logo": "https://www.capitalfm.com/assets_v4r/capital/img/apple-touch-icon-57x57.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "capital-anthems-uk-the-songs-capital-made-famous-londres-inglaterra",
+      "name": "CAPITAL ANTHEMS UK: The Songs Capital Made Famous - Londres, Inglaterra",
+      "enabled": true,
+      "urls": [
+        "https://media-ssl.musicradio.com/CapitalAnthemsMP3"
+      ],
+      "website": "https://www.globalplayer.com/live/capitalanthems/uk/",
+      "content": "capital,dance,england,entretenimiento,estación,europa,europe,global radio,inglaterra,juvenil,london,londres,moi merino,music,música,música en inglés,música pop,pop,pop en inglés,pop music,pop rock,radio,uk,united kingdom",
+      "location": "Mexico",
+      "logo": "https://www.globalplayer.com/assets/track-placeholders/capitalanthems.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "capital-chill-uk-non-stop-chilled-beats-londres-inglaterra",
+      "name": "CAPITAL CHILL UK: Non-stop chilled beats - Londres, Inglaterra",
+      "enabled": true,
+      "urls": [
+        "https://media-ssl.musicradio.com/CapitalChill"
+      ],
+      "website": "https://www.globalplayer.com/live/capitalchill/uk/",
+      "content": "ambient and relaxation music,capital,capital chill,chill,chill house,chilled house,chillout,chillout+lounge,dab,deep house,electronic,electronic music,england,entretenimiento,estación,europa,europe,global radio,inglaterra,juvenil,london,londres,lounge,lounge music,moi merino,music,música,música electrónica,música en inglés,radio,uk,united kingdom,youth",
+      "location": "Mexico",
+      "logo": "https://www.globalplayer.com/assets/track-placeholders/capitalchill.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "capital-dance-the-uk-s-official-dance-station",
+      "name": "CAPITAL DANCE: The UK's Official Dance Station",
+      "enabled": true,
+      "urls": [
+        "https://media-ssl.musicradio.com/CapitalDance"
+      ],
+      "website": "https://www.capitaldance.com/",
+      "content": "capital,capital dance,dab+,dance,dance music,edm,electronic dance music,england,entertainment,europe,global radio,london,moi merino,music,radio,uk,united kingdom",
+      "location": "London, The United Kingdom Of Great Britain And Northern Ireland",
+      "logo": "https://assets.capitaldance.com/2023/07/capital-chill---new-logo-1676370119-editorial-mid-form-0.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "capital-uk-the-uk-s-no-1-hit-music-station-londres-inglaterra",
+      "name": "CAPITAL UK: The UK's No.1 Hit Music Station - Londres, Inglaterra",
+      "enabled": true,
+      "urls": [
+        "http://ice-the.musicradio.com/Capital"
+      ],
+      "website": "https://www.capitalfm.com/",
+      "content": "capital,capital fm,contemporary hits radio,dab+,england,entretenimiento,estación,europa,europe,global radio,inglaterra,london,londres,moi merino,music,música,pop,pop music,radio,top hits",
+      "location": "Mexico",
+      "logo": "https://www.capitalfm.com/assets_v4r/capital/img/apple-touch-icon-57x57.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "qmusic",
+      "name": "Qmusic",
+      "enabled": true,
+      "urls": [
+        "https://stream.qmusic.nl/qmusic/aac"
+      ],
+      "website": "https://qmusic.nl/",
+      "content": "Müzik",
+      "location": "Amsterdam, The Netherlands",
+      "logo": "https://cdn-radio.dpgmedia.net/2/72/3d/09/109/Site-logo-_220x220_2.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "qmusic-10s",
+      "name": "Qmusic 10s",
+      "enabled": true,
+      "urls": [
+        "https://stream.qmusic.nl/10s/aac"
+      ],
+      "website": "https://qmusic.nl/",
+      "content": "Müzik",
+      "location": "Amsterdam, The Netherlands",
+      "logo": "https://cdn-radio.dpgmedia.net/2/72/3d/09/109/Site-logo-_220x220_2.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "qmusic-foute-radio",
+      "name": "Qmusic Foute Radio",
+      "enabled": true,
+      "urls": [
+        "https://audio-streaming.qmusic.be/q-foute-radio.aac"
+      ],
+      "website": "https://qmusic.be/",
+      "content": "pop",
+      "location": "Belgium",
+      "logo": "https://cdn-radio.dpgmedia.net/2/72/3d/09/109/Site-logo-_220x220_2.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "qmusic-foute-uur",
+      "name": "Qmusic Foute Uur",
+      "enabled": true,
+      "urls": [
+        "https://stream.qmusic.nl/fouteuur/aac"
+      ],
+      "website": "https://qmusic.nl/",
+      "content": "Müzik",
+      "location": "Amsterdam, The Netherlands",
+      "logo": "https://cdn-radio.dpgmedia.net/2/72/3d/09/109/Site-logo-_220x220_2.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "qmusic-limburg",
+      "name": "Qmusic Limburg",
+      "enabled": true,
+      "urls": [
+        "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_qlmb_high.aac"
+      ],
+      "website": "https://qmusic.nl/",
+      "content": "Müzik",
+      "location": "Amsterdam, The Netherlands",
+      "logo": "https://cdn-radio.dpgmedia.net/2/72/3d/09/109/Site-logo-_220x220_2.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "qmusic-maximum-hits",
+      "name": "Qmusic Maximum Hits",
+      "enabled": true,
+      "urls": [
+        "https://audio-streaming.qmusic.be/q-maximum-hits.aac"
+      ],
+      "website": "https://qmusic.be/",
+      "content": "dpgmedia,pop",
+      "location": "Belgium",
+      "logo": "https://cdn-radio.dpgmedia.net/2/72/3d/09/109/Site-logo-_220x220_2.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "qmusic-non-stop",
+      "name": "Qmusic Non-stop",
+      "enabled": true,
+      "urls": [
+        "https://stream.qmusic.nl/nonstop/aac"
+      ],
+      "website": "https://qmusic.nl/",
+      "content": "Müzik",
+      "location": "Amsterdam, The Netherlands",
+      "logo": "https://cdn-radio.dpgmedia.net/2/72/3d/09/109/Site-logo-_220x220_2.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "qmusic-summer",
+      "name": "Qmusic Summer",
+      "enabled": true,
+      "urls": [
+        "https://stream.qmusic.nl/thema/aac"
+      ],
+      "website": "https://qmusic.nl/",
+      "content": "Müzik",
+      "location": "Amsterdam, The Netherlands",
+      "logo": "https://cdn-radio.dpgmedia.net/2/72/3d/09/109/Site-logo-_220x220_2.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "qmusic-top-40",
+      "name": "Qmusic Top 40",
+      "enabled": true,
+      "urls": [
+        "https://stream.qmusic.nl/top40/aac"
+      ],
+      "website": "https://qmusic.nl/",
+      "content": "Müzik",
+      "location": "Amsterdam, The Netherlands",
+      "logo": "https://cdn-radio.dpgmedia.net/2/72/3d/09/109/Site-logo-_220x220_2.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "1-fm-absolute-country-hits-radio",
+      "name": "1.FM - Absolute Country Hits Radio",
+      "enabled": true,
+      "urls": [
+        "https://strmreg.1.fm/acountry_mobile_mp3"
+      ],
+      "website": "http://www.1.fm/",
+      "content": "Müzik",
+      "location": "Switzerland",
+      "logo": "https://radio.1cloud.fm/favicon/apple-touch-icon.png?v=2",
+      "newlyAdded": true
+    },
+    {
+      "id": "1-fm-classic-country-radio",
+      "name": "1.FM - Classic Country Radio",
+      "enabled": true,
+      "urls": [
+        "https://strmreg.1.fm/ccountry_mobile_mp3"
+      ],
+      "website": "http://www.1.fm/",
+      "content": "Müzik",
+      "location": "Switzerland",
+      "logo": "https://radio.1cloud.fm/favicon/apple-touch-icon.png?v=2",
+      "newlyAdded": true
+    },
+    {
+      "id": "1-fm-country-one-radio",
+      "name": "1.FM - Country One Radio",
+      "enabled": true,
+      "urls": [
+        "https://strmreg.1.fm/country_mobile_mp3"
+      ],
+      "website": "http://www.1.fm/",
+      "content": "Müzik",
+      "location": "Switzerland",
+      "logo": "https://radio.1cloud.fm/favicon/apple-touch-icon.png?v=2",
+      "newlyAdded": true
+    },
+    {
+      "id": "1-fm-love-classics-radio",
+      "name": "1.FM - Love Classics Radio",
+      "enabled": true,
+      "urls": [
+        "https://strmreg.1.fm/loveclassics_mobile_mp3"
+      ],
+      "website": "http://www.1.fm/",
+      "content": "Müzik",
+      "location": "Switzerland",
+      "logo": "https://radio.1cloud.fm/favicon/apple-touch-icon.png?v=2",
+      "newlyAdded": true
+    },
+    {
+      "id": "1-fm-90s-alternative-radio",
+      "name": "1.FM 90s Alternative Radio",
+      "enabled": true,
+      "urls": [
+        "http://strm112.1.fm/partyzone90s_mobile_mp3"
+      ],
+      "website": "https://www.1.fm/station/partyzone90s",
+      "content": "90s,alternative,alternative rock,rock",
+      "location": "Switzerland",
+      "logo": "https://radio.1cloud.fm/favicon/apple-touch-icon.png?v=2",
+      "newlyAdded": true
+    },
+    {
+      "id": "1-fm-absolute-90-s-radio",
+      "name": "1.FM Absolute 90's Radio",
+      "enabled": true,
+      "urls": [
+        "https://strm112.1.fm/90s_mobile_mp3"
+      ],
+      "website": "https://www.1.fm/",
+      "content": "90s,pop",
+      "location": "Switzerland",
+      "logo": "https://radio.1cloud.fm/favicon/apple-touch-icon.png?v=2",
+      "newlyAdded": true
+    },
+    {
+      "id": "1-fm-hot-country-hits-radio",
+      "name": "1.FM Hot Country Hits Radio",
+      "enabled": true,
+      "urls": [
+        "http://strm112.1.fm/acountry_mobile_mp3"
+      ],
+      "website": "https://www.1.fm/station/acountry",
+      "content": "country,hot,hot country,todays hits",
+      "location": "Switzerland",
+      "logo": "https://radio.1cloud.fm/favicon/apple-touch-icon.png?v=2",
+      "newlyAdded": true
+    },
+    {
+      "id": "1-fm-otto-s-baroque-music",
+      "name": "1.fm Otto's Baroque music",
+      "enabled": true,
+      "urls": [
+        "http://strm112.1.fm/baroque_mobile_aac"
+      ],
+      "website": "https://www.1.fm/station/baroque",
+      "content": "baroque,classical baroque,classical music",
+      "location": "Switzerland",
+      "logo": "https://radio.1cloud.fm/favicon/apple-touch-icon.png?v=2",
+      "newlyAdded": true
+    },
+    {
+      "id": "1-fm-top-40-ballads-radio",
+      "name": "1.FM Top 40 Ballads Radio",
+      "enabled": true,
+      "urls": [
+        "http://strm112.1.fm/top40ballads_mobile_mp3"
+      ],
+      "website": "https://www.1.fm/station/top40ballads",
+      "content": "ballads,hits,pop,top 40",
+      "location": "Switzerland",
+      "logo": "https://radio.1cloud.fm/favicon/apple-touch-icon.png?v=2",
+      "newlyAdded": true
+    },
+    {
+      "id": "1-fm-top-40-hits",
+      "name": "1.FM Top 40 Hits",
+      "enabled": true,
+      "urls": [
+        "http://strm112.1.fm/top40_mobile_mp3"
+      ],
+      "website": "https://www.1.fm/station/top40",
+      "content": "Müzik",
+      "location": "Switzerland",
+      "logo": "https://radio.1cloud.fm/favicon/apple-touch-icon.png?v=2",
+      "newlyAdded": true
+    },
+    {
+      "id": "1-fm-y2k-radio-2000s",
+      "name": "1.FM Y2K Radio (2000s)",
+      "enabled": true,
+      "urls": [
+        "http://strm112.1.fm/hits2000_mobile_mp3"
+      ],
+      "website": "https://www.1.fm/station/hits2000",
+      "content": "2000,2000's,2000s,decades,early 2000s,y2k",
+      "location": "Switzerland",
+      "logo": "https://radio.1cloud.fm/favicon/apple-touch-icon.png?v=2",
+      "newlyAdded": true
+    },
+    {
+      "id": "nrj-101-4-fm",
+      "name": "NRJ Тула 101.4 FM",
+      "enabled": true,
+      "urls": [
+        "http://87.244.47.90:8000/NRJ"
+      ],
+      "website": "https://top-radio.ru/tula/energy",
+      "content": "energy,energy radio,music,pop,region 71,tula",
+      "location": "The Russian Federation",
+      "logo": "https://top-radio.ru/assets/image/radio/180/nrg-energy.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "radyo-nabiz",
+      "name": "Radyo Nabız",
+      "enabled": true,
+      "urls": [
+        "https://radyo.yayindakiler.com:8030/stream"
+      ],
+      "website": "https://www.radyonabiz.com/",
+      "content": "Türkçe pop, slow ve karma müzik",
+      "location": "Ankara, Türkiye",
+      "frequency": "106.7 FM",
+      "logo": "https://www.radyonabiz.com/wp-content/uploads/2020/06/cropped-nabiz-logo-fav-180x180.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radyo-talya",
+      "name": "Radyo Talya",
+      "enabled": true,
+      "urls": [
+        "https://yayin.radyotalya.com/radyotalya/stream"
+      ],
+      "website": "https://radyotalya.com/",
+      "content": "Pop, nostalji, Anadolu rock ve Türk müziği",
+      "location": "Muratpaşa, Antalya, Türkiye",
+      "frequency": "103.1 FM",
+      "logo": "https://radyotalya.com/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "power-plus",
+      "name": "Power Plus",
+      "enabled": true,
+      "urls": [
+        "https://live.powerapp.com.tr/powerplus/96/playlist.m3u8"
+      ],
+      "website": "https://www.powerapp.com.tr/radios/powerplus/",
+      "content": "Türkçe ve yabancı hit müzik",
+      "location": "İstanbul, Türkiye",
+      "backupUrls": [
+        "https://live.powerapp.com.tr/powerplus/128/playlist.m3u8"
+      ],
+      "logo": "https://www.powerapp.com.tr/i/favicov2/apple-icon-57x57.png?v=1019",
+      "newlyAdded": true
+    },
+    {
+      "id": "power-smooth",
+      "name": "Power Smooth",
+      "enabled": true,
+      "urls": [
+        "https://live.powerapp.com.tr/powersmooth/96/playlist.m3u8"
+      ],
+      "website": "https://www.powerapp.com.tr/radios/powersmooth/",
+      "content": "Smooth ve easy listening",
+      "location": "İstanbul, Türkiye",
+      "backupUrls": [
+        "https://live.powerapp.com.tr/powersmooth/128/playlist.m3u8"
+      ],
+      "logo": "https://www.powerapp.com.tr/i/favicov2/apple-icon-57x57.png?v=1019",
+      "newlyAdded": true
+    },
+    {
+      "id": "power-earth",
+      "name": "Power Earth",
+      "enabled": true,
+      "urls": [
+        "https://live.powerapp.com.tr/powerearth/96/playlist.m3u8"
+      ],
+      "website": "https://www.powerapp.com.tr/radios/powerearth/",
+      "content": "World music ve etnik müzik",
+      "location": "İstanbul, Türkiye",
+      "backupUrls": [
+        "https://live.powerapp.com.tr/powerearth/128/playlist.m3u8"
+      ],
+      "logo": "https://www.powerapp.com.tr/i/favicov2/apple-icon-57x57.png?v=1019",
+      "newlyAdded": true
+    },
+    {
+      "id": "power-turk-slow",
+      "name": "PowerTürk Slow",
+      "enabled": true,
+      "urls": [
+        "https://live.powerapp.com.tr/powerturkslow/96/playlist.m3u8"
+      ],
+      "website": "https://www.powerapp.com.tr/radios/powerturkslow/",
+      "content": "Türkçe slow",
+      "location": "İstanbul, Türkiye",
+      "backupUrls": [
+        "https://live.powerapp.com.tr/powerturkslow/128/playlist.m3u8"
+      ],
+      "logo": "https://www.powerapp.com.tr/i/favicov2/apple-icon-57x57.png?v=1019",
+      "newlyAdded": true
+    },
+    {
+      "id": "power-turk-rap",
+      "name": "PowerTürk Rap",
+      "enabled": true,
+      "urls": [
+        "https://live.powerapp.com.tr/powerturkrap/96/playlist.m3u8"
+      ],
+      "website": "https://www.powerapp.com.tr/radios/powerturkrap/",
+      "content": "Türkçe rap ve hip hop",
+      "location": "İstanbul, Türkiye",
+      "backupUrls": [
+        "https://live.powerapp.com.tr/powerturkrap/128/playlist.m3u8"
+      ],
+      "logo": "https://www.powerapp.com.tr/i/favicov2/apple-icon-57x57.png?v=1019",
+      "newlyAdded": true
+    },
+    {
+      "id": "power-turk-akustik",
+      "name": "PowerTürk Akustik",
+      "enabled": true,
+      "urls": [
+        "https://live.powerapp.com.tr/powerturkakustik/96/playlist.m3u8"
+      ],
+      "website": "https://www.powerapp.com.tr/radios/powerturkakustik/",
+      "content": "Türkçe akustik müzik",
+      "location": "İstanbul, Türkiye",
+      "backupUrls": [
+        "https://live.powerapp.com.tr/powerturkakustik/128/playlist.m3u8"
+      ],
+      "logo": "https://www.powerapp.com.tr/i/favicov2/apple-icon-57x57.png?v=1019",
+      "newlyAdded": true
+    },
+    {
+      "id": "power-turk-taptaze",
+      "name": "PowerTürk Taptaze",
+      "enabled": true,
+      "urls": [
+        "https://live.powerapp.com.tr/powerturktaptaze/96/playlist.m3u8"
+      ],
+      "website": "https://www.powerapp.com.tr/radios/powerturktaptaze/",
+      "content": "Yeni Türkçe pop",
+      "location": "İstanbul, Türkiye",
+      "backupUrls": [
+        "https://live.powerapp.com.tr/powerturktaptaze/128/playlist.m3u8"
+      ],
+      "logo": "https://www.powerapp.com.tr/i/favicov2/apple-icon-57x57.png?v=1019",
+      "newlyAdded": true
+    },
+    {
+      "id": "power-turk-rock",
+      "name": "PowerTürk Rock",
+      "enabled": true,
+      "urls": [
+        "https://listen.powerapp.com.tr/powerturkrock/96/playlist.m3u8"
+      ],
+      "website": "https://www.powerapp.com.tr/radios/powerturkrock/",
+      "content": "Türkçe rock",
+      "location": "İstanbul, Türkiye",
+      "backupUrls": [
+        "https://listen.powerapp.com.tr/powerturkrock/128/playlist.m3u8"
+      ],
+      "logo": "https://www.powerapp.com.tr/i/favicov2/apple-icon-57x57.png?v=1019",
+      "newlyAdded": true
+    },
+    {
+      "id": "power-dance",
+      "name": "Power Dance",
+      "enabled": true,
+      "urls": [
+        "https://live.powerapp.com.tr/powerdance/96/playlist.m3u8"
+      ],
+      "website": "https://www.powerapp.com.tr/radios/powerdance/",
+      "content": "Dans ve elektronik müzik",
+      "location": "İstanbul, Türkiye",
+      "backupUrls": [
+        "https://live.powerapp.com.tr/powerdance/128/playlist.m3u8"
+      ],
+      "logo": "https://www.powerapp.com.tr/i/favicov2/apple-icon-57x57.png?v=1019",
+      "newlyAdded": true
+    },
+    {
+      "id": "power-rnb",
+      "name": "R&B Hip Hop",
+      "enabled": true,
+      "urls": [
+        "https://live.powerapp.com.tr/powerrbhiphop/96/playlist.m3u8"
+      ],
+      "website": "https://www.powerapp.com.tr/radios/powerrnb/",
+      "content": "R&B ve hip hop",
+      "location": "İstanbul, Türkiye",
+      "backupUrls": [
+        "https://live.powerapp.com.tr/powerrbhiphop/128/playlist.m3u8"
+      ],
+      "logo": "https://www.powerapp.com.tr/i/favicov2/apple-icon-57x57.png?v=1019",
+      "newlyAdded": true
+    },
+    {
+      "id": "power-salsa",
+      "name": "Power Salsa",
+      "enabled": true,
+      "urls": [
+        "https://live.powerapp.com.tr/powersalsa/96/playlist.m3u8"
+      ],
+      "website": "https://www.powerapp.com.tr/radios/powersalsa/",
+      "content": "Salsa ve Latin müzik",
+      "location": "İstanbul, Türkiye",
+      "backupUrls": [
+        "https://live.powerapp.com.tr/powersalsa/128/playlist.m3u8"
+      ],
+      "logo": "https://www.powerapp.com.tr/i/favicov2/apple-icon-57x57.png?v=1019",
+      "newlyAdded": true
+    },
+    {
+      "id": "power-gold",
+      "name": "Power Gold",
+      "enabled": true,
+      "urls": [
+        "https://live.powerapp.com.tr/powergold/96/playlist.m3u8"
+      ],
+      "website": "https://www.powerapp.com.tr/radios/powergold/",
+      "content": "Klasik yabancı hitler",
+      "location": "İstanbul, Türkiye",
+      "backupUrls": [
+        "https://live.powerapp.com.tr/powergold/128/playlist.m3u8"
+      ],
+      "logo": "https://www.powerapp.com.tr/i/favicov2/apple-icon-57x57.png?v=1019",
+      "newlyAdded": true
+    },
+    {
+      "id": "power-jazz",
+      "name": "Power Smooth Jazz",
+      "enabled": true,
+      "urls": [
+        "https://live.powerapp.com.tr/powersmoothjazz/96/playlist.m3u8"
+      ],
+      "website": "https://www.powerapp.com.tr/radios/powerjazz/",
+      "content": "Smooth jazz",
+      "location": "İstanbul, Türkiye",
+      "backupUrls": [
+        "https://live.powerapp.com.tr/powersmoothjazz/128/playlist.m3u8"
+      ],
+      "logo": "https://www.powerapp.com.tr/i/favicov2/apple-icon-57x57.png?v=1019",
+      "newlyAdded": true
+    },
+    {
+      "id": "radyohome-radyo-7",
+      "name": "Radyo 7",
+      "enabled": true,
+      "urls": [
+        "https://moondigitaledge.radyotvonline.net/radyo7/playlist.m3u8"
+      ],
+      "website": "https://radyohome.com/radyolar/radyo-7",
+      "content": "Türkçe karma müzik",
+      "location": "İstanbul, Türkiye",
+      "logo": "https://ik.fskit.net/radyohome/media/station/32/logo_square.png?w=1000%3A&format=auto&fit=crop&bg=4b4f5f&tr=w-1000%3A%2Cbg-4b4f5f&v=261119030000",
+      "newlyAdded": true
+    },
+    {
+      "id": "radyohome-world-hits",
+      "name": "World Hits",
+      "enabled": true,
+      "urls": [
+        "https://moondigitaledge.radyotvonline.net/worldhits/playlist.m3u8"
+      ],
+      "website": "https://radyohome.com/radyolar/world-hits",
+      "content": "Yabancı hit müzik",
+      "location": "İstanbul, Türkiye",
+      "logo": "https://ik.fskit.net/radyohome/media/station/21/logo_square.png?w=1000%3A&format=auto&fit=crop&bg=5631c8&tr=w-1000%3A%2Cbg-5631c8&v=060520030000",
+      "newlyAdded": true
+    },
+    {
+      "id": "radyohome-karadeniz-fm",
+      "name": "Karadeniz Fm",
+      "enabled": true,
+      "urls": [
+        "https://moondigitaledge.radyotvonline.net/karadenizfm/playlist.m3u8"
+      ],
+      "website": "https://radyohome.com/radyolar/karadeniz-fm",
+      "content": "Karadeniz müziği",
+      "location": "İstanbul, Türkiye",
+      "logo": "https://ik.fskit.net/radyohome/media/station/51/logo_square.png?w=1000%3A&format=auto&fit=crop&bg=242323&tr=w-1000%3A%2Cbg-242323&v=261119030000",
+      "newlyAdded": true
+    },
+    {
+      "id": "radyohome-turkulerle-turkiye",
+      "name": "Türkülerle Türkiye",
+      "enabled": true,
+      "urls": [
+        "https://moondigitaledge.radyotvonline.net/turkulerleturkiye/playlist.m3u8"
+      ],
+      "website": "https://radyohome.com/radyolar/turkulerle-turkiye",
+      "content": "Türk halk müziği",
+      "location": "İstanbul, Türkiye",
+      "logo": "https://ik.fskit.net/radyohome/media/station/13/logo_square.png?w=1000%3A&format=auto&fit=crop&bg=662351&tr=w-1000%3A%2Cbg-662351&v=060520030000",
+      "newlyAdded": true
+    },
+    {
+      "id": "radyohome-ankara-havalari",
+      "name": "Ankara Havaları",
+      "enabled": true,
+      "urls": [
+        "https://moondigitaledge.radyotvonline.net/ankarahavalari/playlist.m3u8"
+      ],
+      "website": "https://radyohome.com/radyolar/ankara-havalari",
+      "content": "Ankara oyun havaları",
+      "location": "İstanbul, Türkiye",
+      "logo": "https://ik.fskit.net/radyohome/media/station/19/logo_square.png?w=1000%3A&format=auto&fit=crop&bg=6b727a&tr=w-1000%3A%2Cbg-6b727a&v=060520030000",
+      "newlyAdded": true
+    },
+    {
+      "id": "radyohome-maziden-bir-demet",
+      "name": "Maziden Bir Demet",
+      "enabled": true,
+      "urls": [
+        "https://moondigitaledge.radyotvonline.net/mazidenbirdemet/playlist.m3u8"
+      ],
+      "website": "https://radyohome.com/radyolar/maziden-bir-demet",
+      "content": "Türk sanat müziği ve nostalji",
+      "location": "İstanbul, Türkiye",
+      "logo": "https://ik.fskit.net/radyohome/media/station/15/logo_square.png?w=1000%3A&format=auto&fit=crop&bg=55382f&tr=w-1000%3A%2Cbg-55382f&v=060520030000",
+      "newlyAdded": true
+    },
+    {
+      "id": "radyohome-klasik-home",
+      "name": "Klasik Home",
+      "enabled": true,
+      "urls": [
+        "https://moondigitaledge.radyotvonline.net/klasikhome/playlist.m3u8"
+      ],
+      "website": "https://radyohome.com/radyolar/klasik-home",
+      "content": "Klasik müzik",
+      "location": "İstanbul, Türkiye",
+      "logo": "https://ik.fskit.net/radyohome/media/station/20/logo_square.png?w=1000%3A&format=auto&fit=crop&bg=006765&tr=w-1000%3A%2Cbg-006765&v=060520030000",
+      "newlyAdded": true
+    },
+    {
+      "id": "radyohome-garaj-radyo",
+      "name": "Garaj Radyo",
+      "enabled": true,
+      "urls": [
+        "https://moondigitaledge.radyotvonline.net/garajradyo/playlist.m3u8"
+      ],
+      "website": "https://radyohome.com/radyolar/garaj-radyo",
+      "content": "Rock müzik",
+      "location": "İstanbul, Türkiye",
+      "logo": "https://ik.fskit.net/radyohome/media/station/78/logo_square.png?w=1000%3A&format=auto&fit=crop&bg=100720&tr=w-1000%3A%2Cbg-100720&v=180822030000",
+      "newlyAdded": true
+    },
+    {
+      "id": "radyohome-akustikland",
+      "name": "Akustikland",
+      "enabled": true,
+      "urls": [
+        "https://moondigitaledge.radyotvonline.net/akustikland/playlist.m3u8"
+      ],
+      "website": "https://radyohome.com/radyolar/akustikland",
+      "content": "Akustik müzik",
+      "location": "İstanbul, Türkiye",
+      "logo": "https://ik.fskit.net/radyohome/media/station/79/logo_square.png?w=1000%3A&format=auto&fit=crop&bg=ECCCB2&tr=w-1000%3A%2Cbg-ECCCB2&v=180822030000",
+      "newlyAdded": true
+    },
+    {
+      "id": "radyohome-sari-tramvay",
+      "name": "Sarı Tramvay",
+      "enabled": true,
+      "urls": [
+        "https://moondigitaledge.radyotvonline.net/saritramvay/playlist.m3u8"
+      ],
+      "website": "https://radyohome.com/radyolar/sari-tramvay",
+      "content": "Alternatif müzik",
+      "location": "İstanbul, Türkiye",
+      "logo": "https://ik.fskit.net/radyohome/media/station/83/logo_square.png?w=1000%3A&format=auto&fit=crop&bg=E6B325&tr=w-1000%3A%2Cbg-E6B325&v=180822030000",
+      "newlyAdded": true
+    },
+    {
+      "id": "radyohome-discoland",
+      "name": "Discoland",
+      "enabled": true,
+      "urls": [
+        "https://moondigitaledge.radyotvonline.net/discoland/playlist.m3u8"
+      ],
+      "website": "https://radyohome.com/radyolar/discoland",
+      "content": "Disko ve dans müziği",
+      "location": "İstanbul, Türkiye",
+      "logo": "https://ik.fskit.net/radyohome/media/station/85/logo_square.png?w=1000%3A&format=auto&fit=crop&bg=9B0000&tr=w-1000%3A%2Cbg-9B0000&v=180822030000",
+      "newlyAdded": true
+    },
+    {
+      "id": "radyohome-danceland",
+      "name": "Danceland",
+      "enabled": true,
+      "urls": [
+        "https://moondigitaledge.radyotvonline.net/danceland/playlist.m3u8"
+      ],
+      "website": "https://radyohome.com/radyolar/danceland",
+      "content": "Dans ve elektronik müzik",
+      "location": "İstanbul, Türkiye",
+      "logo": "https://ik.fskit.net/radyohome/media/station/77/logo_square.png?w=1000%3A&format=auto&fit=crop&bg=554994&tr=w-1000%3A%2Cbg-554994&v=170822030000",
+      "newlyAdded": true
+    },
+    {
+      "id": "radyohome-babyland",
+      "name": "Babyland",
+      "enabled": true,
+      "urls": [
+        "https://moondigitaledge.radyotvonline.net/babyland/playlist.m3u8"
+      ],
+      "website": "https://radyohome.com/radyolar/babyland",
+      "content": "Çocuk ve bebek müziği",
+      "location": "İstanbul, Türkiye",
+      "logo": "https://ik.fskit.net/radyohome/media/station/93/logo_square.png?w=1000%3A&format=auto&fit=crop&bg=FF8FB1&tr=w-1000%3A%2Cbg-FF8FB1&v=180822030000",
+      "newlyAdded": true
+    },
+    {
+      "id": "radyohome-easyland",
+      "name": "Easyland",
+      "enabled": true,
+      "urls": [
+        "https://moondigitaledge.radyotvonline.net/easyland/playlist.m3u8"
+      ],
+      "website": "https://radyohome.com/radyolar/easyland",
+      "content": "Easy listening",
+      "location": "İstanbul, Türkiye",
+      "logo": "https://ik.fskit.net/radyohome/media/station/96/logo_square.png?w=1000%3A&format=auto&fit=crop&bg=F55353&tr=w-1000%3A%2Cbg-F55353&v=111024073805",
+      "newlyAdded": true
+    },
+    {
+      "id": "bizim-fm-sile",
+      "name": "Bizim FM Şile",
+      "enabled": true,
+      "urls": [
+        "https://stream.turkiyeradyolari.com/9300/stream"
+      ],
+      "website": "https://www.bizimfmsile.com/",
+      "content": "Türk sanat müziği, Türk halk müziği ve Türkçe pop",
+      "location": "Şile, İstanbul, Türkiye",
+      "frequency": "87.9 FM",
+      "logo": "https://www.bizimfmsile.com/u/i/logo3.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "r80-acores",
+      "name": "R80 Açores",
+      "enabled": true,
+      "urls": [
+        "https://cast1.lunabroadcasting.net/listen/r80/radio.mp3"
+      ],
+      "website": "https://www.r80.pt/",
+      "content": "70'ler, 80'ler, 90'lar ve klasik hitler",
+      "location": "Ponta Delgada, Azorlar, Portekiz",
+      "frequency": "90.2 / 97.4 / 106.0 FM",
+      "logo": "https://d2xsxph8kpxj0f.cloudfront.net/310519663205725868/cSTTrbniWKJWPpkwmKJgy3/favicon-192_ec3785dc.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "hit-fm-espana",
+      "name": "HIT FM España",
+      "enabled": true,
+      "urls": [
+        "https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbhitfm.kissfmradio.cires21.com/bbhitfm.mp3"
+      ],
+      "website": "https://www.hitfm.es/",
+      "content": "21. yüzyılın güncel pop ve dans hitleri",
+      "location": "Pozuelo de Alarcón, Madrid, İspanya",
+      "logo": "https://www.hitfm.es/wp-content/uploads/2019/06/cropped-favicon-180x180.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "fakir-fm",
+      "name": "Fakir FM",
+      "enabled": true,
+      "urls": [
+        "https://live.radyositesihazir.com:1025/stream"
+      ],
+      "website": "https://www.fakirfm.com/",
+      "content": "Türkçe müzik ve canlı programlar",
+      "location": "İstanbul, Türkiye",
+      "logo": "https://www.fakirfm.com/uploads/brand/20261023075856-2ac024d48f10.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "nrj",
+      "name": "NRJ",
+      "enabled": true,
+      "urls": [
+        "https://edge01.cdn.bitflip.ee:8888/NRJ?_i=5b8169cb"
+      ],
+      "website": "https://sky.ee/nrj",
+      "content": "dance",
+      "location": "Estonya",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/nrj.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "nrj-beauvais",
+      "name": "NRJ Beauvais",
+      "enabled": true,
+      "urls": [
+        "https://streaming.nrjaudio.fm/ouamuxw2dqao"
+      ],
+      "website": "https://www.nrj.fr/",
+      "content": "Müzik",
+      "location": "Beauvais, Fransa",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/nrj.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "nrj-clermont",
+      "name": "NRJ Clermont",
+      "enabled": true,
+      "urls": [
+        "https://streaming.nrjaudio.fm/oumrck8fnozc"
+      ],
+      "website": "https://www.nrj.fr/",
+      "content": "Müzik",
+      "location": "Clermont-Ferrand, Fransa",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/nrj.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "nrj-hits",
+      "name": "Nrj Hits",
+      "enabled": true,
+      "urls": [
+        "https://streaming.nrjaudio.fm/ou7xugf3s5gi?origine=playernrj&aw_0_req.userConsentV2=&aw_0_1st.station=NRJ-Hits"
+      ],
+      "website": "https://www.nrj.fr/webradios/mur-des-radios/nrj-hits",
+      "content": "hits",
+      "location": "Fransa",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/nrj.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "rock-antenne-hair-metal",
+      "name": "Rock Antenne Hair Metal",
+      "enabled": true,
+      "urls": [
+        "https://s9-webradio.rockantenne.de/hair-metal/stream"
+      ],
+      "website": "https://www.rockantenne.de/rockhoeren/streams/hair-metal",
+      "content": "Hair metal ve glam metal",
+      "location": "Almanya",
+      "logo": "https://www.rockantenne.de/logos/station-rock-antenne/apple-touch-icon.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "deepinradio",
+      "name": "Deepinradio",
+      "enabled": true,
+      "urls": [
+        "https://s1.viastreaming.net:8525/stream.mp3"
+      ],
+      "website": "https://www.deepinradio.com/",
+      "content": "Deep house, underground house ve elektronik müzik",
+      "location": "Atina, Yunanistan",
+      "logo": "https://cdn-profiles.tunein.com/s126050/images/logod.jpg?t=636566189248000000",
+      "newlyAdded": true
     }
   ],
   "catalogPolicy": {
