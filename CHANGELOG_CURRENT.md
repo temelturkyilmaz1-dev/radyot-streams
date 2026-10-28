@@ -1,5 +1,11 @@
 # Henüz paketlenmemiş değişiklikler
 
+## 28 Ekim 2026 — Logo bağlantısı düzeltmeleri
+
+- Kanal listesi ve yayın adresleri değiştirilmeden 7 kaydın sorunlu dış logo bağlantısı gerçek marka görsellerinin Cloudflare kopyalarıyla değiştirildi: JOE (2), Qmusic (4) ve NRJ Russia (1).
+- Bağlantısı reddedilen ve logosu görünmeyen eski `Radyo Eylül` mükerrer kaydı kaldırıldı. Yayını çalışan ve resmî logosu erişilebilir olan `Radyo Eylül 99.1` korundu.
+- Ekran görüntülerinde görünmeyen veya bulanık olduğu doğrulanan 61 logo kaydı, kanal ve yayın bilgileri değiştirilmeden düzeltildi: BillyBoy340 ailesi (6), Deepinradio (1), 100Hitz (6), 181.FM (47) ve Rock Melodic Radio (1). Gerçek marka görselleri Cloudflare için kalıcı ve yüksek kaliteli dosyalara dönüştürüldü.
+
 ## 23 Ekim 2026 — Uzak katalog ve logolar
 
 - Uygulamanın çalışma anındaki katalog adresi GitHub Raw'dan Cloudflare Worker
