@@ -3258,7 +3258,7 @@
     {
       "id": "arazaman",
       "name": "Arazaman",
-      "enabled": true,
+      "enabled": false,
       "urls": [
         "https://arazaman.stream.laut.fm/arazaman"
       ],
