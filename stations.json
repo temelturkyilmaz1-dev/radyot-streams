@@ -9916,7 +9916,7 @@
       "content": "Kürtçe halk müziği ve yöresel müzik • Kürtçe",
       "location": "Türkiye",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/havin_fm.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "rock-the-bones-radio",
@@ -9929,7 +9929,7 @@
       "content": "Rock ve metal • Principal Edition • İspanyolca",
       "location": "Şili",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/rock_the_bones_radio.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "rock-the-bones-extreme",
@@ -9978,7 +9978,7 @@
       "content": "Hard rock, klasik rock ve heavy metal • İngilizce",
       "location": "Alabama, ABD",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/purerock_us.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-uartes",
@@ -9991,7 +9991,7 @@
       "content": "Üniversite radyosu, sanat, kültür ve müzik • İspanyolca",
       "location": "Guayaquil, Ekvador",
       "logo": "https://radio.uartes.edu.ec/wp-content/uploads/sites/24/2022/03/cropped-favico-logo-radio-ua-192x192.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "clasica-rock",
@@ -10004,7 +10004,7 @@
       "content": "Pop, rock, thrash, blues ve rockabilly • 1950'lerden 2000'lere • İspanyolca",
       "location": "İspanya",
       "logo": "https://clasicarock.com/storage/2026/06/Logo2-2.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radyo-aura",
@@ -10017,7 +10017,7 @@
       "content": "Türkçe pop, caz, haber ve sohbet • Türkçe",
       "location": "İstanbul, Türkiye",
       "logo": "https://radioaurastorage2.blob.core.windows.net/music-files/station-branding/radyoaura/logo.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "0n-radio",
@@ -10031,7 +10031,7 @@
       "content": "Top 40, pop, hit ve oldies • Almanca",
       "location": "Hof, Almanya",
       "logo": "https://www.0nradio.com/images/favicon/apple-touch-icon.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "0n-2010s",
@@ -10045,7 +10045,7 @@
       "content": "0N 2010s tematik müzik kanalı",
       "location": "Hof, Almanya",
       "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-2010s-64-1.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "0n-50s",
@@ -10059,7 +10059,7 @@
       "content": "0N 50s tematik müzik kanalı",
       "location": "Hof, Almanya",
       "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-50s-69-1.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "0n-60s",
@@ -10073,7 +10073,7 @@
       "content": "0N 60s tematik müzik kanalı",
       "location": "Hof, Almanya",
       "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-60s-33-1.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "0n-black",
@@ -10087,7 +10087,7 @@
       "content": "0N Black tematik müzik kanalı",
       "location": "Hof, Almanya",
       "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-black-31-1.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "0n-blues",
@@ -10101,7 +10101,7 @@
       "content": "0N Blues tematik müzik kanalı",
       "location": "Hof, Almanya",
       "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-blues-83-1.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "0n-charts",
@@ -10115,7 +10115,7 @@
       "content": "0N Charts tematik müzik kanalı",
       "location": "Hof, Almanya",
       "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-charts-3-1.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "0n-chillout",
@@ -10129,7 +10129,7 @@
       "content": "0N Chillout tematik müzik kanalı",
       "location": "Hof, Almanya",
       "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-chillout-35-1.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "0n-christmas",
@@ -10143,7 +10143,7 @@
       "content": "0N Christmas tematik müzik kanalı",
       "location": "Hof, Almanya",
       "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-christmas-61-1.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "0n-classicrock",
@@ -10157,7 +10157,7 @@
       "content": "0N Classic Rock tematik müzik kanalı",
       "location": "Hof, Almanya",
       "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-classic-rock-50-1.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "0n-country",
@@ -10171,7 +10171,7 @@
       "content": "0N Country tematik müzik kanalı",
       "location": "Hof, Almanya",
       "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-country-47-1.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "0n-dance",
@@ -10185,7 +10185,7 @@
       "content": "0N Dance tematik müzik kanalı",
       "location": "Hof, Almanya",
       "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-dance-4-1.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "0n-deutschpop",
@@ -10199,7 +10199,7 @@
       "content": "0N Deutsch Pop tematik müzik kanalı",
       "location": "Hof, Almanya",
       "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-deutsch-pop-54-1.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "0n-deutschrap",
@@ -10213,7 +10213,7 @@
       "content": "0N Deutsch Rap tematik müzik kanalı",
       "location": "Hof, Almanya",
       "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-deutsch-rap-55-1.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "0n-deutschrock",
@@ -10227,7 +10227,7 @@
       "content": "0N Deutsch Rock tematik müzik kanalı",
       "location": "Hof, Almanya",
       "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-deutsch-rock-75-1.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "0n-electro",
@@ -10241,7 +10241,7 @@
       "content": "0N Electro tematik müzik kanalı",
       "location": "Hof, Almanya",
       "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-electro-5-1.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "0n-evergreens",
@@ -10255,7 +10255,7 @@
       "content": "0N Evergreens tematik müzik kanalı",
       "location": "Hof, Almanya",
       "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-evergreens-57-1.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "0n-gay",
@@ -10269,7 +10269,7 @@
       "content": "0N Gay tematik müzik kanalı",
       "location": "Hof, Almanya",
       "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-gay-28-1.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "0n-gold",
@@ -10283,7 +10283,7 @@
       "content": "0N Gold tematik müzik kanalı",
       "location": "Hof, Almanya",
       "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-gold-71-1.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "0n-gothic",
@@ -10297,7 +10297,7 @@
       "content": "0N Gothic tematik müzik kanalı",
       "location": "Hof, Almanya",
       "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-gothic-39-1.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "0n-greatesthits",
@@ -10311,7 +10311,7 @@
       "content": "0N Greatest Hits tematik müzik kanalı",
       "location": "Hof, Almanya",
       "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-greatest-hits-70-1.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "0n-heavymetal",
@@ -10325,7 +10325,7 @@
       "content": "0N Heavy Metal tematik müzik kanalı",
       "location": "Hof, Almanya",
       "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-heavy-metal-81-1.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "0n-hits",
@@ -10339,7 +10339,7 @@
       "content": "0N Hits tematik müzik kanalı",
       "location": "Hof, Almanya",
       "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-hits-30-1.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "0n-hot",
@@ -10353,7 +10353,7 @@
       "content": "0N Hot tematik müzik kanalı",
       "location": "Hof, Almanya",
       "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-hot-65-1.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "0n-house",
@@ -10367,7 +10367,7 @@
       "content": "0N House tematik müzik kanalı",
       "location": "Hof, Almanya",
       "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-house-66-1.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "0n-jukebox",
@@ -10381,7 +10381,7 @@
       "content": "0N Jukebox tematik müzik kanalı",
       "location": "Hof, Almanya",
       "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-jukebox-58-1.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "0n-klassik",
@@ -10395,7 +10395,7 @@
       "content": "0N Klassik tematik müzik kanalı",
       "location": "Hof, Almanya",
       "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-klassik-45-1.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "0n-kpop",
@@ -10409,7 +10409,7 @@
       "content": "0N K-Pop tematik müzik kanalı",
       "location": "Hof, Almanya",
       "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-k-pop-79-1.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "0n-latin",
@@ -10423,7 +10423,7 @@
       "content": "0N Latin tematik müzik kanalı",
       "location": "Hof, Almanya",
       "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-latin-78-1.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "0n-lounge",
@@ -10437,7 +10437,7 @@
       "content": "0N Lounge tematik müzik kanalı",
       "location": "Hof, Almanya",
       "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-lounge-72-1.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "0n-love",
@@ -10451,7 +10451,7 @@
       "content": "0N Love tematik müzik kanalı",
       "location": "Hof, Almanya",
       "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-love-74-1.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "0n-movies",
@@ -10465,7 +10465,7 @@
       "content": "0N Movies tematik müzik kanalı",
       "location": "Hof, Almanya",
       "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-movies-46-1.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "0n-newwave",
@@ -10479,7 +10479,7 @@
       "content": "0N New Wave tematik müzik kanalı",
       "location": "Hof, Almanya",
       "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-new-wave-84-1.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "0n-oldies",
@@ -10493,7 +10493,7 @@
       "content": "0N Oldies tematik müzik kanalı",
       "location": "Hof, Almanya",
       "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-oldies-34-1.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "0n-party",
@@ -10507,7 +10507,7 @@
       "content": "0N Party tematik müzik kanalı",
       "location": "Hof, Almanya",
       "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-party-48-1.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "0n-pop",
@@ -10521,7 +10521,7 @@
       "content": "0N Pop tematik müzik kanalı",
       "location": "Hof, Almanya",
       "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-pop-42-1.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "0n-reggae",
@@ -10535,7 +10535,7 @@
       "content": "0N Reggae tematik müzik kanalı",
       "location": "Hof, Almanya",
       "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-reggae-82-1.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "0n-rock",
@@ -10549,7 +10549,7 @@
       "content": "0N Rock tematik müzik kanalı",
       "location": "Hof, Almanya",
       "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-rock-32-1.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "0n-schlager",
@@ -10563,7 +10563,7 @@
       "content": "0N Schlager tematik müzik kanalı",
       "location": "Hof, Almanya",
       "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-schlager-6-1.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "0n-schlagergold",
@@ -10577,7 +10577,7 @@
       "content": "0N Schlager Gold tematik müzik kanalı",
       "location": "Hof, Almanya",
       "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-schlager-gold-52-1.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "0n-schlagerkult",
@@ -10591,7 +10591,7 @@
       "content": "0N Schlager Kult tematik müzik kanalı",
       "location": "Hof, Almanya",
       "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-schlager-kult-51-1.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "0n-smoothjazz",
@@ -10605,7 +10605,7 @@
       "content": "0N Smooth Jazz tematik müzik kanalı",
       "location": "Hof, Almanya",
       "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-smooth-jazz-43-1.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "0n-softpop",
@@ -10619,7 +10619,7 @@
       "content": "0N Soft Pop tematik müzik kanalı",
       "location": "Hof, Almanya",
       "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-soft-pop-73-1.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "0n-softrock",
@@ -10633,7 +10633,7 @@
       "content": "0N Soft Rock tematik müzik kanalı",
       "location": "Hof, Almanya",
       "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-soft-rock-76-1.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "0n-techno",
@@ -10647,7 +10647,7 @@
       "content": "0N Techno tematik müzik kanalı",
       "location": "Hof, Almanya",
       "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-techno-68-1.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "0n-top40",
@@ -10661,7 +10661,7 @@
       "content": "0N Top 40 tematik müzik kanalı",
       "location": "Hof, Almanya",
       "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-top-40-38-1.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "0n-volksmusik",
@@ -10675,7 +10675,7 @@
       "content": "0N Volksmusik tematik müzik kanalı",
       "location": "Hof, Almanya",
       "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-volksmusik-53-1.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "0n-weihnachten",
@@ -10689,7 +10689,7 @@
       "content": "0N Weihnachten tematik müzik kanalı",
       "location": "Hof, Almanya",
       "logo": "https://www.0nradio.com/images/stationen/thumb2/0-n-weihnachten-59-1.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "volcano-fm-ecuador",
@@ -10702,7 +10702,7 @@
       "content": "Rock, metal, alternatif rock ve klasik rock • İspanyolca",
       "location": "Ibarra, Ekvador",
       "logo": "https://cdn.instant.audio/images/logos/radios-com-ec/volcano-fm.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-anatolia",
@@ -10715,7 +10715,7 @@
       "content": "Dünden bugüne Türkçe pop müzik • Türkçe",
       "location": "Türkiye",
       "logo": "https://radioanatolia.net/images/logo-128-light.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "billyboy340-merengue-clasicos",
@@ -10728,7 +10728,7 @@
       "content": "Klasik merengue • İspanyolca",
       "location": "Bronx, New York, ABD",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/repair_billyboy_network.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "billyboy340-romance",
@@ -10741,7 +10741,7 @@
       "content": "Romantik müzik • İspanyolca",
       "location": "Bronx, New York, ABD",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/repair_billyboy_network.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "billyboy340-infinity-radio",
@@ -10754,7 +10754,7 @@
       "content": "Karışık müzik • İspanyolca",
       "location": "Bronx, New York, ABD",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/repair_billyboy_network.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "billyboy340-zona-urbana",
@@ -10767,7 +10767,7 @@
       "content": "Urban müzik • İspanyolca",
       "location": "Bronx, New York, ABD",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/repair_billyboy_network.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "billyboy340-hit-play",
@@ -10780,7 +10780,7 @@
       "content": "Urban, hip-hop, rap ve R&B • İngilizce ve İspanyolca",
       "location": "Bronx, New York, ABD",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/repair_billyboy_hit_play.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "billyboy340-timeless-radio",
@@ -10793,7 +10793,7 @@
       "content": "Zamansız hitler • İngilizce ve İspanyolca",
       "location": "Bronx, New York, ABD",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/repair_billyboy_network.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "rock-melodic-radio",
@@ -10806,7 +10806,7 @@
       "content": "AOR, melodic rock, hard rock ve classic rock",
       "location": "Atina, Yunanistan",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/repair_rock_melodic.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "whog-957-the-hog",
@@ -10819,7 +10819,7 @@
       "content": "95.7 FM • Klasik rock, hard rock ve alternatif rock • İngilizce",
       "location": "Daytona Beach, Florida, ABD",
       "logo": "https://player.streamguys.com/ssc/whog/sgplayer/include/image/whog.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-corax",
@@ -10834,7 +10834,7 @@
       "location": "Halle (Saale), Almanya",
       "frequency": "95.9 FM",
       "logo": "https://radiocorax.de/wp-content/uploads/cropped-corax_icon-270x270.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-bob-2000er",
@@ -10847,7 +10847,7 @@
       "content": "2000er Rock • Rock ve metal müzik • Almanca",
       "location": "Almanya",
       "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-bob-70errock",
@@ -10860,7 +10860,7 @@
       "content": "70er Rock • Rock ve metal müzik • Almanca",
       "location": "Almanya",
       "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-bob-blues",
@@ -10873,7 +10873,7 @@
       "content": "Blues • Rock ve metal müzik • Almanca",
       "location": "Almanya",
       "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-bob-bob-80srock",
@@ -10886,7 +10886,7 @@
       "content": "80er Rock • Rock ve metal müzik • Almanca",
       "location": "Almanya",
       "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-bob-bob-90srock",
@@ -10899,7 +10899,7 @@
       "content": "90er Rock • Rock ve metal müzik • Almanca",
       "location": "Almanya",
       "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-bob-bob-acdc",
@@ -10912,7 +10912,7 @@
       "content": "AC/DC Collection • Rock ve metal müzik • Almanca",
       "location": "Almanya",
       "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-bob-bob-alternative",
@@ -10925,7 +10925,7 @@
       "content": "Alternative Rock • Rock ve metal müzik • Almanca",
       "location": "Almanya",
       "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-bob-bob-bestofrock",
@@ -10938,7 +10938,7 @@
       "content": "Best of Rock • Rock ve metal müzik • Almanca",
       "location": "Almanya",
       "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-bob-bob-britpop",
@@ -10951,7 +10951,7 @@
       "content": "Britpop • Rock ve metal müzik • Almanca",
       "location": "Almanya",
       "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-bob-bob-chillout",
@@ -10964,7 +10964,7 @@
       "content": "Chillout Unplugged Songs • Rock ve metal müzik • Almanca",
       "location": "Almanya",
       "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-bob-bob-christmas",
@@ -10977,7 +10977,7 @@
       "content": "Christmas Rock • Rock ve metal müzik • Almanca",
       "location": "Almanya",
       "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-bob-bob-classicrock",
@@ -10990,7 +10990,7 @@
       "content": "Classic Rock • Rock ve metal müzik • Almanca",
       "location": "Almanya",
       "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-bob-bob-deutsch",
@@ -11003,7 +11003,7 @@
       "content": "Deutsch Rock • Rock ve metal müzik • Almanca",
       "location": "Almanya",
       "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-bob-bob-festival",
@@ -11016,7 +11016,7 @@
       "content": "Festival • Rock ve metal müzik • Almanca",
       "location": "Almanya",
       "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-bob-bob-grunge",
@@ -11029,7 +11029,7 @@
       "content": "Grunge • Rock ve metal müzik • Almanca",
       "location": "Almanya",
       "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-bob-bob-hardrock",
@@ -11042,7 +11042,7 @@
       "content": "Hardrock • Rock ve metal müzik • Almanca",
       "location": "Almanya",
       "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-bob-bob-hartesaite",
@@ -11055,7 +11055,7 @@
       "content": "Harte Saite • Rock ve metal müzik • Almanca",
       "location": "Almanya",
       "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-bob-bob-ironmaiden",
@@ -11068,7 +11068,7 @@
       "content": "Iron Maiden • Rock ve metal müzik • Almanca",
       "location": "Almanya",
       "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-bob-bob-kuschelrock",
@@ -11081,7 +11081,7 @@
       "content": "Kuschelrock • Rock ve metal müzik • Almanca",
       "location": "Almanya",
       "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-bob-bob-live",
@@ -11094,7 +11094,7 @@
       "content": "Hessen • Rock ve metal müzik • Almanca",
       "location": "Almanya",
       "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-bob-bob-metal",
@@ -11107,7 +11107,7 @@
       "content": "Metal • Rock ve metal müzik • Almanca",
       "location": "Almanya",
       "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-bob-bob-national",
@@ -11120,7 +11120,7 @@
       "content": "National • Rock ve metal müzik • Almanca",
       "location": "Almanya",
       "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-bob-bob-punk",
@@ -11133,7 +11133,7 @@
       "content": "Punk • Rock ve metal müzik • Almanca",
       "location": "Almanya",
       "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-bob-bob-queen",
@@ -11146,7 +11146,7 @@
       "content": "Queen-Stream • Rock ve metal müzik • Almanca",
       "location": "Almanya",
       "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-bob-bob-rockabilly",
@@ -11159,7 +11159,7 @@
       "content": "Rockabilly • Rock ve metal müzik • Almanca",
       "location": "Almanya",
       "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-bob-bob-rockhits",
@@ -11172,7 +11172,7 @@
       "content": "Rock Hits • Rock ve metal müzik • Almanca",
       "location": "Almanya",
       "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-bob-bob-shlive",
@@ -11185,7 +11185,7 @@
       "content": "Schleswig-Holstein • Rock ve metal müzik • Almanca",
       "location": "Almanya",
       "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-bob-bob-singersong",
@@ -11198,7 +11198,7 @@
       "content": "Singer and Songwriter • Rock ve metal müzik • Almanca",
       "location": "Almanya",
       "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-bob-bob-wacken",
@@ -11211,7 +11211,7 @@
       "content": "Wacken Nonstop • Rock ve metal müzik • Almanca",
       "location": "Almanya",
       "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-bob-collegerock",
@@ -11224,7 +11224,7 @@
       "content": "College Rock • Rock ve metal müzik • Almanca",
       "location": "Almanya",
       "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-bob-country",
@@ -11237,7 +11237,7 @@
       "content": "Country • Rock ve metal müzik • Almanca",
       "location": "Almanya",
       "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-bob-deathmetal",
@@ -11250,7 +11250,7 @@
       "content": "Death Metal • Rock ve metal müzik • Almanca",
       "location": "Almanya",
       "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-bob-donots",
@@ -11263,7 +11263,7 @@
       "content": "Donots • Rock ve metal müzik • Almanca",
       "location": "Almanya",
       "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-bob-electrorock",
@@ -11276,7 +11276,7 @@
       "content": "Electro Rock • Rock ve metal müzik • Almanca",
       "location": "Almanya",
       "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-bob-emo",
@@ -11289,7 +11289,7 @@
       "content": "Emo • Rock ve metal müzik • Almanca",
       "location": "Almanya",
       "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-bob-folkrock",
@@ -11302,7 +11302,7 @@
       "content": "Folk Rock • Rock ve metal müzik • Almanca",
       "location": "Almanya",
       "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-bob-fury",
@@ -11315,7 +11315,7 @@
       "content": "Fury in the Slaughterhouse • Rock ve metal müzik • Almanca",
       "location": "Almanya",
       "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-bob-gamingrock",
@@ -11328,7 +11328,7 @@
       "content": "Gaming Rock • Rock ve metal müzik • Almanca",
       "location": "Almanya",
       "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-bob-gastro",
@@ -11341,7 +11341,7 @@
       "content": "Gastro Stream • Rock ve metal müzik • Almanca",
       "location": "Almanya",
       "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-bob-gastro2",
@@ -11354,7 +11354,7 @@
       "content": "Gastro Stream 2 • Rock ve metal müzik • Almanca",
       "location": "Almanya",
       "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-bob-gothic",
@@ -11367,7 +11367,7 @@
       "content": "Gothic Rock • Rock ve metal müzik • Almanca",
       "location": "Almanya",
       "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-bob-guitarheroes",
@@ -11380,7 +11380,7 @@
       "content": "Guitar Heroes • Rock ve metal müzik • Almanca",
       "location": "Almanya",
       "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-bob-hairmetal",
@@ -11393,7 +11393,7 @@
       "content": "Hair Metal • Rock ve metal müzik • Almanca",
       "location": "Almanya",
       "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-bob-kiss",
@@ -11406,7 +11406,7 @@
       "content": "KISS • Rock ve metal müzik • Almanca",
       "location": "Almanya",
       "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-bob-live-nrw-mitte",
@@ -11419,7 +11419,7 @@
       "content": "NRW • Rock ve metal müzik • Almanca",
       "location": "Almanya",
       "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-bob-metalcore",
@@ -11432,7 +11432,7 @@
       "content": "Metalcore • Rock ve metal müzik • Almanca",
       "location": "Almanya",
       "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-bob-metallica",
@@ -11445,7 +11445,7 @@
       "content": "Metallica • Rock ve metal müzik • Almanca",
       "location": "Almanya",
       "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-bob-mittelalter",
@@ -11458,7 +11458,7 @@
       "content": "Mittelalter Rock • Rock ve metal müzik • Almanca",
       "location": "Almanya",
       "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-bob-motoerhead",
@@ -11471,7 +11471,7 @@
       "content": "Motoerhead • Rock ve metal müzik • Almanca",
       "location": "Almanya",
       "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-bob-newcomer",
@@ -11484,7 +11484,7 @@
       "content": "Newcomer • Rock ve metal müzik • Almanca",
       "location": "Almanya",
       "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-bob-numetal",
@@ -11497,7 +11497,7 @@
       "content": "Nu Metal • Rock ve metal müzik • Almanca",
       "location": "Almanya",
       "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-bob-ozzyosbourne",
@@ -11510,7 +11510,7 @@
       "content": "Ozzy Osbourne • Rock ve metal müzik • Almanca",
       "location": "Almanya",
       "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-bob-powermetal",
@@ -11523,7 +11523,7 @@
       "content": "Power Metal • Rock ve metal müzik • Almanca",
       "location": "Almanya",
       "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-bob-progrock",
@@ -11536,7 +11536,7 @@
       "content": "Prog Rock • Rock ve metal müzik • Almanca",
       "location": "Almanya",
       "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-bob-roadtrip",
@@ -11549,7 +11549,7 @@
       "content": "Roadtrip • Rock ve metal müzik • Almanca",
       "location": "Almanya",
       "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-bob-rockamring",
@@ -11562,7 +11562,7 @@
       "content": "Rock am Ring • Rock ve metal müzik • Almanca",
       "location": "Almanya",
       "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-bob-rockmadeingermany",
@@ -11575,7 +11575,7 @@
       "content": "Rock made in Germany • Rock ve metal müzik • Almanca",
       "location": "Almanya",
       "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-bob-rockoldies",
@@ -11588,7 +11588,7 @@
       "content": "Rock Oldies • Rock ve metal müzik • Almanca",
       "location": "Almanya",
       "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-bob-rockparty",
@@ -11601,7 +11601,7 @@
       "content": "Rockparty • Rock ve metal müzik • Almanca",
       "location": "Almanya",
       "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-bob-rollingstones",
@@ -11614,7 +11614,7 @@
       "content": "Rolling Stones • Rock ve metal müzik • Almanca",
       "location": "Almanya",
       "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-bob-sammet",
@@ -11627,7 +11627,7 @@
       "content": "Tobias Sammet Rockshow • Rock ve metal müzik • Almanca",
       "location": "Almanya",
       "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-bob-ska",
@@ -11640,7 +11640,7 @@
       "content": "SKA • Rock ve metal müzik • Almanca",
       "location": "Almanya",
       "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-bob-southernrock",
@@ -11653,7 +11653,7 @@
       "content": "Southern Rock • Rock ve metal müzik • Almanca",
       "location": "Almanya",
       "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-bob-stonerrock",
@@ -11666,7 +11666,7 @@
       "content": "Stoner Rock • Rock ve metal müzik • Almanca",
       "location": "Almanya",
       "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-bob-summerrock",
@@ -11679,7 +11679,7 @@
       "content": "Summer Rock Hits • Rock ve metal müzik • Almanca",
       "location": "Almanya",
       "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-bob-symphmetal",
@@ -11692,7 +11692,7 @@
       "content": "Symphonic Metal • Rock ve metal müzik • Almanca",
       "location": "Almanya",
       "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-bob-womenofrock",
@@ -11705,7 +11705,7 @@
       "content": "Women Of Rock • Rock ve metal müzik • Almanca",
       "location": "Almanya",
       "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-bob-woodstock",
@@ -11718,7 +11718,7 @@
       "content": "Woodstock • Rock ve metal müzik • Almanca",
       "location": "Almanya",
       "logo": "https://upload.radiobob.de/production/static/1792483293024/icons/icon_512.8WpccMNcjjc.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "badrock-national",
@@ -11731,7 +11731,7 @@
       "content": "Rock müzik • 320 kbps MP3 • Bulgarca",
       "location": "Sofya, Bulgaristan",
       "logo": "https://badrockradio.net/wp-content/themes/proradio-child/img/badrock_app_icon.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "badrock-classic-rock",
@@ -11744,7 +11744,7 @@
       "content": "Classic rock • 320 kbps MP3",
       "location": "Sofya, Bulgaristan",
       "logo": "https://badrockradio.net/wp-content/themes/proradio-child/img/badrock_app_icon.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "badrock-hard-heavy",
@@ -11757,7 +11757,7 @@
       "content": "Hard rock ve heavy metal • 320 kbps MP3",
       "location": "Sofya, Bulgaristan",
       "logo": "https://badrockradio.net/wp-content/themes/proradio-child/img/badrock_app_icon.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "badrock-golden-era",
@@ -11770,7 +11770,7 @@
       "content": "Rock oldies ve easy listening • 320 kbps MP3",
       "location": "Sofya, Bulgaristan",
       "logo": "https://badrockradio.net/wp-content/themes/proradio-child/img/badrock_app_icon.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "rautemusik-metal",
@@ -11783,7 +11783,7 @@
       "content": "Heavy metal ve Wacken seçkileri • 192 kbps MP3 • Almanca",
       "location": "Almanya",
       "logo": "https://www.rm.fm/favicon.ico",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-maximum-maximum",
@@ -11796,7 +11796,7 @@
       "content": "Rock, alternatif ve metal müzik • Rusça",
       "location": "Moskova, Rusya",
       "logo": "https://maximum.ru/b/d/XWbK87shCEITaNlLNzesRJh5J6hDDlNfK9ziY9jCC4j4NUqxPHxmiURCDCgd7hYZhTlZ8fe7AP4=K1hORtSUH-4ZgRMeEdKDsA.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-maximum-russborka",
@@ -11809,7 +11809,7 @@
       "content": "Rock, alternatif ve metal müzik • Rusça",
       "location": "Moskova, Rusya",
       "logo": "https://maximum.ru/b/d/XWbK87shCEIVattGJS6wAMZgI_RGQ1tfM9y_PYOcDZj-LhCuLjVpnRQWGTkf4hdGzjVV9_O7AOeFUQ=TQy83L2ZWIGPrQf3ivQwoQ.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-maximum-maxtop2024",
@@ -11822,7 +11822,7 @@
       "content": "Rock, alternatif ve metal müzik • Rusça",
       "location": "Moskova, Rusya",
       "logo": "https://maximum.ru/b/d/XWbK87shCEIVatpHJS6wAMZgI_RGQ1tfM9y_PYOcDZj-LhCuLjVpnRQWGTkf4hdGzjVV9_O7AOeFUQ=6YZPGCmdQVLQGJnh8kyxXA.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-maximum-maxhall",
@@ -11835,7 +11835,7 @@
       "content": "Rock, alternatif ve metal müzik • Rusça",
       "location": "Moskova, Rusya",
       "logo": "https://maximum.ru/b/d/XWbK87shCEIVaNxHJC6wAMZgI_RGQ1tfM9y_PYOcDZj-LhCuLjVpnRQWGTkf4hdGzjVV9_O7AOeFUQ=ftMlS_miGFtq8EYP4NiiLg.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-maximum-ozzy",
@@ -11848,7 +11848,7 @@
       "content": "Rock, alternatif ve metal müzik • Rusça",
       "location": "Moskova, Rusya",
       "logo": "https://maximum.ru/b/d/XWbK87shCEIVatdGJSqwAMZgI_RGQ1tfM9y_PYOcDZj-LhCuLjVpnRQWGTkf4hdGzjVV9_O7AOeFUQ=bQcYNI5VL3Hs07zYVHThig.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-maximum-maxmuse",
@@ -11861,7 +11861,7 @@
       "content": "Rock, alternatif ve metal müzik • Rusça",
       "location": "Moskova, Rusya",
       "logo": "https://maximum.ru/b/d/XWbK87shCEIVYdpKNzesRJh5J6hDDlNfK9ziY9jCC4j4NUqxPHxmiURCDCgd7hYZhTlZ8fe7AP4=QA4ehB7611XMzv16kmJktQ.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-maximum-maxrhcp",
@@ -11874,7 +11874,7 @@
       "content": "Rock, alternatif ve metal müzik • Rusça",
       "location": "Moskova, Rusya",
       "logo": "https://maximum.ru/b/d/XWbK87shCEIVYdpLNzesRJh5J6hDDlNfK9ziY9jCC4j4NUqxPHxmiURCDCgd7hYZhTlZ8fe7AP4=1PBqA10tBJ_ViA4X6WHfjw.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-maximum-maxcover",
@@ -11887,7 +11887,7 @@
       "content": "Rock, alternatif ve metal müzik • Rusça",
       "location": "Moskova, Rusya",
       "logo": "https://maximum.ru/b/d/XWbK87shCEIXadxINzesRJh5J6hDDlNfK9ziY9jCC4j4NUqxPHxmiURCDCgd7hYZhTlZ8fe7AP4=3HRVG2Pfi0cp9avRwafuLA.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-maximum-max80",
@@ -11900,7 +11900,7 @@
       "content": "Rock, alternatif ve metal müzik • Rusça",
       "location": "Moskova, Rusya",
       "logo": "https://maximum.ru/b/d/XWbK87shCEIXadxKNzesRJh5J6hDDlNfK9ziY9jCC4j4NUqxPHxmiURCDCgd7hYZhTlZ8fe7AP4=N4i8FeRwLNMbeE0LN6CYWQ.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-maximum-maxunplugged",
@@ -11913,7 +11913,7 @@
       "content": "Rock, alternatif ve metal müzik • Rusça",
       "location": "Moskova, Rusya",
       "logo": "https://maximum.ru/b/d/XWbK87shCEIXadxMNzesRJh5J6hDDlNfK9ziY9jCC4j4NUqxPHxmiURCDCgd7hYZhTlZ8fe7AP4=yY2HBmyAxG9M7mZkLakCxw.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-maximum-maxsoft",
@@ -11926,7 +11926,7 @@
       "content": "Rock, alternatif ve metal müzik • Rusça",
       "location": "Moskova, Rusya",
       "logo": "https://maximum.ru/b/d/XWbK87shCEISa9hZOSX6TIlsbuRCB1pOOpDwKs_TCo_kcxP6PnF_wFlKFTMK-F8biztd8fe7GQ=XUCQ4mQQSnEDMsjuDQpECg.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-maximum-maxerock",
@@ -11939,7 +11939,7 @@
       "content": "Rock, alternatif ve metal müzik • Rusça",
       "location": "Moskova, Rusya",
       "logo": "https://maximum.ru/b/d/XWbK87shCEISbN9ZOSX6TIlsbuRCB1pOOpDwKs_TCo_kcxP6PnF_wFlKFTMK-F8biztd8fe7GQ=A5vPDnhdcu8L6KuFJo-1nw.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-maximum-maxbritpop",
@@ -11952,7 +11952,7 @@
       "content": "Rock, alternatif ve metal müzik • Rusça",
       "location": "Moskova, Rusya",
       "logo": "https://maximum.ru/b/d/XWbK87shCEISa9dZOSX6TIlsbuRCB1pOOpDwKs_TCo_kcxP6PnF_wFlKFTMK-F8biztd8fe7GQ=jas-N_21bPXkcaFXGvI2Zg.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-maximum-maxpunk",
@@ -11965,7 +11965,7 @@
       "content": "Rock, alternatif ve metal müzik • Rusça",
       "location": "Moskova, Rusya",
       "logo": "https://maximum.ru/b/d/XWbK87shCEISattZOSX6TIlsbuRCB1pOOpDwKs_TCo_kcxP6PnF_wFlKFTMK-F8biztd8fe7GQ=41pa8c-uDRw7SgRgsv3Mbg.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-maximum-maxdark",
@@ -11978,7 +11978,7 @@
       "content": "Rock, alternatif ve metal müzik • Rusça",
       "location": "Moskova, Rusya",
       "logo": "https://maximum.ru/b/d/XWbK87shCEISa9ZZOSX6TIlsbuRCB1pOOpDwKs_TCo_kcxP6PnF_wFlKFTMK-F8biztd8fe7GQ=vd-5dCpmpuyigswsGUkMoQ.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-maximum-rugby",
@@ -11991,7 +11991,7 @@
       "content": "Rock, alternatif ve metal müzik • Rusça",
       "location": "Moskova, Rusya",
       "logo": "https://maximum.ru/b/d/XWbK87shCEISa9lZOSX6TIlsbuRCB1pOOpDwKs_TCo_kcxP6PnF_wFlKFTMK-F8biztd8fe7GQ=bTQXobPDgGhFwaWVDrF-zQ.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-maximum-rockhits",
@@ -12004,7 +12004,7 @@
       "content": "Rock, alternatif ve metal müzik • Rusça",
       "location": "Moskova, Rusya",
       "logo": "https://maximum.ru/b/d/XWbK87shCEISa9pZOSX6TIlsbuRCB1pOOpDwKs_TCo_kcxP6PnF_wFlKFTMK-F8biztd8fe7GQ=PameZcu33kOO1BIYCnwxhA.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-maximum-rammstein",
@@ -12017,7 +12017,7 @@
       "content": "Rock, alternatif ve metal müzik • Rusça",
       "location": "Moskova, Rusya",
       "logo": "https://maximum.ru/b/d/XWbK87shCEISathZOSX6TIlsbuRCB1pOOpDwKs_TCo_kcxP6PnF_wFlKFTMK-F8biztd8fe7GQ=s8fTNbfaUzfwX7PttjCDJw.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-maximum-nirvana",
@@ -12030,7 +12030,7 @@
       "content": "Rock, alternatif ve metal müzik • Rusça",
       "location": "Moskova, Rusya",
       "logo": "https://maximum.ru/b/d/XWbK87shCEISatZZOSX6TIlsbuRCB1pOOpDwKs_TCo_kcxP6PnF_wFlKFTMK-F8biztd8fe7GQ=U1j6o_msv6pR77cvonPLjA.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-maximum-millenium",
@@ -12043,7 +12043,7 @@
       "content": "Rock, alternatif ve metal müzik • Rusça",
       "location": "Moskova, Rusya",
       "logo": "https://maximum.ru/b/d/XWbK87shCEISa9tZOSX6TIlsbuRCB1pOOpDwKs_TCo_kcxP6PnF_wFlKFTMK-F8biztd8fe7GQ=Dd0ZJhxkFFrIJ39jCccLQw.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-maximum-metallica",
@@ -12056,7 +12056,7 @@
       "content": "Rock, alternatif ve metal müzik • Rusça",
       "location": "Moskova, Rusya",
       "logo": "https://maximum.ru/b/d/XWbK87shCEISa9xZOSX6TIlsbuRCB1pOOpDwKs_TCo_kcxP6PnF_wFlKFTMK-F8biztd8fe7GQ=nJKN7TtfYhQY_30CA-avFg.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-maximum-maximum90",
@@ -12069,7 +12069,7 @@
       "content": "Rock, alternatif ve metal müzik • Rusça",
       "location": "Moskova, Rusya",
       "logo": "https://maximum.ru/b/d/XWbK87shCEISa91ZOSX6TIlsbuRCB1pOOpDwKs_TCo_kcxP6PnF_wFlKFTMK-F8biztd8fe7GQ=rOYKruyMqA1eDBB5AF2V0Q.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-maximum-linkinpark",
@@ -12082,7 +12082,7 @@
       "content": "Rock, alternatif ve metal müzik • Rusça",
       "location": "Moskova, Rusya",
       "logo": "https://maximum.ru/b/d/XWbK87shCEISatlZOSX6TIlsbuRCB1pOOpDwKs_TCo_kcxP6PnF_wFlKFTMK-F8biztd8fe7GQ=g7NUdmAJmS62rN6WtYu54A.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-maximum-indie",
@@ -12095,7 +12095,7 @@
       "content": "Rock, alternatif ve metal müzik • Rusça",
       "location": "Moskova, Rusya",
       "logo": "https://maximum.ru/b/d/XWbK87shCEISatdZOSX6TIlsbuRCB1pOOpDwKs_TCo_kcxP6PnF_wFlKFTMK-F8biztd8fe7GQ=Yyx94C5_dbMXHNpUocjxSw.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-maximum-heavymonday",
@@ -12108,7 +12108,7 @@
       "content": "Rock, alternatif ve metal müzik • Rusça",
       "location": "Moskova, Rusya",
       "logo": "https://maximum.ru/b/d/XWbK87shCEISa95ZOSX6TIlsbuRCB1pOOpDwKs_TCo_kcxP6PnF_wFlKFTMK-F8biztd8fe7GQ=_HuDapT49iaVGaf0BJDamA.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-maximum-grunge",
@@ -12121,7 +12121,7 @@
       "content": "Rock, alternatif ve metal müzik • Rusça",
       "location": "Moskova, Rusya",
       "logo": "https://maximum.ru/b/d/XWbK87shCEISatpZOSX6TIlsbuRCB1pOOpDwKs_TCo_kcxP6PnF_wFlKFTMK-F8biztd8fe7GQ=0y7dshh9xwV9uWkbsUb2qQ.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-maximum-depechemode",
@@ -12134,7 +12134,7 @@
       "content": "Rock, alternatif ve metal müzik • Rusça",
       "location": "Moskova, Rusya",
       "logo": "https://maximum.ru/b/d/XWbK87shCEIXadtMNzesRJh5J6hDDlNfK9ziY9jCC4j4NUqxPHxmiURCDCgd7hYZhTlZ8fe7AP4=WMITzUu7siGcNmQFJ4imkg.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-hazzard-of-darkness",
@@ -12147,7 +12147,7 @@
       "content": "Gothic, darkwave, EBM, industrial, alternative rock ve metal • Almanca",
       "location": "Köln, Almanya",
       "logo": "https://radio-hazzardofdarkness.de/images/php-fusion-logo.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "heavy-metal-history-radio",
@@ -12160,7 +12160,7 @@
       "content": "Classic heavy metal, thrash, doom, black metal, canlı konserler ve nadir kayıtlar • İngilizce",
       "location": "Montclair, New Jersey, ABD",
       "logo": "https://heavymetalhistory.net/pic/hmh.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "prambors-fm-jakarta",
@@ -12174,7 +12174,7 @@
       "location": "Jakarta, Endonezya",
       "frequency": "102.2 FM",
       "logo": "https://pramborsfm.com/og-image.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "absolut-radio-hot",
@@ -12187,7 +12187,7 @@
       "content": "Güncel pop, dans ve liste hitleri • Almanca",
       "location": "Almanya",
       "logo": "https://cms.antenne-deutschland.de/api/media/file/AbsolutRadio_Logo_Kreis_mitSchatten-1200x630.webp?v=1774425138325",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "absolut-radio-germany",
@@ -12200,7 +12200,7 @@
       "content": "Alman pop, rap ve urban müzik • Almanca",
       "location": "Almanya",
       "logo": "https://cms.antenne-deutschland.de/api/media/file/AbsolutRadio_Logo_Kreis_mitSchatten-1200x630.webp?v=1774425138325",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "absolut-radio-top",
@@ -12213,7 +12213,7 @@
       "content": "2000'ler pop, dans ve liste hitleri • Almanca",
       "location": "Almanya",
       "logo": "https://cms.antenne-deutschland.de/api/media/file/AbsolutRadio_Logo_Kreis_mitSchatten-1200x630.webp?v=1774425138325",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "absolut-radio-relax",
@@ -12226,7 +12226,7 @@
       "content": "Soft pop ve rahatlatıcı hitler • Almanca",
       "location": "Almanya",
       "logo": "https://cms.antenne-deutschland.de/api/media/file/AbsolutRadio_Logo_Kreis_mitSchatten-1200x630.webp?v=1774425138325",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "absolut-radio-bella",
@@ -12239,7 +12239,7 @@
       "content": "Alman schlager ve uluslararası oldies • Almanca",
       "location": "Almanya",
       "logo": "https://cms.antenne-deutschland.de/api/media/file/AbsolutRadio_Logo_Kreis_mitSchatten-1200x630.webp?v=1774425138325",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "absolut-radio-classics",
@@ -12252,7 +12252,7 @@
       "content": "Pop ve rock klasikleri • Almanca",
       "location": "Almanya",
       "logo": "https://cms.antenne-deutschland.de/api/media/file/AbsolutRadio_Logo_Kreis_mitSchatten-1200x630.webp?v=1774425138325",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "absolut-radio-christmastime",
@@ -12265,7 +12265,7 @@
       "content": "Noel ve yılbaşı şarkıları • Almanca",
       "location": "Almanya",
       "logo": "https://cms.antenne-deutschland.de/api/media/file/AbsolutRadio_Logo_Kreis_mitSchatten-1200x630.webp?v=1774425138325",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "absolut-radio-rock",
@@ -12278,7 +12278,7 @@
       "content": "1990'lar ve 2000'ler rock müziği • Almanca",
       "location": "Almanya",
       "logo": "https://cms.antenne-deutschland.de/api/media/file/AbsolutRadio_Logo_Kreis_mitSchatten-1200x630.webp?v=1774425138325",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "absolut-radio-clubnight",
@@ -12291,7 +12291,7 @@
       "content": "Dans, elektronik ve club müziği • Almanca",
       "location": "Almanya",
       "logo": "https://cms.antenne-deutschland.de/api/media/file/AbsolutRadio_Logo_Kreis_mitSchatten-1200x630.webp?v=1774425138325",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "absolut-radio-80er",
@@ -12304,7 +12304,7 @@
       "content": "1980'ler pop ve rock müziği • Almanca",
       "location": "Almanya",
       "logo": "https://cms.antenne-deutschland.de/api/media/file/AbsolutRadio_Logo_Kreis_mitSchatten-1200x630.webp?v=1774425138325",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "absolut-radio-musicxl",
@@ -12317,7 +12317,7 @@
       "content": "Alternatif pop, rock ve klasik hitler • Almanca",
       "location": "Almanya",
       "logo": "https://cms.antenne-deutschland.de/api/media/file/AbsolutRadio_Logo_Kreis_mitSchatten-1200x630.webp?v=1774425138325",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "absolut-radio-lovesongs",
@@ -12330,7 +12330,7 @@
       "content": "Aşk şarkıları ve baladlar • Almanca",
       "location": "Almanya",
       "logo": "https://cms.antenne-deutschland.de/api/media/file/AbsolutRadio_Logo_Kreis_mitSchatten-1200x630.webp?v=1774425138325",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "absolut-radio-ai",
@@ -12343,7 +12343,7 @@
       "content": "Yapay zekâ sunumlu güncel hitler • Almanca",
       "location": "Almanya",
       "logo": "https://cms.antenne-deutschland.de/api/media/file/AbsolutRadio_Logo_Kreis_mitSchatten-1200x630.webp?v=1774425138325",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "absolut-radio-coffeemusic",
@@ -12356,7 +12356,7 @@
       "content": "Akustik, indie, folk ve chillout • Almanca",
       "location": "Almanya",
       "logo": "https://cms.antenne-deutschland.de/api/media/file/AbsolutRadio_Logo_Kreis_mitSchatten-1200x630.webp?v=1774425138325",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-caprice-hard-heavy-rock",
@@ -12372,7 +12372,7 @@
       "content": "Hard rock ve heavy rock müziği",
       "location": "Rusya",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_radio_caprice_melodic_death_metal.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-caprice-heavy-metal",
@@ -12385,7 +12385,7 @@
       "content": "Heavy metal müziği",
       "location": "Rusya",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_radio_caprice_melodic_death_metal.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "181-fm-80-s-country",
@@ -12398,7 +12398,7 @@
       "content": "80s,country,waynesboro",
       "location": "Virginia, ABD",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/repair_181fm.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "181-fm-80-s-hairband",
@@ -12411,7 +12411,7 @@
       "content": "80s,hair metal,metal,waynesboro",
       "location": "Virginia, ABD",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/repair_181fm.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "181-fm-90-s-alternative",
@@ -12424,7 +12424,7 @@
       "content": "90s,alternative,waynesboro",
       "location": "Virginia, ABD",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/repair_181fm.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "181-fm-90-s-country",
@@ -12437,7 +12437,7 @@
       "content": "90s,country,waynesboro",
       "location": "Virginia, ABD",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/repair_181fm.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "181-fm-90-s-dance",
@@ -12450,7 +12450,7 @@
       "content": "90s,dance,waynesboro",
       "location": "Virginia, ABD",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/repair_181fm.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "181-fm-acid-jazz",
@@ -12463,7 +12463,7 @@
       "content": "acid jazz,waynesboro",
       "location": "Virginia, ABD",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/repair_181fm.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "181-fm-awesome-80-s",
@@ -12476,7 +12476,7 @@
       "content": "80s,waynesboro",
       "location": "Virginia, ABD",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/repair_181fm.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "181-fm-bebop-jazz",
@@ -12489,7 +12489,7 @@
       "content": "bebop,jazz,waynesboro",
       "location": "Virginia, ABD",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/repair_181fm.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "181-fm-chilled-out",
@@ -12502,7 +12502,7 @@
       "content": "chillout,waynesboro",
       "location": "Virginia, ABD",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/repair_181fm.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "181-fm-chloe-181-fm",
@@ -12515,7 +12515,7 @@
       "content": "adult album alternative,alternative rock,waynesboro",
       "location": "Virginia, ABD",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/repair_181fm.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "181-fm-classic-buzz-alt",
@@ -12528,7 +12528,7 @@
       "content": "alternative,waynesboro",
       "location": "Virginia, ABD",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/repair_181fm.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "181-fm-classical-guitar",
@@ -12541,7 +12541,7 @@
       "content": "easy listening,guitar",
       "location": "ABD",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/repair_181fm.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "181-fm-classical-jazz",
@@ -12554,7 +12554,7 @@
       "content": "classic jazz,jazz",
       "location": "Virginia, ABD",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/repair_181fm.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "181-fm-classical-music",
@@ -12570,7 +12570,7 @@
       "content": "classical,waynesboro",
       "location": "Virginia, ABD",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/repair_181fm.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "181-fm-energy-98",
@@ -12583,7 +12583,7 @@
       "content": "dance,house,waynesboro",
       "location": "Virginia, ABD",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/repair_181fm.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "181-fm-front-porch-bluegrass",
@@ -12596,7 +12596,7 @@
       "content": "bluegrass,waynesboro",
       "location": "Virginia, ABD",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/repair_181fm.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "181-fm-fusion-jazz",
@@ -12609,7 +12609,7 @@
       "content": "fusion jazz,waynesboro",
       "location": "Virginia, ABD",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/repair_181fm.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "181-fm-good-time-oldies-radio",
@@ -12622,7 +12622,7 @@
       "content": "oldies,waynesboro",
       "location": "Virginia, ABD",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/repair_181fm.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "181-fm-highway-181",
@@ -12635,7 +12635,7 @@
       "content": "classic country,waynesboro",
       "location": "Virginia, ABD",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/repair_181fm.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "181-fm-jammin-181",
@@ -12648,7 +12648,7 @@
       "content": "rnb,soul,waynesboro",
       "location": "Virginia, ABD",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/repair_181fm.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "181-fm-lite-80-s",
@@ -12661,7 +12661,7 @@
       "content": "80s,waynesboro",
       "location": "Virginia, ABD",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/repair_181fm.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "181-fm-mellow-gold",
@@ -12674,7 +12674,7 @@
       "content": "classic hits,waynesboro",
       "location": "Virginia, ABD",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/repair_181fm.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "181-fm-old-school-hiphop-rnb",
@@ -12687,7 +12687,7 @@
       "content": "hiphop,oldschool,rnb,waynesboro",
       "location": "Virginia, ABD",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/repair_181fm.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "181-fm-party-181",
@@ -12700,7 +12700,7 @@
       "content": "party,pop,top 40,waynesboro",
       "location": "Virginia, ABD",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/repair_181fm.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "181-fm-reggae-roots",
@@ -12713,7 +12713,7 @@
       "content": "reggae,waynesboro",
       "location": "Virginia, ABD",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/repair_181fm.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "181-fm-rock-40-rock-roll",
@@ -12726,7 +12726,7 @@
       "content": "rock'n'roll,waynesboro",
       "location": "Virginia, ABD",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/repair_181fm.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "181-fm-salsa",
@@ -12739,7 +12739,7 @@
       "content": "salsa,waynesboro",
       "location": "Virginia, ABD",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/repair_181fm.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "181-fm-smooth-ac",
@@ -12752,7 +12752,7 @@
       "content": "easy listening,waynesboro",
       "location": "Virginia, ABD",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/repair_181fm.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "181-fm-soul",
@@ -12765,7 +12765,7 @@
       "content": "soul,waynesboro",
       "location": "Virginia, ABD",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/repair_181fm.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "181-fm-star-90-s",
@@ -12778,7 +12778,7 @@
       "content": "90s,waynesboro",
       "location": "Virginia, ABD",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/repair_181fm.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "181-fm-super-70s",
@@ -12794,7 +12794,7 @@
       "content": "70s,waynesboro",
       "location": "Virginia, ABD",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/repair_181fm.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "181-fm-techno-club",
@@ -12807,7 +12807,7 @@
       "content": "techno,waynesboro",
       "location": "Virginia, ABD",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/repair_181fm.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "181-fm-the-ball",
@@ -12820,7 +12820,7 @@
       "content": "disco,waynesboro",
       "location": "Virginia, ABD",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/repair_181fm.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "181-fm-the-beat-hiphop-r-b",
@@ -12836,7 +12836,7 @@
       "content": "hiphop,rnb,urban,waynesboro",
       "location": "Virginia, ABD",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/repair_181fm.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "181-fm-the-box-urban",
@@ -12849,7 +12849,7 @@
       "content": "urban,waynesboro",
       "location": "Virginia, ABD",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/repair_181fm.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "181-fm-the-buzz-alt-rock",
@@ -12865,7 +12865,7 @@
       "content": "alternative rock,waynesboro",
       "location": "Virginia, ABD",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/repair_181fm.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "181-fm-the-heart-love-songs",
@@ -12878,7 +12878,7 @@
       "content": "love songs,waynesboro",
       "location": "Virginia, ABD",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/repair_181fm.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "181-fm-the-mix",
@@ -12891,7 +12891,7 @@
       "content": "classic hits,pop,waynesboro",
       "location": "Virginia, ABD",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/repair_181fm.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "181-fm-the-office",
@@ -12907,7 +12907,7 @@
       "content": "pop,waynesboro",
       "location": "Virginia, ABD",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/repair_181fm.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "181-fm-the-point",
@@ -12920,7 +12920,7 @@
       "content": "pop,rock,waynesboro",
       "location": "Virginia, ABD",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/repair_181fm.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "181-fm-the-rock-hardrock",
@@ -12933,7 +12933,7 @@
       "content": "hard rock,waynesboro",
       "location": "Virginia, ABD",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/repair_181fm.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "181-fm-the-vibe-of-vegas",
@@ -12946,7 +12946,7 @@
       "content": "dance,edm,electro,pop,waynesboro",
       "location": "Virginia, ABD",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/repair_181fm.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "181-fm-trance-jazz",
@@ -12959,7 +12959,7 @@
       "content": "chillout,jazz,trance,waynesboro",
       "location": "Virginia, ABD",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/repair_181fm.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "181-fm-true-blues",
@@ -12972,7 +12972,7 @@
       "content": "blues,waynesboro",
       "location": "Virginia, ABD",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/repair_181fm.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "181-fm-true-r-b",
@@ -12985,7 +12985,7 @@
       "content": "rnb,urban,waynesboro",
       "location": "Virginia, ABD",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/repair_181fm.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "181-fm-uk-top-40",
@@ -13001,7 +13001,7 @@
       "content": "pop,top 40,waynesboro",
       "location": "Virginia, ABD",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/repair_181fm.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "181-fm-vocal-jazz",
@@ -13014,7 +13014,7 @@
       "content": "jazz,vocal jazz,waynesboro",
       "location": "Virginia, ABD",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/repair_181fm.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "100hitz-90-s-alternative",
@@ -13027,7 +13027,7 @@
       "content": "90's,alternative",
       "location": "Antelope, CA, ABD",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/repair_100hitz.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "100hitz-alternative",
@@ -13040,7 +13040,7 @@
       "content": "Müzik",
       "location": "ABD",
       "logo": "https://100hitz.com/wp-content/uploads/2023/03/100hitz.com-png-08-e1678043645250.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "100hitz-indie",
@@ -13056,7 +13056,7 @@
       "content": "Müzik",
       "location": "ABD",
       "logo": "https://100hitz.com/wp-content/uploads/2023/03/100hitz.com-png-08-e1678043645250.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "100hitz-rock",
@@ -13069,7 +13069,7 @@
       "content": "rock",
       "location": "Antelope, CA, ABD",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/repair_100hitz.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "100hitz-top-40",
@@ -13082,7 +13082,7 @@
       "content": "top 40,us",
       "location": "Antelope, Ca, ABD",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/repair_100hitz.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "100hitz-hot-hitz",
@@ -13095,7 +13095,7 @@
       "content": "Müzik",
       "location": "Antelope, Ca, ABD",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/repair_100hitz.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "100hitz-the-mix-80s-90s-today-s-hits",
@@ -13108,7 +13108,7 @@
       "content": "80s,90s,today's hits",
       "location": "Antelope, CA, ABD",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/repair_100hitz.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "100hitz-today-s-new-country",
@@ -13121,7 +13121,7 @@
       "content": "Müzik",
       "location": "Antelope, CA, ABD",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/repair_100hitz.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "rock-antenne-90er-rock",
@@ -13134,7 +13134,7 @@
       "content": "90s,music,rock",
       "location": "Almanya",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/rock_antenne_90er_rock.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "rock-antenne-country-antenne",
@@ -13147,7 +13147,7 @@
       "content": "country,music,rock",
       "location": "Almanya",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/rock_antenne_country_antenne.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "rock-antenne-grunge",
@@ -13160,7 +13160,7 @@
       "content": "grunge,music,rock",
       "location": "Almanya",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/rock_antenne_grunge.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "rock-antenne-heavy-metal",
@@ -13176,7 +13176,7 @@
       "content": "heavy metal,metal",
       "location": "Bavaria, Almanya",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/rock_antenne_heavy_metal.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "rock-antenne-lagerfeuer-rock",
@@ -13189,7 +13189,7 @@
       "content": "music,rock",
       "location": "Almanya",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/rock_antenne_lagerfeuer_rock.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "rock-antenne-melodic-rock",
@@ -13202,7 +13202,7 @@
       "content": "hard rock,melodic hard rock,melodic rock,rock",
       "location": "Almanya",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/rock_antenne_melodic_rock.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "rock-antenne-party-rock",
@@ -13215,7 +13215,7 @@
       "content": "music,party,rock",
       "location": "Almanya",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/rock_antenne_party_rock.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "rock-antenne-punk-rock",
@@ -13228,7 +13228,7 @@
       "content": "punk rock",
       "location": "Bavaria, Almanya",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/rock_antenne_punk_rock.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "rock-antenne-rock-n-roll",
@@ -13241,7 +13241,7 @@
       "content": "music,rock",
       "location": "Almanya",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/rock_antenne_rock_n_roll.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "rock-antenne-70er-rock-mp3",
@@ -13254,7 +13254,7 @@
       "content": "70's,classic rock",
       "location": "Almanya",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/rock_antenne_70er_rock_mp3.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "rock-antenne-80er-rock-mp3",
@@ -13270,7 +13270,7 @@
       "content": "80's,classic rock",
       "location": "Almanya",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/rock_antenne_80er_rock_mp3.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "rock-antenne-bayern",
@@ -13283,7 +13283,7 @@
       "content": "heavy metal,rock",
       "location": "Bavaria, Almanya",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/rock_antenne_bayern.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "rock-antenne-biker-rock",
@@ -13296,7 +13296,7 @@
       "content": "rock",
       "location": "Deutschland (Almanya), Almanya",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/rock_antenne_biker_rock.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "rock-antenne-blues-rock",
@@ -13309,7 +13309,7 @@
       "content": "Müzik",
       "location": "Almanya",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/rock_antenne_blues_rock.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "rock-antenne-classic-perlen",
@@ -13322,7 +13322,7 @@
       "content": "rock classics",
       "location": "Almanya",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/rock_antenne_classic_perlen.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "rock-antenne-coversongs",
@@ -13335,7 +13335,7 @@
       "content": "rock",
       "location": "Almanya",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/rock_antenne_coversongs.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "rock-antenne-hamburg-aac",
@@ -13348,7 +13348,7 @@
       "content": "rock",
       "location": "Hamburg, Almanya",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/rock_antenne_hamburg_aac.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "rock-antenne-live-rock",
@@ -13361,7 +13361,7 @@
       "content": "Müzik",
       "location": "Almanya",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/rock_antenne_live_rock.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "rock-antenne-modern-metal",
@@ -13374,7 +13374,7 @@
       "content": "heavy metal,metal",
       "location": "Almanya",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/rock_antenne_modern_metal.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "rock-antenne-modern-rock",
@@ -13387,7 +13387,7 @@
       "content": "modern rock",
       "location": "Almanya",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/rock_antenne_modern_rock.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "rock-antenne-munich-city-nights",
@@ -13400,7 +13400,7 @@
       "content": "Müzik",
       "location": "Almanya",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/rock_antenne_munich_city_nights.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "rock-antenne-osterreich-aac",
@@ -13413,7 +13413,7 @@
       "content": "Müzik",
       "location": "Avusturya",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/rock_antenne_osterreich_aac.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "rock-antenne-sound-of-summer",
@@ -13426,7 +13426,7 @@
       "content": "alternative rock,classic rock,pop rock,rock",
       "location": "Almanya",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/rock_antenne_sound_of_summer.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "rock-antenne-xmas-rock",
@@ -13439,7 +13439,7 @@
       "content": "Müzik",
       "location": "Almanya",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/rock_antenne_xmas_rock.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "rock-antenne-young-stars",
@@ -13452,7 +13452,7 @@
       "content": "rock",
       "location": "Almanya",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/rock_antenne_young_stars.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "ffh-brandneu",
@@ -13465,7 +13465,7 @@
       "content": "Müzik",
       "location": "Almanya",
       "logo": "https://static.ffh.de/fileadmin/fm-dam/ffh.de/pages/musik/webradios/nologo/brandneu_nologo_600x600.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "ffh-eurodance",
@@ -13478,7 +13478,7 @@
       "content": "Müzik",
       "location": "Almanya",
       "logo": "https://static.ffh.de/fileadmin/fm-dam/ffh.de/pages/musik/webradios/nologo/ffh_eurodance_nologo_600x600.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "ffh-just-white",
@@ -13491,7 +13491,7 @@
       "content": "Müzik",
       "location": "Hessen, Almanya",
       "logo": "https://www.ffh.de/favicon.ico",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "ffh-top-1000",
@@ -13504,7 +13504,7 @@
       "content": "Müzik",
       "location": "Almanya",
       "logo": "https://static.ffh.de/fileadmin/fm-dam/ffh.de/pages/musik/webradios/nologo/top1000_600x600_nologo_01.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "ffh-top-40",
@@ -13517,7 +13517,7 @@
       "content": "Müzik",
       "location": "Almanya",
       "logo": "https://static.ffh.de/fileadmin/fm-dam/ffh.de/pages/musik/webradios/nologo/top40_600x600_ohne_ffh.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "ffh-workout",
@@ -13530,7 +13530,7 @@
       "content": "Müzik",
       "location": "Almanya",
       "logo": "https://static.ffh.de/fileadmin/fm-dam/ffh.de/pages/musik/webradios/nologo/workout_nologo_600x600.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "nrg-91",
@@ -13543,7 +13543,7 @@
       "content": "mainstream,pop music",
       "location": "Larisa, Yunanistan",
       "logo": "https://www.nrg91.gr/wp-content/uploads/2017/07/cropped-icon-1-180x180.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "nrg-92-4",
@@ -13556,7 +13556,7 @@
       "content": "dance,pop",
       "location": "Lamia, Yunanistan",
       "logo": "https://nrg924.gr/wp-content/uploads/2020/09/nrg_gif.gif",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "nrg-95",
@@ -13569,7 +13569,7 @@
       "content": "Müzik",
       "location": "Chalkida, Yunanistan",
       "logo": "http://resources.live24.gr/resources/images/stations/cfcdc4db-f667-41b1-99b3-410dc1401186.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "nrg-98-5",
@@ -13582,7 +13582,7 @@
       "content": "greek pop,mainstream",
       "location": "Alexandroupolis, Yunanistan",
       "logo": "https://resources.live24.gr/resources/images/stations/e6a8be4d-599f-4d48-a132-cad94934d0d9.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "nrg-homeoffice",
@@ -13595,7 +13595,7 @@
       "content": "Müzik",
       "location": "Almanya",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/nrg_homeoffice.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "dinamo-fm-locodyno",
@@ -13608,7 +13608,7 @@
       "content": "dj sets,dub,electronic,house,mix,nu disco,techno",
       "location": "Istanbul, Türkiye",
       "logo": "https://www.dinamo.fm/favicons/dinamo-locodyno-favicon.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "loops-radio",
@@ -13621,7 +13621,7 @@
       "content": "Müzik",
       "location": "Türkiye",
       "logo": "https://loopsradio.com/wp-content/uploads/2023/09/cropped-loopsradiofaviconred-180x180.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "capital-nottinghamshire",
@@ -13634,7 +13634,7 @@
       "content": "top 40",
       "location": "Birleşik Krallık",
       "logo": "https://www.capitalfm.com/assets_v4r/capital/img/favicon-196x196.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "capital-104-8",
@@ -13647,7 +13647,7 @@
       "content": "mainstream,pop",
       "location": "Serres, Yunanistan",
       "logo": "http://resources.live24.gr/resources/images/stations/2a8d7315-4394-4bea-b5ff-47f0c494f983.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "capital-107",
@@ -13660,7 +13660,7 @@
       "content": "Müzik",
       "location": "Kavala, Yunanistan",
       "logo": "https://capital107.gr/wp-content/uploads/2020/12/cropped-sdf-3-180x180.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "capital-90-7",
@@ -13673,7 +13673,7 @@
       "content": "Müzik",
       "location": "Yunanistan",
       "logo": "https://www.capitalradio.gr/images/capitalradio-logo.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "capital-95-campo-grande",
@@ -13686,7 +13686,7 @@
       "content": "Müzik",
       "location": "Mato Grosso do Sul, Brazil",
       "logo": "https://capital95.com.br/img/logo-footer.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "capital-958",
@@ -13702,7 +13702,7 @@
       "content": "melisten",
       "location": "Singapore",
       "logo": "https://www16.mediacorp.sg/melisten/radiostation-logos/capital-958.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "capital-dance",
@@ -13715,7 +13715,7 @@
       "content": "Müzik",
       "location": "Birleşik Krallık",
       "logo": "https://www.capitaldance.com/assets_v4r/capitaldance/img/favicon-196x196.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "capital-fm",
@@ -13728,7 +13728,7 @@
       "content": "fresh hits",
       "location": "Uganda",
       "logo": "http://capitalradio.com/assets_v4r/capital/img/favicon-32x32.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "capital-fm-glasgow",
@@ -13741,7 +13741,7 @@
       "content": "Müzik",
       "location": "Glasgow, Birleşik Krallık",
       "logo": "https://www.capitalfm.com/assets_v4r/capital/img/favicon-196x196.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "capital-fm-manchester",
@@ -13754,7 +13754,7 @@
       "content": "manchester,pop",
       "location": "Birleşik Krallık",
       "logo": "http://www.capitalfm.com/assets_v4r/capital/img/favicon-196x196.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "capital-fm-nottinghamshire",
@@ -13767,7 +13767,7 @@
       "content": "charts,english,hits,pop",
       "location": "Birleşik Krallık",
       "logo": "https://www.capitalfm.com/assets_v4r/capital/img/favicon-196x196.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "capital-fm-reunion",
@@ -13780,7 +13780,7 @@
       "content": "974,créole,réunion,saint-denis",
       "location": "Reunion",
       "logo": "https://static2.mytuner.mobi/media/tvos_radios/4qa2fweqmadn.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "capital-fm-south-coast-103-2",
@@ -13793,7 +13793,7 @@
       "content": "commercial,pop,south coast",
       "location": "Birleşik Krallık",
       "logo": "http://www.capitalfm.com/assets_v4r/capital/img/favicon-196x196.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "capital-fm-2",
@@ -13806,7 +13806,7 @@
       "content": "pop,pop music",
       "location": "Moscow (Russia), Rusya",
       "logo": "https://capitalfm.moscow/img/favicon.ico",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "capital-north-wales-north-wales-coast",
@@ -13819,7 +13819,7 @@
       "content": "entertainment,hits",
       "location": "Birleşik Krallık",
       "logo": "https://assets.capitalfm.com/2022/44/generic-capital-web-holder-1667331088-large-article-0.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "capital-radio-netherlands",
@@ -13832,7 +13832,7 @@
       "content": "Müzik",
       "location": "Hollanda",
       "logo": "https://capitalradio.nl/logo_2026.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "capital-radio-sl",
@@ -13845,7 +13845,7 @@
       "content": "Müzik",
       "location": "Slovenia",
       "logo": "https://www.capitalradio.sl/wp/wp-content/uploads/2021/01/cropped-caplogo.gif",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "capital-uk",
@@ -13858,7 +13858,7 @@
       "content": "pop",
       "location": "Birleşik Krallık",
       "logo": "https://i.imgur.com/xCTMNrl.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "qmusic-90-s-00-s-64k-aac",
@@ -13871,7 +13871,7 @@
       "content": "00s,90s,hits",
       "location": "Hollanda",
       "logo": "https://cdn-radio.dpgmedia.net/2/72/3d/09/109/Site-logo-_220x220_2.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "qmusic-be",
@@ -13884,7 +13884,7 @@
       "content": "Müzik",
       "location": "Vilvoorde, Belçika",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/repair_qmusic.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "qmusic-het-foute-uur",
@@ -13897,7 +13897,7 @@
       "content": "Müzik",
       "location": "Hollanda",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/repair_qmusic.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "qmusic-nederland-aac-high",
@@ -13910,7 +13910,7 @@
       "content": "Müzik",
       "location": "Hollanda",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/repair_qmusic.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "qmusic-q-allstars",
@@ -13923,7 +13923,7 @@
       "content": "00's,10's,80's,90's",
       "location": "Belçika",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/repair_qmusic.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "1-fm-a-list-80s",
@@ -13936,7 +13936,7 @@
       "content": "80s",
       "location": "İsviçre",
       "logo": "https://i.imgur.com/vFiPaW4.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "1-fm-absolute-pop-latino-radio",
@@ -13949,7 +13949,7 @@
       "content": "latin,pop",
       "location": "İsviçre",
       "logo": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "1-fm-classic-rock-replay-radio",
@@ -13962,7 +13962,7 @@
       "content": "classic rock",
       "location": "İsviçre",
       "logo": "http://i.imgur.com/Jmvwqen.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "nrj-belgique",
@@ -13975,7 +13975,7 @@
       "content": "contemporary hits radio,dance,pop,top40",
       "location": "Belçika",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/nrj_belgique.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "nrj-egypt",
@@ -13988,7 +13988,7 @@
       "content": "Müzik",
       "location": "Egypt",
       "logo": "https://nrj.com/img/NRJ_EGYPT_140.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "nrj-norge",
@@ -14001,7 +14001,7 @@
       "content": "pop,hits,top 40",
       "location": "Oslo, Norveç",
       "logo": "https://media.bauerradio.com/image/upload/c_crop,g_custom/v1733412560/brand_manager/stations/op6xarklazczsrwxi2ga.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "nrj-radio",
@@ -14014,7 +14014,7 @@
       "content": "Müzik",
       "location": "Ukraine",
       "logo": "https://nrjradio.ua/images/NRJ.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "nrj-reunion",
@@ -14027,7 +14027,7 @@
       "content": "Müzik",
       "location": "Reunion",
       "logo": "https://i.ibb.co/B5w8zvHr/nrj-reunion-9d96388c.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "nrj-russia",
@@ -14040,7 +14040,7 @@
       "content": "Müzik",
       "location": "Moscow (Russia), Rusya",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/repair_nrj_russia.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "nrj-zouk",
@@ -14053,7 +14053,7 @@
       "content": "zouk",
       "location": "France",
       "logo": "https://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj_fr_an/logos/173x173/NRJ-WR-Zouk.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "nrj-belgique-2",
@@ -14066,7 +14066,7 @@
       "content": "00s,64kbps,90s,aac,contemporary hits radio,dance,pop",
       "location": "Belçika",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/nrj_plus_belgique.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "joe",
@@ -14082,7 +14082,7 @@
       "content": "Müzik",
       "location": "Hollanda",
       "logo": "https://cdn-radio.dpgmedia.net/6/7c/6a/1e/47/JOE-7-WEBSITE-220x220.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "joe-all-the-way",
@@ -14095,7 +14095,7 @@
       "content": "pop",
       "location": "Vlaanderen, Belçika",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/repair_joe_nl.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "joe-80-s-90-s",
@@ -14111,7 +14111,7 @@
       "content": "80's,90's,hits",
       "location": "Vlaanderen, Belçika",
       "logo": "https://static.mytuner.mobi/media/tvos_radios/x7fzbddfxjqy.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "joe-gold",
@@ -14124,7 +14124,7 @@
       "content": "Müzik",
       "location": "Belçika",
       "logo": "https://cdn-radio.dpgmedia.net/7/32/78/a4/113/JOE_GOLD-7-WEBSITE-220x220.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "joe-lage-landen",
@@ -14137,7 +14137,7 @@
       "content": "Müzik",
       "location": "Belçika",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/repair_joe_belgium.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "joe-non-stop",
@@ -14150,7 +14150,7 @@
       "content": "non-stop music",
       "location": "Hollanda",
       "logo": "https://cdn-radio.dpgmedia.net/2/b4/49/28/115/JOE_NON-STOP_WEBSITE_LOGO-JOE-NON-STOP_35298ac114.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "totally-radio-country-mp3",
@@ -14166,7 +14166,7 @@
       "content": "country,country music",
       "location": "Avustralya",
       "logo": "https://i.ibb.co/P9yMvcX/Totally-Radio-Country-qjacmi6h94nashli42opsd2x6oxm98rtw88syia8v4.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "totally-radio-easy-aac",
@@ -14179,7 +14179,7 @@
       "content": "easy listening",
       "location": "Avustralya",
       "logo": "https://i.ibb.co/7GT6nrZ/Easy-2017-nyk468hxd4jmibnhq05llse8xal7g55mon8ph5x2sg.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "totally-radio-hits-aac",
@@ -14192,7 +14192,7 @@
       "content": "contemporary hits,hits,top 40 hits,top hits",
       "location": "Avustralya",
       "logo": "https://i.ibb.co/pK0kqYL/Hits-2017-nyk46oh6lb5hzp0a4p29a6d30ueg2zx2eubymv9duo.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "totally-radio-mp3",
@@ -14205,7 +14205,7 @@
       "content": "music",
       "location": "Brisbane QLD, Avustralya",
       "logo": "https://i.ibb.co/nLxHrTH/image.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "fluxfm-new-yorker-instore-radio-germany",
@@ -14218,7 +14218,7 @@
       "content": "Müzik",
       "location": "Berlin, Almanya",
       "logo": "https://www.fluxfm.de/assets/favicons/apple-icon-120x120.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "fluxfm-new-yorker-instore-radio-global",
@@ -14231,7 +14231,7 @@
       "content": "Müzik",
       "location": "Berlin, Almanya",
       "logo": "https://www.fluxfm.de/assets/favicons/apple-icon-120x120.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "fluxfm-xradio-90s-channel",
@@ -14244,7 +14244,7 @@
       "content": "90s",
       "location": "Berlin, Almanya",
       "logo": "http://www.fluxfm.de/assets/favicons/apple-icon-120x120.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "fluxfm-2000er-320k-mp3",
@@ -14260,7 +14260,7 @@
       "content": "00s,alternative rock,hip hop,music only,nostalgic,pop",
       "location": "Almanya",
       "logo": "https://fluxmusic.cdn.radiosphere.io/images/4baa09a4-bc9d-4f68-93b0-4f3d411d76e5?type=medium",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "fluxfm-90s-radio",
@@ -14273,7 +14273,7 @@
       "content": "90s radio",
       "location": "Berlin, Almanya",
       "logo": "https://fluxmusic.cdn.radiosphere.io/images/0855ed40-7c1e-4ea4-ad82-a52c4e93ed9e_1634204212.webp.90?type=medium&blocking=false",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "fluxfm-anima-radio-320k-mp3",
@@ -14291,7 +14291,7 @@
       "content": "contemporary,downtempo,focus,lounge,music only,relaxed,warm",
       "location": "Almanya",
       "logo": "https://fluxmusic.cdn.radiosphere.io/images/32db08fb-7747-449b-b980-20dbf74bd56c?type=medium",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "fluxfm-b-funk-64k-mp3",
@@ -14304,7 +14304,7 @@
       "content": "contemporary,focus,funk,groovy,hip hop,music only,relaxation,soul,uplifting",
       "location": "Almanya",
       "logo": "https://fluxmusic.cdn.radiosphere.io/images/4b576518-ad35-407d-a08c-d58e285763d9?type=medium",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "fluxfm-electronic-chillout-64k-mp3",
@@ -14317,7 +14317,7 @@
       "content": "contemporary,downtempo,electronica,music only,relaxation,relaxed",
       "location": "Almanya",
       "logo": "https://fluxmusic.cdn.radiosphere.io/images/3057f808-131c-4bae-a0f5-d06fb6b15da1?type=medium",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "fluxfm-fluxfm-finest-64k-mp3",
@@ -14333,7 +14333,7 @@
       "content": "contemporary,electronica,indie pop,music only,upbeat",
       "location": "Almanya",
       "logo": "https://fluxmusic.cdn.radiosphere.io/images/fe494353-9aee-45b4-8814-c4b1941ef7b0?type=medium",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "fluxfm-indie-disco-64k-mp3",
@@ -14349,7 +14349,7 @@
       "content": "contemporary,dance-pop,indie rock,music only,party,upbeat",
       "location": "Almanya",
       "logo": "https://fluxmusic.cdn.radiosphere.io/images/ba2db4e9-39b0-4309-8bab-6ace2b3dc54d?type=medium",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "ffh-90er",
@@ -14362,7 +14362,7 @@
       "content": "90s",
       "location": "Hessen",
       "logo": "https://www.ffh.de/android-icon.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-2019",
@@ -14375,7 +14375,7 @@
       "content": "Elektronik müzik ve DJ performansları",
       "location": "İstanbul, Türkiye",
       "logo": "https://www.radio2019.com.tr/wp-content/uploads/2018/04/alt_radio_2019_logo.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "play-dance-radio",
@@ -14388,7 +14388,7 @@
       "content": "Dans ve elektronik müzik",
       "location": "İstanbul, Türkiye",
       "logo": "https://theplaygroup.com.tr/IMG_20240601_132152_273.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "play-dance-turk",
@@ -14401,7 +14401,7 @@
       "content": "Türkçe dans müziği",
       "location": "İstanbul, Türkiye",
       "logo": "https://theplaygroup.com.tr/IMG_20240601_132152_273.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "andromeda-turk",
@@ -14414,7 +14414,7 @@
       "content": "Türkçe müzik",
       "location": "İstanbul, Türkiye",
       "logo": "https://theplaygroup.com.tr/IMG_20240601_132152_273.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-886",
@@ -14427,7 +14427,7 @@
       "content": "Rock müzik",
       "location": "Viyana, Avusturya",
       "logo": "https://radio886.at/apple-touch-icon.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-886-classic-rock",
@@ -14440,7 +14440,7 @@
       "content": "Klasik rock",
       "location": "Viyana, Avusturya",
       "logo": "https://radio886.at/apple-touch-icon.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-886-hard-rock",
@@ -14453,7 +14453,7 @@
       "content": "Hard rock",
       "location": "Viyana, Avusturya",
       "logo": "https://radio886.at/apple-touch-icon.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-886-metal",
@@ -14466,7 +14466,7 @@
       "content": "Metal müzik",
       "location": "Viyana, Avusturya",
       "logo": "https://radio886.at/apple-touch-icon.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-886-new-rock",
@@ -14479,7 +14479,7 @@
       "content": "Yeni rock",
       "location": "Viyana, Avusturya",
       "logo": "https://radio886.at/apple-touch-icon.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-886-rot-weiss-rock",
@@ -14492,7 +14492,7 @@
       "content": "Avusturya rock müziği",
       "location": "Viyana, Avusturya",
       "logo": "https://radio886.at/apple-touch-icon.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-flamingo",
@@ -14505,7 +14505,7 @@
       "content": "Schlager müziği",
       "location": "Graz, Avusturya",
       "logo": "https://www.radioflamingo.at/icons/ios/1024.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "hiper-fm",
@@ -14518,7 +14518,7 @@
       "content": "Pop, rock ve dans müziği",
       "location": "Rio Maior, Portekiz",
       "logo": "https://www.hiper.fm/wp-content/uploads/2015/03/player.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "metal-on-the-heavy",
@@ -14531,7 +14531,7 @@
       "content": "Hard rock, heavy metal ve power metal",
       "location": "Portekiz",
       "logo": "https://metalon.org/wp-content/uploads/2026/05/mo_theheavy-2.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "metal-on-the-brutal",
@@ -14544,7 +14544,7 @@
       "content": "Death metal, black metal ve grindcore",
       "location": "Portekiz",
       "logo": "https://metalon.org/wp-content/uploads/2026/05/mo_thebrutal.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "metal-on-the-thrasher",
@@ -14557,7 +14557,7 @@
       "content": "Thrash metal",
       "location": "Portekiz",
       "logo": "https://metalon.org/wp-content/uploads/2026/05/mo_thetrasher.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "metal-on-80shnh",
@@ -14570,7 +14570,7 @@
       "content": "80'ler hard rock ve heavy metal",
       "location": "Portekiz",
       "logo": "https://metalon.org/wp-content/uploads/2026/05/mo_80.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "metal-on-toxic",
@@ -14583,7 +14583,7 @@
       "content": "Modern ve alternatif metal",
       "location": "Portekiz",
       "logo": "https://metalon.org/wp-content/uploads/2026/05/mo_toxic-1.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "80rock",
@@ -14596,7 +14596,7 @@
       "content": "80'lerden günümüze rock ve metal",
       "location": "Portekiz",
       "logo": "https://80rock.pt/wp-content/uploads/2020/02/logo.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "northern-metal-radio",
@@ -14609,7 +14609,7 @@
       "content": "Metal müzik",
       "location": "İsveç",
       "logo": "https://www.northernmetalradio.com/wp-content/uploads/2023/06/NMR.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "northern-metal-radio-extreme",
@@ -14622,7 +14622,7 @@
       "content": "Extreme metal",
       "location": "İsveç",
       "logo": "https://www.northernmetalradio.com/wp-content/uploads/2023/05/NMR-Extreme-1.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "cosmoradio-951",
@@ -14635,7 +14635,7 @@
       "content": "Yunan pop müziği ve güncel Yunan hitleri",
       "location": "Selanik, Yunanistan",
       "logo": "https://www.cosmoradio.gr/images/folder/CosmoLogoNew.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "fly-fm-881",
@@ -14648,7 +14648,7 @@
       "content": "Deep house, indie dance, elektronik ve chill müzik",
       "location": "Kandiye, Girit, Yunanistan",
       "logo": "https://flyfm.gr/wp-content/uploads/2025/03/cropped-logo1-1-1.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "oldies-fm-se",
@@ -14661,7 +14661,7 @@
       "content": "60'lar, 70'ler, 80'ler, 90'lar ve 2000'lerden klasik hitler",
       "location": "Gävle, İsveç",
       "logo": "https://oldiesfm.se/beta/logo-utan-se.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "coffee-web-radio",
@@ -14674,7 +14674,7 @@
       "content": "80'ler, 90'lar, 2000'ler ve günümüzden yabancı pop ve rock",
       "location": "Atina, Yunanistan",
       "logo": "https://www.thewebradio.gr/images/coffee.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "40rock-radio",
@@ -14687,7 +14687,7 @@
       "content": "Klasik hitler, albüm parçaları, pop, Americana, blues ve rock",
       "location": "Eindhoven, Hollanda",
       "logo": "https://40rockradio.nl/wp-content/uploads/2021/04/40ROCK-Favicon-geel.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "tukker-fm",
@@ -14700,7 +14700,7 @@
       "content": "Hollanda korsan klasikleri, lehçe müziği ve 60'lar, 70'ler, 80'ler hitleri",
       "location": "Sneek, Hollanda",
       "logo": "https://tukker.fm/wp-content/uploads/2025/01/Tukker-FM-logo.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "real-hardstyle-radio",
@@ -14713,7 +14713,7 @@
       "content": "Early, euphoric, raw ve klasik hardstyle; freestyle",
       "location": "Kuzey Brabant, Hollanda",
       "logo": "https://realhardstyle.nl/wp-content/uploads/2020/11/cropped-Real-Hardstyle-website-logo-icon.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "autolife-radio-azerbaijan",
@@ -14729,7 +14729,7 @@
       "content": "Pop, dans, güncel hitler ve otomobil yaşamı odaklı müzik",
       "location": "Bakü, Azerbaycan",
       "logo": "https://autolife.az/wp-content/uploads/2025/08/alr_logo-2-black-png.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "vintage-radio-azerbaijan",
@@ -14745,7 +14745,7 @@
       "content": "Vintage klasikler, oldies ve nostaljik müzik",
       "location": "Bakü, Azerbaycan",
       "logo": "https://autolife.az/wp-content/uploads/2025/08/72558_category-370x370.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-antalya",
@@ -14758,7 +14758,7 @@
       "content": "Indie, rock, electronica ve tür bağımsız özel miksler",
       "location": "Antalya, Türkiye",
       "logo": "https://radioantalya.com/wp-content/uploads/2025/01/logoradioantalya.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-antalya-kaleici",
@@ -14771,7 +14771,7 @@
       "content": "Indie, rock, electronica ve Kaleiçi atmosferine özel seçkiler",
       "location": "Kaleiçi, Antalya, Türkiye",
       "logo": "https://radioantalya.com/wp-content/uploads/2025/01/logoradioantalya.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radyo-kaptan",
@@ -14784,7 +14784,7 @@
       "content": "Slow pop, nostaljik şarkılar ve 70'ler, 80'ler, 90'lar, 2000'ler",
       "location": "Türkiye",
       "logo": "https://radyokaptan.com.tr/assets/radyo-kaptan-logo-primary.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "sezen-radyo",
@@ -14800,7 +14800,7 @@
       "content": "Caz, blues, new age, pop ve alternatif rock",
       "location": "Efeler, Aydın, Türkiye",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/sezen_radyo.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-lora",
@@ -14817,7 +14817,7 @@
       "location": "Zürih, İsviçre",
       "frequency": "97.5 FM",
       "logo": "https://www.lora.ch/images/social-sharing.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "181-fm-beatles",
@@ -14830,7 +14830,7 @@
       "content": "beat,oldies,pop,rock,waynesboro",
       "location": "Virginia, The United States Of America",
       "logo": "https://www.181.fm/images/og181fmlogo.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "181-fm-classic-hits-181",
@@ -14843,7 +14843,7 @@
       "content": "classic hits,waynesboro",
       "location": "Virginia, The United States Of America",
       "logo": "https://www.181.fm/images/og181fmlogo.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "181-fm-rock-181",
@@ -14856,7 +14856,7 @@
       "content": "rock,waynesboro",
       "location": "Virginia, The United States Of America",
       "logo": "https://www.181.fm/images/og181fmlogo.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "181-fm-the-eagle-classic",
@@ -14869,7 +14869,7 @@
       "content": "Müzik",
       "location": "Virginia, The United States Of America",
       "logo": "https://www.181.fm/images/og181fmlogo.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "181-fm-power-explicit",
@@ -14882,7 +14882,7 @@
       "content": "explicit,pop,top 40",
       "location": "Virginia, The United States Of America",
       "logo": "https://www.181.fm/images/og181fmlogo.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "100hitz-90s-alternative-hitz",
@@ -14895,7 +14895,7 @@
       "content": "90s alternative",
       "location": "The United States Of America",
       "logo": "https://100hitz.com/wp-content/uploads/2023/03/cropped-Icon_master-logo-180x180.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "100hitz-alternative-hitz",
@@ -14908,7 +14908,7 @@
       "content": "aaa",
       "location": "California, The United States Of America",
       "logo": "https://100hitz.com/wp-content/uploads/2023/03/cropped-Icon_master-logo-180x180.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "rock-antenne-deutschrock",
@@ -14921,7 +14921,7 @@
       "content": "deutschrock",
       "location": "Almanya",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/rock_antenne_deutschrock.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "ffh-leider-geil",
@@ -14934,7 +14934,7 @@
       "content": "Müzik",
       "location": "Almanya",
       "logo": "https://www.ffh.de/apple-touch-icon.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "hit-radio-ffh-80er-aac",
@@ -14947,7 +14947,7 @@
       "content": "Müzik",
       "location": "Almanya",
       "logo": "https://www.ffh.de/apple-touch-icon.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "hit-radio-ffh-party",
@@ -14960,7 +14960,7 @@
       "content": "party",
       "location": "Almanya",
       "logo": "https://www.ffh.de/apple-touch-icon.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "hit-radio-ffh-schlagerkult",
@@ -14973,7 +14973,7 @@
       "content": "schlager",
       "location": "Almanya",
       "logo": "https://www.ffh.de/apple-touch-icon.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "big-r-radio-100-3-the-rock-mix",
@@ -14986,7 +14986,7 @@
       "content": "Müzik",
       "location": "Washington, The United States Of America",
       "logo": "https://www.bigrradio.com/assets/apple-touch-icon.690c3943c6.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "big-r-radio-100-9-star-country",
@@ -14999,7 +14999,7 @@
       "content": "country",
       "location": "The United States Of America",
       "logo": "https://www.bigrradio.com/assets/apple-touch-icon.690c3943c6.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "big-r-radio-70s-and-80s-pop-mix",
@@ -15012,7 +15012,7 @@
       "content": "classic hits,pop",
       "location": "Washington, The United States Of America",
       "logo": "https://www.bigrradio.com/assets/apple-touch-icon.690c3943c6.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "big-r-radio-80s-fm",
@@ -15025,7 +15025,7 @@
       "content": "80s,classic hits",
       "location": "Washington, The United States Of America",
       "logo": "https://www.bigrradio.com/assets/apple-touch-icon.690c3943c6.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "big-r-radio-90s-fm",
@@ -15038,7 +15038,7 @@
       "content": "Müzik",
       "location": "The United States Of America",
       "logo": "https://www.bigrradio.com/assets/apple-touch-icon.690c3943c6.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "big-r-radio-alternative-rock",
@@ -15051,7 +15051,7 @@
       "content": "alternative rock",
       "location": "Washington, The United States Of America",
       "logo": "https://www.bigrradio.com/assets/apple-touch-icon.690c3943c6.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "big-r-radio-coffee-house",
@@ -15064,7 +15064,7 @@
       "content": "Müzik",
       "location": "NV, The United States Of America",
       "logo": "https://www.bigrradio.com/assets/apple-touch-icon.690c3943c6.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "big-r-radio-country-mix",
@@ -15077,7 +15077,7 @@
       "content": "country",
       "location": "Washington, The United States Of America",
       "logo": "https://www.bigrradio.com/assets/apple-touch-icon.690c3943c6.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "big-r-radio-erin-s-chill",
@@ -15090,7 +15090,7 @@
       "content": "chillout",
       "location": "Washington, The United States Of America",
       "logo": "https://www.bigrradio.com/assets/apple-touch-icon.690c3943c6.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "big-r-radio-grunge-fm",
@@ -15103,7 +15103,7 @@
       "content": "alternative,grunge",
       "location": "Washington, The United States Of America",
       "logo": "https://www.bigrradio.com/assets/apple-touch-icon.690c3943c6.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "big-r-radio-new-r-b",
@@ -15116,7 +15116,7 @@
       "content": "contemporary hits,rnb",
       "location": "Washington, The United States Of America",
       "logo": "https://www.bigrradio.com/assets/apple-touch-icon.690c3943c6.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "big-r-radio-post-grunge-rock",
@@ -15129,7 +15129,7 @@
       "content": "alternative,grunge,rock",
       "location": "Washington, The United States Of America",
       "logo": "https://www.bigrradio.com/assets/apple-touch-icon.690c3943c6.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "big-r-radio-rock-top-40",
@@ -15142,7 +15142,7 @@
       "content": "rock,top 40",
       "location": "Washington, The United States Of America",
       "logo": "https://www.bigrradio.com/assets/apple-touch-icon.690c3943c6.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "big-r-radio-the-love-channel",
@@ -15155,7 +15155,7 @@
       "content": "love songs,soft adult contemporary",
       "location": "Washington, The United States Of America",
       "logo": "https://www.bigrradio.com/assets/apple-touch-icon.690c3943c6.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "big-r-radio-the-wave",
@@ -15168,7 +15168,7 @@
       "content": "80s,new wave",
       "location": "Washington, The United States Of America",
       "logo": "https://www.bigrradio.com/assets/apple-touch-icon.690c3943c6.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "nrg-radio-uganda",
@@ -15181,7 +15181,7 @@
       "content": "Müzik",
       "location": "Uganda",
       "logo": "https://www.nrgug.radio/_next/image?url=%2Fnrg-logo.png&w=1080&q=75&dpl=dpl_3dfZg3bwmCQL4NtrRmo1888U1pNy",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "loops-radio-elektronica-station",
@@ -15194,7 +15194,7 @@
       "content": "elektronik",
       "location": "Istambul, Türkiye",
       "logo": "https://loopsradio.com/wp-content/uploads/2023/09/cropped-Pro-Radio-Circle-Radio-demo-15-logo-MOBILE-2-180x180.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "capital-the-uk-s-no-1-hit-music-station",
@@ -15207,7 +15207,7 @@
       "content": "capital,capital fm,contemporary hits radio,dab+,england,entertainment,europe,global radio,london,moi merino,music,pop music,radio,top hits",
       "location": "London, The United Kingdom Of Great Britain And Northern Ireland",
       "logo": "https://www.capitalfm.com/assets_v4r/capital/img/apple-touch-icon-57x57.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "capital-anthems-uk-the-songs-capital-made-famous-londres-inglaterra",
@@ -15220,7 +15220,7 @@
       "content": "capital,dance,england,entretenimiento,estación,europa,europe,global radio,inglaterra,juvenil,london,londres,moi merino,music,música,música en inglés,música pop,pop,pop en inglés,pop music,pop rock,radio,uk,united kingdom",
       "location": "Mexico",
       "logo": "https://www.globalplayer.com/assets/track-placeholders/capitalanthems.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "capital-chill-uk-non-stop-chilled-beats-londres-inglaterra",
@@ -15233,7 +15233,7 @@
       "content": "ambient and relaxation music,capital,capital chill,chill,chill house,chilled house,chillout,chillout+lounge,dab,deep house,electronic,electronic music,england,entretenimiento,estación,europa,europe,global radio,inglaterra,juvenil,london,londres,lounge,lounge music,moi merino,music,música,música electrónica,música en inglés,radio,uk,united kingdom,youth",
       "location": "Mexico",
       "logo": "https://www.globalplayer.com/assets/track-placeholders/capitalchill.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "capital-dance-the-uk-s-official-dance-station",
@@ -15246,7 +15246,7 @@
       "content": "capital,capital dance,dab+,dance,dance music,edm,electronic dance music,england,entertainment,europe,global radio,london,moi merino,music,radio,uk,united kingdom",
       "location": "London, The United Kingdom Of Great Britain And Northern Ireland",
       "logo": "https://assets.capitaldance.com/2023/07/capital-chill---new-logo-1676370119-editorial-mid-form-0.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "capital-uk-the-uk-s-no-1-hit-music-station-londres-inglaterra",
@@ -15259,7 +15259,7 @@
       "content": "capital,capital fm,contemporary hits radio,dab+,england,entretenimiento,estación,europa,europe,global radio,inglaterra,london,londres,moi merino,music,música,pop,pop music,radio,top hits",
       "location": "Mexico",
       "logo": "https://www.capitalfm.com/assets_v4r/capital/img/apple-touch-icon-57x57.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "qmusic",
@@ -15272,7 +15272,7 @@
       "content": "Müzik",
       "location": "Amsterdam, The Netherlands",
       "logo": "https://cdn-radio.dpgmedia.net/2/72/3d/09/109/Site-logo-_220x220_2.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "qmusic-10s",
@@ -15285,7 +15285,7 @@
       "content": "Müzik",
       "location": "Amsterdam, The Netherlands",
       "logo": "https://cdn-radio.dpgmedia.net/2/72/3d/09/109/Site-logo-_220x220_2.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "qmusic-foute-radio",
@@ -15298,7 +15298,7 @@
       "content": "pop",
       "location": "Belgium",
       "logo": "https://cdn-radio.dpgmedia.net/2/72/3d/09/109/Site-logo-_220x220_2.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "qmusic-foute-uur",
@@ -15311,7 +15311,7 @@
       "content": "Müzik",
       "location": "Amsterdam, The Netherlands",
       "logo": "https://cdn-radio.dpgmedia.net/2/72/3d/09/109/Site-logo-_220x220_2.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "qmusic-limburg",
@@ -15324,7 +15324,7 @@
       "content": "Müzik",
       "location": "Amsterdam, The Netherlands",
       "logo": "https://cdn-radio.dpgmedia.net/2/72/3d/09/109/Site-logo-_220x220_2.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "qmusic-maximum-hits",
@@ -15337,7 +15337,7 @@
       "content": "dpgmedia,pop",
       "location": "Belgium",
       "logo": "https://cdn-radio.dpgmedia.net/2/72/3d/09/109/Site-logo-_220x220_2.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "qmusic-non-stop",
@@ -15350,7 +15350,7 @@
       "content": "Müzik",
       "location": "Amsterdam, The Netherlands",
       "logo": "https://cdn-radio.dpgmedia.net/2/72/3d/09/109/Site-logo-_220x220_2.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "qmusic-summer",
@@ -15363,7 +15363,7 @@
       "content": "Müzik",
       "location": "Amsterdam, The Netherlands",
       "logo": "https://cdn-radio.dpgmedia.net/2/72/3d/09/109/Site-logo-_220x220_2.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "qmusic-top-40",
@@ -15376,7 +15376,7 @@
       "content": "Müzik",
       "location": "Amsterdam, The Netherlands",
       "logo": "https://cdn-radio.dpgmedia.net/2/72/3d/09/109/Site-logo-_220x220_2.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "1-fm-absolute-country-hits-radio",
@@ -15389,7 +15389,7 @@
       "content": "Müzik",
       "location": "Switzerland",
       "logo": "https://radio.1cloud.fm/favicon/apple-touch-icon.png?v=2",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "1-fm-classic-country-radio",
@@ -15402,7 +15402,7 @@
       "content": "Müzik",
       "location": "Switzerland",
       "logo": "https://radio.1cloud.fm/favicon/apple-touch-icon.png?v=2",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "1-fm-country-one-radio",
@@ -15415,7 +15415,7 @@
       "content": "Müzik",
       "location": "Switzerland",
       "logo": "https://radio.1cloud.fm/favicon/apple-touch-icon.png?v=2",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "1-fm-love-classics-radio",
@@ -15428,7 +15428,7 @@
       "content": "Müzik",
       "location": "Switzerland",
       "logo": "https://radio.1cloud.fm/favicon/apple-touch-icon.png?v=2",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "1-fm-90s-alternative-radio",
@@ -15441,7 +15441,7 @@
       "content": "90s,alternative,alternative rock,rock",
       "location": "Switzerland",
       "logo": "https://radio.1cloud.fm/favicon/apple-touch-icon.png?v=2",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "1-fm-absolute-90-s-radio",
@@ -15454,7 +15454,7 @@
       "content": "90s,pop",
       "location": "Switzerland",
       "logo": "https://radio.1cloud.fm/favicon/apple-touch-icon.png?v=2",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "1-fm-hot-country-hits-radio",
@@ -15467,7 +15467,7 @@
       "content": "country,hot,hot country,todays hits",
       "location": "Switzerland",
       "logo": "https://radio.1cloud.fm/favicon/apple-touch-icon.png?v=2",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "1-fm-otto-s-baroque-music",
@@ -15480,7 +15480,7 @@
       "content": "baroque,classical baroque,classical music",
       "location": "Switzerland",
       "logo": "https://radio.1cloud.fm/favicon/apple-touch-icon.png?v=2",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "1-fm-top-40-ballads-radio",
@@ -15493,7 +15493,7 @@
       "content": "ballads,hits,pop,top 40",
       "location": "Switzerland",
       "logo": "https://radio.1cloud.fm/favicon/apple-touch-icon.png?v=2",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "1-fm-top-40-hits",
@@ -15506,7 +15506,7 @@
       "content": "Müzik",
       "location": "Switzerland",
       "logo": "https://radio.1cloud.fm/favicon/apple-touch-icon.png?v=2",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "1-fm-y2k-radio-2000s",
@@ -15519,7 +15519,7 @@
       "content": "2000,2000's,2000s,decades,early 2000s,y2k",
       "location": "Switzerland",
       "logo": "https://radio.1cloud.fm/favicon/apple-touch-icon.png?v=2",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "nrj-101-4-fm",
@@ -15532,7 +15532,7 @@
       "content": "energy,energy radio,music,pop,region 71,tula",
       "location": "The Russian Federation",
       "logo": "https://top-radio.ru/assets/image/radio/180/nrg-energy.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radyo-nabiz",
@@ -15546,7 +15546,7 @@
       "location": "Ankara, Türkiye",
       "frequency": "106.7 FM",
       "logo": "https://www.radyonabiz.com/wp-content/uploads/2020/06/cropped-nabiz-logo-fav-180x180.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radyo-talya",
@@ -15560,7 +15560,7 @@
       "location": "Muratpaşa, Antalya, Türkiye",
       "frequency": "103.1 FM",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/radyo_talya.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "power-plus",
@@ -15576,7 +15576,7 @@
         "https://live.powerapp.com.tr/powerplus/128/playlist.m3u8"
       ],
       "logo": "https://www.powerapp.com.tr/i/favicov2/apple-icon-57x57.png?v=1019",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "power-smooth",
@@ -15592,7 +15592,7 @@
         "https://live.powerapp.com.tr/powersmooth/128/playlist.m3u8"
       ],
       "logo": "https://www.powerapp.com.tr/i/favicov2/apple-icon-57x57.png?v=1019",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "power-earth",
@@ -15608,7 +15608,7 @@
         "https://live.powerapp.com.tr/powerearth/128/playlist.m3u8"
       ],
       "logo": "https://www.powerapp.com.tr/i/favicov2/apple-icon-57x57.png?v=1019",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "power-turk-slow",
@@ -15624,7 +15624,7 @@
         "https://live.powerapp.com.tr/powerturkslow/128/playlist.m3u8"
       ],
       "logo": "https://www.powerapp.com.tr/i/favicov2/apple-icon-57x57.png?v=1019",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "power-turk-rap",
@@ -15640,7 +15640,7 @@
         "https://live.powerapp.com.tr/powerturkrap/128/playlist.m3u8"
       ],
       "logo": "https://www.powerapp.com.tr/i/favicov2/apple-icon-57x57.png?v=1019",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "power-turk-akustik",
@@ -15656,7 +15656,7 @@
         "https://live.powerapp.com.tr/powerturkakustik/128/playlist.m3u8"
       ],
       "logo": "https://www.powerapp.com.tr/i/favicov2/apple-icon-57x57.png?v=1019",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "power-turk-taptaze",
@@ -15672,7 +15672,7 @@
         "https://live.powerapp.com.tr/powerturktaptaze/128/playlist.m3u8"
       ],
       "logo": "https://www.powerapp.com.tr/i/favicov2/apple-icon-57x57.png?v=1019",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "power-turk-rock",
@@ -15688,7 +15688,7 @@
         "https://listen.powerapp.com.tr/powerturkrock/128/playlist.m3u8"
       ],
       "logo": "https://www.powerapp.com.tr/i/favicov2/apple-icon-57x57.png?v=1019",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "power-dance",
@@ -15704,7 +15704,7 @@
         "https://live.powerapp.com.tr/powerdance/128/playlist.m3u8"
       ],
       "logo": "https://www.powerapp.com.tr/i/favicov2/apple-icon-57x57.png?v=1019",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "power-rnb",
@@ -15720,7 +15720,7 @@
         "https://live.powerapp.com.tr/powerrbhiphop/128/playlist.m3u8"
       ],
       "logo": "https://www.powerapp.com.tr/i/favicov2/apple-icon-57x57.png?v=1019",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "power-salsa",
@@ -15736,7 +15736,7 @@
         "https://live.powerapp.com.tr/powersalsa/128/playlist.m3u8"
       ],
       "logo": "https://www.powerapp.com.tr/i/favicov2/apple-icon-57x57.png?v=1019",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "power-gold",
@@ -15752,7 +15752,7 @@
         "https://live.powerapp.com.tr/powergold/128/playlist.m3u8"
       ],
       "logo": "https://www.powerapp.com.tr/i/favicov2/apple-icon-57x57.png?v=1019",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "power-jazz",
@@ -15768,7 +15768,7 @@
         "https://live.powerapp.com.tr/powersmoothjazz/128/playlist.m3u8"
       ],
       "logo": "https://www.powerapp.com.tr/i/favicov2/apple-icon-57x57.png?v=1019",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radyohome-radyo-7",
@@ -15781,7 +15781,7 @@
       "content": "Türkçe karma müzik",
       "location": "İstanbul, Türkiye",
       "logo": "https://ik.fskit.net/radyohome/media/station/32/logo_square.png?w=1000%3A&format=auto&fit=crop&bg=4b4f5f&tr=w-1000%3A%2Cbg-4b4f5f&v=261119030000",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radyohome-world-hits",
@@ -15794,7 +15794,7 @@
       "content": "Yabancı hit müzik",
       "location": "İstanbul, Türkiye",
       "logo": "https://ik.fskit.net/radyohome/media/station/21/logo_square.png?w=1000%3A&format=auto&fit=crop&bg=5631c8&tr=w-1000%3A%2Cbg-5631c8&v=060520030000",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radyohome-karadeniz-fm",
@@ -15807,7 +15807,7 @@
       "content": "Karadeniz müziği",
       "location": "İstanbul, Türkiye",
       "logo": "https://ik.fskit.net/radyohome/media/station/51/logo_square.png?w=1000%3A&format=auto&fit=crop&bg=242323&tr=w-1000%3A%2Cbg-242323&v=261119030000",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radyohome-turkulerle-turkiye",
@@ -15820,7 +15820,7 @@
       "content": "Türk halk müziği",
       "location": "İstanbul, Türkiye",
       "logo": "https://ik.fskit.net/radyohome/media/station/13/logo_square.png?w=1000%3A&format=auto&fit=crop&bg=662351&tr=w-1000%3A%2Cbg-662351&v=060520030000",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radyohome-ankara-havalari",
@@ -15833,7 +15833,7 @@
       "content": "Ankara oyun havaları",
       "location": "İstanbul, Türkiye",
       "logo": "https://ik.fskit.net/radyohome/media/station/19/logo_square.png?w=1000%3A&format=auto&fit=crop&bg=6b727a&tr=w-1000%3A%2Cbg-6b727a&v=060520030000",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radyohome-maziden-bir-demet",
@@ -15846,7 +15846,7 @@
       "content": "Türk sanat müziği ve nostalji",
       "location": "İstanbul, Türkiye",
       "logo": "https://ik.fskit.net/radyohome/media/station/15/logo_square.png?w=1000%3A&format=auto&fit=crop&bg=55382f&tr=w-1000%3A%2Cbg-55382f&v=060520030000",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radyohome-klasik-home",
@@ -15859,7 +15859,7 @@
       "content": "Klasik müzik",
       "location": "İstanbul, Türkiye",
       "logo": "https://ik.fskit.net/radyohome/media/station/20/logo_square.png?w=1000%3A&format=auto&fit=crop&bg=006765&tr=w-1000%3A%2Cbg-006765&v=060520030000",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radyohome-garaj-radyo",
@@ -15872,7 +15872,7 @@
       "content": "Rock müzik",
       "location": "İstanbul, Türkiye",
       "logo": "https://ik.fskit.net/radyohome/media/station/78/logo_square.png?w=1000%3A&format=auto&fit=crop&bg=100720&tr=w-1000%3A%2Cbg-100720&v=180822030000",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radyohome-akustikland",
@@ -15885,7 +15885,7 @@
       "content": "Akustik müzik",
       "location": "İstanbul, Türkiye",
       "logo": "https://ik.fskit.net/radyohome/media/station/79/logo_square.png?w=1000%3A&format=auto&fit=crop&bg=ECCCB2&tr=w-1000%3A%2Cbg-ECCCB2&v=180822030000",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radyohome-sari-tramvay",
@@ -15898,7 +15898,7 @@
       "content": "Alternatif müzik",
       "location": "İstanbul, Türkiye",
       "logo": "https://ik.fskit.net/radyohome/media/station/83/logo_square.png?w=1000%3A&format=auto&fit=crop&bg=E6B325&tr=w-1000%3A%2Cbg-E6B325&v=180822030000",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radyohome-discoland",
@@ -15911,7 +15911,7 @@
       "content": "Disko ve dans müziği",
       "location": "İstanbul, Türkiye",
       "logo": "https://ik.fskit.net/radyohome/media/station/85/logo_square.png?w=1000%3A&format=auto&fit=crop&bg=9B0000&tr=w-1000%3A%2Cbg-9B0000&v=180822030000",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radyohome-danceland",
@@ -15924,7 +15924,7 @@
       "content": "Dans ve elektronik müzik",
       "location": "İstanbul, Türkiye",
       "logo": "https://ik.fskit.net/radyohome/media/station/77/logo_square.png?w=1000%3A&format=auto&fit=crop&bg=554994&tr=w-1000%3A%2Cbg-554994&v=170822030000",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radyohome-babyland",
@@ -15937,7 +15937,7 @@
       "content": "Çocuk ve bebek müziği",
       "location": "İstanbul, Türkiye",
       "logo": "https://ik.fskit.net/radyohome/media/station/93/logo_square.png?w=1000%3A&format=auto&fit=crop&bg=FF8FB1&tr=w-1000%3A%2Cbg-FF8FB1&v=180822030000",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radyohome-easyland",
@@ -15950,7 +15950,7 @@
       "content": "Easy listening",
       "location": "İstanbul, Türkiye",
       "logo": "https://ik.fskit.net/radyohome/media/station/96/logo_square.png?w=1000%3A&format=auto&fit=crop&bg=F55353&tr=w-1000%3A%2Cbg-F55353&v=111024073805",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "bizim-fm-sile",
@@ -15964,7 +15964,7 @@
       "location": "Şile, İstanbul, Türkiye",
       "frequency": "87.9 FM",
       "logo": "https://www.bizimfmsile.com/u/i/logo3.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "r80-acores",
@@ -15978,7 +15978,7 @@
       "location": "Ponta Delgada, Azorlar, Portekiz",
       "frequency": "90.2 / 97.4 / 106.0 FM",
       "logo": "https://d2xsxph8kpxj0f.cloudfront.net/310519663205725868/cSTTrbniWKJWPpkwmKJgy3/favicon-192_ec3785dc.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "hit-fm-espana",
@@ -15991,7 +15991,7 @@
       "content": "21. yüzyılın güncel pop ve dans hitleri",
       "location": "Pozuelo de Alarcón, Madrid, İspanya",
       "logo": "https://www.hitfm.es/wp-content/uploads/2019/06/cropped-favicon-180x180.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "fakir-fm",
@@ -16004,7 +16004,7 @@
       "content": "Türkçe müzik ve canlı programlar",
       "location": "İstanbul, Türkiye",
       "logo": "https://www.fakirfm.com/uploads/brand/20261023075856-2ac024d48f10.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "nrj",
@@ -16017,7 +16017,7 @@
       "content": "dance",
       "location": "Estonya",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/nrj.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "nrj-beauvais",
@@ -16030,7 +16030,7 @@
       "content": "Müzik",
       "location": "Beauvais, Fransa",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/nrj.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "nrj-clermont",
@@ -16043,7 +16043,7 @@
       "content": "Müzik",
       "location": "Clermont-Ferrand, Fransa",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/nrj.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "nrj-hits",
@@ -16056,7 +16056,7 @@
       "content": "hits",
       "location": "Fransa",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/nrj.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "rock-antenne-hair-metal",
@@ -16069,7 +16069,7 @@
       "content": "Hair metal ve glam metal",
       "location": "Almanya",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/rock_antenne_hair_metal.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "deepinradio",
@@ -16082,7 +16082,7 @@
       "content": "Deep house, underground house ve elektronik müzik",
       "location": "Atina, Yunanistan",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/repair_deepinradio.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "ylex",
