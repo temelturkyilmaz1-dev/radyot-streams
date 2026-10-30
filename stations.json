@@ -5462,7 +5462,10 @@
       "urls": [
         "https://ice-11.spilarinn.is/zfmextra"
       ],
-      "website": "https://spilarinn.is/Country%20Bylgjan",
+      "backupUrls": [
+        "https://icecast.visir.is/orbFmExtra.aac"
+      ],
+      "website": "https://vefutvarp.visir.is/country/",
       "content": "Country müzik",
       "location": "Reykjavík, İzlanda",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/is_country_bylgjan.webp"
@@ -16079,6 +16082,159 @@
       "content": "Deep house, underground house ve elektronik müzik",
       "location": "Atina, Yunanistan",
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/repair_deepinradio.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "ylex",
+      "name": "YleX",
+      "enabled": true,
+      "urls": ["https://icecast.live.yle.fi/radio/YleX/icecast.audio"],
+      "website": "https://areena.yle.fi/podcastit/ohjelmat/57-JAprnp7W2",
+      "content": "Yeni Finlandiya müziği, uluslararası hitler ve pop",
+      "location": "Helsinki, Finlandiya",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/ylex.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "roll-fm",
+      "name": "Roll FM",
+      "enabled": true,
+      "urls": ["http://stream.rollfm.fi"],
+      "website": "https://www.rollfm.fi/",
+      "content": "Çeşitli müzik ve yerel programlar",
+      "location": "Helsinki, Finlandiya",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/roll_fm.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-boofi",
+      "name": "Radio Boofi",
+      "enabled": true,
+      "urls": ["https://radio.iranian.fi/listen/vip/radio.mp3"],
+      "website": "https://iranian.fi/",
+      "content": "Farsça pop, klasik ve geleneksel İran müziği",
+      "location": "Helsinki, Finlandiya",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/radio_boofi.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-boofi-classic",
+      "name": "Radio Boofi Classic",
+      "enabled": true,
+      "urls": ["https://radio.iranian.fi/listen/iranian/radio.mp3"],
+      "website": "https://iranian.fi/",
+      "content": "Klasik ve geleneksel İran müziği",
+      "location": "Helsinki, Finlandiya",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/radio_boofi.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "abc-jazz",
+      "name": "ABC Jazz",
+      "enabled": true,
+      "urls": ["https://abc.streamguys1.com/live/abcjazz/icecast.audio"],
+      "website": "https://www.abc.net.au/listen/live/jazz",
+      "content": "Caz ve Avustralya cazı",
+      "location": "Avustralya",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/abc_jazz.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "triple-r-102-7fm",
+      "name": "Triple R 102.7FM",
+      "enabled": true,
+      "urls": ["https://realtime.rrr.org.au/p13"],
+      "website": "https://www.rrr.org.au/",
+      "content": "Bağımsız müzik, kültür ve topluluk programları",
+      "location": "Melbourne, Avustralya",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/triple_r.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "golden-days-radio",
+      "name": "Golden Days Radio",
+      "enabled": true,
+      "urls": ["https://a2.asurahosting.com:6350/radio.aac"],
+      "website": "https://goldendaysradio.com/gdr-streaming-player/",
+      "content": "Geçmiş dönemlerin popüler müzikleri",
+      "location": "Melbourne, Avustralya",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/golden_days_radio.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-furgoncino",
+      "name": "Radio Furgoncino",
+      "enabled": true,
+      "urls": ["https://stream.radiojar.com/sf65dpxy9vzuv"],
+      "website": "https://www.radiofurgoncino.xyz/",
+      "content": "Bağımsız web radyosu ve çeşitli müzik",
+      "location": "Cagliari, İtalya",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/radio_furgoncino.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "khaos-fm",
+      "name": "Khaos FM",
+      "enabled": true,
+      "urls": [
+        "https://streaming0103.sonicpanelradio.com:8050/stream"
+      ],
+      "website": "https://sites.google.com/view/khaosfm",
+      "content": "Hard dance, hardstyle ve sert elektronik müzik",
+      "location": "Uluslararası",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/khaos_fm.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "andromeda-fm",
+      "name": "Andromeda FM",
+      "enabled": true,
+      "urls": [
+        "https://garmonia-stream.fakel.com.ua/1"
+      ],
+      "website": "https://andromeda.fm/",
+      "content": "Klasik müzik, çağdaş besteciler, halk müziği ve caz",
+      "location": "Odessa, Ukrayna",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/andromeda_fm.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "kpax-radio",
+      "name": "KPaX Radio",
+      "enabled": true,
+      "urls": [
+        "https://c32.radioboss.fm/stream/563"
+      ],
+      "website": "https://kpaxradio.live/",
+      "content": "Bağımsız müzik, kültür ve topluluk programları",
+      "location": "Hanya, Yunanistan",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/kpax_radio.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "swing-latinos-fm",
+      "name": "Swing Latinos FM",
+      "enabled": true,
+      "urls": [
+        "https://sonic.sistemahost.es/8078/stream"
+      ],
+      "website": "https://www.swinglatinosfm.com/",
+      "content": "Latin müziği, salsa, bachata ve merengue",
+      "location": "Kanarya Adaları, İspanya",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/swing_latinos_fm.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-maspalomas",
+      "name": "Radio Maspalomas",
+      "enabled": true,
+      "urls": [
+        "https://sonic.globalstreaming.net/8146/stream"
+      ],
+      "website": "https://radiomaspalomas.es/",
+      "content": "R&B, hip hop, pop ve dans müziği",
+      "location": "Maspalomas, Kanarya Adaları, İspanya",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/radio_maspalomas.webp",
       "newlyAdded": true
     }
   ],
