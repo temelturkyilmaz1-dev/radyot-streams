@@ -1871,7 +1871,7 @@
     {
       "id": "trd-1-ekstra",
       "name": "TRD 1 Ekstra",
-      "enabled": true,
+      "enabled": false,
       "urls": [
         "https://live.streamlojik.com:8000/trd1x.aac"
       ],
@@ -1883,7 +1883,7 @@
     {
       "id": "trd-1-turk-radyo-dunyasi",
       "name": "TRD 1 Türk Radyo Dünyası",
-      "enabled": true,
+      "enabled": false,
       "urls": [
         "https://live.streamlojik.com:8000/trd1.aac"
       ],
@@ -13130,7 +13130,7 @@
       "website": "https://www.rockantenne.de/rockhoeren/streams/90er-rock",
       "content": "90s,music,rock",
       "location": "Almanya",
-      "logo": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/rock_antenne_90er_rock.webp",
       "newlyAdded": true
     },
     {
@@ -13143,7 +13143,7 @@
       "website": "https://www.rockantenne.de/rockhoeren/streams/country-antenne",
       "content": "country,music,rock",
       "location": "Almanya",
-      "logo": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/rock_antenne_country_antenne.webp",
       "newlyAdded": true
     },
     {
@@ -13156,7 +13156,7 @@
       "website": "https://www.rockantenne.de/rockhoeren/streams/grunge",
       "content": "grunge,music,rock",
       "location": "Almanya",
-      "logo": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/rock_antenne_grunge.webp",
       "newlyAdded": true
     },
     {
@@ -13172,7 +13172,7 @@
       "website": "http://www.rockantenne.de/",
       "content": "heavy metal,metal",
       "location": "Bavaria, Almanya",
-      "logo": "https://www.rockantenne.de/logos/station-rock-antenne/apple-touch-icon.png",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/rock_antenne_heavy_metal.webp",
       "newlyAdded": true
     },
     {
@@ -13185,7 +13185,7 @@
       "website": "https://www.rockantenne.de/rockhoeren/streams/lagerfeuer-rock",
       "content": "music,rock",
       "location": "Almanya",
-      "logo": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/rock_antenne_lagerfeuer_rock.webp",
       "newlyAdded": true
     },
     {
@@ -13198,7 +13198,7 @@
       "website": "https://www.rockantenne.de/",
       "content": "hard rock,melodic hard rock,melodic rock,rock",
       "location": "Almanya",
-      "logo": "https://www.rockantenne.de/logos/rock-antenne/apple-touch-icon.png",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/rock_antenne_melodic_rock.webp",
       "newlyAdded": true
     },
     {
@@ -13211,7 +13211,7 @@
       "website": "https://www.rockantenne.de/rockhoeren/streams/party-rock",
       "content": "music,party,rock",
       "location": "Almanya",
-      "logo": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/rock_antenne_party_rock.webp",
       "newlyAdded": true
     },
     {
@@ -13224,7 +13224,7 @@
       "website": "http://www.rockantenne.de/",
       "content": "punk rock",
       "location": "Bavaria, Almanya",
-      "logo": "http://www.rockantenne.de/logos/station-rock-antenne/apple-touch-icon.png",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/rock_antenne_punk_rock.webp",
       "newlyAdded": true
     },
     {
@@ -13237,7 +13237,7 @@
       "website": "https://www.rockantenne.de/rockhoeren/streams/rock-n-roll",
       "content": "music,rock",
       "location": "Almanya",
-      "logo": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/rock_antenne_rock_n_roll.webp",
       "newlyAdded": true
     },
     {
@@ -13250,7 +13250,7 @@
       "website": "https://www.rockantenne.de/",
       "content": "70's,classic rock",
       "location": "Almanya",
-      "logo": "https://www.rockantenne.de/logos/station-rock-antenne/apple-touch-icon.png",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/rock_antenne_70er_rock_mp3.webp",
       "newlyAdded": true
     },
     {
@@ -13266,7 +13266,7 @@
       "website": "https://www.rockantenne.de/",
       "content": "80's,classic rock",
       "location": "Almanya",
-      "logo": "https://www.rockantenne.de/logos/station-rock-antenne/apple-touch-icon.png",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/rock_antenne_80er_rock_mp3.webp",
       "newlyAdded": true
     },
     {
@@ -13279,7 +13279,7 @@
       "website": "https://www.rockantenne.bayern/",
       "content": "heavy metal,rock",
       "location": "Bavaria, Almanya",
-      "logo": "https://www.rockantenne.de/logos/station-rock-antenne/apple-touch-icon.png",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/rock_antenne_bayern.webp",
       "newlyAdded": true
     },
     {
@@ -13292,7 +13292,7 @@
       "website": "https://www.rockantenne.de/",
       "content": "rock",
       "location": "Deutschland (Almanya), Almanya",
-      "logo": "https://www.rockantenne.de/logos/station-rock-antenne/apple-touch-icon.png",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/rock_antenne_biker_rock.webp",
       "newlyAdded": true
     },
     {
@@ -13305,7 +13305,7 @@
       "website": "https://www.rockantenne.de/",
       "content": "Müzik",
       "location": "Almanya",
-      "logo": "https://www.rockantenne.de/logos/station-rock-antenne/apple-touch-icon.png",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/rock_antenne_blues_rock.webp",
       "newlyAdded": true
     },
     {
@@ -13318,7 +13318,7 @@
       "website": "http://www.rockantenne.de/",
       "content": "rock classics",
       "location": "Almanya",
-      "logo": "http://www.rockantenne.de/logos/station-rock-antenne/apple-touch-icon.png",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/rock_antenne_classic_perlen.webp",
       "newlyAdded": true
     },
     {
@@ -13331,7 +13331,7 @@
       "website": "https://www.rockantenne.de/",
       "content": "rock",
       "location": "Almanya",
-      "logo": "https://www.rockantenne.de/logos/station-rock-antenne/apple-touch-icon.png",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/rock_antenne_coversongs.webp",
       "newlyAdded": true
     },
     {
@@ -13344,7 +13344,7 @@
       "website": "https://www.rockantenne.de/",
       "content": "rock",
       "location": "Hamburg, Almanya",
-      "logo": "https://www.rockantenne.de/media/cache/3/version/13/rahh-v1.jpg/fccb3fcb0a2733dd2265a4d6eb6ad375.webp",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/rock_antenne_hamburg_aac.webp",
       "newlyAdded": true
     },
     {
@@ -13357,7 +13357,7 @@
       "website": "https://www.rockantenne.de/",
       "content": "Müzik",
       "location": "Almanya",
-      "logo": "https://www.rockantenne.de/logos/station-rock-antenne/apple-touch-icon.png",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/rock_antenne_live_rock.webp",
       "newlyAdded": true
     },
     {
@@ -13370,7 +13370,7 @@
       "website": "https://www.rockantenne.de/",
       "content": "heavy metal,metal",
       "location": "Almanya",
-      "logo": "https://www.rockantenne.de/logos/station-rock-antenne/apple-touch-icon.png",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/rock_antenne_modern_metal.webp",
       "newlyAdded": true
     },
     {
@@ -13383,7 +13383,7 @@
       "website": "https://www.rockantenne.de/",
       "content": "modern rock",
       "location": "Almanya",
-      "logo": "https://www.rockantenne.de/logos/station-rock-antenne/apple-touch-icon.png",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/rock_antenne_modern_rock.webp",
       "newlyAdded": true
     },
     {
@@ -13396,7 +13396,7 @@
       "website": "https://www.rockantenne.bayern/rockhoeren/streams/munich-city-nights",
       "content": "Müzik",
       "location": "Almanya",
-      "logo": "https://www.rockantenne.bayern/media/cache/3/version/583/streamlogo_munich_city_nighty_ra-v1.jpg/5397f2a2b8da048b.webp",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/rock_antenne_munich_city_nights.webp",
       "newlyAdded": true
     },
     {
@@ -13409,7 +13409,7 @@
       "website": "https://www.rockantenne.at/",
       "content": "Müzik",
       "location": "Avusturya",
-      "logo": "https://www.rockantenne.at/logos/rock-antenne-at/apple-touch-icon.png",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/rock_antenne_osterreich_aac.webp",
       "newlyAdded": true
     },
     {
@@ -13422,7 +13422,7 @@
       "website": "https://www.rockantenne.de/",
       "content": "alternative rock,classic rock,pop rock,rock",
       "location": "Almanya",
-      "logo": "https://www.rockantenne.de/logos/rock-antenne/apple-touch-icon.png",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/rock_antenne_sound_of_summer.webp",
       "newlyAdded": true
     },
     {
@@ -13435,7 +13435,7 @@
       "website": "https://www.rockantenne.de/webradio/xmas-rock",
       "content": "Müzik",
       "location": "Almanya",
-      "logo": "https://www.rockantenne.de/logos/station-rock-antenne/apple-touch-icon.png",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/rock_antenne_xmas_rock.webp",
       "newlyAdded": true
     },
     {
@@ -13448,7 +13448,7 @@
       "website": "http://www.rockantenne.de/",
       "content": "rock",
       "location": "Almanya",
-      "logo": "http://www.rockantenne.de/logos/station-rock-antenne/apple-touch-icon.png",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/rock_antenne_young_stars.webp",
       "newlyAdded": true
     },
     {
@@ -14796,7 +14796,7 @@
       "website": "https://www.sezenradyo.com/",
       "content": "Caz, blues, new age, pop ve alternatif rock",
       "location": "Efeler, Aydın, Türkiye",
-      "logo": "https://www.sezenradyo.com/wp-content/uploads/2025/09/cropped-sezenradyo_logo.jpeg",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/sezen_radyo.webp",
       "newlyAdded": true
     },
     {
@@ -14917,7 +14917,7 @@
       "website": "http://www.rockantenne.de/",
       "content": "deutschrock",
       "location": "Almanya",
-      "logo": "https://www.rockantenne.de/logos/station-rock-antenne/apple-touch-icon.png",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/rock_antenne_deutschrock.webp",
       "newlyAdded": true
     },
     {
@@ -15556,7 +15556,7 @@
       "content": "Pop, nostalji, Anadolu rock ve Türk müziği",
       "location": "Muratpaşa, Antalya, Türkiye",
       "frequency": "103.1 FM",
-      "logo": "https://radyotalya.com/favicon.ico",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/radyo_talya.webp",
       "newlyAdded": true
     },
     {
@@ -16065,7 +16065,7 @@
       "website": "https://www.rockantenne.de/rockhoeren/streams/hair-metal",
       "content": "Hair metal ve glam metal",
       "location": "Almanya",
-      "logo": "https://www.rockantenne.de/logos/station-rock-antenne/apple-touch-icon.png",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/rock_antenne_hair_metal.webp",
       "newlyAdded": true
     },
     {
