@@ -1,5 +1,10 @@
 # Henüz paketlenmemiş değişiklikler
 
+## 31 Ekim 2026 — Yeni uluslararası radyo grubu
+
+- Canlı yayın ve logo denetimini geçen 24 radyo eklendi; katalog 1319 kayda çıktı. Önceki yeni işaretleri kapatıldı; yalnız bu grup `newlyAdded: true` kaldı.
+- Radio Paradise Main Mix adı netleştirildi ve aynı World/Etc yayınının eski düşük bit hızlı mükerrer kaydı kaldırıldı.
+
 ## 28 Ekim 2026 — Logo bağlantısı düzeltmeleri
 
 - Kanal listesi ve yayın adresleri değiştirilmeden 7 kaydın sorunlu dış logo bağlantısı gerçek marka görsellerinin Cloudflare kopyalarıyla değiştirildi: JOE (2), Qmusic (4) ve NRJ Russia (1).

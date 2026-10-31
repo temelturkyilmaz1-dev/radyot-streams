@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <!-- Metadatos -->
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
+  <meta name="description" content="Escuchá Teletica Radio. Con un simple click vas a poder escuchar de la Transmisión de audio y video en vivo directo desde la cabina de Teletica Radio.">
+  <meta name="alexaVerifyID" content="AyJchcpq2Orp89EdiUw-iNiD3r8" />
+  <meta property='fb:app_id' content='1685325415122425' />
+  <link rel="icon" href="img/favicon2.png" type="image/x-icon">
+  <title>Teletica Radio | Siempre con usted</title>
+  <script>
+    var vertical = 'radioinicio';
+  </script>
+  <!-- Librerias css -->
+  <link rel="stylesheet" href="css/styles.css">
+  <link rel="stylesheet" href="css/loader.css">
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css"
+  integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.2/css/all.css"
+  integrity="sha384-vSIIfh2YWi9wW0r9iZe7RJPrKwp6bG+s9QZMoITbCckVJqGCCRhc+ccxNcdpHuYu" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+  <!-- Librerias js -->
+  <script src="//code.jquery.com/jquery-1.12.4.min.js"></script>
+  <script src="https://bradmax.com/client/files/player-js/da3e34614391e272ceb8d6bba5ef209b192385e3_15011/bradmax_player.js" type="text/javascript"></script>
+  <script src="js/bradmax_player_audioradio.js" type="text/javascript"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+  <!---------------------------------------------- SDK NEWDREAM --------------------------------------------------->
+  <link rel="preconnect" href="https://tags.newdreamglobal.com">
+  <script async src="https://tags.newdreamglobal.com/admanager/newglobal.sdk.min.js?v=1.4.22&h=eventos.teletica.com" id="newdream-sdk" ></script>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-25371170-25"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-25371170-25');
+  </script>
+  <!-- Google tag (gtag.js) GA-4 -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-V8G99S4M6F"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-V8G99S4M6F');
+  </script>
+</head>
+
+<body>
+  <!-- PAGELOADER -->
+  <div id="page-loader">
+    <div class="page-loader-inner">
+      <div class="loader-logo"><img src="img/logos/logo-preload.png" alt="Logo"/></div>
+      <div class="loader-icon"><span class="spinner"></span><span></span></div>
+    </div>
+  </div>
+  <!-- MENU -->
+  <div class="nav sticky-top mb-lg-3" style="background-color: #000;">
+    <div class="row">
+      <div class="col-12">
+        <a href="index.html" class="mr-lg-5 ml-lg-5" style="display: inline-block;"><img id="logo-radio" src="img/Logo-Blanco.png" alt="" width="70"></a><!--<a id="cabina" href="teletica-radio-live-stream.html" style="display: inline-block;">VIDEO EN VIVO</a>-->
+        <p style="display: inline-block; color: #a5a5a5">|</p><a id="cabina" href="todobien.html" style="display: inline-block;">TODO BIEN</a><p style="display: inline-block; color: #a5a5a5">|</p><a id="cabina" href="asisomos.html" style="display: inline-block;">ASI SOMOS</a>
+      </div>
+      </div>
+    </div>
+        <!-- BODY  -->
+        <div class="container text-center mb-5">
+          <img class="animate__animated animate__bounceInLeft animate__delay-2s" id="logo-teleticaradio" src="img/Logo-Color.png" width="300">
+          <div class="logo-player text-center">
+            <div class="row">
+              <div class="col-12">
+                <center class="animate__animated animate__heartBeat animate__delay-3s">
+                  <a href="#" id="reproducir" onclick="jsapi.play();myFunction()"><img id="b-play" src="img/Boton-play2.png" alt="" width="25%"></a>
+                  <a href="#" id="pausar" onclick="jsapi.pause();myFunction2()"><img id="b-stop" src="img/Boton-stop2.png" alt="" width="25%"></a>
+                </center>
+              </div>
+            </div>
+          </div>
+          <!------------------ SECCION PUBLICIDAD---------------------
+          <div id="Publi1">
+
+          </div>-->
+        </div>
+        <!-- PLAYER  -->
+        <div id="player" style="display: none;"></div>
+        <!-- FOOTER -->
+        <footer class="footer">
+          <div class="container">
+            <div class="row">
+              <div class="col-md-12 text-center">
+                <ul id="social">
+                  <li><a class="teletica-logo" href="https://www.teletica.com/vivo?canal=teletica-7" target="_blank"><img id="teletica-logo" src="img/logos/Teletica.png" alt="Teletica Logo" width="120"></a></li>
+                  <li><a class="radio-logo" href="https://www.teleticaradio.com/" target="_blank"><img id="radio-logo" src="img/Logo-Blanco.png" alt="Teletica Logo" width="100"></a></li>
+                  <li><a class="com-logo" href="https://www.teletica.com/" target="_blank"><img id="com-logo" src="img/logos/logo_teletica_com.png" alt="Teletica Logo" width="120"></a></li>
+                  <li><a class="com-logo" href="https://www.tdmax.com/" target="_blank"><img id="com-logo" src="img/logos/TDMax.png" alt="Teletica Logo" width="120"></a></li>
+                </ul>
+                <ul id="social">
+                  <li><a class="facebook" href="https://es-la.facebook.com/TeleticaRadio/"><i class="fab fa-facebook"></i></a></li>
+                  <li><a class="instagram" href="https://www.instagram.com/teletica7/?hl=es"><i class="fab fa-instagram"></i></a></li>
+                  <li><a class="twitter" href="https://twitter.com/TeleticaRadio"><i class="fab fa-twitter"></i></a></li>
+                </ul>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-md-6 text-center">
+                <hr>    
+                <ul>
+                  <li><a href="privacidad.html">POLÍTICA DE PRIVACIDAD</a></li>
+                </ul>
+              </div>
+              <div class="col-md-6 text-center">
+                <hr>    
+                <ul>
+                  <li><a href="terminos.html">TÉRMINOS DE USO</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </footer>
+        <div class="derechos p-1">  
+          <div class="container-fluid">
+            <div class="col-md-6">
+              <p>Copyright © 2024 Teletica. Todos los derechos reservados.</p>
+            </div>
+            <div class="col-4-md-3">
+
+            </div>
+            <div class="col-md-3">
+
+            </div>
+          </div>
+        </div>
+
+
+        <script>
+          function myFunction(){
+            document.getElementById("b-play").style.display = "none";
+            document.getElementById("b-stop").style.display = "block";   
+          }
+          function myFunction2(){
+            document.getElementById("b-stop").style.display = "none";
+            document.getElementById("b-play").style.display = "block"; 
+          }
+        </script>
+
+        <script type="text/javascript">
+          var media = {
+            dataProvider: {
+              title: "Teletica Radio",
+              duration: 734.097415,
+              source: [{
+                url: "https://g2qd375ol7an-hls-live.5centscdn.com/Radio/eae835e83c0494a376229f254f7d3392.sdp/playlist.m3u8",
+                contentType: "movie",
+                bitrate: 191999,
+                width: 1280,
+                height: 534
+              }]
+            },
+            "iosInlineVideo": true
+          };
+          var element = document.getElementById("player");
+          window.bigsoda.player.create(element, media);
+        </script>
+        <script type="text/javascript">
+
+          var playerConfigBase64 = "eyJkYXRhUHJvdmlkZXIiOnsidGl0bGUiOiJUZWFycyBvZiBzdGVlbCIsImR1cmF0aW9uIjo3MzQuMDk3NDE1LCJzb3VyY2UiOlt7ImNvbnRlbnRUeXBlIjoibW92aWUiLCJ1cmwiOiJodHRwOi8vYnJhZG1heC5jb20vc3RhdGljL3ZpZGVvL3RlYXJzX29mX3N0ZWVsLm1wNCIsImJpdHJhdGUiOjE5MTk5OSwid2lkdGgiOjEyODAsImhlaWdodCI6NTM0fV0sInNwbGFzaEltYWdlcyI6W3sidXJsIjoiaHR0cDovL2JyYWRtYXguY29tL3N0YXRpYy9pbWFnZXMvc3RhcnRzcGxhc2guanBnIiwid2lkdGgiOjk1NSwiaGVpZ2h0IjozOTd9XX19";
+
+          function removePlayer()
+          {
+            window.bigsoda.player.destroy(player);
+          }
+
+          var element = document.getElementById("player");
+          var player = window.bigsoda.player.create(element, playerConfigBase64);
+          var jsapi = player.modules.JavascriptApi;
+
+          jsapi.on("close", removePlayer);
+
+          jsapi.add("VideoEvent.paused", onPause);
+          jsapi.add("VideoEvent.currentTimeChange", onCurrentTimeChange);
+          jsapi.add("VideoEvent.complete", onComplete);
+          jsapi.add("DataProviderEvent.mediaMetadataData", onNewMovieSet);
+
+        //movie data recived by player
+
+        function onNewMovieSet(e) {
+          console.log("player.jsapi.onNewMovieSet");
+          jsapi.remove("VideoEvent.playing", onPlay);
+          jsapi.addOnce("VideoEvent.playing", onFirstPlay);
+        }
+
+        //first play event
+        function onFirstPlay(e) {
+          console.log("player.jsapi.onFirstPlay");
+          jsapi.add("VideoEvent.playing", onPlay);
+        }
+
+        //play event, does not triggered with first play
+        function onPlay(e) {
+          console.log("player.jsapi.onPlay");
+        }
+
+        //pause event
+        function onPause(e) {
+          console.log("player.jsapi.onPause");
+        }
+
+        //movie progress event
+        function onCurrentTimeChange(e) {
+          console.log("player.jsapi.onCurrentTimeChange");
+        }
+
+        //movie complete event
+        function onComplete(e) {
+          console.log("player.jsapi.onComplete");
+        }
+
+      </script>
+    </body>
+    <script type="text/javascript" src="js/script.js"></script>
+    </html>
