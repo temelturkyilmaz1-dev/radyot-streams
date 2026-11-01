@@ -17563,7 +17563,93 @@
       "location": "Hınıs, Erzurum, Türkiye",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/hinisli_sanatcilar.webp",
-      "newlyAdded": true   }
+      "newlyAdded": true
+    },
+    {
+      "id": "weta-vivalavoce", "name": "WETA VivaLaVoce", "urls": ["https://weta.streamguys1.com/wetavivalavoce-icy"],
+      "website": "https://weta.org/fm/vivalavoce", "content": "Opera, koro, sanat şarkıları ve klasik vokal müzik", "location": "Washington, D.C., ABD", "frequency": "90.9 HD2", "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/weta_vivalavoce.webp", "newlyAdded": true
+    },
+    {
+      "id": "radio-mega-1700", "name": "Radio Mega 1700", "urls": ["https://stream.zeno.fm/y430keku30duv"],
+      "website": "https://www.radiomega.net/listen-live/", "content": "Haiti müziği, haber, sohbet ve eğlence", "location": "Miami, Florida, ABD", "frequency": "1700 AM", "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/radio_mega_1700.webp", "newlyAdded": true
+    },
+    {
+      "id": "radio-tele-eclair", "name": "Radio Télé Éclair", "urls": ["https://stream.radiojar.com/2b0gs3cu4tzuv"],
+      "website": "https://radioteleeclair.com/", "content": "Haber, sohbet, güncel programlar ve müzik", "location": "Port-au-Prince, Haiti", "frequency": "100.5 FM", "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/radio_tele_eclair.webp", "newlyAdded": true
+    },
+    {
+      "id": "disco-106-1-fm", "name": "Disco 106.1 FM", "urls": ["https://radiordomi.com/8118/stream"],
+      "website": "https://www.rdmusica.com/", "content": "Disco, pop ve klasik hit müzik", "location": "Santo Domingo, Dominik Cumhuriyeti", "frequency": "106.1 FM", "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/disco_106_1_fm.webp", "newlyAdded": true
+    },
+    {
+      "id": "radio-guarachita", "name": "Radio Guarachita", "urls": ["https://radiordomi.com/8610/stream"],
+      "website": "https://www.rdmusica.com/", "content": "Merengue, bachata ve tropikal klasikler", "location": "Santo Domingo, Dominik Cumhuriyeti", "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/radio_guarachita.webp", "newlyAdded": true
+    },
+    {
+      "id": "sentido-89-3-fm", "name": "Sentido 89.3 FM", "urls": ["https://stream.zeno.fm/vghmq0fffvftv"],
+      "website": "https://sentido893.com/", "content": "Latin pop, hit müzik ve eğlence", "location": "Santo Domingo, Dominik Cumhuriyeti", "frequency": "89.3 FM", "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/sentido_89_3_fm.webp", "newlyAdded": true
+    },
+    {
+      "id": "wao-89-1-fm", "name": "WAO 89.1 FM", "urls": ["https://stream.zeno.fm/pkxlvgeiocstv"],
+      "website": "https://zeno.fm/radio/wao891/", "content": "Merengue, bachata, salsa ve tropikal müzik", "location": "Santo Domingo, Dominik Cumhuriyeti", "frequency": "89.1 FM", "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/wao_89_1_fm.webp", "newlyAdded": true
+    },
+    {
+      "id": "newroz-web-fm", "name": "Newroz Web FM", "urls": ["https://stream.zeno.fm/fn8cn9avrg0uv"],
+      "website": "https://newrozwebfm.mdn.live/radio-landing/newrozwebfm/", "content": "Kürtçe müzik ve yerel programlar", "location": "Türkiye", "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/newroz_web_fm.webp", "newlyAdded": true
+    },
+    {
+      "id": "esinti-fm", "name": "Esinti FM", "urls": ["https://stream.zeno.fm/yzg9n0sma8zuv"],
+      "website": "https://esinti-fm.mdn.live/radio-landing/esinti-fm/", "content": "Türkçe müzik ve yerel programlar", "location": "Merzifon, Amasya, Türkiye", "frequency": "88.8 FM", "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/esinti_fm.webp", "newlyAdded": true
+    },
+    {
+      "id": "radyo-kalbim", "name": "Radyo Kalbim", "urls": ["https://radyo.geveze.org:7076/;*.nsv"],
+      "website": "https://www.radyokalbim.com/", "content": "Türkçe pop, slow ve hit müzik", "location": "İstanbul, Türkiye", "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/radyo_kalbim.webp", "newlyAdded": true
+    },
+    {
+      "id": "radyo-cetin-102-5", "name": "Radyo Çetin 102.5", "urls": ["http://www.gokyuzuserver.com.tr:9304/;"],
+      "website": "https://www.radyocetin.com/", "content": "Arabesk ve fantezi müzik", "location": "Mersin, Türkiye", "frequency": "102.5 FM", "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/radyo_cetin_102_5.webp", "newlyAdded": true
+    },
+    {
+      "id": "radyo-black", "name": "Radyo Black", "urls": ["https://anadolu.liderhost.com.tr:10966/stream"],
+      "website": "https://www.radyoblack.com/", "content": "Yabancı hit, pop, dans, lounge ve R&B", "location": "Türkiye", "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/radyo_black.webp", "newlyAdded": true
+    },
+    {
+      "id": "radyo-denge-kurdi", "name": "Radyo Dengê Kurdî", "urls": ["https://yayin.radyodengekurdi.com/kurdi/stream"],
+      "website": "https://www.radyodengekurdi.com/", "content": "Kürtçe dengbêj, halk ve geleneksel müzik", "location": "Türkiye", "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/radyo_denge_kurdi.webp", "newlyAdded": true
+    },
+    {
+      "id": "cristian-mixtape", "name": "Cristian Mixtape", "urls": ["https://stream.zeno.fm/vmfud9csw6iuv"],
+      "website": "https://cristian-mixtape.mdn.live/radio-landing/cristian-mixtape/", "content": "Karma müzik seçkisi", "location": "Türkiye", "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/cristian_mixtape.webp", "newlyAdded": true
+    },
+    {
+      "id": "radyo-hiras-90-8", "name": "Radyo Hiraş 90.8", "urls": ["https://radyo.wlsrv.com:9082/;"],
+      "website": "https://www.radyohiras.com/", "content": "Türkçe müzik, nostalji ve pop", "location": "Manisa, Türkiye", "frequency": "90.8 FM", "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/radyo_hiras_90_8.webp", "newlyAdded": true
+    },
+    {
+      "id": "sesfm-net", "name": "SesFM.Net", "urls": ["https://yayin5.radyohizmeti.com/8012/stream"],
+      "website": "https://www.sesfm.net/", "content": "Karma müzik, canlı DJ, istek ve eğlence", "location": "Türkiye", "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/sesfm_net.webp", "newlyAdded": true
+    },
+    {
+      "id": "radyo-tuzgolu-104-1", "name": "Radyo Tuz Gölü 104.1", "urls": ["https://radyo.yayin.com.tr:5870/;"],
+      "website": "https://radyotuzgolu.com/", "content": "Ankara havaları, Türk halk müziği, arabesk ve yerel programlar", "location": "Şereflikoçhisar, Ankara, Türkiye", "frequency": "104.1 FM", "enabled": true,
+      "logo": "https://radyotuzgolu.com/_next/image?url=%2Ftuzca.png&w=640&q=75", "newlyAdded": true
+    }
   ],
   "catalogPolicy": {
     "workingStreamRequired": true,
