@@ -17387,7 +17387,7 @@
       "frequency": "101.0 FM",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/rf101.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radiolina-trapani",
@@ -17400,7 +17400,7 @@
       "location": "Trapani, Sicilya, İtalya",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/radiolina_trapani.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "coastiva-radio",
@@ -17413,7 +17413,7 @@
       "location": "Uluslararası",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/coastiva_radio.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "suncity-104-9-fm",
@@ -17427,7 +17427,7 @@
       "frequency": "104.9 FM",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/suncity_104_9_fm.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "nueva-q",
@@ -17441,7 +17441,7 @@
       "frequency": "107.1 FM",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/nueva_q.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-horizontes-sucre",
@@ -17455,7 +17455,7 @@
       "frequency": "91.3 FM",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/radio_horizontes_sucre.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "falklands-radio",
@@ -17468,7 +17468,7 @@
       "location": "Stanley, Falkland Adaları",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/falklands_radio.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "la-on-radio",
@@ -17481,7 +17481,7 @@
       "location": "Rojas, Buenos Aires, Arjantin",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/la_on_radio.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "haragano-fm",
@@ -17495,7 +17495,7 @@
       "frequency": "95.1 FM",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/haragano_fm.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "fm-105-brasil",
@@ -17509,7 +17509,7 @@
       "frequency": "105.7 FM",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/fm_105_brasil.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "nativa-fm-pucon",
@@ -17523,7 +17523,7 @@
       "frequency": "98.5 FM",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/nativa_fm_pucon.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-102-fm-itaperuna",
@@ -17537,7 +17537,7 @@
       "frequency": "102.5 FM",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/radio_102_fm_itaperuna.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-80fm-brasil",
@@ -17550,8 +17550,20 @@
       "location": "São Paulo, Brezilya",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/radio_80fm_brasil.webp",
-      "newlyAdded": true
-    }
+      "newlyAdded": false
+    },
+    {
+      "id": "hinisli-sanatcilar",
+      "name": "Hınıslı Sanatçılar",
+      "urls": [
+        "https://stream.zeno.fm/9a4140ry4yzuv"
+      ],
+      "website": "https://hinis-turkuleri.mdn.live/radio-landing/hinis-turkuleri/",
+      "content": "Hınıs yöresi türküleri ve yerel sanatçılar",
+      "location": "Hınıs, Erzurum, Türkiye",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/hinisli_sanatcilar.webp",
+      "newlyAdded": true   }
   ],
   "catalogPolicy": {
     "workingStreamRequired": true,
