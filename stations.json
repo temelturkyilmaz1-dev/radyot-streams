@@ -17386,7 +17386,7 @@
       "location": "Favara, Sicilya, İtalya",
       "frequency": "101.0 FM",
       "enabled": true,
-      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/rf101.png",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/rf101.webp",
       "newlyAdded": true
     },
     {
@@ -17399,7 +17399,7 @@
       "content": "İtalyan müziği, pop ve yerel programlar",
       "location": "Trapani, Sicilya, İtalya",
       "enabled": true,
-      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/radiolina_trapani.jpg",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/radiolina_trapani.webp",
       "newlyAdded": true
     },
     {
@@ -17412,7 +17412,7 @@
       "content": "Gezi temalı karma müzik",
       "location": "Uluslararası",
       "enabled": true,
-      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/coastiva_radio.png",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/coastiva_radio.webp",
       "newlyAdded": true
     },
     {
@@ -17426,7 +17426,7 @@
       "location": "Portmore, Jamaika",
       "frequency": "104.9 FM",
       "enabled": true,
-      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/suncity_104_9_fm.png",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/suncity_104_9_fm.webp",
       "newlyAdded": true
     },
     {
@@ -17440,7 +17440,7 @@
       "location": "Lima, Peru",
       "frequency": "107.1 FM",
       "enabled": true,
-      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/nueva_q.png",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/nueva_q.webp",
       "newlyAdded": true
     },
     {
@@ -17454,7 +17454,7 @@
       "location": "Sucre, Bolivya",
       "frequency": "91.3 FM",
       "enabled": true,
-      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/radio_horizontes_sucre.jpg",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/radio_horizontes_sucre.webp",
       "newlyAdded": true
     },
     {
@@ -17467,7 +17467,7 @@
       "content": "Haber, bilgi, hava durumu, sohbet ve müzik",
       "location": "Stanley, Falkland Adaları",
       "enabled": true,
-      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/falklands_radio.png",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/falklands_radio.webp",
       "newlyAdded": true
     },
     {
@@ -17480,7 +17480,7 @@
       "content": "80’ler, 90’lar, 2000’ler, Latin ve rock",
       "location": "Rojas, Buenos Aires, Arjantin",
       "enabled": true,
-      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/la_on_radio.png",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/la_on_radio.webp",
       "newlyAdded": true
     },
     {
@@ -17494,7 +17494,7 @@
       "location": "Caçapava do Sul, Rio Grande do Sul, Brezilya",
       "frequency": "95.1 FM",
       "enabled": true,
-      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/haragano_fm.png",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/haragano_fm.webp",
       "newlyAdded": true
     },
     {
@@ -17508,7 +17508,7 @@
       "location": "Jaraguá do Sul, Santa Catarina, Brezilya",
       "frequency": "105.7 FM",
       "enabled": true,
-      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/fm_105_brasil.png",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/fm_105_brasil.webp",
       "newlyAdded": true
     },
     {
@@ -17522,7 +17522,7 @@
       "location": "Pucón, Şili",
       "frequency": "98.5 FM",
       "enabled": true,
-      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/nativa_fm_pucon.png",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/nativa_fm_pucon.webp",
       "newlyAdded": true
     },
     {
@@ -17536,7 +17536,7 @@
       "location": "Itaperuna, Rio de Janeiro, Brezilya",
       "frequency": "102.5 FM",
       "enabled": true,
-      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/radio_102_fm_itaperuna.png",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/radio_102_fm_itaperuna.webp",
       "newlyAdded": true
     },
     {
@@ -17549,7 +17549,7 @@
       "content": "80’ler ulusal ve uluslararası müzikleri ve remiksler",
       "location": "São Paulo, Brezilya",
       "enabled": true,
-      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/radio_80fm_brasil.png",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/radio_80fm_brasil.webp",
       "newlyAdded": true
     }
   ],
