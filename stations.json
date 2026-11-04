@@ -18490,6 +18490,74 @@
       "enabled": true,
       "logo": "https://www.coast1011.com/wp-content/uploads/2026/01/Coast-Logo-Transparent-Background-2026.webp",
       "newlyAdded": true
+    },
+    {
+      "id": "972-costa-brava",
+      "name": "972' Costa Brava",
+      "urls": [
+        "https://myradio24.org/972cosbra"
+      ],
+      "website": "https://972costabrava.blogspot.com/",
+      "content": "Lounge, chillout, downtempo, Balearic, deep ve caz",
+      "location": "Costa Brava, İspanya",
+      "enabled": true,
+      "logo": "https://i.ibb.co/S71MXSnK/972-Costa-Brava-logo-recortado-nitido-1.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "boa-fm-94-1-teresina",
+      "name": "Boa FM 94.1",
+      "urls": [
+        "https://webradio.amsolution.com.br/radio/8290/boa"
+      ],
+      "website": "https://www.meionews.com/radios/boafm",
+      "content": "Pop, hit müzik ve eğlence",
+      "location": "Teresina, Piauí, Brezilya",
+      "frequency": "94.1 FM",
+      "enabled": true,
+      "logo": "https://www.meionews.com/assets/portalmn/boafm-thumb.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-san-rafael-92-5",
+      "name": "Radio San Rafael 92.5",
+      "urls": [
+        "https://guri.tepuyserver.net:7098/stream"
+      ],
+      "website": "https://radiosanrafael.com.bo/",
+      "content": "Müzik, kültür, eğitim ve toplumsal programlar",
+      "location": "Cochabamba, Bolivya",
+      "frequency": "92.5 FM",
+      "enabled": true,
+      "logo": "https://radiosanrafael.com.bo/wp-content/uploads/2022/06/logo-radio-san-rafael-fm.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "grupo-centro-cochabamba",
+      "name": "Grupo Centro",
+      "urls": [
+        "https://radio.yoemito.net:8000/stream"
+      ],
+      "website": "https://grupocentro.com.bo/envivo",
+      "content": "Müzik, kültür, haber ve genel programlar",
+      "location": "Cochabamba, Bolivya",
+      "enabled": true,
+      "logo": "https://grupocentro.com.bo/assets/png/BlancoSVG.svg",
+      "newlyAdded": true
+    },
+    {
+      "id": "radyo-ogut-102-1",
+      "name": "Radyo Öğüt 102.1",
+      "urls": [
+        "https://radyo.yayin.com.tr:6004/stream"
+      ],
+      "website": "https://www.ogutfm.com/",
+      "content": "Arabesk, pop, Türk halk müziği ve nostalji",
+      "location": "Düzce, Türkiye",
+      "frequency": "102.1 FM",
+      "enabled": true,
+      "logo": "https://static.mytuner-radio.net/media/radios/4aulwcasnkwm.png",
+      "newlyAdded": true
     }
   ],
   "catalogPolicy": {
