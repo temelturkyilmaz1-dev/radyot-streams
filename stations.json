@@ -17567,124 +17567,929 @@
       "newlyAdded": false
     },
     {
-      "id": "weta-vivalavoce", "name": "WETA VivaLaVoce", "urls": ["https://weta.streamguys1.com/wetavivalavoce-icy"],
-      "website": "https://weta.org/fm/vivalavoce", "content": "Opera, koro, sanat şarkıları ve klasik vokal müzik", "location": "Washington, D.C., ABD", "frequency": "90.9 HD2", "enabled": true,
-      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/weta_vivalavoce.webp", "newlyAdded": false
+      "id": "weta-vivalavoce",
+      "name": "WETA VivaLaVoce",
+      "urls": [
+        "https://weta.streamguys1.com/wetavivalavoce-icy"
+      ],
+      "website": "https://weta.org/fm/vivalavoce",
+      "content": "Opera, koro, sanat şarkıları ve klasik vokal müzik",
+      "location": "Washington, D.C., ABD",
+      "frequency": "90.9 HD2",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/weta_vivalavoce.webp",
+      "newlyAdded": false
     },
     {
-      "id": "radio-mega-1700", "name": "Radio Mega 1700", "urls": ["https://stream.zeno.fm/y430keku30duv"],
-      "website": "https://www.radiomega.net/listen-live/", "content": "Haiti müziği, haber, sohbet ve eğlence", "location": "Miami, Florida, ABD", "frequency": "1700 AM", "enabled": true,
-      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/radio_mega_1700.webp", "newlyAdded": false
+      "id": "radio-mega-1700",
+      "name": "Radio Mega 1700",
+      "urls": [
+        "https://stream.zeno.fm/y430keku30duv"
+      ],
+      "website": "https://www.radiomega.net/listen-live/",
+      "content": "Haiti müziği, haber, sohbet ve eğlence",
+      "location": "Miami, Florida, ABD",
+      "frequency": "1700 AM",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/radio_mega_1700.webp",
+      "newlyAdded": false
     },
     {
-      "id": "radio-tele-eclair", "name": "Radio Télé Éclair", "urls": ["https://stream.radiojar.com/2b0gs3cu4tzuv"],
-      "website": "https://radioteleeclair.com/", "content": "Haber, sohbet, güncel programlar ve müzik", "location": "Port-au-Prince, Haiti", "frequency": "100.5 FM", "enabled": true,
-      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/radio_tele_eclair.webp", "newlyAdded": false
+      "id": "radio-tele-eclair",
+      "name": "Radio Télé Éclair",
+      "urls": [
+        "https://stream.radiojar.com/2b0gs3cu4tzuv"
+      ],
+      "website": "https://radioteleeclair.com/",
+      "content": "Haber, sohbet, güncel programlar ve müzik",
+      "location": "Port-au-Prince, Haiti",
+      "frequency": "100.5 FM",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/radio_tele_eclair.webp",
+      "newlyAdded": false
     },
     {
-      "id": "disco-106-1-fm", "name": "Disco 106.1 FM", "urls": ["https://radiordomi.com/8118/stream"],
-      "website": "https://www.rdmusica.com/", "content": "Disco, pop ve klasik hit müzik", "location": "Santo Domingo, Dominik Cumhuriyeti", "frequency": "106.1 FM", "enabled": true,
-      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/disco_106_1_fm.webp", "newlyAdded": false
+      "id": "disco-106-1-fm",
+      "name": "Disco 106.1 FM",
+      "urls": [
+        "https://radiordomi.com/8118/stream"
+      ],
+      "website": "https://www.rdmusica.com/",
+      "content": "Disco, pop ve klasik hit müzik",
+      "location": "Santo Domingo, Dominik Cumhuriyeti",
+      "frequency": "106.1 FM",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/disco_106_1_fm.webp",
+      "newlyAdded": false
     },
     {
-      "id": "radio-guarachita", "name": "Radio Guarachita", "urls": ["https://radiordomi.com/8610/stream"],
-      "website": "https://www.rdmusica.com/", "content": "Merengue, bachata ve tropikal klasikler", "location": "Santo Domingo, Dominik Cumhuriyeti", "enabled": true,
-      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/radio_guarachita.webp", "newlyAdded": false
+      "id": "radio-guarachita",
+      "name": "Radio Guarachita",
+      "urls": [
+        "https://radiordomi.com/8610/stream"
+      ],
+      "website": "https://www.rdmusica.com/",
+      "content": "Merengue, bachata ve tropikal klasikler",
+      "location": "Santo Domingo, Dominik Cumhuriyeti",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/radio_guarachita.webp",
+      "newlyAdded": false
     },
     {
-      "id": "sentido-89-3-fm", "name": "Sentido 89.3 FM", "urls": ["https://stream.zeno.fm/vghmq0fffvftv"],
-      "website": "https://sentido893.com/", "content": "Latin pop, hit müzik ve eğlence", "location": "Santo Domingo, Dominik Cumhuriyeti", "frequency": "89.3 FM", "enabled": true,
-      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/sentido_89_3_fm.webp", "newlyAdded": false
+      "id": "sentido-89-3-fm",
+      "name": "Sentido 89.3 FM",
+      "urls": [
+        "https://stream.zeno.fm/vghmq0fffvftv"
+      ],
+      "website": "https://sentido893.com/",
+      "content": "Latin pop, hit müzik ve eğlence",
+      "location": "Santo Domingo, Dominik Cumhuriyeti",
+      "frequency": "89.3 FM",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/sentido_89_3_fm.webp",
+      "newlyAdded": false
     },
     {
-      "id": "wao-89-1-fm", "name": "WAO 89.1 FM", "urls": ["https://stream.zeno.fm/pkxlvgeiocstv"],
-      "website": "https://zeno.fm/radio/wao891/", "content": "Merengue, bachata, salsa ve tropikal müzik", "location": "Santo Domingo, Dominik Cumhuriyeti", "frequency": "89.1 FM", "enabled": true,
-      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/wao_89_1_fm.webp", "newlyAdded": false
+      "id": "wao-89-1-fm",
+      "name": "WAO 89.1 FM",
+      "urls": [
+        "https://stream.zeno.fm/pkxlvgeiocstv"
+      ],
+      "website": "https://zeno.fm/radio/wao891/",
+      "content": "Merengue, bachata, salsa ve tropikal müzik",
+      "location": "Santo Domingo, Dominik Cumhuriyeti",
+      "frequency": "89.1 FM",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/wao_89_1_fm.webp",
+      "newlyAdded": false
     },
     {
-      "id": "newroz-web-fm", "name": "Newroz Web FM", "urls": ["https://stream.zeno.fm/fn8cn9avrg0uv"],
-      "website": "https://newrozwebfm.mdn.live/radio-landing/newrozwebfm/", "content": "Kürtçe müzik ve yerel programlar", "location": "Türkiye", "enabled": true,
-      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/newroz_web_fm.webp", "newlyAdded": false
+      "id": "newroz-web-fm",
+      "name": "Newroz Web FM",
+      "urls": [
+        "https://stream.zeno.fm/fn8cn9avrg0uv"
+      ],
+      "website": "https://newrozwebfm.mdn.live/radio-landing/newrozwebfm/",
+      "content": "Kürtçe müzik ve yerel programlar",
+      "location": "Türkiye",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/newroz_web_fm.webp",
+      "newlyAdded": false
     },
     {
-      "id": "esinti-fm", "name": "Esinti FM", "urls": ["https://stream.zeno.fm/yzg9n0sma8zuv"],
-      "website": "https://esinti-fm.mdn.live/radio-landing/esinti-fm/", "content": "Türkçe müzik ve yerel programlar", "location": "Merzifon, Amasya, Türkiye", "frequency": "88.8 FM", "enabled": true,
-      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/esinti_fm.webp", "newlyAdded": false
+      "id": "esinti-fm",
+      "name": "Esinti FM",
+      "urls": [
+        "https://stream.zeno.fm/yzg9n0sma8zuv"
+      ],
+      "website": "https://esinti-fm.mdn.live/radio-landing/esinti-fm/",
+      "content": "Türkçe müzik ve yerel programlar",
+      "location": "Merzifon, Amasya, Türkiye",
+      "frequency": "88.8 FM",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/esinti_fm.webp",
+      "newlyAdded": false
     },
     {
-      "id": "radyo-kalbim", "name": "Radyo Kalbim", "urls": ["https://radyo.geveze.org:7076/;*.nsv"],
-      "website": "https://www.radyokalbim.com/", "content": "Türkçe pop, slow ve hit müzik", "location": "İstanbul, Türkiye", "enabled": true,
-      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/radyo_kalbim.webp", "newlyAdded": false
+      "id": "radyo-kalbim",
+      "name": "Radyo Kalbim",
+      "urls": [
+        "https://radyo.geveze.org:7076/;*.nsv"
+      ],
+      "website": "https://www.radyokalbim.com/",
+      "content": "Türkçe pop, slow ve hit müzik",
+      "location": "İstanbul, Türkiye",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/radyo_kalbim.webp",
+      "newlyAdded": false
     },
     {
-      "id": "radyo-cetin-102-5", "name": "Radyo Çetin 102.5", "urls": ["http://www.gokyuzuserver.com.tr:9304/;"],
-      "website": "https://www.radyocetin.com/", "content": "Arabesk ve fantezi müzik", "location": "Mersin, Türkiye", "frequency": "102.5 FM", "enabled": true,
-      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/radyo_cetin_102_5.webp", "newlyAdded": false
+      "id": "radyo-cetin-102-5",
+      "name": "Radyo Çetin 102.5",
+      "urls": [
+        "http://www.gokyuzuserver.com.tr:9304/;"
+      ],
+      "website": "https://www.radyocetin.com/",
+      "content": "Arabesk ve fantezi müzik",
+      "location": "Mersin, Türkiye",
+      "frequency": "102.5 FM",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/radyo_cetin_102_5.webp",
+      "newlyAdded": false
     },
     {
-      "id": "radyo-black", "name": "Radyo Black", "urls": ["https://anadolu.liderhost.com.tr:10966/stream"],
-      "website": "https://www.radyoblack.com/", "content": "Yabancı hit, pop, dans, lounge ve R&B", "location": "Türkiye", "enabled": true,
-      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/radyo_black.webp", "newlyAdded": false
+      "id": "radyo-black",
+      "name": "Radyo Black",
+      "urls": [
+        "https://anadolu.liderhost.com.tr:10966/stream"
+      ],
+      "website": "https://www.radyoblack.com/",
+      "content": "Yabancı hit, pop, dans, lounge ve R&B",
+      "location": "Türkiye",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/radyo_black.webp",
+      "newlyAdded": false
     },
     {
-      "id": "radyo-denge-kurdi", "name": "Radyo Dengê Kurdî", "urls": ["https://yayin.radyodengekurdi.com/kurdi/stream"],
-      "website": "https://www.radyodengekurdi.com/", "content": "Kürtçe dengbêj, halk ve geleneksel müzik", "location": "Türkiye", "enabled": true,
-      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/radyo_denge_kurdi.webp", "newlyAdded": false
+      "id": "radyo-denge-kurdi",
+      "name": "Radyo Dengê Kurdî",
+      "urls": [
+        "https://yayin.radyodengekurdi.com/kurdi/stream"
+      ],
+      "website": "https://www.radyodengekurdi.com/",
+      "content": "Kürtçe dengbêj, halk ve geleneksel müzik",
+      "location": "Türkiye",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/radyo_denge_kurdi.webp",
+      "newlyAdded": false
     },
     {
-      "id": "cristian-mixtape", "name": "Cristian Mixtape", "urls": ["https://stream.zeno.fm/vmfud9csw6iuv"],
-      "website": "https://cristian-mixtape.mdn.live/radio-landing/cristian-mixtape/", "content": "Karma müzik seçkisi", "location": "Türkiye", "enabled": true,
-      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/cristian_mixtape.webp", "newlyAdded": false
+      "id": "cristian-mixtape",
+      "name": "Cristian Mixtape",
+      "urls": [
+        "https://stream.zeno.fm/vmfud9csw6iuv"
+      ],
+      "website": "https://cristian-mixtape.mdn.live/radio-landing/cristian-mixtape/",
+      "content": "Karma müzik seçkisi",
+      "location": "Türkiye",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/cristian_mixtape.webp",
+      "newlyAdded": false
     },
     {
-      "id": "radyo-hiras-90-8", "name": "Radyo Hiraş 90.8", "urls": ["https://radyo.wlsrv.com:9082/;"],
-      "website": "https://www.radyohiras.com/", "content": "Türkçe müzik, nostalji ve pop", "location": "Manisa, Türkiye", "frequency": "90.8 FM", "enabled": true,
-      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/radyo_hiras_90_8.webp", "newlyAdded": false
+      "id": "radyo-hiras-90-8",
+      "name": "Radyo Hiraş 90.8",
+      "urls": [
+        "https://radyo.wlsrv.com:9082/;"
+      ],
+      "website": "https://www.radyohiras.com/",
+      "content": "Türkçe müzik, nostalji ve pop",
+      "location": "Manisa, Türkiye",
+      "frequency": "90.8 FM",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/radyo_hiras_90_8.webp",
+      "newlyAdded": false
     },
     {
-      "id": "sesfm-net", "name": "SesFM.Net", "urls": ["https://yayin5.radyohizmeti.com/8012/stream"],
-      "website": "https://www.sesfm.net/", "content": "Karma müzik, canlı DJ, istek ve eğlence", "location": "Türkiye", "enabled": true,
-      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/sesfm_net.webp", "newlyAdded": false
+      "id": "sesfm-net",
+      "name": "SesFM.Net",
+      "urls": [
+        "https://yayin5.radyohizmeti.com/8012/stream"
+      ],
+      "website": "https://www.sesfm.net/",
+      "content": "Karma müzik, canlı DJ, istek ve eğlence",
+      "location": "Türkiye",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/sesfm_net.webp",
+      "newlyAdded": false
     },
     {
-      "id": "radyo-tuzgolu-104-1", "name": "Radyo Tuz Gölü 104.1", "urls": ["https://radyo.yayin.com.tr:5870/;"],
-      "website": "https://radyotuzgolu.com/", "content": "Ankara havaları, Türk halk müziği, arabesk ve yerel programlar", "location": "Şereflikoçhisar, Ankara, Türkiye", "frequency": "104.1 FM", "enabled": true,
-      "logo": "https://radyotuzgolu.com/_next/image?url=%2Ftuzca.png&w=640&q=75", "newlyAdded": false
+      "id": "radyo-tuzgolu-104-1",
+      "name": "Radyo Tuz Gölü 104.1",
+      "urls": [
+        "https://radyo.yayin.com.tr:5870/;"
+      ],
+      "website": "https://radyotuzgolu.com/",
+      "content": "Ankara havaları, Türk halk müziği, arabesk ve yerel programlar",
+      "location": "Şereflikoçhisar, Ankara, Türkiye",
+      "frequency": "104.1 FM",
+      "enabled": true,
+      "logo": "https://radyotuzgolu.com/_next/image?url=%2Ftuzca.png&w=640&q=75",
+      "newlyAdded": false
     },
     {
-      "id": "saint-fm", "name": "Saint FM", "urls": ["https://orbit.citrus3.com:2020/stream/saintfmcommunityradio", "http://orbit.citrus3.com:8306/stream"],
-      "website": "https://www.saint.fm/", "content": "Karma müzik, yerel haber ve toplum programları", "location": "Jamestown, Saint Helena", "enabled": true,
-      "logo": "https://www.saint.fm/wp-content/uploads/elementor/thumbs/App-Artwork-Saint-fm-2-r50k6m37t3yz7srulaxcnsmdmpzus4r96ks314jzq8.png", "newlyAdded": true
+      "id": "saint-fm",
+      "name": "Saint FM",
+      "urls": [
+        "https://orbit.citrus3.com:2020/stream/saintfmcommunityradio",
+        "http://orbit.citrus3.com:8306/stream"
+      ],
+      "website": "https://www.saint.fm/",
+      "content": "Karma müzik, yerel haber ve toplum programları",
+      "location": "Jamestown, Saint Helena",
+      "enabled": true,
+      "logo": "https://www.saint.fm/wp-content/uploads/elementor/thumbs/App-Artwork-Saint-fm-2-r50k6m37t3yz7srulaxcnsmdmpzus4r96ks314jzq8.png",
+      "newlyAdded": false
     },
     {
-      "id": "radio-del-golfo", "name": "Radio del Golfo", "urls": ["https://nr11.newradio.it/proxy/radiodel?mp=/stream"],
-      "website": "https://radiodelgolfo.net/", "content": "İtalyanca pop, hit müzik ve yerel programlar", "location": "Golfo di Gaeta, Lazio, İtalya", "enabled": true,
-      "logo": "https://radiodelgolfo.net/wp-content/uploads/2023/10/logo-radio.del-golfo-optimized.png", "newlyAdded": true
+      "id": "radio-del-golfo",
+      "name": "Radio del Golfo",
+      "urls": [
+        "https://nr11.newradio.it/proxy/radiodel?mp=/stream"
+      ],
+      "website": "https://radiodelgolfo.net/",
+      "content": "İtalyanca pop, hit müzik ve yerel programlar",
+      "location": "Golfo di Gaeta, Lazio, İtalya",
+      "enabled": true,
+      "logo": "https://radiodelgolfo.net/wp-content/uploads/2023/10/logo-radio.del-golfo-optimized.png",
+      "newlyAdded": false
     },
     {
-      "id": "visionair-radio", "name": "VisiOnAir Radio", "urls": ["https://live.s1.radiovisionair.net:8443/"],
-      "website": "https://radiovisionair.net/", "content": "Adult contemporary, soul, caz ve dünya müziği", "location": "Cagliari, Sardinya, İtalya", "enabled": true,
-      "logo": "https://radiovisionair.net/wp-content/uploads/2025/07/logo_radiovisionair.png", "newlyAdded": true
+      "id": "visionair-radio",
+      "name": "VisiOnAir Radio",
+      "urls": [
+        "https://live.s1.radiovisionair.net:8443/"
+      ],
+      "website": "https://radiovisionair.net/",
+      "content": "Adult contemporary, soul, caz ve dünya müziği",
+      "location": "Cagliari, Sardinya, İtalya",
+      "enabled": true,
+      "logo": "https://radiovisionair.net/wp-content/uploads/2025/07/logo_radiovisionair.png",
+      "newlyAdded": false
     },
     {
-      "id": "radio-x-cagliari", "name": "Radio X 96.8", "urls": ["https://radiox.it/streamredirect/"],
-      "website": "https://www.radiox.it/live/", "content": "Bağımsız müzik, kültür ve yerel programlar", "location": "Cagliari, Sardinya, İtalya", "frequency": "96.8 FM", "enabled": true,
-      "logo": "https://www.radiox.it/wp-content/uploads/2013/12/logo-radiox-black.png", "newlyAdded": true
+      "id": "radio-x-cagliari",
+      "name": "Radio X 96.8",
+      "urls": [
+        "https://radiox.it/streamredirect/"
+      ],
+      "website": "https://www.radiox.it/live/",
+      "content": "Bağımsız müzik, kültür ve yerel programlar",
+      "location": "Cagliari, Sardinya, İtalya",
+      "frequency": "96.8 FM",
+      "enabled": true,
+      "logo": "https://www.radiox.it/wp-content/uploads/2013/12/logo-radiox-black.png",
+      "newlyAdded": false
     },
     {
-      "id": "donence-724", "name": "Radyo Dönence 724", "urls": ["http://51.159.52.7:9290/;"],
-      "website": "http://www.donence724.com/", "content": "Türkçe pop, nostalji ve karma müzik", "location": "Türkiye", "enabled": true,
-      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/donence_724.webp", "newlyAdded": true
+      "id": "donence-724",
+      "name": "Radyo Dönence 724",
+      "urls": [
+        "http://51.159.52.7:9290/;"
+      ],
+      "website": "http://www.donence724.com/",
+      "content": "Türkçe pop, nostalji ve karma müzik",
+      "location": "Türkiye",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/donence_724.webp",
+      "newlyAdded": false
     },
     {
-      "id": "ruwave-94-fm", "name": "RUWAVE 94 FM", "urls": ["https://myradio24.org/ruwave"],
-      "website": "https://ruwave.net.tr/", "content": "Rusça pop, hit müzik, rock ve yerel programlar", "location": "Alanya, Antalya, Türkiye", "frequency": "94.0 FM", "enabled": true,
-      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/ruwave_94_fm.webp", "newlyAdded": true
+      "id": "ruwave-94-fm",
+      "name": "RUWAVE 94 FM",
+      "urls": [
+        "https://myradio24.org/ruwave"
+      ],
+      "website": "https://ruwave.net.tr/",
+      "content": "Rusça pop, hit müzik, rock ve yerel programlar",
+      "location": "Alanya, Antalya, Türkiye",
+      "frequency": "94.0 FM",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/ruwave_94_fm.webp",
+      "newlyAdded": false
     },
     {
-      "id": "radyo-horoz-105", "name": "Radyo Horoz 105.0", "urls": ["https://dinle.radyohoroz.com/8008/stream"],
-      "website": "https://www.radyohoroz.com/", "content": "Türkçe pop, slow ve karma müzik", "location": "Denizli, Türkiye", "frequency": "105.0 FM", "enabled": true,
-      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/radyo_horoz.webp", "newlyAdded": true
+      "id": "radyo-horoz-105",
+      "name": "Radyo Horoz 105.0",
+      "urls": [
+        "https://dinle.radyohoroz.com/8008/stream"
+      ],
+      "website": "https://www.radyohoroz.com/",
+      "content": "Türkçe pop, slow ve karma müzik",
+      "location": "Denizli, Türkiye",
+      "frequency": "105.0 FM",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/radyo_horoz.webp",
+      "newlyAdded": false
+    },
+    {
+      "id": "radio-llanca",
+      "name": "Ràdio Llançà",
+      "urls": [
+        "https://relay.stream.enacast-cloud.com:40323/radiollancaHD.mp3"
+      ],
+      "website": "https://radiollanca.cat/",
+      "content": "Yerel programlar, pop, caz, blues ve country",
+      "location": "Llançà, Girona, İspanya",
+      "frequency": "90.0 FM",
+      "enabled": true,
+      "logo": "https://radiollanca.cat/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "rdc-radio-couserans",
+      "name": "RDC Radio Couserans",
+      "urls": [
+        "https://stream.rcs.revma.com/w6u9tk4a6nhvv"
+      ],
+      "website": "https://www.radiocouserans.fr/",
+      "content": "Yerel programlar, pop, rock ve dünya müziği",
+      "location": "Saint-Girons, Ariège, Fransa",
+      "frequency": "90.7 / 94.7 / 99.2 / 105.2 FM",
+      "enabled": true,
+      "logo": "https://www.radiocouserans.fr/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "le-new-djam-radio",
+      "name": "Le New Djam Radio",
+      "urls": [
+        "https://stream9.xdevel.com/audio1s976748-1515/stream/icecast.audio",
+        "https://stream10.xdevel.com/audio15s976748-2280/stream/icecast.audio"
+      ],
+      "website": "https://www.djam.radio/",
+      "content": "Eklektik müzik, caz, soul, funk ve elektronik",
+      "location": "Fransa",
+      "enabled": true,
+      "logo": "https://static.wixstatic.com/media/8f2aad_b81fa83db54340c3af97af5cf2cd0d0e~mv2.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-radio-toulouse",
+      "name": "Radio Radio Toulouse",
+      "urls": [
+        "http://62.210.215.26:8000/xstream"
+      ],
+      "website": "https://www.radioradiotoulouse.net/",
+      "content": "Alternatif, eklektik müzik ve yerel kültür",
+      "location": "Toulouse, Fransa",
+      "frequency": "106.8 FM",
+      "enabled": true,
+      "logo": "https://www.radioradiotoulouse.net/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "yellow-radio",
+      "name": "Yellow Radio",
+      "urls": [
+        "https://yellowradio.ice.infomaniak.ch/yellowradio.mp3"
+      ],
+      "website": "https://yellow.radio/",
+      "content": "Dans, deep house, elektronik ve pop",
+      "location": "Cannes, Fransa",
+      "enabled": true,
+      "logo": "https://yellow.radio/Logo_Yellow_Radio_180x180.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "yellow-riviera",
+      "name": "Yellow Riviera",
+      "urls": [
+        "https://yellowradio.ice.infomaniak.ch/yellow01.mp3"
+      ],
+      "website": "https://yellow.radio/radiochannel/yellow-riviera/",
+      "content": "Deep house, soulful ve Riviera müziği",
+      "location": "Monako",
+      "enabled": true,
+      "logo": "https://yellow.radio/Logo_Yellow_Radio_180x180.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "yellow-party",
+      "name": "Yellow Party",
+      "urls": [
+        "https://yellowradio.ice.infomaniak.ch/yellow02.aac",
+        "https://yellowradio.ice.infomaniak.ch/yellow02.mp3"
+      ],
+      "website": "https://yellow.radio/radiochannel/yellow-party/",
+      "content": "Parti, dans, house ve deep house",
+      "location": "Monako",
+      "enabled": true,
+      "logo": "https://yellow.radio/Logo_Yellow_Radio_180x180.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "rmc-hits",
+      "name": "RMC Hits",
+      "urls": [
+        "https://icy.unitedradio.it/rmcweb001"
+      ],
+      "website": "https://www.radiomontecarlo.net/web-radio/",
+      "content": "Hit müzik",
+      "location": "Milano, İtalya",
+      "enabled": true,
+      "logo": "https://www.radiomontecarlo.net/wp-content/themes/rmc-radio-theme/public/images/logo_colored.9852f4.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "rmc-buddha-bar",
+      "name": "RMC Buddha-Bar Monte Carlo",
+      "urls": [
+        "https://icy.unitedradio.it/rmcweb002"
+      ],
+      "website": "https://www.radiomontecarlo.net/web-radio/",
+      "content": "Lounge, chillout ve dünya müziği",
+      "location": "Milano, İtalya",
+      "enabled": true,
+      "logo": "https://www.radiomontecarlo.net/wp-content/themes/rmc-radio-theme/public/images/logo_colored.9852f4.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "rmc-rnb",
+      "name": "RMC R&B",
+      "urls": [
+        "https://icy.unitedradio.it/rmcweb003"
+      ],
+      "website": "https://www.radiomontecarlo.net/web-radio/",
+      "content": "R&B ve soul",
+      "location": "Milano, İtalya",
+      "enabled": true,
+      "logo": "https://www.radiomontecarlo.net/wp-content/themes/rmc-radio-theme/public/images/logo_colored.9852f4.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "rmc-cool",
+      "name": "RMC Cool",
+      "urls": [
+        "https://icy.unitedradio.it/rmcweb004"
+      ],
+      "website": "https://www.radiomontecarlo.net/web-radio/",
+      "content": "Chillout, lounge ve easy listening",
+      "location": "Milano, İtalya",
+      "enabled": true,
+      "logo": "https://www.radiomontecarlo.net/wp-content/themes/rmc-radio-theme/public/images/logo_colored.9852f4.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "rmc-italia",
+      "name": "RMC Italia",
+      "urls": [
+        "https://icy.unitedradio.it/rmcweb005"
+      ],
+      "website": "https://www.radiomontecarlo.net/web-radio/",
+      "content": "İtalyanca pop",
+      "location": "Milano, İtalya",
+      "enabled": true,
+      "logo": "https://www.radiomontecarlo.net/wp-content/themes/rmc-radio-theme/public/images/logo_colored.9852f4.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "rmc-love-songs",
+      "name": "RMC Love Songs",
+      "urls": [
+        "https://icy.unitedradio.it/rmcweb006"
+      ],
+      "website": "https://www.radiomontecarlo.net/web-radio/",
+      "content": "Romantik ve soft müzik",
+      "location": "Milano, İtalya",
+      "enabled": true,
+      "logo": "https://www.radiomontecarlo.net/wp-content/themes/rmc-radio-theme/public/images/logo_colored.9852f4.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "rmc-great-artists",
+      "name": "RMC Great Artists",
+      "urls": [
+        "https://icy.unitedradio.it/rmcweb007"
+      ],
+      "website": "https://www.radiomontecarlo.net/web-radio/",
+      "content": "Klasik hitler ve büyük sanatçılar",
+      "location": "Milano, İtalya",
+      "enabled": true,
+      "logo": "https://www.radiomontecarlo.net/wp-content/themes/rmc-radio-theme/public/images/logo_colored.9852f4.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "rmc-80",
+      "name": "RMC 80",
+      "urls": [
+        "https://icy.unitedradio.it/rmcweb008"
+      ],
+      "website": "https://www.radiomontecarlo.net/web-radio/",
+      "content": "1980’ler müziği",
+      "location": "Milano, İtalya",
+      "enabled": true,
+      "logo": "https://www.radiomontecarlo.net/wp-content/themes/rmc-radio-theme/public/images/logo_colored.9852f4.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "rmc-90",
+      "name": "RMC 90",
+      "urls": [
+        "https://icy.unitedradio.it/rmcweb009"
+      ],
+      "website": "https://www.radiomontecarlo.net/web-radio/",
+      "content": "1990’lar müziği",
+      "location": "Milano, İtalya",
+      "enabled": true,
+      "logo": "https://www.radiomontecarlo.net/wp-content/themes/rmc-radio-theme/public/images/logo_colored.9852f4.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "rmc-marine",
+      "name": "RMC Marine",
+      "urls": [
+        "https://icy.unitedradio.it/rmcweb010"
+      ],
+      "website": "https://www.radiomontecarlo.net/web-radio/",
+      "content": "Lounge, soul ve Latin caz",
+      "location": "Milano, İtalya",
+      "enabled": true,
+      "logo": "https://www.radiomontecarlo.net/wp-content/themes/rmc-radio-theme/public/images/logo_colored.9852f4.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "rmc-new-classics",
+      "name": "RMC New Classics",
+      "urls": [
+        "https://icy.unitedradio.it/rmcweb011"
+      ],
+      "website": "https://www.radiomontecarlo.net/web-radio/",
+      "content": "2000’ler ve modern klasik hitler",
+      "location": "Milano, İtalya",
+      "enabled": true,
+      "logo": "https://www.radiomontecarlo.net/wp-content/themes/rmc-radio-theme/public/images/logo_colored.9852f4.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "rmc-nights-story",
+      "name": "RMC Nights Story",
+      "urls": [
+        "https://icy.unitedradio.it/rmcweb012"
+      ],
+      "website": "https://www.radiomontecarlo.net/web-radio/",
+      "content": "Nu jazz, fusion ve gece müziği",
+      "location": "Milano, İtalya",
+      "enabled": true,
+      "logo": "https://www.radiomontecarlo.net/wp-content/themes/rmc-radio-theme/public/images/logo_colored.9852f4.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "rmc-romantic-rock",
+      "name": "RMC Romantic Rock",
+      "urls": [
+        "https://icy.unitedradio.it/rmcweb015"
+      ],
+      "website": "https://www.radiomontecarlo.net/web-radio/",
+      "content": "Rock baladları ve soft rock",
+      "location": "Milano, İtalya",
+      "enabled": true,
+      "logo": "https://www.radiomontecarlo.net/wp-content/themes/rmc-radio-theme/public/images/logo_colored.9852f4.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "rmc-acoustic",
+      "name": "RMC Acoustic",
+      "urls": [
+        "https://icy.unitedradio.it/rmcweb016"
+      ],
+      "website": "https://www.radiomontecarlo.net/web-radio/",
+      "content": "Akustik müzik",
+      "location": "Milano, İtalya",
+      "enabled": true,
+      "logo": "https://www.radiomontecarlo.net/wp-content/themes/rmc-radio-theme/public/images/logo_colored.9852f4.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "rmc-bluemoon",
+      "name": "RMC BlueMoon",
+      "urls": [
+        "https://icy.unitedradio.it/rmcweb017"
+      ],
+      "website": "https://www.radiomontecarlo.net/web-radio/",
+      "content": "Chillout ve gece müziği",
+      "location": "Milano, İtalya",
+      "enabled": true,
+      "logo": "https://www.radiomontecarlo.net/wp-content/themes/rmc-radio-theme/public/images/logo_colored.9852f4.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "rmc-party",
+      "name": "RMC Party",
+      "urls": [
+        "https://icy.unitedradio.it/rmcweb018"
+      ],
+      "website": "https://www.radiomontecarlo.net/web-radio/",
+      "content": "Parti ve dans müziği",
+      "location": "Milano, İtalya",
+      "enabled": true,
+      "logo": "https://www.radiomontecarlo.net/wp-content/themes/rmc-radio-theme/public/images/logo_colored.9852f4.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "rmc-jazz",
+      "name": "RMC Jazz",
+      "urls": [
+        "https://icy.unitedradio.it/rmcweb019"
+      ],
+      "website": "https://www.radiomontecarlo.net/web-radio/",
+      "content": "Caz",
+      "location": "Milano, İtalya",
+      "enabled": true,
+      "logo": "https://www.radiomontecarlo.net/wp-content/themes/rmc-radio-theme/public/images/logo_colored.9852f4.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "rmc-vip-lounge",
+      "name": "RMC VIP Lounge",
+      "urls": [
+        "https://icy.unitedradio.it/rmcweb020"
+      ],
+      "website": "https://www.radiomontecarlo.net/web-radio/",
+      "content": "Lounge",
+      "location": "Milano, İtalya",
+      "enabled": true,
+      "logo": "https://www.radiomontecarlo.net/wp-content/themes/rmc-radio-theme/public/images/logo_colored.9852f4.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "rmc-running",
+      "name": "RMC Running",
+      "urls": [
+        "https://icy.unitedradio.it/rmcweb021"
+      ],
+      "website": "https://www.radiomontecarlo.net/web-radio/",
+      "content": "Koşu ve egzersiz müziği",
+      "location": "Milano, İtalya",
+      "enabled": true,
+      "logo": "https://www.radiomontecarlo.net/wp-content/themes/rmc-radio-theme/public/images/logo_colored.9852f4.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "rmc-voyage-voyage",
+      "name": "RMC Voyage Voyage",
+      "urls": [
+        "https://icy.unitedradio.it/rmcweb022"
+      ],
+      "website": "https://www.radiomontecarlo.net/web-radio/",
+      "content": "Dünya müziği",
+      "location": "Milano, İtalya",
+      "enabled": true,
+      "logo": "https://www.radiomontecarlo.net/wp-content/themes/rmc-radio-theme/public/images/logo_colored.9852f4.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "rmc-fitness",
+      "name": "RMC Fitness",
+      "urls": [
+        "https://icy.unitedradio.it/rmcweb023"
+      ],
+      "website": "https://www.radiomontecarlo.net/web-radio/",
+      "content": "Fitness ve egzersiz müziği",
+      "location": "Milano, İtalya",
+      "enabled": true,
+      "logo": "https://www.radiomontecarlo.net/wp-content/themes/rmc-radio-theme/public/images/logo_colored.9852f4.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "rmc-disco-funk",
+      "name": "RMC Disco Funk",
+      "urls": [
+        "https://icy.unitedradio.it/rmcweb025"
+      ],
+      "website": "https://www.radiomontecarlo.net/web-radio/",
+      "content": "Disco ve funk",
+      "location": "Milano, İtalya",
+      "enabled": true,
+      "logo": "https://www.radiomontecarlo.net/wp-content/themes/rmc-radio-theme/public/images/logo_colored.9852f4.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "rmc-planet",
+      "name": "RMC Planet",
+      "urls": [
+        "https://icy.unitedradio.it/rmcweb026"
+      ],
+      "website": "https://www.radiomontecarlo.net/web-radio/",
+      "content": "Pop ve dünya müziği",
+      "location": "Milano, İtalya",
+      "enabled": true,
+      "logo": "https://www.radiomontecarlo.net/wp-content/themes/rmc-radio-theme/public/images/logo_colored.9852f4.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-cafe-viola",
+      "name": "Rádio Café Viola",
+      "urls": [
+        "https://stm6.xcast.com.br:9328/"
+      ],
+      "website": "https://radiocafeviola.com.br/",
+      "content": "Sertanejo raiz, música caipira ve moda de viola",
+      "location": "Patos de Minas, Minas Gerais, Brezilya",
+      "enabled": true,
+      "logo": "https://www.radiocafeviola.com.br/images/radio-cafe-viola_spv0wft8.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "rock-pop-paraguay",
+      "name": "Rock & Pop Paraguay",
+      "urls": [
+        "https://cp9.serverse.com/proxy/rockandpop/stream"
+      ],
+      "website": "https://www.rockandpop.com.py/",
+      "content": "Rock, pop ve Latin müziği",
+      "location": "Asunción, Paraguay",
+      "frequency": "95.5 FM",
+      "enabled": true,
+      "logo": "https://www.rockandpop.com.py/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "el-fin-del-silencio",
+      "name": "El Fin del Silencio",
+      "urls": [
+        "https://servidor24-1.brlogic.com:7302/live"
+      ],
+      "website": "https://www.elfindelsilencio.com/",
+      "content": "Bolivya rock, metal, punk, pop ve hip hop",
+      "location": "Cochabamba, Bolivya",
+      "enabled": true,
+      "logo": "https://www.elfindelsilencio.com/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "urbana-play-104-3",
+      "name": "Urbana Play 104.3",
+      "urls": [
+        "https://live-ar1.cdnrad.com/hls/radio-285/live.m3u8",
+        "https://vmf.edge-apps.net/playlist/urbana.m3u8/play.m3u8"
+      ],
+      "website": "https://urbanaplayfm.com/",
+      "content": "Pop, rock, eğlence, röportaj ve güncel programlar",
+      "location": "Buenos Aires, Arjantin",
+      "frequency": "104.3 FM",
+      "enabled": true,
+      "logo": "https://urbanaplayfm.com/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "corlu-fm-102-7",
+      "name": "Çorlu FM 102.7",
+      "urls": [
+        "https://stream.turkiyeradyolari.com:8054/;"
+      ],
+      "website": "https://www.corlufm.com/",
+      "content": "Türkçe ve yabancı pop, hit müzik ve yerel programlar",
+      "location": "Çorlu, Tekirdağ, Türkiye",
+      "frequency": "102.7 FM",
+      "enabled": true,
+      "logo": "https://www.corlufm.com/wp-content/themes/corlufm/assets/images/logo.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "radyo-fresh-99-1",
+      "name": "Radyo Fresh 99.1",
+      "urls": [
+        "https://canli.radyofresh.com/stream"
+      ],
+      "website": "https://www.radyofresh.com/",
+      "content": "Türkçe pop ve hit müzik",
+      "location": "Kahramanmaraş, Türkiye",
+      "frequency": "99.1 FM",
+      "enabled": true,
+      "logo": "https://www.radyofresh.com/assets/img/logo.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "yeni-radyo-her-an-yeni",
+      "name": "Yeni Radyo “Her An Yeni”",
+      "urls": [
+        "https://radyo.yayin.com.tr:6191/stream"
+      ],
+      "website": "https://www.yeniradyo.com.tr/",
+      "content": "Türkçe pop, nostalji ve karma müzik",
+      "location": "Antalya, Türkiye",
+      "enabled": true,
+      "logo": "https://www.yeniradyo.com.tr/images/1234.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radyo-bilim",
+      "name": "Radyo Bilim",
+      "urls": [
+        "https://yayin.radyomadyo.com:8750/stream"
+      ],
+      "website": "https://radyobilim.com.tr/",
+      "content": "Yabancı pop, hit müzik, bilim ve kültür programları",
+      "location": "İstanbul, Türkiye",
+      "frequency": "94.0 FM",
+      "enabled": true,
+      "logo": "https://radyobilim.com.tr/radyo-bilim-logo.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radyo-dingil",
+      "name": "Radyo Dingil",
+      "urls": [
+        "https://live.sinirsizhost.com.tr/8056/;"
+      ],
+      "website": "https://dingilradyo.com.tr/",
+      "content": "Karışık müzik",
+      "location": "Van, Türkiye",
+      "enabled": true,
+      "logo": "https://r.resimlink.com/CfF49Nv.jpeg",
+      "newlyAdded": true
+    },
+    {
+      "id": "cobrox-radio-fm",
+      "name": "COBrOx.RADiO.fm",
+      "urls": [
+        "http://65.108.105.26:8672/cobroxradio"
+      ],
+      "website": "https://cobrox.radio.fm/",
+      "content": "Rock, metal, punk ve post-rock",
+      "location": "Valparaíso, Şili",
+      "enabled": true,
+      "logo": "https://cobrox.radio.fm/apple-touch-icon.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-usm",
+      "name": "Radio USM",
+      "urls": [
+        "https://stream99.usastreams.com:8012/stream"
+      ],
+      "website": "https://radio.usm.cl/",
+      "content": "Klasik müzik, easy listening, kültür ve bilim programları",
+      "location": "Valparaíso, Şili",
+      "frequency": "99.7 FM / 1450 AM",
+      "enabled": true,
+      "logo": "https://radio.usm.cl/wp-content/uploads/2021/11/logo.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-naval-chile",
+      "name": "Radio Naval",
+      "urls": [
+        "https://s4.radio.co/s740f80d28/listen"
+      ],
+      "website": "https://www.armada.cl/radio-naval",
+      "content": "Pop, rock, kültür, röportaj ve denizcilik programları",
+      "location": "Valparaíso, Şili",
+      "enabled": true,
+      "logo": "https://www.armada.cl/armada/site/artic/20260922/imag/foto_0000000220260922121048/Logo-Radio-Naval.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "ucv-radio-103-5",
+      "name": "UCV Radio 103.5",
+      "urls": [
+        "https://sonando-us.digitalproserver.com/ucvradio"
+      ],
+      "website": "https://ucvradio.cl/",
+      "content": "70’ler, 80’ler, 90’lar, yetişkin müziği ve bölgesel programlar",
+      "location": "Viña del Mar, Şili",
+      "frequency": "103.5 FM",
+      "enabled": true,
+      "logo": "https://ucvradio.cl/wp-content/uploads/2025/05/cropped-logo-UCV-RADIO-favicon-270x270.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "sunrise-lounge",
+      "name": "Sunrise Lounge",
+      "urls": [
+        "https://sonic-cl.arkeo.cl/8098/stream"
+      ],
+      "website": "https://radiosunriselounge.blogspot.com/",
+      "content": "Smooth jazz, lounge ve rahatlatıcı müzik",
+      "location": "Quilpué, Şili",
+      "enabled": true,
+      "logo": "https://radiosunriselounge.blogspot.com/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "coast-101-1",
+      "name": "Coast 101.1",
+      "urls": [
+        "https://coast-broadcasting-limited.streamb.live/SB00357"
+      ],
+      "website": "https://www.coast1011.com/",
+      "content": "70’ler, 80’ler ve 90’lar klasik hitleri",
+      "location": "St. John’s, Newfoundland ve Labrador, Kanada",
+      "frequency": "101.1 FM",
+      "enabled": true,
+      "logo": "https://www.coast1011.com/wp-content/uploads/2026/01/Coast-Logo-Transparent-Background-2026.webp",
+      "newlyAdded": true
     }
   ],
   "catalogPolicy": {
