@@ -17904,7 +17904,7 @@
       "frequency": "90.0 FM",
       "enabled": true,
       "logo": "https://radiollanca.cat/favicon.ico",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "rdc-radio-couserans",
@@ -17918,7 +17918,7 @@
       "frequency": "90.7 / 94.7 / 99.2 / 105.2 FM",
       "enabled": true,
       "logo": "https://www.radiocouserans.fr/favicon.ico",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "le-new-djam-radio",
@@ -17932,7 +17932,7 @@
       "location": "Fransa",
       "enabled": true,
       "logo": "https://static.wixstatic.com/media/8f2aad_b81fa83db54340c3af97af5cf2cd0d0e~mv2.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-radio-toulouse",
@@ -17946,7 +17946,7 @@
       "frequency": "106.8 FM",
       "enabled": true,
       "logo": "https://www.radioradiotoulouse.net/favicon.ico",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "yellow-radio",
@@ -17959,7 +17959,7 @@
       "location": "Cannes, Fransa",
       "enabled": true,
       "logo": "https://yellow.radio/Logo_Yellow_Radio_180x180.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "yellow-riviera",
@@ -17972,7 +17972,7 @@
       "location": "Monako",
       "enabled": true,
       "logo": "https://yellow.radio/Logo_Yellow_Radio_180x180.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "yellow-party",
@@ -17986,7 +17986,7 @@
       "location": "Monako",
       "enabled": true,
       "logo": "https://yellow.radio/Logo_Yellow_Radio_180x180.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "rmc-hits",
@@ -17999,7 +17999,7 @@
       "location": "Milano, İtalya",
       "enabled": true,
       "logo": "https://www.radiomontecarlo.net/wp-content/themes/rmc-radio-theme/public/images/logo_colored.9852f4.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "rmc-buddha-bar",
@@ -18012,7 +18012,7 @@
       "location": "Milano, İtalya",
       "enabled": true,
       "logo": "https://www.radiomontecarlo.net/wp-content/themes/rmc-radio-theme/public/images/logo_colored.9852f4.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "rmc-rnb",
@@ -18025,7 +18025,7 @@
       "location": "Milano, İtalya",
       "enabled": true,
       "logo": "https://www.radiomontecarlo.net/wp-content/themes/rmc-radio-theme/public/images/logo_colored.9852f4.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "rmc-cool",
@@ -18038,7 +18038,7 @@
       "location": "Milano, İtalya",
       "enabled": true,
       "logo": "https://www.radiomontecarlo.net/wp-content/themes/rmc-radio-theme/public/images/logo_colored.9852f4.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "rmc-italia",
@@ -18051,7 +18051,7 @@
       "location": "Milano, İtalya",
       "enabled": true,
       "logo": "https://www.radiomontecarlo.net/wp-content/themes/rmc-radio-theme/public/images/logo_colored.9852f4.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "rmc-love-songs",
@@ -18064,7 +18064,7 @@
       "location": "Milano, İtalya",
       "enabled": true,
       "logo": "https://www.radiomontecarlo.net/wp-content/themes/rmc-radio-theme/public/images/logo_colored.9852f4.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "rmc-great-artists",
@@ -18077,7 +18077,7 @@
       "location": "Milano, İtalya",
       "enabled": true,
       "logo": "https://www.radiomontecarlo.net/wp-content/themes/rmc-radio-theme/public/images/logo_colored.9852f4.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "rmc-80",
@@ -18090,7 +18090,7 @@
       "location": "Milano, İtalya",
       "enabled": true,
       "logo": "https://www.radiomontecarlo.net/wp-content/themes/rmc-radio-theme/public/images/logo_colored.9852f4.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "rmc-90",
@@ -18103,7 +18103,7 @@
       "location": "Milano, İtalya",
       "enabled": true,
       "logo": "https://www.radiomontecarlo.net/wp-content/themes/rmc-radio-theme/public/images/logo_colored.9852f4.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "rmc-marine",
@@ -18116,7 +18116,7 @@
       "location": "Milano, İtalya",
       "enabled": true,
       "logo": "https://www.radiomontecarlo.net/wp-content/themes/rmc-radio-theme/public/images/logo_colored.9852f4.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "rmc-new-classics",
@@ -18129,7 +18129,7 @@
       "location": "Milano, İtalya",
       "enabled": true,
       "logo": "https://www.radiomontecarlo.net/wp-content/themes/rmc-radio-theme/public/images/logo_colored.9852f4.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "rmc-nights-story",
@@ -18142,7 +18142,7 @@
       "location": "Milano, İtalya",
       "enabled": true,
       "logo": "https://www.radiomontecarlo.net/wp-content/themes/rmc-radio-theme/public/images/logo_colored.9852f4.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "rmc-romantic-rock",
@@ -18155,7 +18155,7 @@
       "location": "Milano, İtalya",
       "enabled": true,
       "logo": "https://www.radiomontecarlo.net/wp-content/themes/rmc-radio-theme/public/images/logo_colored.9852f4.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "rmc-acoustic",
@@ -18168,7 +18168,7 @@
       "location": "Milano, İtalya",
       "enabled": true,
       "logo": "https://www.radiomontecarlo.net/wp-content/themes/rmc-radio-theme/public/images/logo_colored.9852f4.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "rmc-bluemoon",
@@ -18181,7 +18181,7 @@
       "location": "Milano, İtalya",
       "enabled": true,
       "logo": "https://www.radiomontecarlo.net/wp-content/themes/rmc-radio-theme/public/images/logo_colored.9852f4.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "rmc-party",
@@ -18194,7 +18194,7 @@
       "location": "Milano, İtalya",
       "enabled": true,
       "logo": "https://www.radiomontecarlo.net/wp-content/themes/rmc-radio-theme/public/images/logo_colored.9852f4.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "rmc-jazz",
@@ -18207,7 +18207,7 @@
       "location": "Milano, İtalya",
       "enabled": true,
       "logo": "https://www.radiomontecarlo.net/wp-content/themes/rmc-radio-theme/public/images/logo_colored.9852f4.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "rmc-vip-lounge",
@@ -18220,7 +18220,7 @@
       "location": "Milano, İtalya",
       "enabled": true,
       "logo": "https://www.radiomontecarlo.net/wp-content/themes/rmc-radio-theme/public/images/logo_colored.9852f4.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "rmc-running",
@@ -18233,7 +18233,7 @@
       "location": "Milano, İtalya",
       "enabled": true,
       "logo": "https://www.radiomontecarlo.net/wp-content/themes/rmc-radio-theme/public/images/logo_colored.9852f4.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "rmc-voyage-voyage",
@@ -18246,7 +18246,7 @@
       "location": "Milano, İtalya",
       "enabled": true,
       "logo": "https://www.radiomontecarlo.net/wp-content/themes/rmc-radio-theme/public/images/logo_colored.9852f4.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "rmc-fitness",
@@ -18259,7 +18259,7 @@
       "location": "Milano, İtalya",
       "enabled": true,
       "logo": "https://www.radiomontecarlo.net/wp-content/themes/rmc-radio-theme/public/images/logo_colored.9852f4.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "rmc-disco-funk",
@@ -18272,7 +18272,7 @@
       "location": "Milano, İtalya",
       "enabled": true,
       "logo": "https://www.radiomontecarlo.net/wp-content/themes/rmc-radio-theme/public/images/logo_colored.9852f4.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "rmc-planet",
@@ -18285,7 +18285,7 @@
       "location": "Milano, İtalya",
       "enabled": true,
       "logo": "https://www.radiomontecarlo.net/wp-content/themes/rmc-radio-theme/public/images/logo_colored.9852f4.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-cafe-viola",
@@ -18298,7 +18298,7 @@
       "location": "Patos de Minas, Minas Gerais, Brezilya",
       "enabled": true,
       "logo": "https://www.radiocafeviola.com.br/images/radio-cafe-viola_spv0wft8.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "rock-pop-paraguay",
@@ -18312,7 +18312,7 @@
       "frequency": "95.5 FM",
       "enabled": true,
       "logo": "https://www.rockandpop.com.py/favicon.ico",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "el-fin-del-silencio",
@@ -18325,7 +18325,7 @@
       "location": "Cochabamba, Bolivya",
       "enabled": true,
       "logo": "https://www.elfindelsilencio.com/favicon.ico",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "urbana-play-104-3",
@@ -18340,7 +18340,7 @@
       "frequency": "104.3 FM",
       "enabled": true,
       "logo": "https://urbanaplayfm.com/favicon.ico",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "corlu-fm-102-7",
@@ -18354,7 +18354,7 @@
       "frequency": "102.7 FM",
       "enabled": true,
       "logo": "https://www.corlufm.com/wp-content/themes/corlufm/assets/images/logo.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radyo-fresh-99-1",
@@ -18368,7 +18368,7 @@
       "frequency": "99.1 FM",
       "enabled": true,
       "logo": "https://www.radyofresh.com/assets/img/logo.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "yeni-radyo-her-an-yeni",
@@ -18381,7 +18381,7 @@
       "location": "Antalya, Türkiye",
       "enabled": true,
       "logo": "https://www.yeniradyo.com.tr/images/1234.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radyo-bilim",
@@ -18395,7 +18395,7 @@
       "frequency": "94.0 FM",
       "enabled": true,
       "logo": "https://radyobilim.com.tr/radyo-bilim-logo.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radyo-dingil",
@@ -18408,7 +18408,7 @@
       "location": "Van, Türkiye",
       "enabled": true,
       "logo": "https://r.resimlink.com/CfF49Nv.jpeg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "cobrox-radio-fm",
@@ -18421,7 +18421,7 @@
       "location": "Valparaíso, Şili",
       "enabled": true,
       "logo": "https://cobrox.radio.fm/apple-touch-icon.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-usm",
@@ -18435,7 +18435,7 @@
       "frequency": "99.7 FM / 1450 AM",
       "enabled": true,
       "logo": "https://radio.usm.cl/wp-content/uploads/2021/11/logo.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-naval-chile",
@@ -18448,7 +18448,7 @@
       "location": "Valparaíso, Şili",
       "enabled": true,
       "logo": "https://www.armada.cl/armada/site/artic/20260922/imag/foto_0000000220260922121048/Logo-Radio-Naval.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "ucv-radio-103-5",
@@ -18462,7 +18462,7 @@
       "frequency": "103.5 FM",
       "enabled": true,
       "logo": "https://ucvradio.cl/wp-content/uploads/2025/05/cropped-logo-UCV-RADIO-favicon-270x270.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "sunrise-lounge",
@@ -18475,7 +18475,7 @@
       "location": "Quilpué, Şili",
       "enabled": true,
       "logo": "https://radiosunriselounge.blogspot.com/favicon.ico",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "coast-101-1",
@@ -18489,7 +18489,7 @@
       "frequency": "101.1 FM",
       "enabled": true,
       "logo": "https://www.coast1011.com/wp-content/uploads/2026/01/Coast-Logo-Transparent-Background-2026.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "972-costa-brava",
@@ -18502,7 +18502,7 @@
       "location": "Costa Brava, İspanya",
       "enabled": true,
       "logo": "https://i.ibb.co/S71MXSnK/972-Costa-Brava-logo-recortado-nitido-1.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "boa-fm-94-1-teresina",
@@ -18516,7 +18516,7 @@
       "frequency": "94.1 FM",
       "enabled": true,
       "logo": "https://www.meionews.com/assets/portalmn/boafm-thumb.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-san-rafael-92-5",
@@ -18530,7 +18530,7 @@
       "frequency": "92.5 FM",
       "enabled": true,
       "logo": "https://radiosanrafael.com.bo/wp-content/uploads/2022/06/logo-radio-san-rafael-fm.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "grupo-centro-cochabamba",
@@ -18543,7 +18543,7 @@
       "location": "Cochabamba, Bolivya",
       "enabled": true,
       "logo": "https://grupocentro.com.bo/assets/png/BlancoSVG.svg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radyo-ogut-102-1",
@@ -18557,6 +18557,270 @@
       "frequency": "102.1 FM",
       "enabled": true,
       "logo": "https://static.mytuner-radio.net/media/radios/4aulwcasnkwm.png",
+      "newlyAdded": false
+    },
+    {
+      "id": "radyo-ki-94-9",
+      "name": "Radyo Ki 94.9",
+      "urls": [
+        "http://radyoki.kocaeli.edu.tr:8000/stream",
+        "https://radyoki.kocaeli.edu.tr/MPEG"
+      ],
+      "website": "https://www.radyoki.net/",
+      "content": "Üniversite radyosu, alternatif müzik ve kültür programları",
+      "location": "Kocaeli, Türkiye",
+      "frequency": "94.9 FM",
+      "enabled": true,
+      "logo": "https://www.radyoki.net/wp-content/uploads/2024/08/cropped-renklilogo_arkasi_bos.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radyo-gunes-94-8",
+      "name": "Radyo Güneş 94.8",
+      "urls": [
+        "https://stream.turkiyeradyolari.com:9390/stream"
+      ],
+      "website": "https://www.radyogunes.com/",
+      "content": "Türkçe pop, arabesk ve yerel programlar",
+      "location": "İnegöl, Bursa, Türkiye",
+      "frequency": "94.8 FM",
+      "enabled": true,
+      "logo": "https://www.radyogunes.com/wp-content/uploads/2021/09/10923552_962158517147350_489955759483297597_n.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "narlidere-fm",
+      "name": "Narlıdere FM",
+      "urls": [
+        "https://anadolu.liderhost.com.tr:9226/stream"
+      ],
+      "website": "https://narliderefm.com/",
+      "content": "Türkçe pop ve karışık müzik",
+      "location": "Narlıdere, İzmir, Türkiye",
+      "enabled": true,
+      "logo": "https://narliderefm.com/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "catalca-fm-huzur-city",
+      "name": "Çatalca FM Huzur City",
+      "urls": [
+        "https://anadolu.liderhost.com.tr/8062/stream/"
+      ],
+      "website": "https://catalcafm.com/",
+      "content": "Türkçe pop, arabesk ve karışık müzik",
+      "location": "Çatalca, İstanbul, Türkiye",
+      "enabled": true,
+      "logo": "https://catalcafm.com/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "dedikodu-fm",
+      "name": "Dedikodu FM",
+      "urls": [
+        "https://yayin.dedikodufm.com:8010/stream"
+      ],
+      "website": "https://dedikodufm.com/",
+      "content": "Türkçe pop ve eğlence",
+      "location": "Ayvacık, Samsun, Türkiye",
+      "enabled": true,
+      "logo": "https://nova-premium.rshsoft.com.tr/uploads/brand/20260915120956-b1ac8a2de629.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radyo-ak-92-7",
+      "name": "Radyo AK 92.7",
+      "urls": [
+        "https://radyo.yayin.com.tr:8026/",
+        "https://radyo.yayin.com.tr:8026/mp3"
+      ],
+      "website": "https://radyoak.com.tr/",
+      "content": "Türkçe pop, arabesk, Türk halk ve Türk sanat müziği",
+      "location": "Edirne, Türkiye",
+      "frequency": "92.7 FM",
+      "enabled": true,
+      "logo": "https://www.canliradyodinle.fm/wp-content/uploads/radyo-ak.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "la-marka-90-9",
+      "name": "La Marka 90.9",
+      "urls": [
+        "https://ddycmnicl95kp.cloudfront.net/live/f3y84xkbyy24/master.m3u8"
+      ],
+      "website": "https://www.nicaradios.com.ni/radios/la-marka/",
+      "content": "Latin pop, reggaeton ve hit müzik",
+      "location": "Managua, Nikaragua",
+      "frequency": "90.9 FM",
+      "enabled": true,
+      "logo": "https://alba-ni-nicaradios.cdn.mediatiquepress.com/wp-content/uploads/2026/04/LA-MARKA-IMG-PLAYER.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "amante-96-3",
+      "name": "Amante 96.3",
+      "urls": [
+        "https://ddycmnicl95kp.cloudfront.net/live/6mxcfzpkl50l/master.m3u8"
+      ],
+      "website": "https://www.nicaradios.com.ni/radios/amante/",
+      "content": "Romantik Latin müziği ve baladlar",
+      "location": "Nikaragua",
+      "frequency": "96.3 FM",
+      "enabled": true,
+      "logo": "https://alba-ni-nicaradios.cdn.mediatiquepress.com/wp-content/uploads/2026/03/radio-amante-poster.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "emisora-ejercito-colombia",
+      "name": "Emisora Ejército",
+      "urls": [
+        "https://radiolatina.info/8154/stream"
+      ],
+      "website": "https://www.emisoraejercito.mil.co/",
+      "content": "Kolombiya müziği, kültür ve kurumsal programlar",
+      "location": "Bogotá, Kolombiya",
+      "enabled": true,
+      "logo": "https://www.emisoraejercito.mil.co/og.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "capital-radio-1250-am",
+      "name": "Capital Radio 1250 AM",
+      "urls": [
+        "https://radiolatina.info/9322/stream"
+      ],
+      "website": "https://1250amcapitalradio.com/",
+      "content": "Latin müziği, kültür ve genel programlar",
+      "location": "Bogotá, Kolombiya",
+      "frequency": "1250 AM",
+      "enabled": true,
+      "logo": "https://1250amcapitalradio.com/wp-content/uploads/2024/05/Logo-Radio-Capital-1.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "kalamary-radio-cultural",
+      "name": "Kalamary Radio Cultural",
+      "urls": [
+        "https://stream.zeno.fm/clxflencimitv"
+      ],
+      "website": "https://www.kalamaryradio.com/",
+      "content": "Latin müziği, kültür ve toplumsal programlar",
+      "location": "Bogotá, Kolombiya",
+      "enabled": true,
+      "logo": "https://blogger.googleusercontent.com/img/a/AVvXsEhwL9fJEEf-Esh_WYrlSVCmGbjN3zj8Um64pxg70_jXwfoiNEWITpORVxs1eB69bt-on3mp0KPiZ6I0YuwwIVj0B_YJRK5hTlJZmzMAtW6yDvyRHfbuouczVeC4_-WzmwcwAZwG_k98sru1sAiHRy0dXzcGfJE0gRCgpFK9NiBMEe_oa0v3Ryq6QKDz7jPS=w800",
+      "newlyAdded": true
+    },
+    {
+      "id": "bahia-fm-88-7",
+      "name": "Bahia FM 88.7",
+      "urls": [
+        "https://ice.fabricahost.com.br/radiobahiafm"
+      ],
+      "website": "https://www.ibahia.com/mundobahiafm?d=1",
+      "content": "Brezilya popu, pagode ve eğlence",
+      "location": "Salvador, Bahia, Brezilya",
+      "frequency": "88.7 FM",
+      "enabled": true,
+      "logo": "https://ibahia.com/themes/default/assets/img/ibahia_opengraph.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "89-a-radio-rock-sao-paulo",
+      "name": "89 A Rádio Rock",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_89FM_ADP.aac?dist=site-89fm"
+      ],
+      "website": "https://www.radiorock.com.br/",
+      "content": "Rock ve alternatif rock",
+      "location": "São Paulo, Brezilya",
+      "frequency": "89.1 FM",
+      "enabled": true,
+      "logo": "https://www.radiorock.com.br/storage/seo/logo_89fm.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "tropical-fm-107-9",
+      "name": "Tropical FM 107.9",
+      "urls": [
+        "https://stream2.svrdedicado.org/8096/stream",
+        "https://stream2.svrdedicado.org/8500/stream"
+      ],
+      "website": "https://www.tropical.fm/",
+      "content": "Brezilya popu, sertanejo ve hit müzik",
+      "location": "São Paulo, Brezilya",
+      "frequency": "107.9 FM",
+      "enabled": true,
+      "logo": "https://www.tropical.fm/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "band-fm-sao-paulo-96-1",
+      "name": "Band FM 96.1",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/BANDFM_SPAAC"
+      ],
+      "website": "https://www.band.uol.com.br/band-fm",
+      "content": "Brezilya popu ve popüler müzik",
+      "location": "São Paulo, Brezilya",
+      "frequency": "96.1 FM",
+      "enabled": true,
+      "logo": "https://img.radios.com.br/radio/lg/radio10358_1526480428.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "kiss-fm-sao-paulo",
+      "name": "Kiss FM São Paulo",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KISSFMAAC.aac"
+      ],
+      "website": "https://kissfm.com.br/",
+      "content": "Rock ve klasik rock",
+      "location": "São Paulo, Brezilya",
+      "frequency": "92.5 FM",
+      "enabled": true,
+      "logo": "https://kissfm.com.br/wp-content/uploads/2023/05/logo-kiss-fm.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "fm-o-dia-100-5",
+      "name": "FM O Dia 100.5",
+      "urls": [
+        "http://streaming.livespanel.com:20000/live"
+      ],
+      "website": "https://www.fmodia.com.br/",
+      "content": "Pagode, samba, funk ve Brezilya hitleri",
+      "location": "Rio de Janeiro, Brezilya",
+      "frequency": "100.5 FM",
+      "enabled": true,
+      "logo": "https://www.fmodia.com.br/wp-content/uploads/2024/05/fmodia-alegria-que-irradia.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-livre-am",
+      "name": "Rádio Livre AM",
+      "urls": [
+        "https://cast2.midiazdx.com.br:7076/stream",
+        "https://cs4.midiazdx.com.br/7076/7076/playlist.m3u8"
+      ],
+      "website": "https://radiolivream.com.br/",
+      "content": "Brezilya müziği ve genel programlar",
+      "location": "Brezilya",
+      "enabled": true,
+      "logo": "https://radiolivream.com.br/admin/midia/47ab2155c2ca2743d9e8264d72e78245.png?_464",
+      "newlyAdded": true
+    },
+    {
+      "id": "planeta-reggae",
+      "name": "Planeta Reggae",
+      "urls": [
+        "https://stream3.svrdedicado.org:8302/stream",
+        "https://servidor13.brlogic.com:7020/live"
+      ],
+      "website": "https://planetareggae.com.br/",
+      "content": "Reggae ve roots reggae",
+      "location": "Rio de Janeiro, Brezilya",
+      "enabled": true,
+      "logo": "http://planetareggae.com.br/wp-content/uploads/2022/01/logo-oficial-2.png",
       "newlyAdded": true
     }
   ],
