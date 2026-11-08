@@ -140,9 +140,10 @@ jobs:
               if missing:
                   raise SystemExit("Yeni kanalın Cloudflare logosu için görsel dosyası da logos/ klasöründe olmalı:\n- " + "\n- ".join(missing))
 
-              # On a push, upload only logo files changed in that commit. A manual
-              # workflow run uploads every logo file in logos/ for recovery.
-              if event_name == "workflow_dispatch":
+              # Katalog değiştiğinde depodaki bütün hazır logoları yeniden gönder.
+              # Böylece önceki bir Cloudflare hatasından sonra logo dosyaları
+              # commit geçmişinde kalsa bile sonraki katalog aktarımı onları onarır.
+              if event_name == "workflow_dispatch" or "stations.json" in changed_paths:
                   upload_files = source_files
               else:
                   upload_files = [path for path in source_files if path.as_posix() in changed_paths]

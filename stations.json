@@ -15523,7 +15523,7 @@
       "website": "https://realhardstyle.nl/",
       "content": "Early, euphoric, raw ve klasik hardstyle; freestyle",
       "location": "Kuzey Brabant, Hollanda",
-      "logo": "https://realhardstyle.nl/wp-content/uploads/2020/11/cropped-Real-Hardstyle-website-logo-icon.png",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/real_hardstyle_radio.webp",
       "newlyAdded": false
     },
     {
@@ -18311,7 +18311,7 @@
       "location": "Asunción, Paraguay",
       "frequency": "95.5 FM",
       "enabled": true,
-      "logo": "https://www.rockandpop.com.py/favicon.ico",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/rock_pop_paraguay.webp",
       "newlyAdded": false
     },
     {
@@ -18324,7 +18324,7 @@
       "content": "Bolivya rock, metal, punk, pop ve hip hop",
       "location": "Cochabamba, Bolivya",
       "enabled": true,
-      "logo": "https://www.elfindelsilencio.com/favicon.ico",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/el_fin_del_silencio.webp",
       "newlyAdded": false
     },
     {
@@ -18339,7 +18339,7 @@
       "location": "Buenos Aires, Arjantin",
       "frequency": "104.3 FM",
       "enabled": true,
-      "logo": "https://urbanaplayfm.com/favicon.ico",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/urbana_play_104_3.webp",
       "newlyAdded": false
     },
     {
@@ -18542,7 +18542,7 @@
       "content": "Müzik, kültür, haber ve genel programlar",
       "location": "Cochabamba, Bolivya",
       "enabled": true,
-      "logo": "https://grupocentro.com.bo/assets/png/BlancoSVG.svg",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/grupo_centro_cochabamba.webp",
       "newlyAdded": false
     },
     {
@@ -18572,7 +18572,7 @@
       "frequency": "94.9 FM",
       "enabled": true,
       "logo": "https://www.radyoki.net/wp-content/uploads/2024/08/cropped-renklilogo_arkasi_bos.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radyo-gunes-94-8",
@@ -18586,7 +18586,7 @@
       "frequency": "94.8 FM",
       "enabled": true,
       "logo": "https://www.radyogunes.com/wp-content/uploads/2021/09/10923552_962158517147350_489955759483297597_n.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "narlidere-fm",
@@ -18598,8 +18598,8 @@
       "content": "Türkçe pop ve karışık müzik",
       "location": "Narlıdere, İzmir, Türkiye",
       "enabled": true,
-      "logo": "https://narliderefm.com/favicon.ico",
-      "newlyAdded": true
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/narlidere_fm.webp",
+      "newlyAdded": false
     },
     {
       "id": "catalca-fm-huzur-city",
@@ -18612,7 +18612,7 @@
       "location": "Çatalca, İstanbul, Türkiye",
       "enabled": true,
       "logo": "https://catalcafm.com/favicon.ico",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "dedikodu-fm",
@@ -18624,8 +18624,8 @@
       "content": "Türkçe pop ve eğlence",
       "location": "Ayvacık, Samsun, Türkiye",
       "enabled": true,
-      "logo": "https://nova-premium.rshsoft.com.tr/uploads/brand/20260915120956-b1ac8a2de629.png",
-      "newlyAdded": true
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/dedikodu_fm.webp",
+      "newlyAdded": false
     },
     {
       "id": "radyo-ak-92-7",
@@ -18640,7 +18640,7 @@
       "frequency": "92.7 FM",
       "enabled": true,
       "logo": "https://www.canliradyodinle.fm/wp-content/uploads/radyo-ak.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "la-marka-90-9",
@@ -18654,7 +18654,7 @@
       "frequency": "90.9 FM",
       "enabled": true,
       "logo": "https://alba-ni-nicaradios.cdn.mediatiquepress.com/wp-content/uploads/2026/04/LA-MARKA-IMG-PLAYER.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "amante-96-3",
@@ -18668,7 +18668,7 @@
       "frequency": "96.3 FM",
       "enabled": true,
       "logo": "https://alba-ni-nicaradios.cdn.mediatiquepress.com/wp-content/uploads/2026/03/radio-amante-poster.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "emisora-ejercito-colombia",
@@ -18681,7 +18681,7 @@
       "location": "Bogotá, Kolombiya",
       "enabled": true,
       "logo": "https://www.emisoraejercito.mil.co/og.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "capital-radio-1250-am",
@@ -18695,7 +18695,7 @@
       "frequency": "1250 AM",
       "enabled": true,
       "logo": "https://1250amcapitalradio.com/wp-content/uploads/2024/05/Logo-Radio-Capital-1.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "kalamary-radio-cultural",
@@ -18708,7 +18708,7 @@
       "location": "Bogotá, Kolombiya",
       "enabled": true,
       "logo": "https://blogger.googleusercontent.com/img/a/AVvXsEhwL9fJEEf-Esh_WYrlSVCmGbjN3zj8Um64pxg70_jXwfoiNEWITpORVxs1eB69bt-on3mp0KPiZ6I0YuwwIVj0B_YJRK5hTlJZmzMAtW6yDvyRHfbuouczVeC4_-WzmwcwAZwG_k98sru1sAiHRy0dXzcGfJE0gRCgpFK9NiBMEe_oa0v3Ryq6QKDz7jPS=w800",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "bahia-fm-88-7",
@@ -18722,7 +18722,7 @@
       "frequency": "88.7 FM",
       "enabled": true,
       "logo": "https://ibahia.com/themes/default/assets/img/ibahia_opengraph.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "89-a-radio-rock-sao-paulo",
@@ -18736,7 +18736,7 @@
       "frequency": "89.1 FM",
       "enabled": true,
       "logo": "https://www.radiorock.com.br/storage/seo/logo_89fm.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "tropical-fm-107-9",
@@ -18751,7 +18751,7 @@
       "frequency": "107.9 FM",
       "enabled": true,
       "logo": "https://www.tropical.fm/favicon.ico",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "band-fm-sao-paulo-96-1",
@@ -18765,7 +18765,7 @@
       "frequency": "96.1 FM",
       "enabled": true,
       "logo": "https://img.radios.com.br/radio/lg/radio10358_1526480428.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "kiss-fm-sao-paulo",
@@ -18778,8 +18778,8 @@
       "location": "São Paulo, Brezilya",
       "frequency": "92.5 FM",
       "enabled": true,
-      "logo": "https://kissfm.com.br/wp-content/uploads/2023/05/logo-kiss-fm.png",
-      "newlyAdded": true
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/kiss_fm_sao_paulo.webp",
+      "newlyAdded": false
     },
     {
       "id": "fm-o-dia-100-5",
@@ -18793,7 +18793,7 @@
       "frequency": "100.5 FM",
       "enabled": true,
       "logo": "https://www.fmodia.com.br/wp-content/uploads/2024/05/fmodia-alegria-que-irradia.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-livre-am",
@@ -18807,7 +18807,7 @@
       "location": "Brezilya",
       "enabled": true,
       "logo": "https://radiolivream.com.br/admin/midia/47ab2155c2ca2743d9e8264d72e78245.png?_464",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "planeta-reggae",
@@ -18821,6 +18821,838 @@
       "location": "Rio de Janeiro, Brezilya",
       "enabled": true,
       "logo": "http://planetareggae.com.br/wp-content/uploads/2022/01/logo-oficial-2.png",
+      "newlyAdded": false
+    },
+    {
+      "id": "radyo-soma-fm",
+      "name": "Radyo Soma FM",
+      "urls": [
+        "https://stream1.radyopoint.com/soma-fm"
+      ],
+      "website": "https://radyosomafm.com/",
+      "content": "Türkçe pop ve karışık müzik",
+      "location": "Manisa, Türkiye",
+      "enabled": true,
+      "logo": "https://radyosomafm.com/pwa-512x512.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "sevtek-fm",
+      "name": "Sevtek FM",
+      "urls": [
+        "https://sevtekfm.ozelip.com/8020/stream"
+      ],
+      "website": "https://sevtekfm.com/",
+      "content": "Türkçe pop ve karışık müzik",
+      "location": "Türkiye",
+      "enabled": true,
+      "logo": "https://sevtekfm.com/images/enustsag.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "yalvac-medya-radyo",
+      "name": "Yalvaç Medya Radyo",
+      "urls": [
+        "https://yalvacme.80.yayin.com.tr/stream?sid=1",
+        "http://5.9.155.141:5110/stream"
+      ],
+      "website": "https://yalvacmedya.com.tr/radyo.php",
+      "content": "Yerel müzik ve programlar",
+      "location": "Yalvaç, Isparta, Türkiye",
+      "enabled": true,
+      "logo": "https://yalvacmedya.com.tr/uploads/logo.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "gurbetci-fm",
+      "name": "Gurbetçi FM",
+      "urls": [
+        "https://live.radyositesihazir.com/8062/stream"
+      ],
+      "website": "https://gurbetcifm.com/anasayfa",
+      "content": "Türkçe müzik",
+      "location": "Türkiye",
+      "enabled": true,
+      "logo": "https://gurbetcifm.com/panel/uploads/reference_v/555x343/gurbetci-logo.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "radyo-guven-106",
+      "name": "Radyo Güven 106.0",
+      "urls": [
+        "https://radyo.yayin.com.tr:4098/stream"
+      ],
+      "website": "https://asradyotv.com.tr/",
+      "content": "Yerel müzik ve programlar",
+      "location": "Türkiye",
+      "frequency": "106.0 FM",
+      "enabled": true,
+      "logo": "https://www.asradyotv.com.tr/png.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radyo-flas",
+      "name": "Radyo Flaş",
+      "urls": [
+        "https://radyo.yayindakiler.com:4096/"
+      ],
+      "website": "https://radyoflas.com/",
+      "content": "Türkçe pop ve yerel programlar",
+      "location": "Türkiye",
+      "enabled": true,
+      "logo": "https://radyoflas.com/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "radyo-20-denizli",
+      "name": "Radyo 20 Denizli",
+      "urls": [
+        "https://stream.radyo20.com/live"
+      ],
+      "website": "https://www.radyo20.com/",
+      "content": "Türkçe pop ve yerel programlar",
+      "location": "Denizli, Türkiye",
+      "frequency": "91.8 FM",
+      "enabled": true,
+      "logo": "https://radyo20.com/logo.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "k1k4-radio",
+      "name": "K1K4 Radio",
+      "urls": [
+        "https://radyo1.radyo-dinle.tc:7055/stream.mp3"
+      ],
+      "website": "https://www.k1k4radio.com/",
+      "content": "Türkçe ve karışık müzik",
+      "location": "Türkiye",
+      "enabled": true,
+      "logo": "https://www.k1k4radio.com/wp-content/uploads/2020/05/ALBUM-14-150x150.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "bursada-bugun-radyo",
+      "name": "Bursa’da Bugün Radyo",
+      "urls": [
+        "https://radyo.bursadabugun.com/stream"
+      ],
+      "website": "https://www.bursadabugun.com/radyo",
+      "content": "Türkçe pop ve yerel programlar",
+      "location": "Bursa, Türkiye",
+      "frequency": "94.2 FM",
+      "enabled": true,
+      "logo": "https://www.bursadabugun.com/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "radyo-bu-95-4",
+      "name": "Radyo BU 95.4",
+      "urls": [
+        "https://radyo.yayindakiler.com:8006/stream.mp3"
+      ],
+      "website": "https://www.radyobu.com/",
+      "content": "Üniversite radyosu ve karışık müzik",
+      "location": "Bursa, Türkiye",
+      "frequency": "95.4 FM",
+      "enabled": true,
+      "logo": "https://www.radyobu.com/assets/logo.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radyo-canakkale",
+      "name": "Radyo Çanakkale",
+      "urls": [
+        "https://radyo2.fkbs.com.tr/8018/stream"
+      ],
+      "website": "https://radyocanakkale.net/",
+      "content": "Türkçe pop ve yerel programlar",
+      "location": "Çanakkale, Türkiye",
+      "enabled": true,
+      "logo": "https://radyocanakkale.net/wp-content/uploads/2026/11/Maksimum-Kalite-Pozitif-Enerji-1.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "comu-kampus-fm",
+      "name": "ÇOMÜ Kampüs FM",
+      "urls": [
+        "http://193.255.97.57/;.stream/"
+      ],
+      "website": "https://radyo.comu.edu.tr/",
+      "content": "Üniversite radyosu ve karışık müzik",
+      "location": "Çanakkale, Türkiye",
+      "frequency": "104.7 FM",
+      "enabled": true,
+      "logo": "https://radyo.comu.edu.tr/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "magic-malta",
+      "name": "Magic Malta",
+      "urls": [
+        "https://s46.myradiostream.com:6076/stream"
+      ],
+      "website": "https://magic.mt/",
+      "content": "Pop ve hit müzik",
+      "location": "Malta",
+      "frequency": "91.7 FM",
+      "enabled": true,
+      "logo": "https://magic.mt/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "bay-easy",
+      "name": "Bay Easy",
+      "urls": [
+        "https://stream.v3.network/proxy/easy/stream.mp3"
+      ],
+      "website": "https://bayeasy.mt/",
+      "content": "Easy listening ve pop",
+      "location": "Malta",
+      "frequency": "100.2 FM",
+      "enabled": true,
+      "logo": "https://bayeasy.mt/wp-content/uploads/2023/07/BayEasy_BLU-copy.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "smash-radio-malta",
+      "name": "Smash Radio Malta",
+      "urls": [
+        "https://headend.smashmalta.com/smashradio1046fm"
+      ],
+      "website": "https://smashmalta.com/radio",
+      "content": "Pop ve hit müzik",
+      "location": "Malta",
+      "frequency": "104.6 FM",
+      "enabled": true,
+      "logo": "https://img1.wsimg.com/isteam/ip/91d6066d-0a45-408b-b43f-82472fa95aae/Smash%20Radio%20104.6FM%20Vertical.png/:/rs=w:400",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-amore",
+      "name": "Radio Amore",
+      "urls": [
+        "https://stream10.xdevel.com/audio8s977886-2322/stream/icecast.audio"
+      ],
+      "website": "https://www.grupporadioamore.it/",
+      "content": "İtalyan popu ve romantik müzik",
+      "location": "İtalya",
+      "enabled": true,
+      "logo": "https://www.grupporadioamore.it/images/stories/loghi/radio_amore.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-amore-blu",
+      "name": "Radio Amore Blu",
+      "urls": [
+        "https://stream10.xdevel.com/audio4s977886-2318/stream/icecast.audio"
+      ],
+      "website": "https://www.grupporadioamore.it/",
+      "content": "İtalyan popu ve romantik müzik",
+      "location": "İtalya",
+      "enabled": true,
+      "logo": "https://www.grupporadioamore.it/images/stories/loghi/radio_amore_blu.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-amore-dance",
+      "name": "Radio Amore Dance",
+      "urls": [
+        "https://stream10.xdevel.com/audio5s977886-2319/stream/icecast.audio"
+      ],
+      "website": "https://www.grupporadioamore.it/",
+      "content": "Dans ve elektronik müzik",
+      "location": "İtalya",
+      "enabled": true,
+      "logo": "https://www.grupporadioamore.it/images/stories/loghi/radio_amore_dance.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-amore-italia",
+      "name": "Radio Amore Italia",
+      "urls": [
+        "https://stream10.xdevel.com/audio6s977886-2320/stream/icecast.audio"
+      ],
+      "website": "https://www.grupporadioamore.it/",
+      "content": "İtalyan müziği",
+      "location": "İtalya",
+      "enabled": true,
+      "logo": "https://www.grupporadioamore.it/images/stories/loghi/radio_amore_italia.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-amore-i-migliori-anni",
+      "name": "Radio Amore I Migliori Anni",
+      "urls": [
+        "https://stream10.xdevel.com/audio7s977886-2321/stream/icecast.audio"
+      ],
+      "website": "https://www.grupporadioamore.it/",
+      "content": "İtalyan nostalji müziği",
+      "location": "İtalya",
+      "enabled": true,
+      "logo": "https://www.grupporadioamore.it/images/stories/loghi/radio_amore_i_migliori_anni.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-margherita",
+      "name": "Radio Margherita",
+      "urls": [
+        "https://streaming.radiomargherita.com/stream/radiomargherita"
+      ],
+      "website": "https://www.radiomargherita.com/",
+      "content": "İtalyan müziği",
+      "location": "İtalya",
+      "enabled": true,
+      "logo": "https://www.radiomargherita.com/wp-content/uploads/2017/12/logo_streaming.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radiofreccia",
+      "name": "Radiofreccia",
+      "urls": [
+        "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_audio.m3u8"
+      ],
+      "website": "https://radiofreccia.rtl.it/",
+      "content": "Rock müzik",
+      "location": "İtalya",
+      "enabled": true,
+      "logo": "https://radiofreccia.rtl.it/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-azzurra-tv",
+      "name": "Radio Azzurra TV",
+      "urls": [
+        "https://ssl1.azotosolutions.com:1040/stream"
+      ],
+      "website": "https://radioazzurratv.it/",
+      "content": "İtalyan popu ve yerel programlar",
+      "location": "İtalya",
+      "enabled": true,
+      "logo": "https://radioazzurratv.it/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-flash-italy",
+      "name": "Radio Flash",
+      "urls": [
+        "https://stream2.xdevel.com/audio5s194-48/stream/icecast.audio"
+      ],
+      "website": "https://www.radioflash.fm/",
+      "content": "Pop, dance ve hit müzik",
+      "location": "İtalya",
+      "enabled": true,
+      "logo": "https://www.radioflash.fm/wp-content/uploads/2025/09/RADIO-FLASH-_-COPERTINA-SITO-2.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-norba",
+      "name": "Radio Norba",
+      "urls": [
+        "http://onair20.xdevel.com:8348/;"
+      ],
+      "website": "https://radionorba.it/",
+      "content": "İtalyan popu ve hit müzik",
+      "location": "İtalya",
+      "enabled": true,
+      "logo": "https://radionorba.it/wp-content/uploads/2021/04/logo-radio-norba-2021.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-102-italy",
+      "name": "Radio 102",
+      "urls": [
+        "https://ssl5.azotosolutions.com:1028/stream"
+      ],
+      "website": "https://www.radio102.it/",
+      "content": "İtalyan popu ve hit müzik",
+      "location": "İtalya",
+      "enabled": true,
+      "logo": "https://www.radio102.it/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-1-rock-slovenia",
+      "name": "Radio 1 Rock",
+      "urls": [
+        "https://live.radio.si/Radio1Rock"
+      ],
+      "website": "https://radio1rock.si/",
+      "content": "Rock müzik",
+      "location": "Slovenya",
+      "enabled": true,
+      "logo": "https://datacache.radio.si/api/radiostations/logo/radio1rock.svg",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-1-80s-slovenia",
+      "name": "Radio 1 80-a",
+      "urls": [
+        "https://live.radio.si/Radio80"
+      ],
+      "website": "https://radio80.si/",
+      "content": "80’ler müziği",
+      "location": "Slovenya",
+      "enabled": true,
+      "logo": "https://media.radio1.si/logo80.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "antena-zagreb",
+      "name": "Antena Zagreb",
+      "urls": [
+        "http://live.antenazagreb.hr:8000/;"
+      ],
+      "website": "https://www.antenazagreb.hr/",
+      "content": "Pop ve hit müzik",
+      "location": "Zagreb, Hırvatistan",
+      "enabled": true,
+      "logo": "https://www.antenazagreb.hr/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "extra-fm-croatia",
+      "name": "Extra FM",
+      "urls": [
+        "https://relay2.social3.hr/radio/8190/radio.mp3"
+      ],
+      "website": "https://extrafm.hr/",
+      "content": "Balkan popu ve hit müzik",
+      "location": "Hırvatistan",
+      "enabled": true,
+      "logo": "https://extrafm.hr/sw-content/themes/sw/img/extrafm-2.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "happy-fm-croatia",
+      "name": "Happy FM",
+      "urls": [
+        "http://c5.hostingcentar.com:9543/stream?1820"
+      ],
+      "website": "https://happyfm.hr/",
+      "content": "Pop ve hit müzik",
+      "location": "Hırvatistan",
+      "enabled": true,
+      "logo": "https://happyfm.hr/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-101-croatia",
+      "name": "Radio 101",
+      "urls": [
+        "https://live.radio101.hr:9531/stream.mp3"
+      ],
+      "website": "https://radio101.hr/",
+      "content": "Rock ve alternatif müzik",
+      "location": "Zagreb, Hırvatistan",
+      "enabled": true,
+      "logo": "https://radio101.hr/wp-content/uploads/2025/06/Logo-bijeli-101-265x300-1.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "antena-sarajevo",
+      "name": "Antena Sarajevo",
+      "urls": [
+        "https://stream.rsgmedia.ba/listen/antena_sarajevo/radio.mp3"
+      ],
+      "website": "https://radio.antena.ba/",
+      "content": "Pop ve hit müzik",
+      "location": "Saraybosna, Bosna-Hersek",
+      "enabled": true,
+      "logo": "https://radio.antena.ba/static/assets/apple-touch-icon.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "big-radio-1",
+      "name": "BIG Radio 1",
+      "urls": [
+        "http://big1.bigportal.ba:8100/big1"
+      ],
+      "website": "https://bigportal.ba/",
+      "content": "Pop ve karışık müzik",
+      "location": "Banja Luka, Bosna-Hersek",
+      "enabled": true,
+      "logo": "https://bigportal.ba/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "big-radio-2",
+      "name": "BIG Radio 2",
+      "urls": [
+        "https://big2.bigportal.ba:8080/big2"
+      ],
+      "website": "https://bigportal.ba/",
+      "content": "Pop ve karışık müzik",
+      "location": "Banja Luka, Bosna-Hersek",
+      "enabled": true,
+      "logo": "https://bigportal.ba/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "big-radio-domacica",
+      "name": "BIG Radio Domaćica",
+      "urls": [
+        "http://domacica.bigportal.ba:8100/domacica"
+      ],
+      "website": "https://bigportal.ba/",
+      "content": "Balkan halk müziği",
+      "location": "Bosna-Hersek",
+      "enabled": true,
+      "logo": "https://bigportal.ba/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "tnt-radio-bosnia",
+      "name": "TNT Radio",
+      "urls": [
+        "https://radio.tnt.ba:8020/live"
+      ],
+      "website": "https://tntradio.ba/",
+      "content": "Pop ve yerel programlar",
+      "location": "Bosna-Hersek",
+      "enabled": true,
+      "logo": "https://tntradio.ba/wp-content/uploads/2020/05/tnt-radio-logo-512x512-ong-e1699947420335.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-sol-albania",
+      "name": "Radio Sol 89.0",
+      "urls": [
+        "https://cp1.sednastream.com/proxy/radiosol/stream"
+      ],
+      "website": "https://radiosol.al/",
+      "content": "Pop ve hit müzik",
+      "location": "Arnavutluk",
+      "frequency": "89.0 FM",
+      "enabled": true,
+      "logo": "https://radiosol.al/wp-content/uploads/2021/10/RSOL_Logo.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "shqip-fm",
+      "name": "Shqip FM",
+      "urls": [
+        "https://cp1.sednastream.com/proxy/radioshqip/stream"
+      ],
+      "website": "https://shqipfm.al/",
+      "content": "Arnavut müziği",
+      "location": "Arnavutluk",
+      "enabled": true,
+      "logo": "https://shqipfm.al/brand/og.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-one-albania",
+      "name": "Radio One Albania",
+      "urls": [
+        "https://cp1.sednastream.com/proxy/radioone94?mp=/stream"
+      ],
+      "website": "https://www.radioone.al/",
+      "content": "Pop ve hit müzik",
+      "location": "Arnavutluk",
+      "enabled": true,
+      "logo": "https://www.radioone.al/assets/logo.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "my-music-radio-albania",
+      "name": "My Music Radio",
+      "urls": [
+        "https://live.top-media.al/mmr"
+      ],
+      "website": "https://www.topalbaniaradio.com/v7/live/mymusicradio/",
+      "content": "Pop ve hit müzik",
+      "location": "Arnavutluk",
+      "enabled": true,
+      "logo": "https://www.google.com/s2/favicons?domain=topalbaniaradio.com&sz=256",
+      "newlyAdded": true
+    },
+    {
+      "id": "club-fm-albania",
+      "name": "Club FM Albania",
+      "urls": [
+        "https://cp1.sednastream.com/proxy/clubfm/stream"
+      ],
+      "website": "https://clubfm.al/",
+      "content": "Dance, pop ve hit müzik",
+      "location": "Arnavutluk",
+      "enabled": true,
+      "logo": "https://clubfm.al/wp-content/uploads/2022/01/Radio-ClubFM-Kape-radion-2.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "asia-dream-japan-hits",
+      "name": "Asia DREAM Radio - Japan Hits",
+      "urls": [
+        "https://quincy.torontocast.com:2020/stream"
+      ],
+      "website": "https://asiadreamradio.torontocast.stream/stations/en/",
+      "content": "Japon pop ve hit müzik",
+      "location": "Japonya / Kanada",
+      "enabled": true,
+      "logo": "https://asiadreamradio.torontocast.stream/stations/en/images/en/DEE67138953B4DBC86037E1AF6DEBBB6/japanhits.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "asia-dream-jpop-powerplay",
+      "name": "Asia DREAM Radio - J-Pop Powerplay",
+      "urls": [
+        "https://kathy.torontocast.com:3560/stream"
+      ],
+      "website": "https://asiadreamradio.torontocast.stream/stations/en/",
+      "content": "J-Pop",
+      "location": "Japonya / Kanada",
+      "enabled": true,
+      "logo": "https://asiadreamradio.torontocast.stream/stations/en/images/en/421173E9B37A442498AC9F215CA25971/powerplayjpop16-p-15.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "asia-dream-jpop-kawaii",
+      "name": "Asia DREAM Radio - J-Pop Powerplay Kawaii",
+      "urls": [
+        "https://kathy.torontocast.com:3060/stream"
+      ],
+      "website": "https://asiadreamradio.torontocast.stream/stations/en/",
+      "content": "Kawaii J-Pop",
+      "location": "Japonya / Kanada",
+      "enabled": true,
+      "logo": "https://asiadreamradio.torontocast.stream/stations/en/images/en/DEE67138953B4DBC86037E1AF6DEBBB6/ppkawaii.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "asia-dream-jpop-sakura",
+      "name": "Asia DREAM Radio - J-Pop Sakura",
+      "urls": [
+        "https://quincy.torontocast.com:2070/stream"
+      ],
+      "website": "https://asiadreamradio.torontocast.stream/stations/en/",
+      "content": "Nostaljik J-Pop",
+      "location": "Japonya / Kanada",
+      "enabled": true,
+      "logo": "https://asiadreamradio.torontocast.stream/stations/en/images/en/421173E9B37A442498AC9F215CA25971/natsukashii-p-13.jpeg",
+      "newlyAdded": true
+    },
+    {
+      "id": "asia-dream-jrock-powerplay",
+      "name": "Asia DREAM Radio - J-Rock Powerplay",
+      "urls": [
+        "https://kathy.torontocast.com:3340/stream"
+      ],
+      "website": "https://asiadreamradio.torontocast.stream/stations/en/",
+      "content": "J-Rock",
+      "location": "Japonya / Kanada",
+      "enabled": true,
+      "logo": "https://asiadreamradio.torontocast.stream/stations/en/images/en/DEE67138953B4DBC86037E1AF6DEBBB6/jrockpowerplay-2.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "asia-dream-jclub-hiphop",
+      "name": "Asia DREAM Radio - J-Club Powerplay HipHop",
+      "urls": [
+        "https://kathy.torontocast.com:3350/stream"
+      ],
+      "website": "https://asiadreamradio.torontocast.stream/stations/en/",
+      "content": "Japon hip hop ve club",
+      "location": "Japonya / Kanada",
+      "enabled": true,
+      "logo": "https://asiadreamradio.torontocast.stream/stations/en/images/en/DEE67138953B4DBC86037E1AF6DEBBB6/jclubhiphop.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "asia-dream-jazz-sakura",
+      "name": "Asia DREAM Radio - Jazz Sakura",
+      "urls": [
+        "https://kathy.torontocast.com:3330/stream"
+      ],
+      "website": "https://asiadreamradio.torontocast.stream/stations/en/",
+      "content": "Japon cazı ve caz",
+      "location": "Japonya / Kanada",
+      "enabled": true,
+      "logo": "https://asiadreamradio.torontocast.stream/stations/en/images/en/421173E9B37A442498AC9F215CA25971/JazzSakuraLogo2019.jpeg",
+      "newlyAdded": true
+    },
+    {
+      "id": "mersin-fm-104-6",
+      "name": "Mersin FM 104.6",
+      "urls": [
+        "http://stream.taksimbilisim.com:8038/"
+      ],
+      "website": "https://www.mersinfm.com/",
+      "content": "Türkçe pop ve yerel programlar",
+      "location": "Mersin, Türkiye",
+      "frequency": "104.6 FM",
+      "enabled": true,
+      "logo": "https://www.mersinfm.com/images/logo.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radyo-simav-haber",
+      "name": "Radyo Simav Haber",
+      "urls": [
+        "https://yayin.simavhaber.com/simav/stream"
+      ],
+      "website": "https://radyo.simavhaber.com/",
+      "content": "Yerel haber, müzik ve programlar",
+      "location": "Simav, Kütahya, Türkiye",
+      "enabled": true,
+      "logo": "https://radyo.simavhaber.com/img/icon/android-512x512.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "ak-mega-radyo-88-5",
+      "name": "AK Mega Radyo 88.5",
+      "urls": [
+        "http://yayin1.canliyayin.org:7078/stream"
+      ],
+      "website": "https://www.akmegaradyo.com/",
+      "content": "Türkçe müzik ve yerel programlar",
+      "location": "Akşehir, Konya, Türkiye",
+      "frequency": "88.5 FM",
+      "enabled": true,
+      "logo": "https://www.akmegaradyo.com/images/megafm-logo-stroke.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "ego-radyo",
+      "name": "EGO Radyo",
+      "urls": [
+        "https://radio.guventechnology.com/9372/stream"
+      ],
+      "website": "https://egoradyo.com/",
+      "content": "Türkçe pop ve karışık müzik",
+      "location": "Muğla, Türkiye",
+      "enabled": true,
+      "logo": "https://egoradyo.com/wp-content/uploads/2023/01/logo2-removebg-preview-1.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "paper-fm",
+      "name": "Paper FM",
+      "urls": [
+        "https://business.playfm.al:8040/paperplayprishtina"
+      ],
+      "website": "https://paper.fm/",
+      "content": "Elektronik, pop ve alternatif müzik",
+      "location": "Priştine, Kosova",
+      "frequency": "91.1 FM",
+      "enabled": true,
+      "logo": "https://paper.fm/wp-content/uploads/2024/12/cropped-PPL-192x192.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-m",
+      "name": "Radio M",
+      "urls": [
+        "https://team-data.ba:9030/play?sid=1"
+      ],
+      "website": "https://radiom.ba/bs/radio-m",
+      "content": "Pop ve hit müzik",
+      "location": "Saraybosna, Bosna-Hersek",
+      "enabled": true,
+      "logo": "https://radiom.ba/assets/photos/radio/big/1769506620-radio-m.jpg?v1779268635",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-m-plus",
+      "name": "Radio M Plus",
+      "urls": [
+        "https://team-data.ba:10000/play?sid=1"
+      ],
+      "website": "https://radiom.ba/bs/radio-m-plus",
+      "content": "Pop ve hit müzik",
+      "location": "Bosna-Hersek",
+      "enabled": true,
+      "logo": "https://radiom.ba/assets/photos/radio/big/1769506605-radio-m-plus.jpg?v1770631994",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-m-ex-yu",
+      "name": "Radio M Ex-Yu",
+      "urls": [
+        "https://team-data.ba:9034/play?sid=1"
+      ],
+      "website": "https://radiom.ba/bs/radio-m-ex-yu",
+      "content": "Eski Yugoslavya müziği",
+      "location": "Bosna-Hersek",
+      "enabled": true,
+      "logo": "https://radiom.ba/assets/photos/radio/big/1770631831-radio-m-background-ex-yu.png?v1770645176",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-m-evergreen",
+      "name": "Radio M Evergreen",
+      "urls": [
+        "https://team-data.ba:9038/play?sid=1"
+      ],
+      "website": "https://radiom.ba/bs/radio-m-evergreen",
+      "content": "Evergreen ve nostalji müziği",
+      "location": "Bosna-Hersek",
+      "enabled": true,
+      "logo": "https://radiom.ba/assets/photos/radio/big/1770631896-radio-m-background-evergreen.png?v1770645199",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-m-narodna",
+      "name": "Radio M Narodna",
+      "urls": [
+        "https://team-data.ba:9036/play?sid=1"
+      ],
+      "website": "https://radiom.ba/bs/radio-m-narodna",
+      "content": "Balkan halk müziği",
+      "location": "Bosna-Hersek",
+      "enabled": true,
+      "logo": "https://radiom.ba/assets/photos/radio/big/1770631948-radio-m-background-narodna.png?v1770645224",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-m-cafe",
+      "name": "Radio M Cafe",
+      "urls": [
+        "https://team-data.ba:9032/play?sid=1"
+      ],
+      "website": "https://radiom.ba/bs/radio-m-cafe",
+      "content": "Cafe ve dinlendirici müzik",
+      "location": "Bosna-Hersek",
+      "enabled": true,
+      "logo": "https://radiom.ba/assets/photos/radio/big/1770631988-radio-m-background-caffee.png?v1770645241",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-m-gym",
+      "name": "Radio M Gym",
+      "urls": [
+        "https://team-data.ba:9040/play?sid=1"
+      ],
+      "website": "https://radiom.ba/bs/radio-m-gym",
+      "content": "Spor ve enerjik müzik",
+      "location": "Bosna-Hersek",
+      "enabled": true,
+      "logo": "https://radiom.ba/assets/photos/radio/big/1770632028-radio-m-background-gym.png?v1770645253",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-m-kids",
+      "name": "Radio M Kids",
+      "urls": [
+        "https://team-data.ba:9050/play?sid=1"
+      ],
+      "website": "https://radiom.ba/bs/radio-m-kids",
+      "content": "Çocuk müziği",
+      "location": "Bosna-Hersek",
+      "enabled": true,
+      "logo": "https://radiom.ba/assets/photos/radio/big/1770632065-radio-m-background-kids.png?v1770645270",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-m-love-music",
+      "name": "Radio M Love Music",
+      "urls": [
+        "https://team-data.ba:9042/play?sid=1"
+      ],
+      "website": "https://radiom.ba/bs/radio-m-love-music",
+      "content": "Romantik müzik",
+      "location": "Bosna-Hersek",
+      "enabled": true,
+      "logo": "https://radiom.ba/assets/photos/radio/big/1770632101-radio-m-background-love.png?v1770645285",
       "newlyAdded": true
     }
   ],
