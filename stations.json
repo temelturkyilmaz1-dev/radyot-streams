@@ -19666,7 +19666,7 @@
       "location": "Hawaii, ABD",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_aloha-joe-radio.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "1059-the-wave-hawaii",
@@ -19679,7 +19679,7 @@
       "location": "Honolulu, Hawaii, ABD",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_1059-the-wave-hawaii.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "hiti-fm-tahiti",
@@ -19692,6 +19692,390 @@
       "location": "Tahiti, Fransız Polinezyası",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_hiti-fm-tahiti.webp",
+      "newlyAdded": false
+    },
+    {
+      "id": "karaisali-fm",
+      "name": "Karaisalı FM",
+      "urls": [
+        "https://radyo.yayin.com.tr:4480/stream"
+      ],
+      "website": "https://karaisalifm.com/index.html",
+      "content": "Türkçe karışık ve yerel müzik",
+      "location": "Karaisalı, Adana, Türkiye",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_karaisali-fm.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "radyo-70-karaman",
+      "name": "Radyo 70",
+      "urls": [
+        "http://radyo.yayin.com.tr:7070/stream"
+      ],
+      "website": "https://radyo70.com/",
+      "content": "Türkçe karışık müzik",
+      "location": "Karaman, Türkiye",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_radyo-70-karaman.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "sahin-fm-104",
+      "name": "Şahin FM 104.0",
+      "urls": [
+        "https://yayin2.canliyayin.org:7200/1"
+      ],
+      "website": "https://sahinfm.com.tr/",
+      "content": "Türkçe karışık ve yerel müzik",
+      "location": "Gölbaşı, Adıyaman, Türkiye",
+      "frequency": "104.0 FM",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_sahin-fm-104.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "srt-fm-sungurlu",
+      "name": "SRT FM",
+      "urls": [
+        "https://dinle.srtfm.com/9902/stream"
+      ],
+      "website": "https://srtfm.com/",
+      "content": "Türkçe karışık ve yerel müzik",
+      "location": "Sungurlu, Çorum, Türkiye",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_srt-fm-sungurlu.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "alaca-radyo",
+      "name": "Alaca Radyo",
+      "urls": [
+        "https://ssl22.radyotelekom.com/8314/stream"
+      ],
+      "website": "https://alacaradyo.com/iletisim",
+      "content": "Türkçe karışık ve yerel müzik",
+      "location": "Alaca, Çorum, Türkiye",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_alaca-radyo.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "radyo-melodi-corum",
+      "name": "Radyo Melodi 104.0",
+      "urls": [
+        "http://radyo1.radyo-dinle.tc:8196/;"
+      ],
+      "website": "https://www.radyomelodi.com.tr/",
+      "content": "Türkçe karışık müzik",
+      "location": "Çorum, Türkiye",
+      "frequency": "104.0 FM",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_radyo-melodi-corum.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "radyo-akkus",
+      "name": "Radyo Akkuş",
+      "urls": [
+        "https://radyo.okeylisans.com/8944/stream",
+        "https://yayin5.radyohizmeti.com:10944/;"
+      ],
+      "website": "https://radyoakkus.com.tr/",
+      "content": "Türkçe karışık ve yerel müzik",
+      "location": "Akkuş, Ordu, Türkiye",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_radyo-akkus.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "kayu-fm-1008",
+      "name": "KAYÜ FM 100.8",
+      "urls": [
+        "https://radio.kayseri.edu.tr:8443/stream"
+      ],
+      "website": "https://radyo.kayseri.edu.tr/",
+      "content": "Üniversite ve karışık müzik",
+      "location": "Kayseri, Türkiye",
+      "frequency": "100.8 FM",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new-kayu-fm-1008.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "lav-radio-armenia",
+      "name": "Lav Radio",
+      "urls": [
+        "https://eu.stream4cast.com/proxy/lavradio/stream"
+      ],
+      "website": "https://www.lavradio.am/",
+      "content": "Ermeni pop ve karışık müzik",
+      "location": "Erivan, Ermenistan",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_lav-radio-armenia.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "lav-radio-mix",
+      "name": "Lav Radio Mix",
+      "urls": [
+        "https://eu.stream4cast.com/proxy/lavradiomix/stream"
+      ],
+      "website": "https://www.lavradio.am/",
+      "content": "Dans ve karışık müzik",
+      "location": "Erivan, Ermenistan",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_lav-radio-mix.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "xfm-radio-armenia",
+      "name": "XFM Radio Armenia",
+      "urls": [
+        "https://eu.stream4cast.com/proxy/xfmradio/stream"
+      ],
+      "website": "https://www.lavradio.am/",
+      "content": "Pop ve hit müzik",
+      "location": "Erivan, Ermenistan",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_xfm-radio-armenia.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "mfm-music-radio-armenia",
+      "name": "MFM Music Radio",
+      "urls": [
+        "https://eu.stream4cast.com/proxy/mfmradio/stream"
+      ],
+      "website": "https://www.lavradio.am/",
+      "content": "Pop ve karışık müzik",
+      "location": "Erivan, Ermenistan",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_mfm-music-radio-armenia.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-energy-armenia",
+      "name": "Radio Energy Armenia",
+      "urls": [
+        "https://eu.stream4cast.com/proxy/energyfm/stream"
+      ],
+      "website": "https://www.lavradio.am/",
+      "content": "Dans ve elektronik müzik",
+      "location": "Erivan, Ermenistan",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_radio-energy-armenia.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "sqcs-chetumal-fm",
+      "name": "SQCS Chetumal FM 100.9",
+      "urls": [
+        "https://sp2.servidorrprivado.com/3981/stream"
+      ],
+      "website": "https://sqcs.com.mx/chetumal-fm",
+      "content": "Meksika müziği, haber ve yerel programlar",
+      "location": "Chetumal, Quintana Roo, Meksika",
+      "frequency": "100.9 FM",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_sqcs-chetumal-fm.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "la-kebuena-acapulco",
+      "name": "La KeBuena Acapulco",
+      "urls": [
+        "https://streaming.servicioswebmx.com/8252/stream"
+      ],
+      "website": "https://grupo-rc.mx/estaciones/la-kebuena-98-5/",
+      "content": "Bölgesel Meksika müziği",
+      "location": "Acapulco, Guerrero, Meksika",
+      "frequency": "98.5 FM / 710 AM",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_la-kebuena-acapulco.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "universal-881-mexico",
+      "name": "Universal 88.1",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHRED_FMAAC_SC"
+      ],
+      "website": "https://universal881.com/",
+      "content": "Klasik rock ve pop",
+      "location": "Mexico City, Meksika",
+      "frequency": "88.1 FM",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_universal-881-mexico.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "la-mejor-tampico",
+      "name": "La Mejor Tampico",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHJTAAC.aac"
+      ],
+      "website": "https://lamejor.com.mx/",
+      "content": "Bölgesel Meksika müziği",
+      "location": "Tampico, Tamaulipas, Meksika",
+      "frequency": "100.1 FM",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_la-mejor-tampico.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "la-mejor-oaxaca",
+      "name": "La Mejor Oaxaca",
+      "urls": [
+        "http://ororadio.serverroom.us:9142/stream"
+      ],
+      "website": "https://lamejor.com.mx/",
+      "content": "Bölgesel Meksika müziği",
+      "location": "Oaxaca, Meksika",
+      "frequency": "101.7 FM",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_la-mejor-oaxaca.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "la-mejor-mexicali",
+      "name": "La Mejor Mexicali",
+      "urls": [
+        "http://playerservices.streamtheworld.com/api/livestream-redirect/XHVGFMAAC.aac"
+      ],
+      "website": "https://lamejor.com.mx/",
+      "content": "Bölgesel Meksika müziği",
+      "location": "Mexicali, Baja California, Meksika",
+      "frequency": "103.3 FM",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_la-mejor-mexicali.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "la-mejor-durango",
+      "name": "La Mejor Durango",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHDGOAAC.aac"
+      ],
+      "website": "https://lamejor.com.mx/",
+      "content": "Bölgesel Meksika müziği",
+      "location": "Durango, Meksika",
+      "frequency": "103.7 FM",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_la-mejor-durango.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "la-mejor-fresnillo",
+      "name": "La Mejor Fresnillo",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHEMAAAC.aac"
+      ],
+      "website": "https://lamejor.com.mx/",
+      "content": "Bölgesel Meksika müziği",
+      "location": "Fresnillo, Zacatecas, Meksika",
+      "frequency": "107.9 FM",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_la-mejor-fresnillo.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "la-mejor-san-luis-potosi",
+      "name": "La Mejor San Luis Potosí",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHWZAAC.aac"
+      ],
+      "website": "https://lamejor.com.mx/",
+      "content": "Bölgesel Meksika müziği",
+      "location": "San Luis Potosí, Meksika",
+      "frequency": "90.9 FM",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_la-mejor-san-luis-potosi.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "la-mejor-queretaro",
+      "name": "La Mejor Querétaro",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHXEAAC.aac"
+      ],
+      "website": "https://lamejor.com.mx/",
+      "content": "Bölgesel Meksika müziği",
+      "location": "Querétaro, Meksika",
+      "frequency": "92.7 FM",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_la-mejor-queretaro.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "la-mejor-leon",
+      "name": "La Mejor León",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHSOFMAAC.aac"
+      ],
+      "website": "https://lamejor.com.mx/",
+      "content": "Bölgesel Meksika müziği",
+      "location": "León, Guanajuato, Meksika",
+      "frequency": "99.9 FM",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_la-mejor-leon.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "la-mejor-puerto-vallarta",
+      "name": "La Mejor Puerto Vallarta",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHCJXAAC.aac"
+      ],
+      "website": "https://lamejor.com.mx/",
+      "content": "Bölgesel Meksika müziği",
+      "location": "Puerto Vallarta, Jalisco, Meksika",
+      "frequency": "99.9 FM",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_la-mejor-puerto-vallarta.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "la-mejor-acapulco",
+      "name": "La Mejor Acapulco",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHSEAAC.aac"
+      ],
+      "website": "https://lamejor.com.mx/",
+      "content": "Bölgesel Meksika müziği",
+      "location": "Acapulco, Guerrero, Meksika",
+      "frequency": "100.1 FM",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_la-mejor-acapulco.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "la-z-1073-mexico",
+      "name": "La Z 107.3",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/XEQR_FMAAC_SC",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/XEQR_FM.mp3"
+      ],
+      "website": "https://laz.mx/",
+      "content": "Bölgesel Meksika müziği",
+      "location": "Mexico City, Meksika",
+      "frequency": "107.3 FM",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_la-z-1073-mexico.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "q102-philadelphia",
+      "name": "Q102 Philadelphia",
+      "urls": [
+        "https://stream.revma.ihrhls.com/zc1997"
+      ],
+      "website": "https://q102.iheart.com/",
+      "content": "Pop ve Top 40",
+      "location": "Philadelphia, Pennsylvania, ABD",
+      "frequency": "102.1 FM",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_q102-philadelphia.webp",
       "newlyAdded": true
     }
   ],
