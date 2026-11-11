@@ -20363,6 +20363,20 @@
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_hit-radio-morocco.webp",
       "newlyAdded": true
+    },
+    {
+      "id": "radio-mitilini-900",
+      "name": "Radio Mitilini 90.0",
+      "urls": [
+        "https://cast5.magicstreams.gr/sc/radiomitilini90/stream"
+      ],
+      "website": "https://radiomitilini.gr/",
+      "content": "Yunan pop müziği ve Yunan müziği",
+      "location": "Midilli, Lesvos, Yunanistan",
+      "frequency": "90.0 FM",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_radio-mitilini-900.webp",
+      "newlyAdded": true
     }
   ],
   "catalogPolicy": {
