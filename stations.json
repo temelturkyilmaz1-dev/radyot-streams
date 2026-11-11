@@ -19705,7 +19705,7 @@
       "location": "Karaisalı, Adana, Türkiye",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_karaisali-fm.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radyo-70-karaman",
@@ -19718,7 +19718,7 @@
       "location": "Karaman, Türkiye",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_radyo-70-karaman.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "sahin-fm-104",
@@ -19732,7 +19732,7 @@
       "frequency": "104.0 FM",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_sahin-fm-104.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "srt-fm-sungurlu",
@@ -19745,7 +19745,7 @@
       "location": "Sungurlu, Çorum, Türkiye",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_srt-fm-sungurlu.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "alaca-radyo",
@@ -19758,7 +19758,7 @@
       "location": "Alaca, Çorum, Türkiye",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_alaca-radyo.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radyo-melodi-corum",
@@ -19772,7 +19772,7 @@
       "frequency": "104.0 FM",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_radyo-melodi-corum.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radyo-akkus",
@@ -19786,7 +19786,7 @@
       "location": "Akkuş, Ordu, Türkiye",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_radyo-akkus.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "kayu-fm-1008",
@@ -19800,7 +19800,7 @@
       "frequency": "100.8 FM",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new-kayu-fm-1008.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "lav-radio-armenia",
@@ -19813,7 +19813,7 @@
       "location": "Erivan, Ermenistan",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_lav-radio-armenia.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "lav-radio-mix",
@@ -19826,7 +19826,7 @@
       "location": "Erivan, Ermenistan",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_lav-radio-mix.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "xfm-radio-armenia",
@@ -19839,7 +19839,7 @@
       "location": "Erivan, Ermenistan",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_xfm-radio-armenia.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "mfm-music-radio-armenia",
@@ -19852,7 +19852,7 @@
       "location": "Erivan, Ermenistan",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_mfm-music-radio-armenia.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-energy-armenia",
@@ -19865,7 +19865,7 @@
       "location": "Erivan, Ermenistan",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_radio-energy-armenia.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "sqcs-chetumal-fm",
@@ -19879,7 +19879,7 @@
       "frequency": "100.9 FM",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_sqcs-chetumal-fm.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "la-kebuena-acapulco",
@@ -19893,7 +19893,7 @@
       "frequency": "98.5 FM / 710 AM",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_la-kebuena-acapulco.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "universal-881-mexico",
@@ -19907,7 +19907,7 @@
       "frequency": "88.1 FM",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_universal-881-mexico.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "la-mejor-tampico",
@@ -19921,7 +19921,7 @@
       "frequency": "100.1 FM",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_la-mejor-tampico.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "la-mejor-oaxaca",
@@ -19935,7 +19935,7 @@
       "frequency": "101.7 FM",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_la-mejor-oaxaca.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "la-mejor-mexicali",
@@ -19949,7 +19949,7 @@
       "frequency": "103.3 FM",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_la-mejor-mexicali.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "la-mejor-durango",
@@ -19963,7 +19963,7 @@
       "frequency": "103.7 FM",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_la-mejor-durango.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "la-mejor-fresnillo",
@@ -19977,7 +19977,7 @@
       "frequency": "107.9 FM",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_la-mejor-fresnillo.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "la-mejor-san-luis-potosi",
@@ -19991,7 +19991,7 @@
       "frequency": "90.9 FM",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_la-mejor-san-luis-potosi.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "la-mejor-queretaro",
@@ -20005,7 +20005,7 @@
       "frequency": "92.7 FM",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_la-mejor-queretaro.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "la-mejor-leon",
@@ -20019,7 +20019,7 @@
       "frequency": "99.9 FM",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_la-mejor-leon.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "la-mejor-puerto-vallarta",
@@ -20033,7 +20033,7 @@
       "frequency": "99.9 FM",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_la-mejor-puerto-vallarta.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "la-mejor-acapulco",
@@ -20047,7 +20047,7 @@
       "frequency": "100.1 FM",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_la-mejor-acapulco.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "la-z-1073-mexico",
@@ -20062,7 +20062,7 @@
       "frequency": "107.3 FM",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_la-z-1073-mexico.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "q102-philadelphia",
@@ -20076,6 +20076,292 @@
       "frequency": "102.1 FM",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_q102-philadelphia.webp",
+      "newlyAdded": false
+    },
+    {
+      "id": "afsin-fm-1045",
+      "name": "Afşin FM 104.5",
+      "urls": [
+        "https://radyo.arkacadde.org/4646/afsinradyo.mp3"
+      ],
+      "website": "https://www.afsinradyo.com/",
+      "content": "Karma müzik",
+      "location": "Afşin, Kahramanmaraş, Türkiye",
+      "frequency": "104.5 FM",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_afsin-fm-1045.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "pazarcik-fm-1",
+      "name": "Pazarcık FM 1",
+      "urls": [
+        "https://anadolu.liderhost.com.tr/9092/stream"
+      ],
+      "website": "https://www.pazarcikfm.com.tr/",
+      "content": "Karma müzik",
+      "location": "Pazarcık, Kahramanmaraş, Türkiye",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_pazarcik-fm-1.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "pazarcik-fm-2",
+      "name": "Pazarcık FM 2",
+      "urls": [
+        "https://anadolu.liderhost.com.tr/9090/stream"
+      ],
+      "website": "https://www.pazarcikfm.com.tr/",
+      "content": "Karma müzik",
+      "location": "Pazarcık, Kahramanmaraş, Türkiye",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_pazarcik-fm-2.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "pazarcik-fm-3",
+      "name": "Pazarcık FM 3",
+      "urls": [
+        "https://anadolu.liderhost.com.tr/9094/stream"
+      ],
+      "website": "https://www.pazarcikfm.com.tr/",
+      "content": "Karma müzik",
+      "location": "Pazarcık, Kahramanmaraş, Türkiye",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_pazarcik-fm-3.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "goz-fm-islahiye",
+      "name": "Göz FM",
+      "urls": [
+        "https://radyoserver.qbilisim.com/8170/stream/;"
+      ],
+      "website": "https://islahiyegoztv.com/",
+      "content": "Karma müzik",
+      "location": "İslahiye, Gaziantep, Türkiye",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_goz-fm-islahiye.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "radyo-gonul-osmaniye",
+      "name": "Radyo Gönül 97.3",
+      "urls": [
+        "https://sslyayin.netyayin.net/gonulfm/stream"
+      ],
+      "website": "https://www.radyogonul.com.tr/",
+      "content": "Karma müzik",
+      "location": "Osmaniye, Türkiye",
+      "frequency": "97.3 FM",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_radyo-gonul-osmaniye.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "radyo-sis-101",
+      "name": "Radyo Sis 101.0",
+      "urls": [
+        "https://live.radyositesihazir.com:8082/stream"
+      ],
+      "website": "https://radyosis.com/",
+      "content": "Karma müzik",
+      "location": "Kozan, Adana, Türkiye",
+      "frequency": "101.0 FM",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_radyo-sis-101.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "sorgun-fm-926",
+      "name": "Sorgun FM 92.6",
+      "urls": [
+        "https://radyovetv.com:8001/stream"
+      ],
+      "website": "https://www.sorgunfm.com.tr/",
+      "content": "Karma müzik",
+      "location": "Sorgun, Yozgat, Türkiye",
+      "frequency": "92.6 FM",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_sorgun-fm-926.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "napa-radio",
+      "name": "Napa Radio 106.3",
+      "urls": [
+        "https://n0b.radiojar.com/qf76rk0g5x3vv"
+      ],
+      "website": "https://naparadio.eu/",
+      "content": "Pop ve hit müzik",
+      "location": "Ayia Napa, Kıbrıs",
+      "frequency": "106.3 FM",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_napa-radio.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "feelgood-fm",
+      "name": "feelgood.fm",
+      "urls": [
+        "https://radio.feelgood.fm/mp3"
+      ],
+      "website": "https://feelgood.fm/",
+      "content": "Rock, pop, indie ve alternatif müzik",
+      "location": "Paralimni, Kıbrıs",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_feelgood-fm.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "devrek-fm-93",
+      "name": "Devrek FM 93.0",
+      "urls": [
+        "https://stream.turkiyeradyolari.com:8116/stream"
+      ],
+      "website": "https://radyodevrek.com.tr/anasayfa.php",
+      "content": "Arabesk ve pop müzik",
+      "location": "Devrek, Zonguldak, Türkiye",
+      "frequency": "93.0 FM",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_devrek-fm-93.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "pure-black-radio",
+      "name": "Pure Black Radio",
+      "urls": [
+        "https://radyo.yayin.com.tr:5388/stream?sid=1"
+      ],
+      "website": "https://www.pureblack.coffee/radio/",
+      "content": "Türkçe müzik",
+      "location": "Başiskele, Kocaeli, Türkiye",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_pure-black-radio.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "edessa-fm-948",
+      "name": "Edessa FM 94.8",
+      "urls": [
+        "https://stream.turkiyeradyolari.com:8162/stream"
+      ],
+      "website": "https://www.edessafm.com.tr/",
+      "content": "Halk ve özgün müzik",
+      "location": "Şanlıurfa, Türkiye",
+      "frequency": "94.8 FM",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_edessa-fm-948.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "radyo-b-karacabey",
+      "name": "Radyo B",
+      "urls": [
+        "https://radyob.ozelip.com.tr/8042/stream"
+      ],
+      "website": "https://www.radyob.com.tr/",
+      "content": "Rock and roll ve karma müzik",
+      "location": "Karacabey, Bursa, Türkiye",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_radyo-b-karacabey.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "radyo-secil-salihli",
+      "name": "Radyo Seçil",
+      "urls": [
+        "https://live.radyositesihazir.com:8066/;"
+      ],
+      "website": "https://www.radyosecil.com.tr/",
+      "content": "Pop müzik",
+      "location": "Salihli, Manisa, Türkiye",
+      "frequency": "91.0 FM",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_radyo-secil-salihli.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "radyo-gozlem-950",
+      "name": "Radyo Gözlem 95.0",
+      "urls": [
+        "https://radyogozlem.ozelip.net/8030/stream"
+      ],
+      "website": "https://radyogozlem.com/",
+      "content": "Karma müzik",
+      "location": "Milas, Muğla, Türkiye",
+      "frequency": "95.0 FM",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_radyo-gozlem-950.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "anemos-956",
+      "name": "Anemos 95.6",
+      "urls": [
+        "https://solid48.streamupsolutions.com/proxy/vqdawvmf/stream;"
+      ],
+      "website": "https://www.anemos956.gr/",
+      "content": "Yunan müziği ve karma müzik",
+      "location": "Samos (Sisam), Yunanistan",
+      "frequency": "95.6 FM",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_anemos-956.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "radyo-remix-900",
+      "name": "Radyo Remix 90.0",
+      "urls": [
+        "https://radyo.yayin.com.tr:5250/playlist.mp3"
+      ],
+      "website": "https://radyoremix.net/",
+      "content": "Slow pop müzik",
+      "location": "Ödemiş, İzmir, Türkiye",
+      "frequency": "90.0 FM",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_radyo-remix-900.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "bourdex-979-fm",
+      "name": "Bourdex 97.9 FM",
+      "urls": [
+        "https://a8.my-control-panel.com:9080/radio.mp3"
+      ],
+      "website": "https://bourdex979fm.com/",
+      "content": "Karma müzik ve eğlence",
+      "location": "Abiriba, Abia, Nijerya",
+      "frequency": "97.9 FM",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_bourdex-979-fm.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-jam-993",
+      "name": "Radio Jam 99.3",
+      "urls": [
+        "https://listen.radioking.com/radio/61201/stream/98566"
+      ],
+      "website": "http://www.radiojam.biz/",
+      "content": "Afrika müziği, pop ve eğlence",
+      "location": "Abidjan, Fildişi Sahili",
+      "frequency": "99.3 FM",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_radio-jam-993.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "hit-radio-morocco",
+      "name": "Hit Radio Morocco",
+      "urls": [
+        "https://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3"
+      ],
+      "website": "https://www.hitradio.ma/",
+      "content": "Pop, rap, R&B ve hit müzik",
+      "location": "Rabat, Fas",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_hit-radio-morocco.webp",
       "newlyAdded": true
     }
   ],
