@@ -52,6 +52,16 @@ jobs:
           if not isinstance(stations, list) or not stations:
               raise SystemExit("stations.json içinde istasyon listesi bulunamadı.")
 
+          logo_host = "autumn-sun-8d69.temel-turkyilmaz1.workers.dev"
+
+          def cloudflare_logo_key(station):
+              if not isinstance(station, dict) or not isinstance(station.get("logo"), str):
+                  return None
+              parsed = urllib.parse.urlparse(station["logo"])
+              if parsed.hostname != logo_host or not parsed.path.startswith("/logos/"):
+                  return None
+              return "logos/" + pathlib.PurePosixPath(parsed.path).name
+
           event_name = os.environ.get("EVENT_NAME", "")
           event_path = pathlib.Path(os.environ["EVENT_PATH"])
           event = json.loads(event_path.read_text(encoding="utf-8")) if event_path.exists() else {}
@@ -68,6 +78,7 @@ jobs:
           use_bootstrap = bootstrap.exists() and (
               event_name == "workflow_dispatch"
               or bootstrap.as_posix() in changed_paths
+              or ".github/workflows/publish-cloudflare-catalog.yml" in changed_paths
           )
 
           if use_bootstrap:
@@ -75,20 +86,39 @@ jobs:
               if not isinstance(pairs, list):
                   raise SystemExit("kv_logo_repairs.json bir kayıt listesi olmalı.")
               indexed = {item.get("key"): item.get("value") for item in pairs if isinstance(item, dict)}
-              expected_catalog = json.loads(indexed.get("stations.json", "null"))
-              if expected_catalog != catalog:
-                  raise SystemExit("Logo paketi içindeki stations.json, depodaki stations.json ile aynı değil. Önce logo paketini güncelleyin.")
-              logo_keys = {key for key in indexed if isinstance(key, str) and key.startswith("logos/")}
-              if len(logo_keys) != len(pairs) - 1 or "stations.json" not in indexed:
-                  raise SystemExit("Logo paketinde yinelenen veya geçersiz KV anahtarı var.")
-              expected_keys = {
-                  "logos/" + pathlib.PurePosixPath(urllib.parse.urlparse(station.get("logo", "")).path).name
-                  for station in stations
-                  if isinstance(station, dict)
-                  and "/logos/" in urllib.parse.urlparse(station.get("logo", "")).path
-              }
-              if expected_keys != logo_keys:
-                  raise SystemExit(f"Logo paketi katalogla uyuşmuyor: {len(expected_keys - logo_keys)} eksik, {len(logo_keys - expected_keys)} fazladan logo.")
+              expected_keys = {key for station in stations if (key := cloudflare_logo_key(station))}
+              logo_dir = pathlib.Path("logos")
+              supported = {".webp", ".png", ".jpg", ".jpeg", ".gif", ".ico", ".avif"}
+              source_files = {
+                  f"logos/{path.stem}.webp": path
+                  for path in logo_dir.iterdir()
+                  if path.is_file() and path.suffix.lower() in supported
+              } if logo_dir.exists() else {}
+
+              for key in sorted(expected_keys):
+                  path = source_files.get(key)
+                  if path is None:
+                      continue
+                  raw = path.read_bytes()
+                  if path.suffix.lower() == ".webp":
+                      webp = raw
+                  else:
+                      try:
+                          with Image.open(io.BytesIO(raw)) as image:
+                              converted = io.BytesIO()
+                              image.convert("RGBA").save(converted, format="WEBP", quality=92, method=6)
+                              webp = converted.getvalue()
+                      except Exception as error:
+                          raise SystemExit(f"Görsel dönüştürülemedi ({path}): {error}")
+                  indexed[key] = base64.b64encode(webp).decode("ascii")
+
+              missing_keys = expected_keys - indexed.keys()
+              if missing_keys:
+                  raise SystemExit(
+                      "Tam Cloudflare onarımında eksik logo var:\n- "
+                      + "\n- ".join(sorted(missing_keys))
+                  )
+              logo_keys = expected_keys
               for key in logo_keys:
                   try:
                       raw = base64.b64decode(indexed[key], validate=True)
@@ -96,6 +126,7 @@ jobs:
                       raise SystemExit(f"Logo Base64 verisi bozuk ({key}): {error}")
                   if not (raw.startswith(b"RIFF") and raw[8:12] == b"WEBP"):
                       raise SystemExit(f"Logo geçerli WebP değil: {key}")
+              indexed["stations.json"] = json.dumps(catalog, ensure_ascii=False, separators=(",", ":"))
               pairs = [{"key": key, "value": indexed[key]} for key in ["stations.json"] + sorted(logo_keys)]
               print(f"İlk tam yükleme: {len(stations)} istasyon ve {len(logo_keys)} logo.")
           else:
@@ -121,11 +152,11 @@ jobs:
                   station.get("logo") for station in stations
                   if isinstance(station, dict)
                   and isinstance(station.get("logo"), str)
-                  and "/logos/" in urllib.parse.urlparse(station["logo"]).path
+                  and cloudflare_logo_key(station)
                   and station.get("logo") not in old_urls
               } if event_name == "push" else set()
               logo_dir = pathlib.Path("logos")
-              supported = {".webp", ".png", ".jpg", ".jpeg"}
+              supported = {".webp", ".png", ".jpg", ".jpeg", ".gif", ".ico", ".avif"}
               source_files = sorted(
                   path for path in logo_dir.iterdir()
                   if path.is_file() and path.suffix.lower() in supported
