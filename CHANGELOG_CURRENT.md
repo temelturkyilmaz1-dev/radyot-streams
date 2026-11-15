@@ -2,6 +2,13 @@
 
 ## 15 Kasım 2026 — Logo düzeltmeleri ve üç yeni radyo
 
+- `Yeni Eklenenler` bölümü temizlendi; önceki 22 istasyonun işareti kapatıldı
+  ve yalnız Infinite Radio, More FM ile YumiFM yeni bırakıldı.
+- Yeni Radyo “Her An Yeni” için 24×16 piksellik bulanık görsel kaldırılarak
+  radyonun resmî sosyal hesabındaki yüksek çözünürlüklü logo kullanıldı.
+- UCV Radio 103.5, SRT FM, Haragano FM, Radio Radio Toulouse, Sunrise Lounge,
+  Radio Sol 89.0 ve Golden Days Radio için düşük çözünürlüklü, görünmez veya
+  genel görseller resmî/istasyona özgü yüksek çözünürlüklü logolarla değiştirildi.
 - Infinite Radio (New York), More FM (Yeni Zelanda) ve YumiFM (Papua Yeni
   Gine) doğrulanmış yayın adresleri ve resmî logolarıyla eklendi.
 - ÇOMÜ Kampüs FM, Ràdio Llançà, Radyo Güneş 94.8 ve Edessa FM 94.8 logoları
