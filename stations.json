@@ -15572,19 +15572,6 @@
       "newlyAdded": false
     },
     {
-      "id": "radio-antalya-kaleici",
-      "name": "Radio Antalya Kaleiçi",
-      "enabled": true,
-      "urls": [
-        "https://s2.radiolize.com/radio/8030/radio.aac"
-      ],
-      "website": "https://radioantalya.com/",
-      "content": "Indie, rock, electronica ve Kaleiçi atmosferine özel seçkiler",
-      "location": "Kaleiçi, Antalya, Türkiye",
-      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/migrated_c3fa259497d21132ab1e.webp",
-      "newlyAdded": false
-    },
-    {
       "id": "radyo-kaptan",
       "name": "Radyo Kaptan",
       "enabled": true,
@@ -17903,7 +17890,7 @@
       "location": "Llançà, Girona, İspanya",
       "frequency": "90.0 FM",
       "enabled": true,
-      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/audit_radio-llanca.webp",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/fix_radio_llanca.webp",
       "newlyAdded": false
     },
     {
@@ -18585,7 +18572,7 @@
       "location": "İnegöl, Bursa, Türkiye",
       "frequency": "94.8 FM",
       "enabled": true,
-      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/migrated_db2ef48aa0f1df6ec850.webp",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/fix_radyo_gunes.webp",
       "newlyAdded": false
     },
     {
@@ -18982,7 +18969,7 @@
       "location": "Çanakkale, Türkiye",
       "frequency": "104.7 FM",
       "enabled": true,
-      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/migrated_95072d050cdec1986f1c.webp",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/fix_comu_kampus_fm.webp",
       "newlyAdded": false
     },
     {
@@ -20251,7 +20238,7 @@
       "location": "Şanlıurfa, Türkiye",
       "frequency": "94.8 FM",
       "enabled": true,
-      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_edessa-fm-948.webp",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/fix_edessa_fm.webp",
       "newlyAdded": true
     },
     {
@@ -20365,6 +20352,48 @@
       "newlyAdded": true
     },
     {
+      "id": "infinite-radio-us",
+      "name": "Infinite Radio",
+      "urls": [
+        "https://s3.radio.co/sc33348dc8/listen"
+      ],
+      "website": "https://www.infinite-radio.com/",
+      "content": "Karışık müzik ve internet radyosu",
+      "location": "New York, ABD",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_infinite_radio.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "more-fm-new-zealand",
+      "name": "More FM",
+      "urls": [
+        "https://digitalstreams3.mediaworks.nz/more-AKL-high/playlist.m3u8",
+        "https://mediaworks.streamguys1.com/more-akl-high/playlist.m3u8"
+      ],
+      "website": "https://www.rova.nz/radio/more-fm",
+      "content": "Adult contemporary, pop ve hit müzik",
+      "location": "Auckland, Yeni Zelanda",
+      "frequency": "91.8 FM",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_more_fm.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "yumi-fm-png",
+      "name": "YumiFM",
+      "urls": [
+        "https://stream.rcs.revma.com/n5vb288kmbpwv"
+      ],
+      "website": "https://yumifm.net/",
+      "content": "Tok Pisin, PNG müziği, pop ve yerel programlar",
+      "location": "Port Moresby, Papua Yeni Gine",
+      "frequency": "93.1 FM",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_yumi_fm.webp",
+      "newlyAdded": true
+    },
+    {
       "id": "radio-mitilini-900",
       "name": "Radio Mitilini 90.0",
       "urls": [
@@ -20387,5 +20416,5 @@
     "excludePrimaryReligious": true,
     "expandedCatalog": "Radio Browser allowlisted network/source expansion at runtime"
   },
-  "baseStationCount": 734
+  "baseStationCount": 736
 }

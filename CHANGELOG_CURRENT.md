@@ -1,9 +1,179 @@
 # Henüz paketlenmemiş değişiklikler
 
+## 15 Kasım 2026 — Logo düzeltmeleri ve üç yeni radyo
+
+- Infinite Radio (New York), More FM (Yeni Zelanda) ve YumiFM (Papua Yeni
+  Gine) doğrulanmış yayın adresleri ve resmî logolarıyla eklendi.
+- ÇOMÜ Kampüs FM, Ràdio Llançà, Radyo Güneş 94.8 ve Edessa FM 94.8 logoları
+  istasyonların resmî sitelerindeki görsellerle yenilendi.
+- Yayını çalışmayan mükerrer Radio Antalya Kaleiçi kaydı kaldırıldı; çalışan
+  Radio Antalya kaydı korundu.
+- BillyBoy340 ağına bağlı kanalların mevcut genel logolarına dokunulmadı.
+
+## 13 Kasım 2026 — Telefon logo kaybı düzeltildi
+
+- Telefon, TV Box ve Android Auto için ortak logo yükleme sırası eşitlendi.
+  Katalogdaki güncel Cloudflare logosu artık eski MyTuner veya ad eşlemelerinden
+  önce kullanılıyor; ağ yüklemesi başarısız olursa gerçek yerel logo güvenli
+  yedek olarak gösteriliyor.
+- Böylece özellikle telefonun Favoriler ve radyo listelerinde doğru Cloudflare
+  logosu bulunduğu hâlde genel RadiOnline simgesine düşen kayıtlar giderildi.
+- Radyo listesi, yayın adresleri, sıralama, `newlyAdded` işaretleri ve sürüm
+  numarası değiştirilmedi.
+
+## 12 Kasım 2026 — Logo altyapısı kalıcılaştırıldı
+
+- Dış sitelere bağlı 429 logo kaydı, istasyonlara özgü görseller korunarak
+  Cloudflare logo deposuna taşındı. Katalogda boş veya dış siteye bağlı
+  logo adresi kalmadı.
+- GitHub yayımlama iş akışı, güncel katalogdaki tüm Cloudflare logo
+  anahtarlarını eksiksiz paketleyecek ve eksik kaynak varsa yayını durduracak
+  biçimde güçlendirildi.
+- Radyo sayısı 1542, `newlyAdded` sayısı 22 ve uygulama sürümü
+  1.6.5.38 / 79 olarak korundu. Ad, yayın adresi, sıralama ve uygulama
+  davranışları değiştirilmedi.
+
+## 11 Kasım 2026 — 22 doğrulanmış yeni radyo
+
+- Çalışan yayın adresleri ve mükerrerlikleri doğrulanan 22 radyo eklendi; katalog
+  toplamı 1542 oldu ve yalnız bu grubun `newlyAdded` işaretleri açık bırakıldı.
+- Eklenen grup: Afşin FM 104.5, Pazarcık FM 1/2/3, Göz FM, Radyo Gönül 97.3,
+  Radyo Sis 101.0, Sorgun FM 92.6, Napa Radio 106.3, feelgood.fm, Devrek FM
+  93.0, Pure Black Radio, Edessa FM 94.8, Radyo B, Radyo Seçil, Radyo Gözlem
+  95.0, Anemos 95.6, Radyo Remix 90.0, Bourdex 97.9 FM, Radio Jam 99.3 ve
+  Hit Radio Morocco ve Radio Mitilini 90.0.
+- Büyük ve küçük kaynak 1.6.5.38 / versionCode 79 sürümüne birlikte yükseltildi.
+
+## 9 Kasım 2026 — 1.6.5.37 / versionCode 78
+
+- Canlı yayınları ve kimlikleri doğrulanan 28 yeni radyo eklendi. Grup; Türkiye'den
+  Karaisalı FM, Radyo 70, Şahin FM, SRT FM, Alaca Radyo, Radyo Melodi, Radyo
+  Akkuş ve KAYÜ FM; Ermenistan'dan beş Lav Radio yayını; Meksika'dan SQCS
+  Chetumal FM, La KeBuena Acapulco, Universal 88.1, on ayrı La Mejor şehir
+  yayını ve La Z 107.3; ABD'den Q102 Philadelphia istasyonlarını içerir.
+- Mercan FM mevcut olduğu için yeniden eklenmedi. Başka radyoyu çalan Radyo
+  Korgan ve Dede Kılıç sayfaları ile kararlı doğrudan yayını bulunamayan Ajara
+  Radio ve Entera2 eklenmedi. Air1, katalogdaki dini yayın kuralı nedeniyle
+  eklenmedi.
+- Önceki yeni işaretleri kapatıldı; yalnız bu 28 istasyon `newlyAdded: true`
+  olarak bırakıldı. Katalog toplamı 1520 oldu.
+- Büyük kaynak, küçük kaynak ve GitHub/Cloudflare katalog dosyaları eşitlendi;
+  sürüm 1.6.5.37 / 78 yapıldı ve yeni istasyonların logo dosyaları hazırlandı.
+
+## 8 Kasım 2026 — Üç yeni radyo ve kapsamlı logo düzeltmesi
+
+- Canlı yayınları doğrulanan Aloha Joe Radio, 105.9 The Wave ve HITI FM eklendi;
+  katalog toplamı 1492 oldu.
+- Önceki `newlyAdded` işaretleri kapatıldı; yalnız bu üç yeni kayıt işaretli kaldı.
+- Radio 1 Rock, BIG Radio 1, BIG Radio 2, BIG Radio Domaćica, Radio 102,
+  Radio HaZZard of Darkness, Radio Plus grubu, Radio Radio Toulouse, Sevtek FM,
+  Çatalca FM Huzur City, Utopía, Club FM Albania ve Radio Flash başta olmak üzere
+  eksik, bozuk veya genel uygulama simgesine düşen logolar yerelleştirildi.
+- Büyük ve küçük kaynak 1.6.5.36 / versionCode 77 sürümüne yükseltildi; iki kaynak
+  ile GitHub/Cloudflare kataloğu eşitlendi.
+
+## 8 Kasım 2026 — Avrupa, Türkiye ve Asia DREAM grubu
+
+- Canlı yayınları doğrulanan 63 istasyon eklendi; katalog toplamı 1489 oldu.
+- Asia DREAM Radio'nun yedi ayrı kanalı ile Radio Amore ve BIG Radio ağlarının
+  doğrulanmış alt kanalları kendi adları ve farklı yayın adresleriyle eklendi.
+- Katalogda zaten bulunan Radyo S yeniden eklenmedi. Yayın adresi doğrulanamayan
+  adaylar eklenmedi; kimlik, ad ve yayın adresi denetiminde mükerrer oluşmadı.
+- Eksik kalan Mersin FM, Radyo Simav Haber, AK Mega Radyo, EGO Radyo, Paper FM
+  ile Radio M ağının dokuz ayrı yayını aynı ekleme grubuna tamamlandı.
+- Önceki `newlyAdded` işaretleri kapatıldı; yalnız bu 63 kayıt yeni olarak işaretlendi.
+- Büyük kaynak, küçük kaynak ve GitHub/Cloudflare kataloğu eşitlendi; iki uygulama
+  kaynağı 1.6.5.35 / versionCode 76 sürümüne yükseltildi.
+- Logo denetiminde varsayılan uygulama simgesine düşen kayıtlar için depoda hazır
+  bulunan logo paketi yeniden aktarılacak şekilde iş akışı sağlamlaştırıldı.
+- Urbana Play, Rock & Pop Paraguay, Dedikodu FM, Narlıdere FM, Grupo Centro,
+  Kiss FM São Paulo, El Fin del Silencio ve Real Hardstyle Radio logoları dış
+  site bağımlılığından çıkarılıp kalıcı Cloudflare logo kayıtlarına alındı.
+
+## 7 Kasım 2026 — 19 yeni radyo ve sürüm kuralı
+
+- Canlı yayınları doğrulanan 19 istasyon eklendi: Radyo Ki 94.9, Radyo Güneş
+  94.8, Narlıdere FM, Çatalca FM Huzur City, Dedikodu FM, Radyo AK 92.7,
+  La Marka 90.9, Amante 96.3, Emisora Ejército, Capital Radio 1250 AM,
+  Kalamary Radio Cultural, Bahia FM 88.7, 89 A Rádio Rock, Tropical FM 107.9,
+  Band FM 96.1, Kiss FM São Paulo, FM O Dia 100.5, Rádio Livre AM ve Planeta
+  Reggae. Katalog toplamı 1426 oldu.
+- Önceki `newlyAdded` işaretleri kapatıldı; yalnız bu 19 istasyon yeni olarak
+  işaretlendi. Haber ağırlıklı Radyo Haber, din ağırlıklı Feliz FM ve Radio
+  Fantástica Online ile radyo yayını doğrulanmayan Record/R7 eklenmedi.
+- Yeni radyo eklemesinde sürüm artırma kalıcı kural olarak kaydedildi. Büyük ve
+  küçük kaynak 1.6.5.34 / versionCode 75 sürümünde eşitlendi.
+- Büyük kaynak, küçük kaynak ve GitHub/Cloudflare katalogları eşitlendi.
+
+## 5 Kasım 2026 — Eksik kalan beş radyo tamamlandı
+
+- Önceki grupta yanlışlıkla dışarıda bırakılan 972' Costa Brava, Boa FM 94.1,
+  Radio San Rafael 92.5, Grupo Centro ve Radyo Öğüt 102.1 resmî sayfalarındaki
+  oynatıcılardan alınan yayın ve logo bilgileriyle eklendi.
+- Önceki 45 yeni radyo aynı grubun parçası olarak korundu; `newlyAdded: true`
+  sayısı 50, toplam katalog sayısı 1407 oldu.
+- Büyük kaynak, küçük kaynak ve GitHub/Cloudflare `stations.json` dosyaları
+  eşitlendi; mükerrer kimlik veya yayın adresi oluşmadı.
+
+## 4 Kasım 2026 — 972 Costa Brava sonrası aday grubu
+
+- Kullanıcının 972 Costa Brava bağlantısından sonra verdiği adayların tamamı yeniden denetlendi; canlı sesi doğrulanan 45 radyo eklendi ve katalog toplamı 1402 oldu.
+- Radio Monte Carlo ailesinin 23 tematik web radyosu ve Yellow Radio ailesinin 3 ayrı yayını kendi adları ve farklı yayın adresleriyle eklendi.
+- Önceki `newlyAdded` işaretleri kapatıldı; yalnız bu 45 radyo yeni olarak işaretlendi.
+- 972 Costa Brava, Boa FM 94.1, Grupo Centro ve Radyo Öğüt için güvenilir çalışan doğrudan yayın doğrulanamadığından eklenmedi. Din temalı Radio San Rafael katalog politikasına göre alınmadı. Katalogda zaten bulunan Newroz Web FM mükerrer oluşturulmadan korundu.
+- Büyük kaynak, küçük kaynak ve GitHub/Cloudflare katalogları eşitlendi; sürüm numaraları değiştirilmedi.
+
+## 1 Kasım 2026 — Haftalık radyo grubu
+
+- Yayınları resmî oynatıcılardan doğrulanan 7 radyo eklendi: Saint FM, Radio del Golfo, VisiOnAir Radio, Radio X 96.8, Radyo Dönence 724, RUWAVE 94 FM ve Radyo Horoz 105.0.
+- Önceki `newlyAdded` işaretleri kapatıldı; yalnız bu 7 radyo yeni olarak işaretlendi. Katalog toplamı 1357 oldu.
+- Katalogda zaten bulunan Radyo Renk Antakya'ya resmî web sitesi ve ayrıntılı konum eklendi. Radyo Desibel 94.0 mevcut kaydı korundu; mükerrer oluşturulmadı.
+- Büyük kaynak, küçük kaynak ve GitHub/Cloudflare katalogları eşitlendi; kimlik veya ana yayın adresi mükerreri oluşmadı.
+
+## 1 Kasım 2026 — WAO çevresindeki yeni radyo grubu
+
+- Canlı yayın kimliği doğrulanan 18 radyo eklendi: WETA VivaLaVoce, Radio Mega 1700, Radio Télé Éclair, Disco 106.1 FM, Radio Guarachita, Sentido 89.3 FM, WAO 89.1 FM, Newroz Web FM, Esinti FM, Hınıslı Sanatçılar, Radyo Kalbim, Radyo Çetin 102.5, Radyo Black, Radyo Dengê Kurdî, Cristian Mixtape, Radyo Hiraş 90.8, SesFM.Net ve Radyo Tuz Gölü 104.1.
+- Önceki `newlyAdded` işaretleri kapatıldı; yalnız bu 18 radyo yeni olarak işaretlendi. Katalog toplamı 1350 oldu.
+- Radyo Tuz Gölü'nün resmî web oynatıcısındaki güncel yayın adresi doğrudan doğrulandı. La Rocka ve Slow FM yayın kimliği doğrulanamadığından eklenmedi.
+
 ## 31 Ekim 2026 — Yeni uluslararası radyo grubu
 
-- Canlı yayın ve logo denetimini geçen 24 radyo eklendi; katalog 1319 kayda çıktı. Önceki yeni işaretleri kapatıldı; yalnız bu grup `newlyAdded: true` kaldı.
-- Radio Paradise Main Mix adı netleştirildi ve aynı World/Etc yayınının eski düşük bit hızlı mükerrer kaydı kaldırıldı.
+- Canlı yayın ve logo denetimini geçen 24 radyo eklendi; katalog 1319 kayda çıktı. Son grupta Radio Plus Mauritius ailesi, Rádio Nova Era, Meowchanica Cosmic Cafe Radio, Actitud 100.9, Cadena Roja, Teletica Radio 91.5 ve FieraMix ailesinin ayrı yayınları bulunuyor.
+- Önceki `newlyAdded` işaretleri kapatıldı; yalnız bu 24 radyo Yeni Eklenenler bölümünde kalıyor.
+- Radio Paradise ana kanalının adı `Main Mix` olarak netleştirildi; aynı World/Etc yayınını yineleyen eski düşük bit hızlı kayıt kaldırıldı.
+- Yayını doğrulanamayan Radio Viva, Radio Punto ve Exa Guatemala; çevrimdışı Exclusive Radio ile din temalı Solo Música Cristiana eklenmedi.
+
+## 31 Ekim 2026 — Yeni Eklenenler filtresi düzeltmesi
+
+- Eski katalog eklemelerinden kalan 460 adet `newlyAdded` işareti kapatıldı. Yeni Eklenenler sekmesi yalnızca son eklenen 13 radyoyu gösterecek şekilde katalog ve APK içi yedek liste birlikte güncellendi.
+- Tekrar yaşanmaması için kaynak kodundaki sabit radyo adları kaldırıldı; Yeni Eklenenler sekmesinin tek kaynağı artık katalogdaki `newlyAdded` alanıdır.
+- Radyo kayıtları, yayın adresleri, logolar ve uygulama sürüm numaraları değiştirilmedi.
+
+## 30 Ekim 2026 — ROCK ANTENNE ailesi ve son logo düzeltmeleri
+
+- Canlı yayınları, resmî sayfaları ve logoları doğrulanan 13 radyo eklendi: YleX, Roll FM, Radio Boofi, Radio Boofi Classic, ABC Jazz, Triple R 102.7FM, Golden Days Radio, Radio Furgoncino, Khaos FM, Andromeda FM, KPaX Radio, Swing Latinos FM ve Radio Maspalomas. Kimlik ve yayın adresi denetiminde mükerrer bulunmadı; katalog 1296 kayda çıktı.
+- Katalogda zaten bulunan Country Bylgjan mükerrer eklenmedi. Çalışan mevcut MP3 ana yayını korundu; resmî Vísir AAC yayını yedek olarak ve kullanıcının verdiği resmî kanal sayfası web adresi olarak eklendi.
+- ROCK ANTENNE ailesindeki 30 kaydın tamamı denetlendi. Google logosu, genel favicon veya dış site görseli kullanan kayıtlar; her kanalın resmî 1000×1000 kapağının kalıcı Cloudflare kopyasına bağlandı. Kanal adları ve yayın adresleri değiştirilmedi.
+- Sezen Radyo logosu kalıcı Cloudflare dosyasına alındı; Totally Radio ailesinin işaret ettiği eksik ortak logo dosyası tamamlandı.
+- Radyo Talya'nın küçük faviconu, marka kimliği korunarak hazırlanmış yüksek çözünürlüklü sürümle değiştirildi.
+- TRD 1 ve TRD 1 Ekstra'nın kayıtlı yayın alan adı çözülmediği ve resmî dinleme bağlantıları da çalışmadığı için kayıtlar silinmeden `enabled: false` yapıldı. Çalışan resmî yayın bulunursa geri açılabilir.
+- Katalog 1296 kayda çıktı; tam ad, kimlik ve ana yayın adresi denetiminde mükerrer bulunmadı.
+
+## 29 Ekim 2026 — Küçük ve bulanık yerel radyo logoları
+
+- `Radyo Barış 103.0`, `Radyo Hür 105.5` ve `Radyo Karacadağ 88.0` logoları marka kimliği ve yazıları korunarak yüksek çözünürlükte netleştirildi; gereksiz boşluklar azaltılıp küçük kartlarda okunabilir hale getirildi. Kanal ve yayın bilgileri değiştirilmedi.
+
+## 29 Ekim 2026 — NRG/NRJ logo düzeltmeleri
+
+- Favicon adresi nedeniyle bozuk görünen `NRG Homeoffice`, `NRJ Belgique` ve `NRJ+ (Belgique)` logoları resmî kanal görsellerinin kalıcı Cloudflare kopyalarıyla değiştirildi. Radyo listesi ve yayın adresleri değiştirilmedi.
+
+## 29 Ekim 2026 — Körfez FM logosu yeniden yüklendi
+
+- Katalogdaki adresi korunarak, Cloudflare logo paketinde eksik olduğu belirlenen `Körfez FM 91.1` görseli büyük ana kaynaktaki sağlam kopyadan yeniden hazırlandı. Kanal ve yayın bilgileri değiştirilmedi.
+
+## 29 Ekim 2026 — Arazaman devre dışı bırakıldı
+
+- Kullanıcının uzun süredir çalışmadığı bildirimi üzerine Arazaman yayını tekrar kontrol edildi. Resmî istasyon sayfası mevcut olsa da doğrudan yayın bağlantısı art arda zaman aşımına uğradı. Kayıt geri döndürülebilir biçimde katalogda `enabled: false` yapıldı ve büyük kaynağın gömülü listesinden çıkarıldı; diğer radyolara dokunulmadı.
 
 ## 28 Ekim 2026 — Logo bağlantısı düzeltmeleri
 
@@ -11,25 +181,26 @@
 - Bağlantısı reddedilen ve logosu görünmeyen eski `Radyo Eylül` mükerrer kaydı kaldırıldı. Yayını çalışan ve resmî logosu erişilebilir olan `Radyo Eylül 99.1` korundu.
 - Ekran görüntülerinde görünmeyen veya bulanık olduğu doğrulanan 61 logo kaydı, kanal ve yayın bilgileri değiştirilmeden düzeltildi: BillyBoy340 ailesi (6), Deepinradio (1), 100Hitz (6), 181.FM (47) ve Rock Melodic Radio (1). Gerçek marka görselleri Cloudflare için kalıcı ve yüksek kaliteli dosyalara dönüştürüldü.
 
-## 23 Ekim 2026 — Uzak katalog ve logolar
+## 27 Ekim 2026 — Logo nedeniyle elenen adayların yeniden denetimi
 
-- Uygulamanın çalışma anındaki katalog adresi GitHub Raw'dan Cloudflare Worker
-  `stations.json` uç noktasına çevrildi.
-- `RadioRepository` içindeki gömülü 802 istasyonluk liste kaldırıldı. Uygulama,
-  Cloudflare'dan gelen doğrulanmış istasyon kayıtlarını kullanıyor; eksik logo
-  adresinde genel uygulama simgesini gösteriyor.
-- Doğrulanmış son katalog önbelleği süre sınırı olmadan tutuluyor; internet veya
-  Cloudflare geçici olarak erişilemezse son başarılı liste kullanılabiliyor.
-- İstasyon logosu yükleme zinciri katalogdaki Cloudflare URL'sini esas alıyor;
-  uygulama kaynaklarındaki istasyon logoları çalışma anında kullanılmıyor.
-- GitHub kataloğunda 799 kanaldan 798 logonun Worker'da olduğu doğrulandı;
-  Radyo Eylül logosu hâlâ dış URL'de ve Cloudflare'a aktarılmadı.
-- Eski ikinci katalog kaynağı devre dışı bırakıldı; GitHub/Cloudflare kataloğu tek
-  istasyon veri kaynağı oldu.
-- Android Studio'da debug ve release derlemelerinde kaynak küçültme açıldı; kodda
-  kullanılmayan yerel logo kaynaklarının APK'ya girmemesi hedefleniyor.
-- Android derlemesi bu ortamda doğrulanamadı: Gradle dağıtımını indirmek için gereken
-  ağ bağlantısı mevcut değildi. Windows Android Studio'da derleme kontrolü gerekiyor.
+- Eski veya erişilemeyen logo adresleri nedeniyle elenen kayıtlar resmî sayfalarından yeniden incelendi. Güncel logoları bulunup yayınları iki ayrı turda kararlı çalışan 94 radyo eklendi; katalog 1190 kayıttan 1284 kayda çıktı.
+- NRJ New Hits Friday, NRJ Paris ve NRJ TIKTOK kararsız kaldığı için; Radyo Hayat ile Akdeniz Türkü FM ise doğrulanabilir resmî kimlik bilgileri bulunamadığı için eklenmedi.
+
+## 25 Ekim 2026 — Yeni doğrulanmış radyolar
+
+- Ayrı sohbette hazırlanmış 427 aday, korunmuş 1008 kanallık ana listeye karşı denetlendi. Yayın, resmî web/logo, zorunlu alan, din/haber politikası ve mükerrerlik kontrollerini geçen 182 kanal eklendi. MP3/AAC ve bit hızı kopyaları tek kayıtta ana/yedek yayın olarak birleştirildi. Eklemeler arasında 47 adet 181.FM, 25 Rock Antenne, 10 FluxFM, 8 100Hitz, 7 FFH, 18 Capital, 8 NRJ, 6 JOE, 6 Radio 88.6 ve 5 Metal ON kanalı bulunuyor.
+- Radio Caprice ağından iki ayrı kanal eklendi: Hard / Heavy Rock ve Heavy Metal. Her kanal kendi resmî sayfasına ve doğrulanmış 320 kbps yayınına bağlandı; Hard / Heavy Rock için çalışan 48 kbps yedek yayın da kaydedildi.
+- 95.7 The Hog (WHOG); resmî 64 kbps AAC yayını, Daytona Beach/Florida konumu, klasik rock içeriği, 95.7 FM frekansı ve resmî oynatıcı logosuyla eklendi.
+- Rock Melodic Radio; resmî 320 kbps MP3 yayını, Atina/Yunanistan konumu, AOR-melodic rock-hard rock içeriği, resmî sitesi ve görseliyle eklendi.
+- BillyBoy340 ağındaki altı müzik kanalı (Merengue Clasicos, Romance, INFINITY Radio, ZONA URBANA, HIT PLAY ve TIMELESS RADIO), kendi adları ve doğrulanan 128 kbps MP3 yayınlarıyla eklendi. Din/inanç odaklı Fe y Esperanza, katalog politikası gereği eklenmedi.
+- Radio Anatolia; resmî Live365 192 kbps MP3 yayını, Türkçe pop içeriği, resmî sitesi ve logosuyla eklendi.
+- Volcano FM; çalışan kalıcı Zeno MP3 yayını, Ibarra/Ekvador konumu, rock-metal içeriği, resmî sitesi ve doğrulanmış logosuyla eklendi.
+- 0N Radio ağının resmî sitesinde ayrı yayın olarak sunulan 47 eksik tematik kanal kendi kanal adı, MP3/AAC adresleri ve ayrı logolarıyla eklendi. Daha önce bulunan dokuz 0N kaydı mükerrer oluşturulmadan korundu; böylece ana kanal dâhil 56 ayrı 0N kanalı katalogda yer aldı.
+- 0N Radio ana kanalı; resmî 128 kbps MP3 yayını, AAC yedeği, Hof/Almanya konumu ve resmî 600×600 logosuyla eklendi. Aynı ağdan katalogda bulunan sekiz tematik kanal mükerrer oluşturulmadan korundu.
+- Radio UArtes; resmî Radio.co 128 kbps MP3 yayını, Guayaquil/Ekvador konumu, resmî sitesi ve logosuyla kataloğa eklendi.
+- ClásicaRock; resmî AzuraCast 128 kbps MP3 yayını, İspanya konumu, resmî sitesi ve logosuyla kataloğa eklendi.
+- RadyoAura; resmî Türkçe kanalının 320 kbps MP3 yayını, İstanbul/Türkiye konumu, resmî sitesi ve logosuyla kataloğa eklendi.
+- Üç yayın da ekleme öncesinde doğrudan `audio/mpeg` yanıtıyla doğrulandı; iki kaynak kataloğu senkron güncellendi.
 
 ## 22 Ekim 2026
 
@@ -206,16 +377,28 @@ Son paket: RadiOnline_1.6.5.27_2026-10-22.zip (`versionCode 68`)
 - `KRAKØN Radio` zaten katalogda bulunduğu için mükerrer eklenmedi. P66 Garage / Action60s Live365 akışı Türkiye bağlantısında 401 verdiği için çalışmayan kayıt oluşturulmadı.
 - Kaynak paket sürümü kullanıcı isteğiyle bir kez artırılarak `1.6.5.26` (`versionCode 67`) yapıldı ve `RadiOnline_1.6.5.26_2026-10-18.zip` teslimi hazırlandı.
 
-# 2026-10-23 — Cloudflare katalog mimarisi hazırlığı
 
-- Android uygulamasının istasyon kataloğu Cloudflare Worker `/stations.json`
-  adresinden alınacak şekilde düzenlendi; son geçerli katalog çevrimdışı kullanım
-  için cihazda saklanıyor.
-- Çalışma zamanındaki gömülü kanal listesi ve yerel logo eşlemeleri kaldırıldı;
-  logo katalogdaki uzak adresten yükleniyor. Projedeki logo kaynak dosyaları tam
-  kaynak arşivinde korunuyor.
-- Kullanılmayan Android logo kaynaklarının APK'ya girmemesi için debug ve release
-  kaynak küçültme etkinleştirildi.
-- Tam Android kaynak projesinin GitHub'a yüklenmesi ve cihazda test edilmesi henüz
-  yapılmadı. Gradle indirme erişimi olmadığı için derleme doğrulanamadı.
 
+## 25 Ekim 2026 — 1.6.5.28 / versionCode 69
+
+- Kaynak paketi için sürüm bir kez `1.6.5.28` (`versionCode 69`) yapıldı.
+- `Son Eklenenler` listesi bu güncel katalog eklemesindeki üç istasyona indirildi: Havin FM, Rock The Bones Radio ve PureRock.US. RTB'nin diğer yayınları tüm istasyonlar listesinde kalır.
+- Uzak katalogdaki `newlyAdded` alanı uygulama modeline eklendi; yeni yayınlar ileride APK değişikliği olmadan bu işaretle Son Eklenenler'e alınabilir (bu desteği içeren APK bir kez yayımlanmalıdır).
+- Android TV tam ekran bekleme görünümü artık erişilebilir albüm kapağı ve istasyon logosunu 15 saniyede bir dönüşümlü gösterir. Yayın şarkı metadata'sı sağlamıyorsa veya kapak bulunamazsa mevcut kanal logosu gösterilir.
+- Kaynak derleme denemesi bu ortamda Gradle eklentisi `org.gradle.toolchains.foojay-resolver-convention:1.0.0` indirilemediği için yapılandırma aşamasında durdu; APK üretilmedi.
+
+
+Son kaynak paketi: RadiOnline_1.6.5.28_2026-10-25.zip (`versionCode 69`)
+
+# 1 Kasım 2026
+
+- Doğrudan yayınları yeniden doğrulanan 13 istasyon eklendi: Coastiva Radio,
+  Falklands Radio, FM 105, Haragano FM, La ON Radio, Nativa FM Pucón, Nueva Q,
+  Rádio 102 FM Itaperuna, Rádio 80FM, Radio Horizontes Sucre, Radiolina Trapani,
+  RF101 ve SunCity 104.9 FM.
+- Önceki `newlyAdded` işaretleri kapatıldı; yalnız bu 13 istasyon yeni olarak
+  işaretlendi. Katalog toplamı 1332 oldu.
+- Büyük kaynak, küçük kaynak ve GitHub/Cloudflare katalogları eşitlendi;
+  mükerrer kimlik veya yayın adresi oluşmadı.
+- ESDES Radio logo erişimi reddedildiği, Kool 97 FM yayını 401 döndürdüğü için
+  hatalı kayıt oluşturmamak adına bu gruba alınmadı.
