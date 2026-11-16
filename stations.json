@@ -20362,7 +20362,7 @@
       "location": "New York, ABD",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_infinite_radio.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "more-fm-new-zealand",
@@ -20377,7 +20377,7 @@
       "frequency": "91.8 FM",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_more_fm.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "yumi-fm-png",
@@ -20391,6 +20391,143 @@
       "frequency": "93.1 FM",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_yumi_fm.webp",
+      "newlyAdded": false
+    },
+    {
+      "id": "atlantisfm-lanzarote",
+      "name": "AtlantisFM Lanzarote",
+      "urls": [
+        "https://s4.radionetz.de/atlantisfm.mp3"
+      ],
+      "website": "https://atlantisfmlanzarote.com/",
+      "content": "Rock, soul ve modern caz; Almanca",
+      "location": "Lanzarote, Kanarya Adaları, İspanya",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_atlantisfm_lanzarote.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "la-clave-stereo-936",
+      "name": "La Clave Stereo 93.6",
+      "urls": [
+        "https://stream.integracionvirtual.com/proxy/laclavestereo?mp=/stream"
+      ],
+      "website": "https://laclavestereo.es/",
+      "content": "Latin, urban ve crossover müzik; İspanyolca",
+      "location": "Arrecife, Lanzarote, Kanarya Adaları, İspanya",
+      "frequency": "93.6 FM",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_la_clave_stereo.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "90s90s-lovesongs",
+      "name": "90s90s Lovesongs",
+      "urls": [
+        "https://streams.90s90s.de/love/mp3-192/streams.90s90s.de/",
+        "https://streams.90s90s.de/love/mp3-128/streams.90s90s.de/"
+      ],
+      "website": "https://www.90s90s.de/radios/lovesongs",
+      "content": "1990'lar aşk şarkıları, pop ve baladlar",
+      "location": "Almanya",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_90s90s_lovesongs.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-linea-de-refugio",
+      "name": "Radio Línea de Refugio",
+      "urls": [
+        "https://stream.laut.fm/radiolineaderefugio"
+      ],
+      "website": "https://radiolineaderefugio.wixsite.com/enlinea",
+      "content": "Hristiyan müziği ve Gospel; İspanyolca",
+      "location": "Jinotega, Nikaragua",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_radio_linea_de_refugio.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "rsi-rete-uno",
+      "name": "RSI Rete Uno",
+      "urls": [
+        "https://stream.srg-ssr.ch/m/reteuno/mp3_128"
+      ],
+      "website": "https://www.rsi.ch/audio/rete-uno/",
+      "content": "Haber, sohbet ve karma müzik; İtalyanca",
+      "location": "Lugano, Ticino, İsviçre",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_rsi_rete_uno.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "jazz-wyoming",
+      "name": "Jazz Wyoming",
+      "urls": [
+        "https://wyoming-public-ice.streamguys1.com/JZZ128MP3"
+      ],
+      "website": "https://www.wyomingpublicmedia.org/show/jazz-wyoming",
+      "content": "Kesintisiz caz ve saat başı NPR haberleri",
+      "location": "Laramie, Wyoming, ABD",
+      "frequency": "90.1 FM",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_jazz_wyoming.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "kdki-1039",
+      "name": "KDKI 103.9 FM",
+      "urls": [
+        "https://s47.myradiostream.com/:14800/listen.mp3"
+      ],
+      "website": "https://www.kdki.org/",
+      "content": "Big band, swing, caz ve yetişkin standartları",
+      "location": "Twin Falls, Idaho, ABD",
+      "frequency": "103.9 FM",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_kdki_1039.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "katy-country-931-kmkt",
+      "name": "Katy Country 93.1",
+      "urls": [
+        "https://live.amperwave.net/direct/alphacorporate-kmktfmmp3-ibc4"
+      ],
+      "website": "https://www.931kmkt.com/home",
+      "content": "Güncel country müzik; İngilizce",
+      "location": "Sherman, Texas, ABD",
+      "frequency": "93.1 FM",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_katy_country_931.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radiowave-967-namibia",
+      "name": "Radiowave 96.7 FM",
+      "urls": [
+        "https://edge.iono.fm/xice/194_medium.aac"
+      ],
+      "website": "https://radiowave.com.na/",
+      "content": "Pop, Top 40, dans ve eğlence; İngilizce",
+      "location": "Windhoek, Namibya",
+      "frequency": "96.7 FM",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_radiowave_967.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "nam-radio-local",
+      "name": "Nam Radio Local",
+      "urls": [
+        "https://music-station.live/listen/nam_radio_local/radio.mp3",
+        "https://music-station.live/listen/nam_radio_local/autodj.mp3"
+      ],
+      "website": "https://namradiolocal.com/",
+      "content": "Afrobeats, Amapiano, Afro House, hip-hop ve reggae; İngilizce",
+      "location": "Windhoek, Namibya",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_nam_radio_local.jpg",
       "newlyAdded": true
     },
     {

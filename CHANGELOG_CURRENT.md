@@ -1,5 +1,17 @@
 # Henüz paketlenmemiş değişiklikler
 
+## 16 Kasım 2026 — On yeni radyo
+
+- Doğrudan yayın adresleri, resmî sayfaları, konumları ve logoları
+  doğrulanan 10 radyo eklendi.
+- Eklenen grup: AtlantisFM Lanzarote, La Clave Stereo 93.6, 90s90s
+  Lovesongs, Radio Línea de Refugio, RSI Rete Uno, Jazz Wyoming, KDKI
+  103.9 FM, Katy Country 93.1, Radiowave 96.7 FM ve Nam Radio Local.
+- Eski `Yeni Eklenenler` işaretleri kapatıldı; yalnız bu 10 istasyon yeni
+  olarak bırakıldı. Katalog toplamı 1544'ten 1554'e yükseldi.
+- Mükerrer Radio Paradise Main Mix yeniden eklenmedi. Tek bir istasyonu
+  belirtmeyen Route 66 Media grubu bu ekleme grubuna dahil edilmedi.
+
 ## 15 Kasım 2026 — Logo düzeltmeleri ve üç yeni radyo
 
 - `Yeni Eklenenler` bölümü temizlendi; önceki 22 istasyonun işareti kapatıldı
