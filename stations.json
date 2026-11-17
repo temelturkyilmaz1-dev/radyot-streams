@@ -20404,7 +20404,7 @@
       "location": "Lanzarote, Kanarya Adaları, İspanya",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_atlantisfm_lanzarote.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "la-clave-stereo-936",
@@ -20418,7 +20418,7 @@
       "frequency": "93.6 FM",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_la_clave_stereo.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "90s90s-lovesongs",
@@ -20432,7 +20432,7 @@
       "location": "Almanya",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_90s90s_lovesongs.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-linea-de-refugio",
@@ -20445,7 +20445,7 @@
       "location": "Jinotega, Nikaragua",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_radio_linea_de_refugio.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "rsi-rete-uno",
@@ -20458,7 +20458,7 @@
       "location": "Lugano, Ticino, İsviçre",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_rsi_rete_uno.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "jazz-wyoming",
@@ -20472,7 +20472,7 @@
       "frequency": "90.1 FM",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_jazz_wyoming.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "kdki-1039",
@@ -20486,7 +20486,7 @@
       "frequency": "103.9 FM",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_kdki_1039.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "katy-country-931-kmkt",
@@ -20500,7 +20500,7 @@
       "frequency": "93.1 FM",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_katy_country_931.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radiowave-967-namibia",
@@ -20514,7 +20514,7 @@
       "frequency": "96.7 FM",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_radiowave_967.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "nam-radio-local",
@@ -20528,6 +20528,207 @@
       "location": "Windhoek, Namibya",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_nam_radio_local.webp",
+      "newlyAdded": false
+    },
+    {
+      "id": "frequence-luz",
+      "name": "Fréquence Luz",
+      "urls": [
+        "https://stream-ssl.radios-arra.fr:8443/frequenceluz"
+      ],
+      "website": "https://frequenceluz.fr/",
+      "content": "Yerel kültür, toplum programları ve eklektik müzik; Fransızca",
+      "location": "Luz-Saint-Sauveur, Hautes-Pyrénées, Fransa",
+      "frequency": "99.6 / 103.4 / 104.2 / 104.9 FM",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_frequence_luz.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-tx",
+      "name": "Radio TX",
+      "urls": [
+        "https://radiotx.radioca.st/stream",
+        "http://janus.shoutca.st:8675/stream"
+      ],
+      "website": "https://www.radiotx.es/",
+      "content": "1960'lardan 1990'lara pop, rock ve klasik hitler; İspanyolca",
+      "location": "Bilbao, Bask Bölgesi, İspanya",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_radio_tx.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-record-main",
+      "name": "Radio Record",
+      "urls": [
+        "https://radiorecord.hostingradio.ru/rr_main96.aacp"
+      ],
+      "website": "https://www.radiorecord.ru/station/record",
+      "content": "Dans, EDM ve elektronik müzik; Rusça",
+      "location": "Sankt-Peterburg, Rusya",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_radio_record.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "mixadance-fm",
+      "name": "Mixadance FM",
+      "urls": [
+        "https://stream.mixadance.fm/mixadance"
+      ],
+      "website": "https://2026.mixadance.fm/",
+      "content": "Dance, house ve elektronik müzik",
+      "location": "Moskova, Rusya",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_mixadance_fm.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "jfk-radio-ibiza",
+      "name": "JFK Radio Ibiza",
+      "urls": [
+        "https://jfkibiza.es/jfkradio/stream",
+        "https://jfkibiza.es/jfkradio/hls/live.m3u8"
+      ],
+      "website": "https://jfkibiza.es/",
+      "content": "Jazz, funk, soul ve Kool tarzı müzik",
+      "location": "İbiza, Balear Adaları, İspanya",
+      "frequency": "96.3 FM / DAB+ 6B",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_jfk_ibiza.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "hits-1-radio",
+      "name": "Hits 1",
+      "urls": [
+        "https://stream.hd1.hits1radio.com"
+      ],
+      "website": "https://www.hits1radio.com/",
+      "content": "Dance, Top 40 ve güncel hitler; Fransızca ve İngilizce",
+      "location": "Nouvelle-Aquitaine, Fransa",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_hits_1.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-moderna-407",
+      "name": "Radio Moderna 407",
+      "urls": [
+        "https://mars.streamerr.co:7168/stream"
+      ],
+      "website": "https://radiomoderna407.com/",
+      "content": "Latin müziği, eğlence, spor ve kültür; İspanyolca",
+      "location": "Kissimmee, Florida, ABD",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_radio_moderna_407.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "bloom-radio-balearics",
+      "name": "Bloom Radio",
+      "urls": [
+        "https://bloomradio.nl/ruudradio/stream",
+        "https://ruuddj.duckdns.org/ruud-dj/stream"
+      ],
+      "website": "https://bloomradio.nl/",
+      "content": "Soft pop, soul, oldies ve zamansız klasikler",
+      "location": "Es Canar, İbiza, Balear Adaları, İspanya",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_bloom_radio.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "ibiza-radios-hits",
+      "name": "Ibiza Radios Hits",
+      "urls": [
+        "https://radio2.vip-radios.fm:18024/stream-128kmp3-IbizaHits"
+      ],
+      "website": "https://www.ibiza-radios.com/",
+      "content": "Güncel hitler, pop ve dans müziği",
+      "location": "İbiza, Balear Adaları, İspanya",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_ibiza_hits.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "ibiza-radios-chill",
+      "name": "Ibiza Radios Chill",
+      "urls": [
+        "https://radio2.vip-radios.fm:18018/stream-128kmp3-IbizaChill"
+      ],
+      "website": "https://www.ibiza-radios.com/",
+      "content": "Chillout, Balearic ve lounge müzik",
+      "location": "İbiza, Balear Adaları, İspanya",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_ibiza_chill.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "ibiza-radios-dance",
+      "name": "Ibiza Radios Dance",
+      "urls": [
+        "https://radio2.vip-radios.fm:18021/stream-128kmp3-IbizaDance"
+      ],
+      "website": "https://www.ibiza-radios.com/",
+      "content": "Dance, house ve kulüp müziği",
+      "location": "İbiza, Balear Adaları, İspanya",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_ibiza_dance.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "ibiza-radios-deep-house",
+      "name": "Ibiza Radios Deep House",
+      "urls": [
+        "https://radio2.vip-radios.fm:18027/stream-128kmp3-IbizaDeep"
+      ],
+      "website": "https://www.ibiza-radios.com/",
+      "content": "Deep house ve elektronik müzik",
+      "location": "İbiza, Balear Adaları, İspanya",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_ibiza_deep_house.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "ibiza-radios-funky",
+      "name": "Ibiza Radios Funky",
+      "urls": [
+        "https://radio2.vip-radios.fm:18030/stream-128kmp3-IbizaFunky"
+      ],
+      "website": "https://www.ibiza-radios.com/",
+      "content": "Funk, disco ve soulful house",
+      "location": "İbiza, Balear Adaları, İspanya",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_ibiza_funky.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "ibiza-radios-smooth-jazz",
+      "name": "Ibiza Radios Smooth Jazz",
+      "urls": [
+        "https://radio2.vip-radios.fm:18033/stream-128kmp3-IbizaSmooth"
+      ],
+      "website": "https://www.ibiza-radios.com/",
+      "content": "Smooth jazz ve dinlendirici enstrümantal müzik",
+      "location": "İbiza, Balear Adaları, İspanya",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_ibiza_smooth_jazz.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "ibiza-radios-relax",
+      "name": "Ibiza Radios Relax",
+      "urls": [
+        "http://54.38.43.201:8036/stream-128kmp3-IbizaRelax",
+        "https://radio2.vip-radios.fm:18036/stream-128kmp3-IbizaRelax"
+      ],
+      "website": "https://www.ibiza-radios.com/",
+      "content": "Rahatlama, ambient ve sakin chillout müzik",
+      "location": "İbiza, Balear Adaları, İspanya",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_ibiza_relax.webp",
       "newlyAdded": true
     },
     {

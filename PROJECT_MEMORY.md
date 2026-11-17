@@ -1,6 +1,6 @@
 # RadiOnline proje hafızası
 
-Son güncelleme: 23 Ekim 2026
+Son güncelleme: 17 Kasım 2026
 
 ## Proje ve sürüm
 
@@ -8,14 +8,19 @@ RadiOnline; telefon, Android TV/TV Box, Android Auto, Chromecast ve ana ekran
 widget'ında internet radyosu oynatan Android uygulamasıdır.
 
 - Paket: `com.radyo.turkiyeradyolari`
-- Çalışma sürümü: 1.6.5.27
-- versionCode: 68
+- Çalışma sürümü: 1.6.5.40
+- versionCode: 81
 - Katalogun çalışma anındaki kaynağı: Cloudflare Worker `stations.json`
 - GitHub deposu: `temelturkyilmaz1-dev/radyot-streams` (şu an katalog ve yayın dosyaları; tam Android kaynak projesi henüz depoya yüklenmedi)
 - Son teslim: RadiOnline_1.6.5.27_2026-10-22.zip
 - Son teslimden sonraki değişiklikler `CHANGELOG_CURRENT.md` içinde tutulur.
 
 ## Zaten bulunan özellikler
+
+- TV Box üst çubuğu RadiOnline uygulama logosu, arama, sesli arama, menü,
+  ekolayzır ve çıkış denetimleri dar ekranlarda da birlikte sığacak yapıdadır.
+- Android Auto oynatma bilgisinde ülke bayrağı radyo adıyla aynı satırda kalır;
+  şarkı metadata güncellemeleri bu kimlik satırını kaldırmaz.
 
 - Telefon ve TV Box radyo listeleri, favoriler ve son dinlenenler.
 - Liste/döşeme görünümleri ve kategori filtreleri.
@@ -45,6 +50,12 @@ widget'ında internet radyosu oynatan Android uygulamasıdır.
   sonucunu üretir ve mevcutsa gerçek ses biçimi/bitrate bilgisini de gösterir.
 
 ## GitHub katalog ve sağlık sistemi
+
+17 Kasım 2026 itibarıyla katalog toplamı 1569'dur. Son gruptaki 15 istasyon
+
+`newlyAdded: true`; önceki işaretler kapalıdır. VisiOnAir Radio zaten katalogda
+
+bulunduğundan yeniden eklenmemiştir.
 
 Depo: `temelturkyilmaz1-dev/radyot-streams`
 

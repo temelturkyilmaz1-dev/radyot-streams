@@ -1,5 +1,28 @@
 # Henüz paketlenmemiş değişiklikler
 
+## 17 Kasım 2026 — On beş yeni radyo ve 1.6.5.40
+
+- Resmî sayfaları, doğrudan yayınları, konumları ve logoları doğrulanan
+  15 yeni radyo eklendi: Fréquence Luz, Radio TX, Radio Record ana kanal,
+  Mixadance FM, JFK Radio Ibiza, Hits 1, Radio Moderna 407, Bloom Radio
+  ve Ibiza Radios ailesinin Hits, Chill, Dance, Deep House, Funky,
+  Smooth Jazz ile Relax kanalları.
+- VisiOnAir Radio katalogda aynı resmî yayın ve Cagliari konumuyla zaten
+  bulunduğu için mükerrer eklenmedi.
+- Önceki 10 yeni işareti kapatıldı; yalnız bu 15 kayıt yeni bırakıldı.
+  Katalog toplamı 1554'ten 1569'a yükseldi.
+- Büyük ve küçük kaynak birlikte 1.6.5.40 / versionCode 81 sürümüne
+  yükseltildi.
+
+## 17 Kasım 2026 — TV Box ve Android Auto görünüm düzeltmeleri
+
+- TV Box üst çubuğu dar ekranlara sığacak şekilde düzenlendi; RadiOnline
+  uygulama logosunun ekrandan taşarak kaybolması önlendi.
+- TV Box arama alanındaki iç içe çerçeve kaldırıldı ve alan tek parça,
+  tamamlanmış bir arama kutusuna dönüştürüldü; sesli arama ayrı kaldı.
+- Android Auto'da ülke bayrağı, şarkı bilgisi geldikten sonra kaybolmayacak
+  şekilde radyo adının yanında sabitlendi.
+
 ## 16 Kasım 2026 — On yeni radyo
 
 - Doğrudan yayın adresleri, resmî sayfaları, konumları ve logoları
