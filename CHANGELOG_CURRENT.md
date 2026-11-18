@@ -1,5 +1,45 @@
 # Henüz paketlenmemiş değişiklikler
 
+## 18 Kasım 2026 — On iki yeni radyo ve 1.6.5.41
+
+- Radio Uno Bogotá 88.9, Musical Stereo, Capital Salsa ve La FM Plus Bogotá
+  93.9 ile La FM Bogotá 94.9; çalışan resmî yayınları, resmî siteleri,
+  logoları ve konum bilgileriyle eklendi.
+- Peru'dan Radio Huanta 2000; resmî yayını, logosu, 92.9 FM frekansı ve
+  Huanta/Ayacucho konumuyla eklendi.
+- Radio Fiesta Mix Huanta 88.5; resmî yayını, sitesi, logosu ve Huanta
+  konumuyla eklendi.
+- Şili'den Radio Beethoven 97.7; resmî AAC yayını, logosu ve Santiago
+  konumuyla eklendi.
+- Santiago'dan çevrim içi Super 45 FM; resmî 192 kbps MP3 yayını ve kare
+  resmî logosuyla eklendi.
+- Rockaxis Radio; resmî AAC yayını, kare marka logosu ve Santiago konumuyla
+  eklendi.
+- Estación XLW 100.7; çalışan AAC+ yayını, güncel resmî logosu ve San Luis,
+  Arjantin konumuyla eklendi.
+- Radio Líder San Juan 104.3; HLS yayını, resmî sitesi ve resmî dış logo
+  adresiyle eklendi. Logo dosyası güvenlik uyarısı nedeniyle yerel depoya
+  indirilmedi.
+- Radio Plus Mauritius katalogda zaten bulunduğu için mükerrer eklenmedi.
+- Önceki yeni işareti kapatıldı; `Yeni Eklenenler` bölümünde yalnız bu on iki
+  radyo bırakıldı. Katalog toplamı 1570'ten 1582'ye yükseldi.
+- Büyük ve küçük kaynak birlikte 1.6.5.41 / versionCode 82 sürümüne yükseltildi.
+
+## 18 Kasım 2026 — Rádio Calheta
+
+- Rádio Calheta; resmî 192 kbps MP3 yayını, resmî logosu, 98.8 FM
+  frekansı ve Calheta/Madeira/Portekiz konumuyla eklendi.
+- Önceki yeni işaretleri kapatıldı; `Yeni Eklenenler` bölümünde yalnız
+  Rádio Calheta bırakıldı. Katalog toplamı 1569'dan 1570'e yükseldi.
+
+## 18 Kasım 2026 — Android Auto çift bayrak düzeltmesi
+
+- Ülke bayrağı Android Auto oynatma ekranında yalnızca radyo adının yanında
+  gösterilecek şekilde düzeltildi. Konum satırındaki ikinci bayrak kaldırıldı;
+  şehir/ülke, şarkı ve yayın kalitesi bilgileri korundu.
+- Şarkı bilgisi varken üst satırlar yalnız şarkı adı ve sanatçıyı gösterir;
+  alt satır bayrak, radyo adı, şehir/ülke ve yayın kalitesine ayrılmıştır.
+
 ## 17 Kasım 2026 — On beş yeni radyo ve 1.6.5.40
 
 - Resmî sayfaları, doğrudan yayınları, konumları ve logoları doğrulanan

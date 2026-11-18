@@ -1,6 +1,14 @@
 # RadiOnline proje hafızası
 
-Son güncelleme: 17 Kasım 2026
+Son güncelleme: 18 Kasım 2026
+
+18 Kasım 2026 katalog durumu: toplam 1582 radyo; `newlyAdded: true` yalnız
+Radio Uno Bogotá 88.9, Musical Stereo, Capital Salsa ve La FM Plus Bogotá
+93.9, La FM Bogotá 94.9, Radio Huanta 2000 ve Radio Fiesta Mix Huanta 88.5
+ile Radio Beethoven Chile 97.7, Super 45 FM ve Rockaxis Radio kayıtlarındadır.
+Estación XLW 100.7 ve Radio Líder San Juan 104.3 de son gruptadır. Radio Plus
+Mauritius zaten katalogda bulunduğu için yeniden eklenmemiştir. Paket sürümü
+1.6.5.41 / 82'dir.
 
 ## Proje ve sürüm
 
@@ -8,8 +16,8 @@ RadiOnline; telefon, Android TV/TV Box, Android Auto, Chromecast ve ana ekran
 widget'ında internet radyosu oynatan Android uygulamasıdır.
 
 - Paket: `com.radyo.turkiyeradyolari`
-- Çalışma sürümü: 1.6.5.40
-- versionCode: 81
+- Çalışma sürümü: 1.6.5.41
+- versionCode: 82
 - Katalogun çalışma anındaki kaynağı: Cloudflare Worker `stations.json`
 - GitHub deposu: `temelturkyilmaz1-dev/radyot-streams` (şu an katalog ve yayın dosyaları; tam Android kaynak projesi henüz depoya yüklenmedi)
 - Son teslim: RadiOnline_1.6.5.27_2026-10-22.zip

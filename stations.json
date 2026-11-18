@@ -20542,7 +20542,7 @@
       "frequency": "99.6 / 103.4 / 104.2 / 104.9 FM",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_frequence_luz.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-tx",
@@ -20556,7 +20556,7 @@
       "location": "Bilbao, Bask Bölgesi, İspanya",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_radio_tx.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-record-main",
@@ -20569,7 +20569,7 @@
       "location": "Sankt-Peterburg, Rusya",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_radio_record.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "mixadance-fm",
@@ -20582,7 +20582,7 @@
       "location": "Moskova, Rusya",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_mixadance_fm.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "jfk-radio-ibiza",
@@ -20597,7 +20597,7 @@
       "frequency": "96.3 FM / DAB+ 6B",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_jfk_ibiza.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "hits-1-radio",
@@ -20610,7 +20610,7 @@
       "location": "Nouvelle-Aquitaine, Fransa",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_hits_1.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-moderna-407",
@@ -20623,7 +20623,7 @@
       "location": "Kissimmee, Florida, ABD",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_radio_moderna_407.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "bloom-radio-balearics",
@@ -20637,7 +20637,7 @@
       "location": "Es Canar, İbiza, Balear Adaları, İspanya",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_bloom_radio.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "ibiza-radios-hits",
@@ -20650,7 +20650,7 @@
       "location": "İbiza, Balear Adaları, İspanya",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_ibiza_hits.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "ibiza-radios-chill",
@@ -20663,7 +20663,7 @@
       "location": "İbiza, Balear Adaları, İspanya",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_ibiza_chill.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "ibiza-radios-dance",
@@ -20676,7 +20676,7 @@
       "location": "İbiza, Balear Adaları, İspanya",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_ibiza_dance.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "ibiza-radios-deep-house",
@@ -20689,7 +20689,7 @@
       "location": "İbiza, Balear Adaları, İspanya",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_ibiza_deep_house.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "ibiza-radios-funky",
@@ -20702,7 +20702,7 @@
       "location": "İbiza, Balear Adaları, İspanya",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_ibiza_funky.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "ibiza-radios-smooth-jazz",
@@ -20715,7 +20715,7 @@
       "location": "İbiza, Balear Adaları, İspanya",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_ibiza_smooth_jazz.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "ibiza-radios-relax",
@@ -20729,7 +20729,21 @@
       "location": "İbiza, Balear Adaları, İspanya",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_ibiza_relax.webp",
-      "newlyAdded": true
+      "newlyAdded": false
+    },
+    {
+      "id": "radio-calheta-madeira",
+      "name": "Rádio Calheta",
+      "urls": [
+        "https://player.radiocalheta.pt/listen/radiocalheta/live"
+      ],
+      "website": "https://player.radiocalheta.pt/public/radiocalheta",
+      "content": "Yerel haber, kültür, eğlence, Portekiz müziği ve karma müzik; Portekizce",
+      "location": "Calheta, Madeira, Portekiz",
+      "frequency": "98.8 FM",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_radio_calheta.webp",
+      "newlyAdded": false
     },
     {
       "id": "radio-mitilini-900",
@@ -20744,6 +20758,170 @@
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_radio-mitilini-900.webp",
       "newlyAdded": false
+    },
+    {
+      "id": "radio-uno-bogota-889",
+      "name": "Radio Uno Bogotá 88.9",
+      "urls": [
+        "https://mdstrm.com/audio/632c9bbcaa9ace684913b81b/live.m3u8"
+      ],
+      "website": "https://www.radiouno.com.co/",
+      "content": "Popüler müzik, vallenato ve tropikal müzik; İspanyolca",
+      "location": "Bogotá, Kolombiya",
+      "frequency": "88.9 FM",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_radio_uno_bogota.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "musical-stereo-cali",
+      "name": "Musical Stereo",
+      "urls": [
+        "https://sonic.paulatina.co/8156/stream"
+      ],
+      "website": "https://www.musicalstereo.com/",
+      "content": "60'lar, 70'ler ve 80'lerden klasikler, balad ve tropikal müzik; İspanyolca",
+      "location": "Cali, Valle del Cauca, Kolombiya",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_musical_stereo.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "capital-salsa-cali",
+      "name": "Capital Salsa",
+      "urls": [
+        "https://stream.integracionvirtual.com/proxy/capitalsalsa?mp=/stream"
+      ],
+      "website": "https://capitalsalsa.com.co/",
+      "content": "Salsa ve Latin müziği; İspanyolca",
+      "location": "Cali, Valle del Cauca, Kolombiya",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_capital_salsa.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "la-fm-plus-bogota-939",
+      "name": "La FM Plus Bogotá 93.9",
+      "urls": [
+        "https://mdstrm.com/audio/627c1c39637d89088290f64d/icecast.audio"
+      ],
+      "website": "https://lafmplus.com/",
+      "content": "80'ler ve 90'lardan klasikler, pop, rock ve güncel hitler; İspanyolca",
+      "location": "Bogotá, Kolombiya",
+      "frequency": "93.9 FM",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_la_fm_plus.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "la-fm-bogota-949",
+      "name": "La FM Bogotá 94.9",
+      "urls": [
+        "https://mdstrm.com/audio/632c9b23d1dcd7027f32f7fe/live.m3u8"
+      ],
+      "website": "https://www.lafm.com.co/",
+      "content": "Haber, röportaj, spor, gündem ve yorum; İspanyolca",
+      "location": "Bogotá, Kolombiya",
+      "frequency": "94.9 FM",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_la_fm_bogota.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-huanta-2000",
+      "name": "Radio Huanta 2000",
+      "urls": [
+        "https://servistream.info:9152/;"
+      ],
+      "website": "https://radiohuanta2000.com/",
+      "content": "Yerel haber, kültür, yetişkin çağdaş ve karma müzik; İspanyolca ve Keçuva",
+      "location": "Huanta, Ayacucho, Peru",
+      "frequency": "92.9 FM",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_radio_huanta_2000.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-fiesta-mix-huanta-885",
+      "name": "Radio Fiesta Mix Huanta 88.5",
+      "urls": [
+        "https://dattavolt.com:7128/stream"
+      ],
+      "website": "https://www.radiofiestamixdehuanta.com/",
+      "content": "Karma müzik, gençlik müziği, nostalji ve yerel haber; İspanyolca",
+      "location": "Huanta, Ayacucho, Peru",
+      "frequency": "88.5 FM",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_radio_fiesta_mix_huanta.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-beethoven-chile-977",
+      "name": "Radio Beethoven Chile 97.7",
+      "urls": [
+        "https://redirector.dps.live/beethovenfm/aac/icecast.audio"
+      ],
+      "website": "https://www.beethovenfm.cl/",
+      "content": "Klasik müzik, opera, oda müziği, kültür ve konser yayınları; İspanyolca",
+      "location": "Santiago, Şili",
+      "frequency": "97.7 FM",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_radio_beethoven_chile.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "super45-fm-chile",
+      "name": "Super 45 FM",
+      "urls": [
+        "https://s4.radio.co/s421105570/listen"
+      ],
+      "website": "https://www.super45.fm/",
+      "content": "Bağımsız müzik, alternatif rock, elektronik, deneysel müzik ve caz; İspanyolca",
+      "location": "Santiago, Şili",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_super45_fm.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "rockaxis-radio-chile",
+      "name": "Rockaxis Radio",
+      "urls": [
+        "https://mdstrm.com/audio/5de7fdb07e2fde0798203821/icecast.audio"
+      ],
+      "website": "https://www.rockaxis.com/",
+      "content": "Rock, klasik rock, alternatif rock, progresif rock ve heavy metal; İspanyolca",
+      "location": "Santiago, Şili",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_rockaxis_radio_square.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "estacion-xlw-san-luis-1007",
+      "name": "Estación XLW 100.7",
+      "urls": [
+        "http://radio.solumedia.com.ar:7009/;"
+      ],
+      "website": "https://www.estacionxlw.com.ar/",
+      "content": "Pop, Latin pop, rock, güncel hitler, haber ve eğlence; İspanyolca",
+      "location": "San Luis, Arjantin",
+      "frequency": "100.7 FM",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_estacion_xlw.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-lider-san-juan-1043",
+      "name": "Radio Líder San Juan 104.3",
+      "urls": [
+        "https://stream.arcast.tv:8443/lidersanjuan/lidersanjuan.stream/playlist.m3u8"
+      ],
+      "website": "https://conpacto.com.ar/lider/",
+      "content": "Pop, Latin pop, haber, sohbet ve eğlence; İspanyolca",
+      "location": "San Juan, Arjantin",
+      "frequency": "104.3 FM",
+      "enabled": true,
+      "logo": "https://conpacto.com.ar/wp-content/uploads/2020/01/liderl_radio.png",
+      "newlyAdded": true
     }
   ],
   "catalogPolicy": {
