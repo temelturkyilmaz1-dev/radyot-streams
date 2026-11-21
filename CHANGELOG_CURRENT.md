@@ -1,5 +1,14 @@
 # Henüz paketlenmemiş değişiklikler
 
+## 21 Kasım 2026 — Cloudflare logo yükleme düzeltmesi
+
+- Son eklenen yedi logo için katalogda `.png`/`.jpeg` yazılan Cloudflare hedefleri,
+  yükleme iş akışının ürettiği `.webp` anahtarlarıyla eşleştirildi.
+- Kaynak görseller depoda PNG/JPEG olarak korunuyor; GitHub iş akışı bunları WebP'ye
+  dönüştürerek Cloudflare'a yüklüyor.
+- GitHub Actions'taki Node.js 20 uyarısını kaldırmak için `actions/checkout` v5'e
+  yükseltildi.
+
 ## 21 Kasım 2026 — Dokuz yeni radyo
 
 - Muğla merkezli Açık Kıyı | Open Shore; çalışan 320 kbps MP3 yayını,

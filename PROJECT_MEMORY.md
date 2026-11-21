@@ -13,6 +13,10 @@ mükerrer eklenmemiş; konumu Side ve Manavgat, Antalya, Türkiye olarak
 düzeltilmiştir. Bandırma Radyo Venüs 92.2 ile Bursa Radyo Venüs 105.3 ayrı
 istasyonlar olarak korunur. Sürüm 1.6.5.41 / 82 olarak korunur.
 
+21 Kasım 2026 Cloudflare notu: katalogdaki Cloudflare logo URL'leri `.webp`
+uzantılı olmalıdır. `logos/` altındaki kaynak dosya PNG/JPEG olabilir; GitHub
+iş akışı kaynağı WebP'ye dönüştürüp aynı dosya köküyle KV'ye yükler.
+
 18 Kasım 2026 katalog durumu: toplam 1582 radyo; `newlyAdded: true` yalnız
 Radio Uno Bogotá 88.9, Musical Stereo, Capital Salsa ve La FM Plus Bogotá
 93.9, La FM Bogotá 94.9, Radio Huanta 2000 ve Radio Fiesta Mix Huanta 88.5

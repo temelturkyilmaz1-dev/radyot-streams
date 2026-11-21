@@ -9013,7 +9013,7 @@
       "website": "https://www.radyomavidenizim.com/",
       "content": "Türk halk müziği, özgün müzik ve karma Türkçe müzik",
       "location": "Türkiye",
-      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_radyo_mavi_denizim.png",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_radyo_mavi_denizim.webp",
       "newlyAdded": false
     },
     {
@@ -20142,7 +20142,7 @@
       "location": "Osmaniye, Türkiye",
       "frequency": "97.3 FM",
       "enabled": true,
-      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_radyo_gonul_osmaniye.png",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_radyo_gonul_osmaniye.webp",
       "newlyAdded": true
     },
     {
@@ -20990,7 +20990,7 @@
       "location": "İstanbul, Türkiye",
       "frequency": "online",
       "enabled": true,
-      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_standart_fm.png",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_standart_fm.webp",
       "newlyAdded": true
     },
     {
@@ -21004,7 +21004,7 @@
       "location": "Orestiada, Evros, Yunanistan",
       "frequency": "97.1 FM",
       "enabled": true,
-      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_radio_evros.png",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_radio_evros.webp",
       "newlyAdded": true
     },
     {
@@ -21018,7 +21018,7 @@
       "location": "Karadeniz Ereğli, Zonguldak, Türkiye",
       "frequency": "91.7 FM",
       "enabled": true,
-      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_eregli_fm.png",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_eregli_fm.webp",
       "newlyAdded": true
     },
     {
@@ -21032,7 +21032,7 @@
       "location": "Ankara, Türkiye",
       "frequency": "online",
       "enabled": true,
-      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_memleketim_fm.jpeg",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_memleketim_fm.webp",
       "newlyAdded": true
     },
     {
@@ -21046,7 +21046,7 @@
       "location": "Ankara, Türkiye",
       "frequency": "kısa dalga ve online",
       "enabled": true,
-      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_turkiyenin_sesi_radyosu.jpeg",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_turkiyenin_sesi_radyosu.webp",
       "newlyAdded": true
     }
   ],
