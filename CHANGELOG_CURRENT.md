@@ -1,5 +1,48 @@
 # Henüz paketlenmemiş değişiklikler
 
+## 21 Kasım 2026 — Dokuz yeni radyo
+
+- Muğla merkezli Açık Kıyı | Open Shore; çalışan 320 kbps MP3 yayını,
+  resmî sitesi, resmî site simgesi ve doğrulanmış tür/dil bilgileriyle eklendi.
+- Halkın Sesi Radyo; çalışan 64 kbps MP3 yayını, resmî sitesi ve logosu ile
+  halk müziği, protest müzik, haber ve kültür programı bilgileriyle eklendi.
+- Bursa'daki Radyo Venüs 105.3; resmî canlı yayını, kare oynatıcı logosu,
+  frekansı ve Bursa konumuyla eklendi. Bandırma'daki Radyo Venüs 92.2 ayrı
+  istasyon olduğu için mevcut kaydı korundu.
+- The Play Group'un dört kanalından katalogda eksik olan yabancı müzik kanalı
+  Andromeda eklendi. Play Dance Radio, Play Dance Türk ve Andromeda Türk zaten
+  bulunduğu için mükerrer oluşturulmadı; sitenin kullandığı ortak resmî grup
+  logosu korundu.
+- İstanbul merkezli Standart.FM; resmî HLS yayını, resmî sitesi ve şeffaf
+  arka planlı resmî logosuyla eklendi.
+- Yunanistan'ın Orestiada kentindeki Radio Evros 97.1; çalışan 128 kbps MP3
+  yayını, resmî sitesi, resmî logosu ve konum bilgileriyle eklendi.
+- Karadeniz Ereğli'deki Ereğli FM 91.7; resmî 7/24 yayını, güncel kare logosu,
+  frekansı ve program/içerik bilgileriyle eklendi.
+- Radyo Mavi Denizim'in aynı resmî yayınla katalogda zaten bulunduğu doğrulandı
+  ve mükerrer eklenmedi. Var olmayan `.webp` logo hedefi, indirilen resmî `.png`
+  logo dosyasına çevrilerek mevcut kaydın logo hatası giderildi.
+- TRT Memleketim FM; TRT Dinle'deki resmî HLS yayını, resmî kanal görseli ve
+  yurt dışındaki Türklere yönelik kesintisiz müzik bilgisiyle eklendi.
+- TRT Türkiye'nin Sesi Radyosu; çalışan resmî HLS yayını, TRT kanal görseli,
+  resmî sayfası ve program içerikleriyle eklendi.
+- Osmaniye'deki Radyo Gönül 97.3'ün katalogda ve yayında olduğu doğrulandı;
+  mükerrer eklenmedi. Var olmayan logo hedefi resmî ana logoyla değiştirildi ve
+  genel içerik açıklaması güncel yayın akışına göre ayrıntılandırıldı. Kullanıcı
+  isteğiyle mevcut kayıt `Yeni Eklenenler` bölümüne alındı.
+- Önceki paket grubunun yeni işaretleri kapatıldı; `Yeni Eklenenler` bölümünde
+  bu dokuz yeni radyo ile düzeltilen Radyo Gönül kaydı bırakıldı. Katalog toplamı
+  1582'den 1591'e yükseldi; `Yeni Eklenenler` görünümünde 10 kayıt bulunuyor.
+- Yeni ZIP/APK istenmediği için sürüm 1.6.5.41 / 82 olarak korundu.
+
+## 21 Kasım 2026 — Coastiva Radio bilgi düzeltmesi
+
+- Katalogda zaten bulunan Coastiva Radio mükerrer eklenmedi.
+- Genel `Uluslararası` konumu, resmî sayfadaki yayın bölgesine göre
+  `Side ve Manavgat, Antalya, Türkiye` olarak düzeltildi.
+- İçerik bilgisi Almanca pop, parti schlager, yaz temalı house ve sakin gece
+  programını yansıtacak şekilde güncellendi. Sürüm numarası değiştirilmedi.
+
 ## 18 Kasım 2026 — On iki yeni radyo ve 1.6.5.41
 
 - Radio Uno Bogotá 88.9, Musical Stereo, Capital Salsa ve La FM Plus Bogotá

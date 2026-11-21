@@ -1,6 +1,17 @@
 # RadiOnline proje hafızası
 
-Son güncelleme: 18 Kasım 2026
+Son güncelleme: 21 Kasım 2026
+
+21 Kasım 2026 katalog durumu: toplam 1591 radyo; son paket sonrası
+`newlyAdded: true` Açık Kıyı | Open Shore, Halkın Sesi Radyo, Radyo Venüs
+Bursa 105.3, Andromeda | The Play Group, Standart.FM, Radio Evros 97.1 ve
+Ereğli FM 91.7, TRT Memleketim FM, TRT Türkiye'nin Sesi Radyosu ve kullanıcı
+isteğiyle öne çıkarılan mevcut Radyo Gönül 97.3 kayıtlarındadır. Play Dance Radio,
+Play Dance Türk ve Andromeda Türk daha önce katalogda bulunduğundan yeniden
+eklenmemiştir. Coastiva Radio katalogda zaten bulunduğu için
+mükerrer eklenmemiş; konumu Side ve Manavgat, Antalya, Türkiye olarak
+düzeltilmiştir. Bandırma Radyo Venüs 92.2 ile Bursa Radyo Venüs 105.3 ayrı
+istasyonlar olarak korunur. Sürüm 1.6.5.41 / 82 olarak korunur.
 
 18 Kasım 2026 katalog durumu: toplam 1582 radyo; `newlyAdded: true` yalnız
 Radio Uno Bogotá 88.9, Musical Stereo, Capital Salsa ve La FM Plus Bogotá

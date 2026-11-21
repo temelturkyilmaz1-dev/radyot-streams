@@ -9013,7 +9013,7 @@
       "website": "https://www.radyomavidenizim.com/",
       "content": "Türk halk müziği, özgün müzik ve karma Türkçe müzik",
       "location": "Türkiye",
-      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_radyo_mavi_denizim.webp",
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_radyo_mavi_denizim.png",
       "newlyAdded": false
     },
     {
@@ -17397,8 +17397,8 @@
         "https://radio.coastiva.travel/listen/coastiva_radio/radio.mp3"
       ],
       "website": "https://www.coastiva.travel/radio.php",
-      "content": "Gezi temalı karma müzik",
-      "location": "Uluslararası",
+      "content": "Almanca pop, parti schlager, yaz temalı house ve sakin gece müziği; Almanca",
+      "location": "Side ve Manavgat, Antalya, Türkiye",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/coastiva_radio.webp",
       "newlyAdded": false
@@ -20138,12 +20138,12 @@
         "https://sslyayin.netyayin.net/gonulfm/stream"
       ],
       "website": "https://www.radyogonul.com.tr/",
-      "content": "Karma müzik",
+      "content": "Türkçe pop, arabesk, halk müziği, sanat müziği, yerel haber, sohbet ve canlı programlar; Türkçe",
       "location": "Osmaniye, Türkiye",
       "frequency": "97.3 FM",
       "enabled": true,
-      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_radyo-gonul-osmaniye.webp",
-      "newlyAdded": false
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_radyo_gonul_osmaniye.png",
+      "newlyAdded": true
     },
     {
       "id": "radyo-sis-101",
@@ -20771,7 +20771,7 @@
       "frequency": "88.9 FM",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_radio_uno_bogota.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "musical-stereo-cali",
@@ -20784,7 +20784,7 @@
       "location": "Cali, Valle del Cauca, Kolombiya",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_musical_stereo.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "capital-salsa-cali",
@@ -20797,7 +20797,7 @@
       "location": "Cali, Valle del Cauca, Kolombiya",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_capital_salsa.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "la-fm-plus-bogota-939",
@@ -20811,7 +20811,7 @@
       "frequency": "93.9 FM",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_la_fm_plus.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "la-fm-bogota-949",
@@ -20825,7 +20825,7 @@
       "frequency": "94.9 FM",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_la_fm_bogota.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-huanta-2000",
@@ -20839,7 +20839,7 @@
       "frequency": "92.9 FM",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_radio_huanta_2000.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-fiesta-mix-huanta-885",
@@ -20853,7 +20853,7 @@
       "frequency": "88.5 FM",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_radio_fiesta_mix_huanta.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-beethoven-chile-977",
@@ -20867,7 +20867,7 @@
       "frequency": "97.7 FM",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_radio_beethoven_chile.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "super45-fm-chile",
@@ -20880,7 +20880,7 @@
       "location": "Santiago, Şili",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_super45_fm.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "rockaxis-radio-chile",
@@ -20893,7 +20893,7 @@
       "location": "Santiago, Şili",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_rockaxis_radio_square.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "estacion-xlw-san-luis-1007",
@@ -20907,7 +20907,7 @@
       "frequency": "100.7 FM",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_estacion_xlw.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-lider-san-juan-1043",
@@ -20921,6 +20921,132 @@
       "frequency": "104.3 FM",
       "enabled": true,
       "logo": "https://conpacto.com.ar/wp-content/uploads/2020/01/liderl_radio.png",
+      "newlyAdded": false
+    },
+    {
+      "id": "acik-kiyi-open-shore",
+      "name": "Açık Kıyı | Open Shore",
+      "urls": [
+        "https://a2.asurahosting.com:6130/radio.mp3"
+      ],
+      "website": "https://acikkiyi.com/",
+      "content": "Ege esintileri, ambient, chill, deneysel müzik, doğaçlama, caz ve soundscape; Türkçe ve İngilizce",
+      "location": "Muğla, Türkiye",
+      "frequency": "online",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_acik_kiyi_open_shore.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "halkin-sesi-radyo",
+      "name": "Halkın Sesi Radyo",
+      "urls": [
+        "https://halkinse.80.yayin.com.tr/;"
+      ],
+      "website": "https://halkinsesiradyo.org/",
+      "content": "Türk halk müziği, protest müzik, haber, kültür, tarih, şiir ve söyleşi programları; Türkçe ve Kürtçe",
+      "location": "Türkiye",
+      "frequency": "online",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_halkin_sesi_radyo.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "radyo-venus-bursa-1053",
+      "name": "Radyo Venüs Bursa 105.3",
+      "urls": [
+        "https://yayin.radyovenus.com.tr:3416/;*.nsv"
+      ],
+      "website": "https://www.radyovenus.com.tr/",
+      "content": "Türkçe pop, güncel hitler, haber, sohbet ve eğlence programları; Türkçe",
+      "location": "Bursa, Türkiye",
+      "frequency": "105.3 FM",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_radyo_venus_bursa_square.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "andromeda-the-play-group",
+      "name": "Andromeda | The Play Group",
+      "urls": [
+        "https://radyo1.radyo-dinle.tc/andromedaradio/stream"
+      ],
+      "website": "https://theplaygroup.com.tr/#canli-radyolar",
+      "content": "Yabancı dance, elektronik müzik ve DJ setleri",
+      "location": "İstanbul, Türkiye",
+      "frequency": "online",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/migrated_6f3d735e45aeb261401f.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "standart-fm",
+      "name": "Standart.FM",
+      "urls": [
+        "https://moondigitaledge.radyotvonline.net/standartfm/playlist.m3u8"
+      ],
+      "website": "https://www.standart24.com/",
+      "content": "Klasik müzik, alternatif müzik, rock, reggae, caz, söyleşi ve canlı programlar; Türkçe",
+      "location": "İstanbul, Türkiye",
+      "frequency": "online",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_standart_fm.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-evros-971",
+      "name": "Radio Evros 97.1",
+      "urls": [
+        "https://live.radioevros.gr/"
+      ],
+      "website": "https://www.radioevros.gr/livestream.php",
+      "content": "Yerel haber, güncel gelişmeler, kültür, tarım, spor ve müzik; Yunanca",
+      "location": "Orestiada, Evros, Yunanistan",
+      "frequency": "97.1 FM",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_radio_evros.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "eregli-fm-917",
+      "name": "Ereğli FM 91.7",
+      "urls": [
+        "https://radyo.yayindakiler.com/3000/stream"
+      ],
+      "website": "https://ereglifm.com.tr/",
+      "content": "Popüler müzik, yerel haber, siyaset, spor, sohbet ve canlı programlar; Türkçe",
+      "location": "Karadeniz Ereğli, Zonguldak, Türkiye",
+      "frequency": "91.7 FM",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_eregli_fm.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "trt-memleketim-fm",
+      "name": "TRT Memleketim FM",
+      "urls": [
+        "https://radio-trtmemleketimfm.medya.trt.com.tr/master.m3u8"
+      ],
+      "website": "https://www.trtdinle.com/channel/memleketim-fm",
+      "content": "Yurt dışında yaşayan Türk vatandaşlarına yönelik 24 saat kesintisiz Türkçe müzik",
+      "location": "Ankara, Türkiye",
+      "frequency": "online",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_memleketim_fm.jpeg",
+      "newlyAdded": true
+    },
+    {
+      "id": "trt-turkiyenin-sesi-radyosu",
+      "name": "TRT Türkiye'nin Sesi Radyosu",
+      "urls": [
+        "https://radio-trttsr.medya.trt.com.tr/master.m3u8"
+      ],
+      "website": "https://radyo.trt.net.tr/kanallar/tsr",
+      "content": "Türkçe müzik, kültür, haber, radyo tiyatrosu, sağlık, spor ve söyleşi programları; Türkçe",
+      "location": "Ankara, Türkiye",
+      "frequency": "kısa dalga ve online",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_turkiyenin_sesi_radyosu.jpeg",
       "newlyAdded": true
     }
   ],
