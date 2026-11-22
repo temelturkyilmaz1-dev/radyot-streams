@@ -21146,6 +21146,133 @@
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_radio_activa_99_7.webp",
       "newlyAdded": true
+    },
+    {
+      "id": "radio-marti",
+      "name": "Radio Martí",
+      "urls": [
+        "https://stream.radiojar.com/3ds9yqpgq3quv",
+        "https://ocb-ingest.akamaized.net/hls/live/2037033/152_137R/playlist.m3u8"
+      ],
+      "website": "https://www.martinoticias.com/live/audio/4",
+      "content": "Küba ve dünya haberleri, analiz, röportaj ve kültür programları; İspanyolca",
+      "location": "Miami, Florida, ABD",
+      "frequency": "1180 AM, kısa dalga ve online",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_radio_marti.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-nuevitas-1035",
+      "name": "Radio Nuevitas 103.5",
+      "urls": [
+        "https://icecast.teveo.cu/9VVnwcww"
+      ],
+      "website": "https://www.radionuevitas.icrt.cu/",
+      "content": "Yerel haber, kültür, eğitim ve toplum programları; İspanyolca",
+      "location": "Nuevitas, Camagüey, Küba",
+      "frequency": "103.5 FM",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_radio_nuevitas_103_5.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "reggae141",
+      "name": "Reggae141",
+      "urls": [
+        "https://hestia2.cdnstream.com/1301_128"
+      ],
+      "website": "https://reggae141.com/",
+      "content": "Roots reggae, ska, rocksteady, dub, calypso ve Caribbean müziği; İngilizce",
+      "location": "Kingstown, Saint Vincent ve Grenadinler",
+      "frequency": "online",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_reggae141.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "global1-fm-radio",
+      "name": "Global1 FM Radio",
+      "urls": [
+        "https://hq2.stationhq.io/global1fmradio/stream"
+      ],
+      "website": "https://global1fmradio.com/",
+      "content": "Reggae, dancehall, R&B, soul, hip-hop ve gospel; İngilizce",
+      "location": "Toronto, Ontario, Kanada",
+      "frequency": "online",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_global1_fm_radio.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "kool-97-fm-jamaica",
+      "name": "Kool 97 FM",
+      "urls": [
+        "https://stream.zeno.fm/we0agoxeeojvv"
+      ],
+      "website": "https://kool97fm.com/",
+      "content": "Reggae, ska, rocksteady, R&B, soul, caz ve klasik hitler; İngilizce",
+      "location": "Kingston, Jamaika",
+      "frequency": "97.1–97.9 FM",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_kool_97_fm.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "sleek-radio-935",
+      "name": "SLEEK Radio 93.5 FM",
+      "urls": [
+        "https://stream-161.zeno.fm/p9kyywfqcbcuv"
+      ],
+      "website": "https://sleekradio.com/",
+      "content": "Güncel konular, kültür, eğlence, talk ve şehir müziği; İngilizce",
+      "location": "Kingston, Jamaika",
+      "frequency": "93.5 FM",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_sleek_radio_93_5.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "island-buzz-radio-995",
+      "name": "Island Buzz Radio 99.5",
+      "urls": [
+        "https://stream.zeno.fm/f6v9m47nxpltv"
+      ],
+      "website": "https://islandbuzzradio.figma.site/",
+      "content": "Dancehall, reggae, soca, Afrobeat, hip-hop, Latin ve pop; İngilizce",
+      "location": "Portmore, Saint Catherine, Jamaika",
+      "frequency": "99.5 FM",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_island_buzz_radio_99_5.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "the-street-919-fm",
+      "name": "The Street 91.9 FM",
+      "urls": [
+        "https://stream.zeno.fm/bi5helbi4ggtv"
+      ],
+      "website": "https://thestreet919fm.com/",
+      "content": "Soca, urban müzik, haber, talk ve eğlence; İngilizce",
+      "location": "Port of Spain, Trinidad ve Tobago",
+      "frequency": "91.9 FM",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_the_street_91_9_fm.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "lit-1023-fm",
+      "name": "LIT 102.3 FM",
+      "urls": [
+        "https://s8.yesstreaming.net:17106/stream"
+      ],
+      "website": "https://lit102fm.com/",
+      "content": "Top 40, pop, yetişkin çağdaş müzik ve parti programları; İngilizce",
+      "location": "Port of Spain, Trinidad ve Tobago",
+      "frequency": "102.3 FM",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_lit_102_3_fm.webp",
+      "newlyAdded": true
     }
   ],
   "catalogPolicy": {
@@ -21156,5 +21283,5 @@
     "excludePrimaryReligious": true,
     "expandedCatalog": "Radio Browser allowlisted network/source expansion at runtime"
   },
-  "baseStationCount": 743
+  "baseStationCount": 752
 }
