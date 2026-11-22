@@ -1,6 +1,11 @@
 # RadiOnline proje hafızası
 
-Son güncelleme: 21 Kasım 2026
+Son güncelleme: 22 Kasım 2026
+
+22 Kasım 2026 katalog durumu: toplam 1623 radyo; son eklenen 16 kayıt Puerto
+Riko, El Salvador, Surinam, Bolivya ve Sırbistan grubudur. Büyük ve küçük
+Android kaynaklarına Puerto Riko, El Salvador ve Surinam ülke/bayrak eşlemeleri
+eklendi. Sürüm 1.6.5.41 / 82 olarak korunur.
 
 21 Kasım 2026 katalog durumu: toplam 1591 radyo; son paket sonrası
 `newlyAdded: true` Açık Kıyı | Open Shore, Halkın Sesi Radyo, Radyo Venüs

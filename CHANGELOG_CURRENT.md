@@ -1,5 +1,24 @@
 # Henüz paketlenmemiş değişiklikler
 
+## 22 Kasım 2026 — On altı yeni radyo
+
+- Puerto Riko'dan WABA 850 AM ve Mega 106.9 WMEG; El Salvador'dan Láser
+  Inglés 92.9, COOL FM 89.3, Radio Corazón ve Radio Coco FM Hits 94.9 eklendi.
+- Surinam'dan Radio 9 Suriname 98.9, RadioPositive Suriname, Asosye 99.7 FM,
+  Radio Shruti ve Radio Koyeba 104.9 eklendi.
+- Bolivya'dan FM La Paz 96.7, FmBolivia 101.3 ve Radio ERBOL 100.9;
+  Sırbistan'dan Radio Sloboda 87.6 ve Radio S1 eklendi.
+- Ad, standartlaştırılmış ad ve yayın adresi denetiminde mükerrer kayıt
+  bulunmadı. Önceki `newlyAdded` işaretleri kapatıldı; yalnız bu 16 kayıt yeni
+  bırakıldı. Katalog 1607'den 1623 radyoya yükseldi.
+- Puerto Riko, El Salvador ve Surinam ülke/bayrak eşlemeleri büyük ve küçük
+  Android kaynaklarına eklendi.
+- Sürekli çalışan genel radyo niteliği doğrulanmayan Nueva Vida FM, 88.1
+  Inspira, Radio Luz ve yalnız belirli saatlerde yayın yapan Mi Radio El
+  Salvador bu grupta kataloğa alınmadı.
+- ZIP/APK istenmediği için sürüm numarası değiştirilmedi; GitHub'a gönderim
+  yapılmadı.
+
 ## 21 Kasım 2026 — Cloudflare logo yükleme düzeltmesi
 
 - Son eklenen yedi logo için katalogda `.png`/`.jpeg` yazılan Cloudflare hedefleri,

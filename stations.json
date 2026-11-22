@@ -20143,7 +20143,7 @@
       "frequency": "97.3 FM",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_radyo_gonul_osmaniye.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radyo-sis-101",
@@ -20935,7 +20935,7 @@
       "frequency": "online",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_acik_kiyi_open_shore.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "halkin-sesi-radyo",
@@ -20949,7 +20949,7 @@
       "frequency": "online",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_halkin_sesi_radyo.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radyo-venus-bursa-1053",
@@ -20963,7 +20963,7 @@
       "frequency": "105.3 FM",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_radyo_venus_bursa_square.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "andromeda-the-play-group",
@@ -20977,7 +20977,7 @@
       "frequency": "online",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/migrated_6f3d735e45aeb261401f.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "standart-fm",
@@ -20991,7 +20991,7 @@
       "frequency": "online",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_standart_fm.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-evros-971",
@@ -21005,7 +21005,7 @@
       "frequency": "97.1 FM",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_radio_evros.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "eregli-fm-917",
@@ -21019,7 +21019,7 @@
       "frequency": "91.7 FM",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_eregli_fm.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "trt-memleketim-fm",
@@ -21033,7 +21033,7 @@
       "frequency": "online",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_memleketim_fm.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "trt-turkiyenin-sesi-radyosu",
@@ -21047,7 +21047,7 @@
       "frequency": "kısa dalga ve online",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_turkiyenin_sesi_radyosu.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "conexion-positiva-radio",
@@ -21061,7 +21061,7 @@
       "frequency": "online",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_conexion_positiva_radio.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "tiquicia-rock",
@@ -21075,7 +21075,7 @@
       "frequency": "online",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_tiquicia_rock.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-mil-recuerdos-stereo",
@@ -21089,7 +21089,7 @@
       "frequency": "online",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_radio_mil_recuerdos.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-conexion-romantica",
@@ -21103,7 +21103,7 @@
       "frequency": "online",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_radio_conexion_romantica.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "rock-fm-nicaragua-1055",
@@ -21117,7 +21117,7 @@
       "frequency": "105.5 FM",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_rock_fm_nicaragua.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "la-top-1029",
@@ -21131,7 +21131,7 @@
       "frequency": "102.9 FM",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_la_top_102_9.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radioactiva-honduras-997",
@@ -21145,7 +21145,7 @@
       "frequency": "99.7 FM",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_radio_activa_99_7.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-marti",
@@ -21160,7 +21160,7 @@
       "frequency": "1180 AM, kısa dalga ve online",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_radio_marti.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-nuevitas-1035",
@@ -21174,7 +21174,7 @@
       "frequency": "103.5 FM",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_radio_nuevitas_103_5.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "reggae141",
@@ -21188,7 +21188,7 @@
       "frequency": "online",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_reggae141.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "global1-fm-radio",
@@ -21202,7 +21202,7 @@
       "frequency": "online",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_global1_fm_radio.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "kool-97-fm-jamaica",
@@ -21216,7 +21216,7 @@
       "frequency": "97.1–97.9 FM",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_kool_97_fm.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "sleek-radio-935",
@@ -21230,7 +21230,7 @@
       "frequency": "93.5 FM",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_sleek_radio_93_5.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "island-buzz-radio-995",
@@ -21244,7 +21244,7 @@
       "frequency": "99.5 FM",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_island_buzz_radio_99_5.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "the-street-919-fm",
@@ -21258,7 +21258,7 @@
       "frequency": "91.9 FM",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_the_street_91_9_fm.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "lit-1023-fm",
@@ -21272,6 +21272,198 @@
       "frequency": "102.3 FM",
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_lit_102_3_fm.webp",
+      "newlyAdded": false
+    },
+    {
+      "id": "waba-850-am",
+      "name": "WABA 850 AM",
+      "urls": ["https://stream.eleden.com/waba.aac/waba.aac.stream/playlist.m3u8"],
+      "website": "http://waba850am.com/",
+      "content": "Yerel haber, spor, söyleşi ve müzik; İspanyolca",
+      "location": "Aguadilla, Puerto Riko",
+      "frequency": "850 AM",
+      "enabled": true,
+      "logo": "http://waba850am.com/wp-content/uploads/2018/03/LOGO.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "mega-1069-wmeg",
+      "name": "Mega 106.9 WMEG",
+      "urls": ["https://liveaudio.lamusica.com/PR_WMEG/playlist.m3u8"],
+      "website": "https://www.lamusica.com/en/stations/wmeg",
+      "content": "Latin pop, reggaeton, eğlence ve söyleşi; İspanyolca",
+      "location": "Guayama, Puerto Riko",
+      "frequency": "106.9 FM",
+      "enabled": true,
+      "logo": "https://i.iheart.com/v3/re/assets.streams/6542c38fa019d6dc1648908e",
+      "newlyAdded": true
+    },
+    {
+      "id": "laser-ingles-929",
+      "name": "Láser Inglés 92.9",
+      "urls": ["http://cdn3.siscompnetwork.com:8068/"],
+      "website": "https://laser.com.sv/",
+      "content": "İngilizce pop, yetişkin çağdaş, rock ve klasik hitler",
+      "location": "San Salvador, El Salvador",
+      "frequency": "92.9 FM",
+      "enabled": true,
+      "logo": "https://www.medios.gt/galeriausuarios/salvador/imagenesmessage/imagem020228142342658.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "cool-fm-el-salvador-893",
+      "name": "COOL FM 89.3",
+      "urls": ["http://media.dominiocreativo.com:8006/coolfm"],
+      "website": "https://www.radiocoolfm.com/",
+      "content": "Pop, reggaeton, urban ve güncel hitler; İspanyolca",
+      "location": "San Salvador, El Salvador",
+      "frequency": "89.3 FM",
+      "enabled": true,
+      "logo": "https://cdn-profiles.tunein.com/s2941/images/logog.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-corazon-el-salvador",
+      "name": "Radio Corazón",
+      "urls": ["https://ch14-channel14eur.akamaized.net/hls/live/2099700/CH14_CHANNEL14_MOBILE/master.m3u8"],
+      "website": "https://megavision.univtec.com/player/channel/62b9cde3e360dd0013a37f25",
+      "content": "Romantik Latin müzik ve baladlar; İspanyolca",
+      "location": "San Salvador, El Salvador",
+      "frequency": "97.3 FM",
+      "enabled": true,
+      "logo": "https://megavision.univtec.com/_next/image?q=90&url=https%3A%2F%2Finsight-images-do.immergo.tv%2Fresize%3Furl%3Dhttps%3A%2F%2Fmegavision.vod.immergo.tv%2Fmegavision%2Fuploaded%2F5e63089d-fbb0-42aa-97a1-eaf1a906faee.jpeg&w=3840",
+      "newlyAdded": true
+    },
+    {
+      "id": "coco-fm-hits-949",
+      "name": "Radio Coco FM Hits 94.9",
+      "urls": ["https://stream.zeno.fm/ghszejbcegbuv"],
+      "website": "https://cocofmhits.com/",
+      "content": "Pop, hit müzik ve tropikal müzik; İspanyolca",
+      "location": "Sonsonate, El Salvador",
+      "frequency": "94.9 FM",
+      "enabled": true,
+      "logo": "https://cocofmhits.com/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-9-suriname-989",
+      "name": "Radio 9 Suriname 98.9",
+      "urls": ["https://rs.suricloud.com/radio/8060/radio.mp3"],
+      "website": "https://radio9suriname.com/",
+      "content": "Yerel müzik, haber ve eğlence programları; Hollandaca ve Sranan Tongo",
+      "location": "Paramaribo, Surinam",
+      "frequency": "98.9 FM",
+      "enabled": true,
+      "logo": "https://thumbnail.anii.io/sr/radio-9-suriname-paramaribo-surinam.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-positive-suriname",
+      "name": "RadioPositive Suriname",
+      "urls": ["https://caster08.streampakket.com/proxy/aputyvme?mp=/stream", "https://caster08.streampakket.com/proxy/aputyvme/stream"],
+      "website": "https://www.radiopositive.nl/",
+      "content": "Pozitif müzik, toplum, motivasyon ve kültür programları; Hollandaca",
+      "location": "Paramaribo, Surinam",
+      "frequency": "Çevrimiçi",
+      "enabled": true,
+      "logo": "https://www.radiopositive.nl/logopositive.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "asosye-997",
+      "name": "Asosye 99.7 FM",
+      "urls": ["https://stream.zeno.fm/rvs7f72b508uv"],
+      "website": "https://asosye.sr/",
+      "content": "Yerel haber, toplum programları ve Maroon kültürü; Aukaans, Saramaccan ve Hollandaca",
+      "location": "Paramaribo, Surinam",
+      "frequency": "99.7 FM",
+      "enabled": true,
+      "logo": "https://asosye.sr/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-shruti-suriname",
+      "name": "Radio Shruti",
+      "urls": ["https://rs.suricloud.com/radio/8000/radio.mp3"],
+      "website": "https://radioshruti.com/",
+      "content": "Bollywood, Hintçe müzik, bhangra ve pop",
+      "location": "Paramaribo, Surinam",
+      "frequency": "Çevrimiçi",
+      "enabled": true,
+      "logo": "https://radioshruti.com/favicon.ico",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-koyeba-1049",
+      "name": "Radio Koyeba 104.9",
+      "urls": ["https://a9.asurahosting.com/listen/radio_koyeba_suriname/radio.mp3"],
+      "website": "https://radiokoyebasuriname.com/",
+      "content": "Yerel haber, toplum, folk, kaseko ve kawina; Hollandaca ve yerel diller",
+      "location": "Paramaribo, Surinam",
+      "frequency": "104.9 FM",
+      "enabled": true,
+      "logo": "https://cdn-radiotime-logos.tunein.com/s163336g.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "fm-la-paz-967",
+      "name": "FM La Paz 96.7",
+      "urls": ["https://spanel.gcomstreaming.com/8018/stream"],
+      "website": "https://fmlapaz.bo/",
+      "content": "Yetişkin çağdaş, pop, rock, caz, disco ve baladlar; İspanyolca",
+      "location": "La Paz, Bolivya",
+      "frequency": "96.7 FM",
+      "enabled": true,
+      "logo": "https://static2.mytuner.mobi/media/tvos_radios/581/fm-la-paz.6a9f2c27.png",
+      "newlyAdded": true
+    },
+    {
+      "id": "fmbolivia-1013",
+      "name": "FmBolivia 101.3",
+      "urls": ["https://radio.radios.la/listen/fmbolivia/fmbolivia", "https://stm11.xcast.com.br:11300/stream"],
+      "website": "https://fmbolivia.com.bo/",
+      "content": "Haber, röportaj, spor, analiz ve müzik; İspanyolca",
+      "location": "Chulumani, La Paz, Bolivya",
+      "frequency": "101.3 FM",
+      "enabled": true,
+      "logo": "https://static2.mytuner.mobi/media/tvos_radios/ybx4y68wzfrx.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-erbol-1009",
+      "name": "Radio ERBOL 100.9",
+      "urls": ["https://stream.zeno.fm/210yqa64dxhvv"],
+      "website": "https://www.erbol.com.bo/",
+      "content": "Haber, eğitim, toplum ve yerel gündem; İspanyolca",
+      "location": "La Paz, Bolivya",
+      "frequency": "100.9 FM",
+      "enabled": true,
+      "logo": "https://erbol.com.bo/sites/default/files/Logo%20Erbol.jpg",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-sloboda-876",
+      "name": "Radio Sloboda 87.6",
+      "urls": ["https://audio.slobodafm.com/listen/radio_sloboda/radio.mp3"],
+      "website": "https://radiosloboda.rs/",
+      "content": "Bağımsız haber, bilgi, pop ve rock müzik; Sırpça",
+      "location": "Kraljevo, Sırbistan",
+      "frequency": "87.6 FM",
+      "enabled": true,
+      "logo": "https://radiosloboda.rs/wp-content/uploads/2025/09/radio-sloboda-logo-web-2025a.png.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-s1-serbia",
+      "name": "Radio S1",
+      "urls": ["https://stream.radios.rs:9000/;"],
+      "website": "https://www.radios.rs/",
+      "content": "Sırp pop, rock ve güncel hitler; Sırpça",
+      "location": "Belgrad, Sırbistan",
+      "frequency": "94.9 FM",
+      "enabled": true,
+      "logo": "https://exyuradiouzivo.com/assets/images/s1.webp",
       "newlyAdded": true
     }
   ],
