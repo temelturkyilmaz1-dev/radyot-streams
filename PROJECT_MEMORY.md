@@ -16,6 +16,9 @@ istasyonlar olarak korunur. Sürüm 1.6.5.41 / 82 olarak korunur.
 21 Kasım 2026 Cloudflare notu: katalogdaki Cloudflare logo URL'leri `.webp`
 uzantılı olmalıdır. `logos/` altındaki kaynak dosya PNG/JPEG olabilir; GitHub
 iş akışı kaynağı WebP'ye dönüştürüp aynı dosya köküyle KV'ye yükler.
+Normal GitHub yüklemesi yalnız `stations.json` ile yeni/değişen logo dosyalarını
+gönderir; katalog değişikliğinde bütün logolar yeniden yüklenmemelidir. Eski tam
+onarım paketi ücretsiz KV'nin günlük 1.000 yazma sınırı nedeniyle otomatik değildir.
 
 18 Kasım 2026 katalog durumu: toplam 1582 radyo; `newlyAdded: true` yalnız
 Radio Uno Bogotá 88.9, Musical Stereo, Capital Salsa ve La FM Plus Bogotá

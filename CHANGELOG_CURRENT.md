@@ -8,6 +8,14 @@
   dönüştürerek Cloudflare'a yüklüyor.
 - GitHub Actions'taki Node.js 20 uyarısını kaldırmak için `actions/checkout` v5'e
   yükseltildi.
+- Katalog değiştiğinde depodaki 646 logonun tamamını yeniden yükleyen davranış
+  kaldırıldı. Artık yalnız `stations.json` ile gerçekten yeni veya değişen logo
+  dosyaları gönderiliyor; katalogda kullanılmayan görseller atlanıyor.
+- Ücretsiz Workers KV planındaki 1.000 günlük yazma sınırını tek çalıştırmada
+  aşabilecek paketler için koruma eklendi; eski tam onarım paketi otomatik
+  çalıştırılmıyor.
+- Önceki başarısız çalışmada Cloudflare'a ulaşmayan yedi logo, bu iş akışı
+  düzeltmesi gönderildiğinde bir defaya mahsus kurtarma listesiyle yüklenecek.
 
 ## 21 Kasım 2026 — Dokuz yeni radyo
 

@@ -75,11 +75,10 @@ jobs:
               changed_paths = set(diff.stdout.splitlines())
 
           bootstrap = pathlib.Path("cloudflare_logo_repairs/kv_logo_repairs.json")
-          use_bootstrap = bootstrap.exists() and (
-              event_name == "workflow_dispatch"
-              or bootstrap.as_posix() in changed_paths
-              or ".github/workflows/publish-cloudflare-catalog.yml" in changed_paths
-          )
+          # Ücretsiz KV planında günlük 1.000 yazma sınırı var. Eski tam onarım
+          # paketi 1.000'den fazla anahtar içerdiği için otomatik çalıştırılmaz.
+          # Gerekirse ayrı ve günlük sınıra bölünmüş bir bakım işi kullanılmalı.
+          use_bootstrap = False
 
           if use_bootstrap:
               pairs = json.loads(bootstrap.read_text(encoding="utf-8"))
@@ -171,13 +170,39 @@ jobs:
               if missing:
                   raise SystemExit("Yeni kanalın Cloudflare logosu için görsel dosyası da logos/ klasöründe olmalı:\n- " + "\n- ".join(missing))
 
-              # Katalog değiştiğinde depodaki bütün hazır logoları yeniden gönder.
-              # Böylece önceki bir Cloudflare hatasından sonra logo dosyaları
-              # commit geçmişinde kalsa bile sonraki katalog aktarımı onları onarır.
-              if event_name == "workflow_dispatch" or "stations.json" in changed_paths:
-                  upload_files = source_files
-              else:
-                  upload_files = [path for path in source_files if path.as_posix() in changed_paths]
+              expected_stems = {
+                  pathlib.PurePosixPath(key).stem
+                  for station in stations
+                  if (key := cloudflare_logo_key(station))
+              }
+              new_logo_stems = {
+                  pathlib.PurePosixPath(urllib.parse.urlparse(url).path).stem
+                  for url in new_logo_urls
+              }
+              # Bir önceki çalışma paket hazırlama aşamasında durduğu için bu
+              # logolar GitHub'da bulunmasına rağmen KV'ye ulaşmadı. İş akışı
+              # dosyasının bu düzeltmesi gönderildiğinde bir defa onarılırlar.
+              recovery_stems = {
+                  "new_radyo_mavi_denizim",
+                  "new_radyo_gonul_osmaniye",
+                  "new_standart_fm",
+                  "new_radio_evros",
+                  "new_eregli_fm",
+                  "new_memleketim_fm",
+                  "new_turkiyenin_sesi_radyosu",
+              } if ".github/workflows/publish-cloudflare-catalog.yml" in changed_paths else set()
+              # Yalnız katalogda kullanılan ve bu gönderimde değişen logoları
+              # yükle. URL'si yeni olan bir logo dosyası önceki commit'te zaten
+              # bulunsa bile kök adı üzerinden yeniden pakete eklenir.
+              upload_files = [
+                  path for path in source_files
+                  if path.stem in expected_stems
+                  and (
+                      path.as_posix() in changed_paths
+                      or path.stem in new_logo_stems
+                      or path.stem in recovery_stems
+                  )
+              ]
 
               seen_stems = set()
               for path in upload_files:
@@ -212,6 +237,10 @@ jobs:
 
           if not pairs or pairs[0].get("key") != "stations.json":
               raise SystemExit("Yükleme paketi stations.json kaydıyla başlamalı.")
+          if len(pairs) > 1000:
+              raise SystemExit(
+                  f"Ücretsiz Cloudflare KV günlük yazma sınırı aşılacak: {len(pairs)} kayıt."
+              )
           payload_path = pathlib.Path(os.environ["RUNNER_TEMP"]) / "cloudflare-kv-bulk.json"
           payload_path.write_text(json.dumps(pairs, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
           if payload_path.stat().st_size > 90 * 1024 * 1024:
