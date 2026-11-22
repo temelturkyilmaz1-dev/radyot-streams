@@ -21048,6 +21048,104 @@
       "enabled": true,
       "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_turkiyenin_sesi_radyosu.webp",
       "newlyAdded": true
+    },
+    {
+      "id": "conexion-positiva-radio",
+      "name": "Conexión Positiva Radio",
+      "urls": [
+        "https://stream.conexionpositivaradio.com/listen/conexion_positiva/radio.mp3"
+      ],
+      "website": "https://conexionpositivaradio.com/",
+      "content": "Latin Hristiyan müziği, umut mesajları ve programlar; İspanyolca",
+      "location": "La Virgen de Sarapiquí, Heredia, Costa Rica",
+      "frequency": "online",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_conexion_positiva_radio.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "tiquicia-rock",
+      "name": "Tiquicia Rock",
+      "urls": [
+        "https://usa19.fastcast4u.com:5860/;"
+      ],
+      "website": "https://tiquiciarock.com/",
+      "content": "Costa Rica yapımı rock, alternatif ve metal; İspanyolca ve İngilizce",
+      "location": "Alajuela, Costa Rica",
+      "frequency": "online",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_tiquicia_rock.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-mil-recuerdos-stereo",
+      "name": "Radio Mil Recuerdos Stereo",
+      "urls": [
+        "https://sechin.grupocentroserver.com/radio/8060/radio.mp3"
+      ],
+      "website": "https://www.radiomilrecuerdos.com/",
+      "content": "Nostaljik hitler, Latin pop, balad ve klasikler",
+      "location": "San José, Costa Rica",
+      "frequency": "online",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_radio_mil_recuerdos.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "radio-conexion-romantica",
+      "name": "Radio Conexión Romántica",
+      "urls": [
+        "https://stream.zeno.fm/uauw712byzzuv"
+      ],
+      "website": "https://commoninja.site/99b93703-636e-41b9-ae36-5bb1e6d84fd0",
+      "content": "Romantik baladlar, bolero, bachata ve Latin pop; İspanyolca",
+      "location": "Managua, Nicaragua",
+      "frequency": "online",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_radio_conexion_romantica.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "rock-fm-nicaragua-1055",
+      "name": "Rock FM Nicaragua 105.5",
+      "urls": [
+        "https://securestream.us/radio/8050/radio.mp3"
+      ],
+      "website": "https://rockfm.com.ni/",
+      "content": "Klasik rock, hard rock ve metal; İspanyolca ve İngilizce",
+      "location": "Managua, Nicaragua",
+      "frequency": "105.5 FM",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_rock_fm_nicaragua.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "la-top-1029",
+      "name": "La Top 102.9",
+      "urls": [
+        "https://us9.maindigitalstream.com/ssl/latop102"
+      ],
+      "website": "https://latop.hn/",
+      "content": "Reggaeton, Latin pop, merengue, bachata ve gençlik programları; İspanyolca",
+      "location": "San Pedro Sula, Cortés, Honduras",
+      "frequency": "102.9 FM",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_la_top_102_9.webp",
+      "newlyAdded": true
+    },
+    {
+      "id": "radioactiva-honduras-997",
+      "name": "RadioActiva Honduras 99.7",
+      "urls": [
+        "https://stream.zeno.fm/fh8qfg75puquv"
+      ],
+      "website": "https://radioactiva997.com/",
+      "content": "Reggaeton, hip-hop, dancehall, elektronik ve Latin şehir müziği; İspanyolca",
+      "location": "San Pedro Sula, Cortés, Honduras",
+      "frequency": "99.7 FM",
+      "enabled": true,
+      "logo": "https://autumn-sun-8d69.temel-turkyilmaz1.workers.dev/logos/new_radio_activa_99_7.webp",
+      "newlyAdded": true
     }
   ],
   "catalogPolicy": {
@@ -21058,5 +21156,5 @@
     "excludePrimaryReligious": true,
     "expandedCatalog": "Radio Browser allowlisted network/source expansion at runtime"
   },
-  "baseStationCount": 736
+  "baseStationCount": 743
 }
