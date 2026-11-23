@@ -8,6 +8,8 @@
 - Favicon kullanan kayıtlar için mümkün olan yerlerde gerçek istasyon marka
   görselleri seçildi. Büyük ve küçük uygulama katalogları aynı dosyayla eşitlendi.
 - APK/ZIP ve sürüm değişikliği yapılmadı; GitHub'a push yapılmadı.
+- Görsel kontrolde hatalı olduğu görülen 92.7 Mix FM, Radio Superfly ve Amazing
+  Radio kaynakları okunaklı marka görselleriyle değiştirildi.
 
 ## 23 Kasım 2026 — Avrupa ve Okyanusya radyo paketi
 
