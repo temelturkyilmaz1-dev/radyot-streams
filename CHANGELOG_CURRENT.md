@@ -1,5 +1,14 @@
 # Henüz paketlenmemiş değişiklikler
 
+## 23 Kasım 2026 — Yeni radyo logolarını kalıcılaştırma
+
+- Son Avrupa/Okyanusya partisindeki 47 radyonun dış site logo bağlantıları
+  kaldırıldı; görseller `logos/new_<stationId>.*` kaynak dosyaları olarak depoya
+  eklendi ve katalog Cloudflare `.webp` adreslerine geçirildi.
+- Favicon kullanan kayıtlar için mümkün olan yerlerde gerçek istasyon marka
+  görselleri seçildi. Büyük ve küçük uygulama katalogları aynı dosyayla eşitlendi.
+- APK/ZIP ve sürüm değişikliği yapılmadı; GitHub'a push yapılmadı.
+
 ## 23 Kasım 2026 — Avrupa ve Okyanusya radyo paketi
 
 - Avustralya, Yeni Zelanda, İsviçre, Birleşik Krallık, Avusturya, İsveç,

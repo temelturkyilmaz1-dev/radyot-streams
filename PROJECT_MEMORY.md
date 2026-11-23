@@ -154,6 +154,10 @@ Katalog 1670 radyodur. Son Avrupa/Okyanusya partisinde 47 kayıt yeni bırakıld
 Capital XTRA, Smooth Radio London, SWH Spin ve NRJ zaten vardı; çoğaltılmadı.
 GitHub push yapılmadı, APK/ZIP üretilmedi ve sürüm değiştirilmedi.
 
+Bu 47 kaydın logoları daha sonra `logos/new_<stationId>.*` kaynaklarıyla depoya
+alındı ve Cloudflare `logos/new_<stationId>.webp` adreslerine geçirildi. Böylece
+uygulama üçüncü taraf favicon ve görsel sunucularına bağımlı değildir.
+
 Adıyaman Güney Radyo, Adıyaman Radyo Tek, Hatay Akdeniz FM 89.2, Akdeniz Türkü
 FM, Alaşehir Damar FM, Alanya GO, Alanya FM, Akustik Türküler, Akgül FM ve
 Tekirdağ Armoni FM.
