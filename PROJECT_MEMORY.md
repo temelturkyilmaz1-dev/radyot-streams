@@ -147,6 +147,13 @@ Bağlantılı kod: `RemoteStationCatalog.kt` ve `StreamHealthMonitor.kt`.
 
 ## Son ZIP'ten sonraki logo düzeltmeleri
 
+## 23 Kasım 2026 katalog durumu
+
+Katalog 1670 radyodur. Son Avrupa/Okyanusya partisinde 47 kayıt yeni bırakıldı:
+25 bağımsız kanal ve Sky Media'nın 22 kanalı. Radio Swiss Pop, Soundportal,
+Capital XTRA, Smooth Radio London, SWH Spin ve NRJ zaten vardı; çoğaltılmadı.
+GitHub push yapılmadı, APK/ZIP üretilmedi ve sürüm değiştirilmedi.
+
 Adıyaman Güney Radyo, Adıyaman Radyo Tek, Hatay Akdeniz FM 89.2, Akdeniz Türkü
 FM, Alaşehir Damar FM, Alanya GO, Alanya FM, Akustik Türküler, Akgül FM ve
 Tekirdağ Armoni FM.

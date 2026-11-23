@@ -1,5 +1,20 @@
 # Henüz paketlenmemiş değişiklikler
 
+## 23 Kasım 2026 — Avrupa ve Okyanusya radyo paketi
+
+- Avustralya, Yeni Zelanda, İsviçre, Birleşik Krallık, Avusturya, İsveç,
+  Macaristan, Letonya ve Estonya'dan 25 doğrulanmış radyo eklendi.
+- Sky Media'nın güncel resmi listesindeki NRJ dışındaki 22 ana/tematik kanal
+  resmi yayın ve kapak adresleriyle eklendi; katalog 1623'ten 1670 radyoya çıktı.
+- Radio Swiss Pop, Soundportal, Capital XTRA, Smooth Radio London, SWH Spin ve
+  NRJ katalogda bulunduğu için yeniden eklenmedi.
+- Hope 103.2 birincil dini yayın katalog kuralı nedeniyle eklenmedi. Yayın ucu
+  güvenilir biçimde doğrulanamayan Radio Austral, Humm FM, XFM, HappyU, More
+  Radio Sussex ve Rádió 88 bu pakette yanlış veri üretmemek için bekletildi.
+- Kimlik ve yayın adresi denetiminde mükerrer bulunmadı. Önceki yeni işaretleri
+  kapatıldı; yalnız bu partideki 47 kayıt yeni bırakıldı.
+- ZIP/APK istenmediği için sürüm numarası değiştirilmedi; GitHub'a gönderim yapılmadı.
+
 ## 22 Kasım 2026 — On altı yeni radyo
 
 - Puerto Riko'dan WABA 850 AM ve Mega 106.9 WMEG; El Salvador'dan Láser

@@ -21284,7 +21284,7 @@
       "frequency": "850 AM",
       "enabled": true,
       "logo": "http://waba850am.com/wp-content/uploads/2018/03/LOGO.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "mega-1069-wmeg",
@@ -21296,7 +21296,7 @@
       "frequency": "106.9 FM",
       "enabled": true,
       "logo": "https://i.iheart.com/v3/re/assets.streams/6542c38fa019d6dc1648908e",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "laser-ingles-929",
@@ -21308,7 +21308,7 @@
       "frequency": "92.9 FM",
       "enabled": true,
       "logo": "https://www.medios.gt/galeriausuarios/salvador/imagenesmessage/imagem020228142342658.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "cool-fm-el-salvador-893",
@@ -21320,7 +21320,7 @@
       "frequency": "89.3 FM",
       "enabled": true,
       "logo": "https://cdn-profiles.tunein.com/s2941/images/logog.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-corazon-el-salvador",
@@ -21332,7 +21332,7 @@
       "frequency": "97.3 FM",
       "enabled": true,
       "logo": "https://megavision.univtec.com/_next/image?q=90&url=https%3A%2F%2Finsight-images-do.immergo.tv%2Fresize%3Furl%3Dhttps%3A%2F%2Fmegavision.vod.immergo.tv%2Fmegavision%2Fuploaded%2F5e63089d-fbb0-42aa-97a1-eaf1a906faee.jpeg&w=3840",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "coco-fm-hits-949",
@@ -21344,7 +21344,7 @@
       "frequency": "94.9 FM",
       "enabled": true,
       "logo": "https://cocofmhits.com/favicon.ico",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-9-suriname-989",
@@ -21356,7 +21356,7 @@
       "frequency": "98.9 FM",
       "enabled": true,
       "logo": "https://thumbnail.anii.io/sr/radio-9-suriname-paramaribo-surinam.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-positive-suriname",
@@ -21368,7 +21368,7 @@
       "frequency": "Çevrimiçi",
       "enabled": true,
       "logo": "https://www.radiopositive.nl/logopositive.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "asosye-997",
@@ -21380,7 +21380,7 @@
       "frequency": "99.7 FM",
       "enabled": true,
       "logo": "https://asosye.sr/favicon.ico",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-shruti-suriname",
@@ -21392,7 +21392,7 @@
       "frequency": "Çevrimiçi",
       "enabled": true,
       "logo": "https://radioshruti.com/favicon.ico",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-koyeba-1049",
@@ -21404,7 +21404,7 @@
       "frequency": "104.9 FM",
       "enabled": true,
       "logo": "https://cdn-radiotime-logos.tunein.com/s163336g.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "fm-la-paz-967",
@@ -21416,7 +21416,7 @@
       "frequency": "96.7 FM",
       "enabled": true,
       "logo": "https://static2.mytuner.mobi/media/tvos_radios/581/fm-la-paz.6a9f2c27.png",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "fmbolivia-1013",
@@ -21428,7 +21428,7 @@
       "frequency": "101.3 FM",
       "enabled": true,
       "logo": "https://static2.mytuner.mobi/media/tvos_radios/ybx4y68wzfrx.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-erbol-1009",
@@ -21440,7 +21440,7 @@
       "frequency": "100.9 FM",
       "enabled": true,
       "logo": "https://erbol.com.bo/sites/default/files/Logo%20Erbol.jpg",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-sloboda-876",
@@ -21452,7 +21452,7 @@
       "frequency": "87.6 FM",
       "enabled": true,
       "logo": "https://radiosloboda.rs/wp-content/uploads/2025/09/radio-sloboda-logo-web-2025a.png.webp",
-      "newlyAdded": true
+      "newlyAdded": false
     },
     {
       "id": "radio-s1-serbia",
@@ -21464,8 +21464,55 @@
       "frequency": "94.9 FM",
       "enabled": true,
       "logo": "https://exyuradiouzivo.com/assets/images/s1.webp",
-      "newlyAdded": true
-    }
+      "newlyAdded": false
+    },
+    {"id":"rouge-fm-ch","name":"Rouge FM","urls":["https://rougefm.ice.infomaniak.ch/rougefm-high.mp3"],"website":"https://rouge.ch/","content":"Pop ve hit müzik; Fransızca","location":"Lozan, İsviçre","frequency":"DAB+","enabled":true,"logo":"https://rouge.ch/favicon.ico","newlyAdded":true},
+    {"id":"one-fm-ch","name":"One FM","urls":["https://onefm.ice.infomaniak.ch/onefm-high.mp3"],"website":"https://www.onefm.ch/","content":"Güncel hitler ve pop; Fransızca","location":"Cenevre, İsviçre","frequency":"DAB+","enabled":true,"logo":"https://www.onefm.ch/favicon.ico","newlyAdded":true},
+    {"id":"abc-triple-j","name":"ABC triple j","urls":["https://streaming.abc-cdn.net.au/audio/hls/triplejnsw.m3u8"],"website":"https://www.abc.net.au/triplej/live/triplej?tz=nsw","content":"Alternatif ve yeni müzik; İngilizce","location":"Sidney, Avustralya","frequency":"Ulusal FM / DAB+","enabled":true,"logo":"https://www.abc.net.au/favicon.ico","newlyAdded":true},
+    {"id":"abc-classic-au","name":"ABC Classic","urls":["https://streaming.abc-cdn.net.au/audio/hls/classicfmnsw.m3u8"],"website":"https://www.abc.net.au/listen/live/classic?tz=nsw","content":"Klasik müzik; İngilizce","location":"Sidney, Avustralya","frequency":"Ulusal FM / DAB+","enabled":true,"logo":"https://www.abc.net.au/favicon.ico","newlyAdded":true},
+    {"id":"casey-radio-977","name":"Casey Radio 97.7","urls":["https://28863.live.streamtheworld.com/3SERAAC.aac"],"website":"https://www.caseyradio.com.au/","content":"Toplum radyosu ve çeşitli müzik; İngilizce","location":"Melbourne, Avustralya","frequency":"97.7 FM","enabled":true,"logo":"https://www.caseyradio.com.au/wp-content/uploads/2020/02/3SER-Logo-2013-Xtreme-Smaller.png","newlyAdded":true},
+    {"id":"mix-fm-sunshine-coast","name":"92.7 Mix FM","urls":["https://stream.rcs.revma.com/1ck16c9sabuvv"],"website":"https://www.mixfm.com.au/","content":"Pop ve klasik hitler; İngilizce","location":"Sunshine Coast, Avustralya","frequency":"92.7 FM","enabled":true,"logo":"https://www.mixfm.com.au/favicon.ico","newlyAdded":true},
+    {"id":"radioactive-fm-nz","name":"RadioActive.FM","urls":["https://radio123-gecko.radioca.st/radioactivefm"],"website":"https://www.radioactive.fm/","content":"Alternatif ve bağımsız müzik; İngilizce","location":"Wellington, Yeni Zelanda","frequency":"88.6 FM","enabled":true,"logo":"https://www.radioactive.fm/wp-content/uploads/RadioActive886_Stack@_pos.jpg","newlyAdded":true},
+    {"id":"mad-fm-nz","name":"MAD FM Auckland","urls":["https://madfm-gecko.radioca.st/stream"],"website":"https://madfm.net/","content":"Rock ve alternatif müzik; İngilizce","location":"Auckland, Yeni Zelanda","frequency":"106.7 FM","enabled":true,"logo":"https://www.madfm.net/favicon.ico","newlyAdded":true},
+    {"id":"raadio-kuku","name":"Raadio Kuku","urls":["https://router.euddn.net/8103046e16b71d15d692b57c187875c7/kuku.aac"],"website":"https://kuku.postimees.ee/","content":"Konuşma, kültür ve müzik; Estonca","location":"Tallinn, Estonya","frequency":"100.7 FM","enabled":true,"logo":"https://kuku.pleier.ee/favicons/kuku/apple-touch-icon.png","newlyAdded":true},
+    {"id":"power-hit-radio-ee","name":"Power Hit Radio Estonia","urls":["https://ice.leviracloud.eu/phr96-aac"],"website":"https://raadiod.tv3.ee/power/","content":"Dans ve güncel hitler; Estonca","location":"Tallinn, Estonya","frequency":"102.1 FM","enabled":true,"logo":"https://raadiod.tv3.ee/favicon.ico","newlyAdded":true},
+    {"id":"err-raadio-4","name":"ERR Raadio 4","urls":["https://icecast.err.ee/raadio4.mp3"],"website":"https://eestiraadio.err.ee/ru/raadio4","content":"Kültür, güncel programlar ve müzik; Rusça","location":"Tallinn, Estonya","frequency":"94.5 FM","enabled":true,"logo":"https://s.err.ee/www/images/favicon/R4_favicon@2x.png","newlyAdded":true},
+    {"id":"1mix-radio-trance","name":"1Mix Radio Trance","urls":["http://fr2.1mix.co.uk:9000/320b"],"website":"https://www.1mix.co.uk/","content":"Trance ve elektronik dans müziği","location":"Birleşik Krallık","frequency":"İnternet","enabled":true,"logo":"https://www.1mix.co.uk/favicon.ico","newlyAdded":true},
+    {"id":"1mix-radio-edm","name":"1Mix Radio EDM","urls":["http://fr2.1mix.co.uk:9000/320h"],"website":"https://www.1mix.co.uk/","content":"EDM ve elektronik dans müziği","location":"Birleşik Krallık","frequency":"İnternet","enabled":true,"logo":"https://www.1mix.co.uk/favicon.ico","newlyAdded":true},
+    {"id":"mearns-fm","name":"Mearns FM","urls":["https://stream2.hippynet.co.uk:8002/lowquality"],"website":"https://www.mearnsfm.org.uk/","content":"Toplum radyosu ve çeşitli müzik; İngilizce","location":"Stonehaven, İskoçya, Birleşik Krallık","frequency":"105.1–107.3 FM","enabled":true,"logo":"https://www.mearnsfm.org.uk/wp-content/uploads/2020/06/imageedit_5_7574751306.png","newlyAdded":true},
+    {"id":"amazing-radio-uk","name":"Amazing Radio","urls":["https://stream.amazingradio.com:8443/stream.mp3"],"website":"https://amazingradio.com/","content":"Yeni ve bağımsız müzik; İngilizce","location":"Birleşik Krallık","frequency":"İnternet","enabled":true,"logo":"https://amazingradio.com/assets/icons/appleIconRadio.png","newlyAdded":true},
+    {"id":"solar-radio-uk","name":"Solar Radio","urls":["https://msmn2.co/proxy/mp3high11/stream"],"website":"https://solarradio.com/","content":"Soul, funk, jazz ve disco; İngilizce","location":"Londra, Birleşik Krallık","frequency":"DAB+ / İnternet","enabled":true,"logo":"https://solarradio.com/favicon.ico","newlyAdded":true},
+    {"id":"orf-radio-wien","name":"ORF Radio Wien","urls":["https://orf-live-wie.mdn.ors.at/out/u/wie/q4a/manifest.m3u8"],"website":"https://wien.orf.at/radio/","content":"Pop ve Viyana yerel programları; Almanca","location":"Viyana, Avusturya","frequency":"89.9 FM","enabled":true,"logo":"https://orfodon.org/system/accounts/avatars/111/374/411/749/352/990/original/16c84635847ddad3.png","newlyAdded":true},
+    {"id":"radio-harmonie-at","name":"Radio Harmonie","urls":["http://host6.cartwall.at:9630/"],"website":"https://www.radioharmonie.at/","content":"Schlager ve halk müziği; Almanca","location":"Klagenfurt, Avusturya","frequency":"DAB+ / İnternet","enabled":true,"logo":"https://www.radioharmonie.at/favicon.ico","newlyAdded":true},
+    {"id":"life-radio-tirol","name":"Life Radio Tirol","urls":["https://stream.liferadio.tirol/live/mp3-192/link"],"website":"https://www.liferadio.tirol/","content":"Pop, rock ve bölgesel programlar; Almanca","location":"Innsbruck, Avusturya","frequency":"Tirol FM","enabled":true,"logo":"https://liferadio.konsole-labs.com/img/live.png","newlyAdded":true},
+    {"id":"radio-superfly","name":"Radio Superfly","urls":["https://web.stream.superfly.fm/superfly-live"],"website":"https://superfly.fm/","content":"Soul, funk, jazz ve elektronik müzik; Almanca","location":"Viyana, Avusturya","frequency":"98.3 FM","enabled":true,"logo":"https://superfly.fm/favicon.ico","newlyAdded":true},
+    {"id":"radiofabrik","name":"Radiofabrik","urls":["http://stream.radiofabrik.at/rf_low.mp3"],"website":"https://radiofabrik.at/","content":"Bağımsız toplum radyosu; Almanca","location":"Salzburg, Avusturya","frequency":"107.5 FM","enabled":true,"logo":"https://radiofabrik.at/favicon.ico","newlyAdded":true},
+    {"id":"radio-bastad","name":"Radio Båstad","urls":["https://audio-edge-5r6yd.cdg.o.radiomast.io/0cf89221-143e-4e91-8c1a-3668a99404ac"],"website":"https://www.radiobastad.se/","content":"Pop, hitler ve yerel programlar; İsveççe","location":"Båstad, İsveç","frequency":"96.1 FM","enabled":true,"logo":"https://www.radiobastad.se/favicon.ico","newlyAdded":true},
+    {"id":"aktiv-radio-hu","name":"Aktív Rádió","urls":["http://aktivradio.hu:8000/aktiv.mp3"],"website":"https://www.aktivradio.hu/","content":"Pop ve yerel programlar; Macarca","location":"Szolnok, Macaristan","frequency":"92.2 FM","enabled":true,"logo":"https://www.aktivradio.hu/favicon.ico","newlyAdded":true},
+    {"id":"cool-fm-hu","name":"Cool FM Hungary","urls":["http://mediagw.e-tiger.net/stream/cfmhq"],"website":"https://coolfm.hu/radio/","content":"Dance ve güncel hitler; Macarca","location":"Budapeşte, Macaristan","frequency":"İnternet","enabled":true,"logo":"https://coolfm.hu/radio/wp-content/uploads/2022/01/cropped-egyszer%C5%B1-k%C3%A9p-192x192.png","newlyAdded":true},
+    {"id":"ehr-superhits","name":"EHR SuperHits","urls":["https://27943.live.streamtheworld.com/EHR_SUPERHITS.mp3"],"website":"https://www.ehr.fm/radio/super-hits","content":"Güncel hitler ve pop; Letonca","location":"Riga, Letonya","frequency":"96.8 FM","enabled":true,"logo":"https://www.ehr.fm/favicon.ico","newlyAdded":true},
+    {"id":"sky-plus","name":"Sky Plus","urls":["https://stream.skymedia.ee/live/SKYPLUS_AAC"],"website":"https://skyplus.sky.ee/","content":"Pop ve güncel hitler; Estonca","location":"Tallinn, Estonya","frequency":"DAB+ / İnternet","enabled":true,"logo":"https://sky.ee/storage/radio-stations/2026/03/Station-Icon-1024x1024.png","newlyAdded":true},
+    {"id":"sky-plus-dnb","name":"Sky Plus DNB","urls":["https://stream.skymedia.ee/live/NRJdnb"],"website":"https://sky.ee/","content":"Drum and bass","location":"Tallinn, Estonya","frequency":"DAB+ / İnternet","enabled":true,"logo":"https://sky.ee/storage/radio-stations/2026/03/Default-track-image-1024x1024--1.png","newlyAdded":true},
+    {"id":"retro-fm-ee","name":"Retro FM","urls":["https://stream.skymedia.ee/live/RETRO_AAC"],"website":"https://sky.ee/","content":"Retro hitler; Estonca","location":"Tallinn, Estonya","frequency":"DAB+ / İnternet","enabled":true,"logo":"https://sky.ee/storage/radio-stations/2026/03/Station-Icon-1024x1024-1.png","newlyAdded":true},
+    {"id":"retro-fm-disco","name":"Retro FM Disco","urls":["https://stream.skymedia.ee/live/retro1.mp3"],"website":"https://sky.ee/","content":"Disco klasikleri","location":"Tallinn, Estonya","frequency":"DAB+ / İnternet","enabled":true,"logo":"https://sky.ee/storage/radio-stations/2026/03/Default-track-image-1024x1024--3.png","newlyAdded":true},
+    {"id":"retro-fm-eestikas","name":"Retro FM Eestikas","urls":["https://stream.skymedia.ee/live/retro2.mp3"],"website":"https://sky.ee/","content":"Estonya müziği","location":"Tallinn, Estonya","frequency":"DAB+ / İnternet","enabled":true,"logo":"https://sky.ee/storage/radio-stations/2026/03/Default-track-image-1024x1024--2.png","newlyAdded":true},
+    {"id":"retro-fm-joul","name":"Retro FM Jõul","urls":["http://stream.skymedia.ee/live/RetroJ6ulud"],"website":"https://sky.ee/","content":"Noel müzikleri","location":"Tallinn, Estonya","frequency":"DAB+ / İnternet","enabled":true,"logo":"https://sky.ee/storage/radio-stations/2026/10/Default-track-image-1024x1024.png","newlyAdded":true},
+    {"id":"retro-00","name":"Retro '00","urls":["http://stream.skymedia.ee/live/retronul"],"website":"https://sky.ee/","content":"2000'ler hitleri","location":"Tallinn, Estonya","frequency":"DAB+ / İnternet","enabled":true,"logo":"https://sky.ee/storage/radio-stations/2026/09/Frame-1000005620-2.png","newlyAdded":true},
+    {"id":"rock-fm-ee","name":"Rock FM Estonia","urls":["https://stream.skymedia.ee/live/rck_AAC"],"website":"https://sky.ee/","content":"Rock; Estonca","location":"Tallinn, Estonya","frequency":"DAB+ / İnternet","enabled":true,"logo":"https://sky.ee/storage/radio-stations/2025/12/Rock-FM.png","newlyAdded":true},
+    {"id":"rock-fm-metal-ee","name":"Rock FM Metal Estonia","urls":["https://stream.skymedia.ee/live/rckmetal"],"website":"https://sky.ee/","content":"Metal","location":"Tallinn, Estonya","frequency":"DAB+ / İnternet","enabled":true,"logo":"https://sky.ee/storage/radio-stations/2025/12/Rock-FM-Metal.png","newlyAdded":true},
+    {"id":"rock-classics-ee","name":"Rock Classics Estonia","urls":["https://stream.skymedia.ee/live/rckclassic"],"website":"https://sky.ee/","content":"Klasik rock","location":"Tallinn, Estonya","frequency":"DAB+ / İnternet","enabled":true,"logo":"https://sky.ee/storage/radio-stations/2026/08/Rock-Classics.png","newlyAdded":true},
+    {"id":"kiss-fm-ee","name":"Kiss FM Estonia","urls":["https://stream.skymedia.ee/live/KISS_AAC"],"website":"https://sky.ee/","content":"Dans ve hitler","location":"Tallinn, Estonya","frequency":"DAB+ / İnternet","enabled":true,"logo":"https://sky.ee/storage/radio-stations/2026/03/Default-track-image-1024x1024.png","newlyAdded":true},
+    {"id":"relax-fm-ee","name":"Relax FM Estonia","urls":["https://stream.relaxfm.ee/relax"],"website":"https://sky.ee/","content":"Soft pop","location":"Tallinn, Estonya","frequency":"DAB+ / İnternet","enabled":true,"logo":"https://sky.ee/storage/radio-stations/2025/12/Relax-FM-1.png","newlyAdded":true},
+    {"id":"relax-cafe-ee","name":"Relax Cafe","urls":["https://stream.relaxfm.ee/cafe"],"website":"https://sky.ee/","content":"Cafe ve lounge","location":"Tallinn, Estonya","frequency":"DAB+ / İnternet","enabled":true,"logo":"https://sky.ee/storage/radio-stations/2025/12/Relax-Cafe.png","newlyAdded":true},
+    {"id":"relax-instrumental-ee","name":"Relax Instrumental","urls":["https://stream.relaxfm.ee/instrumental"],"website":"https://sky.ee/","content":"Enstrümantal","location":"Tallinn, Estonya","frequency":"DAB+ / İnternet","enabled":true,"logo":"https://sky.ee/storage/radio-stations/2025/12/Relax-Instrumental.png","newlyAdded":true},
+    {"id":"relax-international-ee","name":"Relax International","urls":["https://stream.relaxfm.ee/international"],"website":"https://sky.ee/","content":"Uluslararası soft pop","location":"Tallinn, Estonya","frequency":"DAB+ / İnternet","enabled":true,"logo":"https://sky.ee/storage/radio-stations/2025/12/Relax-International.png","newlyAdded":true},
+    {"id":"relax-spa-ee","name":"Relax Spa","urls":["https://stream.relaxfm.ee/spa"],"website":"https://sky.ee/","content":"Spa ve ambient","location":"Tallinn, Estonya","frequency":"DAB+ / İnternet","enabled":true,"logo":"https://sky.ee/storage/radio-stations/2025/12/Relax-Spa.png","newlyAdded":true},
+    {"id":"relax-xmas-ee","name":"Relax Xmas","urls":["https://origin40.cdn.bitflip.ee:8888/relax_xmas"],"website":"https://sky.ee/","content":"Noel müzikleri","location":"Tallinn, Estonya","frequency":"DAB+ / İnternet","enabled":true,"logo":"https://sky.ee/storage/radio-stations/2026/11/Frame-1000005622.png","newlyAdded":true},
+    {"id":"legendaarne-raadio","name":"Legendaarne Raadio","urls":["https://stream.skymedia.ee/live/Legendaarne"],"website":"https://sky.ee/","content":"Efsane hitler; Estonca","location":"Tallinn, Estonya","frequency":"DAB+ / İnternet","enabled":true,"logo":"https://sky.ee/storage/radio-stations/2026/03/Default-track-image-1024x1024-2.png","newlyAdded":true},
+    {"id":"sky-raadio-ee","name":"SKY Raadio","urls":["https://stream.skymedia.ee/live/SKY_AAC"],"website":"https://sky.ee/","content":"Pop; Rusça","location":"Tallinn, Estonya","frequency":"DAB+ / İnternet","enabled":true,"logo":"https://sky.ee/storage/radio-stations/2025/12/Sky-Radio.png","newlyAdded":true},
+    {"id":"super-raadio-ee","name":"Super Raadio","urls":["https://stream.skymedia.ee/live/RR_AAC"],"website":"https://sky.ee/","content":"Pop; Rusça","location":"Tallinn, Estonya","frequency":"DAB+ / İnternet","enabled":true,"logo":"https://sky.ee/storage/general/2025/12/Super-Raadio.png","newlyAdded":true},
+    {"id":"super-rock-ee","name":"Super Rock Estonia","urls":["https://stream.skymedia.ee/live/rrock"],"website":"https://sky.ee/","content":"Rock; Rusça","location":"Tallinn, Estonya","frequency":"DAB+ / İnternet","enabled":true,"logo":"https://sky.ee/storage/general/2025/12/Super-Rock-1.png","newlyAdded":true},
+    {"id":"super-retro-ee","name":"Super Retro Estonia","urls":["https://stream.skymedia.ee/live/rrretro"],"website":"https://sky.ee/","content":"Retro; Rusça","location":"Tallinn, Estonya","frequency":"DAB+ / İnternet","enabled":true,"logo":"https://sky.ee/storage/general/2025/12/Super-Retro-1.png","newlyAdded":true}
   ],
   "catalogPolicy": {
     "workingStreamRequired": true,
