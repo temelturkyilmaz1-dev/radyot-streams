@@ -1,5 +1,19 @@
 # Henüz paketlenmemiş değişiklikler
 
+## 24 Kasım 2026 — Yeni uluslararası radyo grubu
+
+- Letonya, Surinam, Lüksemburg, Belçika, Malezya, Tayland, Singapur, Guam,
+  İsviçre, Vanuatu ve Hollanda'dan 22 yeni radyo kaydı eklendi.
+- Latvijas Radio 1, Radio SWH, Radio SWH+, Pipel FM, Radio LRB, RTBF Classic
+  21, VivaCité'nin yedi bölgesel yayını, THR GEGAR, Chili Radio Thailand,
+  OLI 968, KIJI Boss 104.3, Radio Pilatus, Radio Central, Buzz FM, Radio Puls
+  Luxembourg ve Slow Radio Gold doğrulanmış yayın, konum ve görünür logolarla
+  kataloğa alındı.
+- Katalogda zaten bulunan Radio 9 Suriname, Sky Plus ve ERR Raadio 4 yeniden
+  eklenmedi. Önceki yeni işaretleri kapatıldı; yalnız bu 22 kayıt yeni bırakıldı.
+- Katalog toplamı 1670'ten 1692'ye yükseldi. ZIP/APK ve sürüm değiştirilmedi;
+  commit, push ve pull kullanıcıya bırakıldı.
+
 ## 23 Kasım 2026 — Yeni radyo logolarını kalıcılaştırma
 
 - Son Avrupa/Okyanusya partisindeki 47 radyonun dış site logo bağlantıları
