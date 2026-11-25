@@ -1,5 +1,16 @@
 # Henüz paketlenmemiş değişiklikler
 
+## 25 Kasım 2026 — Eksik logolar ve VivaCité temizliği
+
+- Buzz FM 96.3, Chili Radio Thailand, KIJI Boss 104.3, Latvijas Radio 1,
+  Radio SWH, Radio SWH+ ve Slow Radio Gold logoları dış site bağlantılarından
+  çıkarılıp kalıcı katalog görsellerine geçirildi.
+- Koyu temada kaybolan KIJI logosu görünür beyaz zeminle düzenlendi.
+- Yedi aynı VivaCité kaydı yerine ana RTBF VivaCité Bruxelles yayını bırakıldı;
+  altı gereksiz bölgesel tekrar kaldırıldı ve ana logoya kalıcı adres verildi.
+- Katalog toplamı 1692'den 1686'ya indirildi. ZIP/APK ve sürüm değiştirilmedi;
+  commit, push ve pull kullanıcıya bırakıldı.
+
 ## 24 Kasım 2026 — Yeni uluslararası radyo grubu
 
 - Letonya, Surinam, Lüksemburg, Belçika, Malezya, Tayland, Singapur, Guam,
