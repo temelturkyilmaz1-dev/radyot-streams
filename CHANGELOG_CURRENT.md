@@ -1,5 +1,17 @@
 # Henüz paketlenmemiş değişiklikler
 
+## 25 Kasım 2026 — 13 yeni radyo ve kalıcı logo denetimi
+
+- İsviçre, Surinam, Nikaragua, Ekvador, Letonya, Hong Kong ve Rusya'dan
+  13 radyo doğrulanmış yayın, ülke/şehir, frekans ve içerik bilgileriyle eklendi.
+- Tüm yeni logolar dış site bağlantısı yerine `logos/new_<stationId>.*` kaynakları
+  ve Cloudflare WebP adresleriyle kalıcılaştırıldı; koyu tema görünürlüğü ayrıca
+  kontrol edildi. Sunshine Radio, Radio Activa ve Radio Skonto için okunaklı
+  marka görselleri seçildi.
+- Önceki “Yeni Eklenenler” işaretleri kapatıldı; yalnızca bu 13 kayıt yeni
+  bırakıldı. Katalog toplamı 1686'dan 1699'a yükseldi.
+- ZIP/APK ve sürüm değiştirilmedi; commit, push ve pull kullanıcıya bırakıldı.
+
 ## 25 Kasım 2026 — Eksik logolar ve VivaCité temizliği
 
 - Buzz FM 96.3, Chili Radio Thailand, KIJI Boss 104.3, Latvijas Radio 1,
