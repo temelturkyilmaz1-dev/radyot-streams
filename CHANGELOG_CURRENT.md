@@ -1,5 +1,16 @@
 # Henüz paketlenmemiş değişiklikler
 
+## 25 Kasım 2026 — Luxembourg Global Radio
+
+- Luxembourg Global Radio, resmî 192 kbps MP3 yayını, Lüksemburg konumu,
+  içerik bilgileri ve koyu temada görünür kalıcı logosuyla eklendi.
+- Kullanıcının verdiği kapak bağlantısının çalan şarkıya ait olduğu belirlenerek
+  katalog logosunda kullanılmadı; istasyonun resmî LGR marka görseli seçildi.
+- Radiolina Trapani'nin katalogda zaten bulunduğu, 192 kbps yayınının çalıştığı
+  ve yerel kalıcı logosunun mevcut olduğu doğrulandı; mükerrer eklenmedi.
+- Önceki yeni işaretleri kapatıldı; yalnız Luxembourg Global Radio yeni bırakıldı.
+  Katalog toplamı 1699'dan 1700'e yükseldi. Commit, push ve pull yapılmadı.
+
 ## 25 Kasım 2026 — 13 yeni radyo ve kalıcı logo denetimi
 
 - İsviçre, Surinam, Nikaragua, Ekvador, Letonya, Hong Kong ve Rusya'dan
